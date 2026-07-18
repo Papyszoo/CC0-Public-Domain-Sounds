@@ -6,6 +6,8 @@ pinned to a commit SHA), extended to multiple packs, each carrying
 name/creator/website/description/license as requested.
 """
 
+from __future__ import annotations
+
 import hashlib
 import json
 import os
@@ -18,6 +20,24 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_BASE = "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds"
 
 AUDIO_EXTS = {".wav", ".mp3", ".ogg", ".flac", ".m4a", ".aiff"}
+
+# Store taxonomy v1 (ModelibrStore docs/taxonomy.json, PackItemType.Sound).
+# Submission validation is strict — only these names are accepted.
+SOUND_CATEGORIES = {
+    "Ambience", "Music", "UI", "Footsteps", "Impacts & Hits",
+    "Weapons & Combat", "Voice", "Creatures & Animals",
+    "Machines & Vehicles", "Magic", "Foley & Objects",
+    "Whooshes & Transitions",
+}
+
+
+def categorize(relpath: str, opts: dict) -> str | None:
+    """First matching keyword rule wins, else the pack default (may be None)."""
+    low = relpath.lower()
+    for pattern, cat in opts.get("category_rules", ()):
+        if re.search(pattern, low):
+            return cat
+    return opts.get("category")
 
 OGA = "https://opengameart.org/content/"
 ABSTRACTION = "https://abstractionmusic.com"
@@ -37,7 +57,7 @@ PACKS = {
         OGA + "100-cc0-sfx",
         "100 household and foley sound effects — bells, dishes, doors, glass, "
         "metal, springs, slams, tools and more. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"shot", "Weapons & Combat"), (r"machine", "Machines & Vehicles")]},
     ),
     "100-CC0-wood-metal-SFX": (
         "100 CC0 Metal and Wood SFX",
@@ -45,7 +65,7 @@ PACKS = {
         OGA + "100-cc0-metal-and-wood-sfx",
         "100 metal and wood sounds: doors, hammers, keys, locks, hits, falling, "
         "breaking, cracking and squeaking. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"hit|slam|fall|break", "Impacts & Hits")]},
     ),
     "100-cc0-sfx-2": (
         "100 CC0 SFX #2",
@@ -54,7 +74,7 @@ PACKS = {
         "Second pack of 100 CC0 sound effects: air, doors, footsteps, glass, hits, "
         "items, ambient/machine/water loops, metal, stones, switches, thunder and "
         "wood. By rubberduck (OpenGameArt).",
-        {"strip_prefix": "sfx100v2_"},
+        {"strip_prefix": "sfx100v2_", "category": "Foley & Objects", "category_rules": [(r"footstep", "Footsteps"), (r"loop_|thunder", "Ambience"), (r"hit", "Impacts & Hits"), (r"_air", "Whooshes & Transitions")]},
     ),
     "25-CC0-bang-sfx": (
         "25 CC0 Bang / Firework SFX",
@@ -62,7 +82,7 @@ PACKS = {
         OGA + "25-cc0-bang-firework-sfx",
         "25 bang, firework, cannon and explosion sounds recorded from real "
         "fireworks, incl. sci-fi variations. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Impacts & Hits"},
     ),
     "25-CC0-mud-sfx": (
         "25 CC0 Mud SFX",
@@ -70,7 +90,7 @@ PACKS = {
         OGA + "25-cc0-mud-sfx",
         "25 wet, squishy mud/slime sound effects recorded in real mud. CC0, by "
         "rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects"},
     ),
     "30-cc0-sfx-loops": (
         "30 CC0 SFX Loops",
@@ -78,7 +98,7 @@ PACKS = {
         OGA + "30-cc0-sfx-loops",
         "30 loopable effects: machines, alarms, ambient, noise, rain and water. "
         "CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Ambience", "category_rules": [(r"machine|pump|saw|boil", "Machines & Vehicles"), (r"alarm", "UI")]},
     ),
     "30-cc0-weird-sfx": (
         "30 Weird CC0 SFX",
@@ -86,7 +106,7 @@ PACKS = {
         OGA + "30-weird-cc0-sfx",
         "30 weird sound effects — part recorded and filtered, part synthesized. "
         "CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects"},
     ),
     "40-cc0-water-splash-slime-sfx": (
         "40 CC0 Water / Splash / Slime SFX",
@@ -94,7 +114,7 @@ PACKS = {
         OGA + "40-cc0-water-splash-slime-sfx",
         "40 water, splash and slime sounds incl. bubble and rain loops, partly "
         "recorded from real slime. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"loop", "Ambience")]},
     ),
     "50-CC0-retro-synth-SFX": (
         "50 CC0 Retro / Synth SFX",
@@ -102,7 +122,7 @@ PACKS = {
         OGA + "50-cc0-retro-synth-sfx",
         "50 retro/synth effects made in LMMS with ZynAddSubFX: power-ups, coins, "
         "explosions, shots, beeps and lasers. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "UI", "category_rules": [(r"laser|shoot|shot|explos", "Weapons & Combat")]},
     ),
     "50-cc0-sci-fi-sfx": (
         "50 CC0 Sci-Fi SFX",
@@ -110,7 +130,7 @@ PACKS = {
         OGA + "50-cc0-sci-fi-sfx",
         "50 sci-fi effects: beeps, explosions, loops, lasers, rockets, shooting, "
         "teleport and terminal sounds. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "UI", "category_rules": [(r"laser|shoot|explos|rocket", "Weapons & Combat"), (r"loop|ambient", "Ambience"), (r"teleport", "Magic")]},
     ),
     "60-sci-fi-sfx": (
         "60 CC0 Sci-Fi SFX",
@@ -126,7 +146,7 @@ PACKS = {
         OGA + "75-cc0-breaking-falling-hit-sfx",
         "75 breaking, falling and impact sounds across wood, metal, glass, rock "
         "and stone. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Impacts & Hits"},
     ),
     "80-CC0-RPG-SFX": (
         "80 CC0 RPG SFX",
@@ -134,7 +154,7 @@ PACKS = {
         OGA + "80-cc0-rpg-sfx",
         "80 fantasy/RPG effects: blades, pages, chains, creatures, coins, gems, "
         "locks, metal and spells. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"blade", "Weapons & Combat"), (r"spell", "Magic"), (r"creature", "Creatures & Animals")]},
     ),
     "80-CC0-creature-SFX": (
         "80 CC0 Creature SFX",
@@ -142,7 +162,7 @@ PACKS = {
         OGA + "80-cc0-creature-sfx",
         "80 creature sounds — aliens, barks, breaths, bugs, grunts, roars, screams "
         "and more, mostly voice-acted and filtered. CC0, by rubberduck (OpenGameArt).",
-        {},
+        {"category": "Creatures & Animals"},
     ),
     "80-CC0-creature-sfx-2": (
         "80 CC0 Creature SFX #2",
@@ -151,7 +171,7 @@ PACKS = {
         "80 more creature sounds continuing the numbering of the first pack: "
         "aliens, attacks, bugs, monsters, slimes and roars. CC0, by rubberduck "
         "(OpenGameArt).",
-        {},
+        {"category": "Creatures & Animals"},
     ),
     "BB_2HTC Samples Vol 4": (
         "2HTC Samples Vol. 4",
@@ -160,7 +180,7 @@ PACKS = {
         "Percussion sample pack — drums, loops, pads, solos and weird hits — "
         "recorded with percussionist Mark Powers. " + BB_NOTE,
         # mp3 duplicate of the same wav recording
-        {"skip_names": {"2021-12-30 Moist Alleyway - Dampstep.mp3"}},
+        {"skip_names": {"2021-12-30 Moist Alleyway - Dampstep.mp3"}, "category": "Music"},
     ),
     "BB_2HTC Samples Vol 4 Addendum": (
         "2HTC Samples Vol. 4 Addendum",
@@ -168,7 +188,7 @@ PACKS = {
         ABSTRACTION,
         "Addendum to 2HTC Samples Vol. 4 with additional drums, loops, pads and "
         "solos. " + BB_NOTE,
-        {},
+        {"category": "Music"},
     ),
     "BB_Retail Therapy Sample Pack": (
         "Retail Therapy Sample Pack",
@@ -176,7 +196,7 @@ PACKS = {
         ABSTRACTION,
         "Large foley sample pack recorded in retail environments — carts, "
         "registers, packaging and shop ambience. " + BB_NOTE,
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"chittering", "Creatures & Animals"), (r"laughter", "Voice")]},
     ),
     # "LQ_interface" intentionally omitted: likely LibreQuake material, and
     # LibreQuake assets are BSD — provenance too murky for a CC0 store.
@@ -187,7 +207,16 @@ PACKS = {
         "Original retro arcade sounds — explosions, guns, impacts, vehicles, "
         "speech and vocal effects (v1.0.5, WAV). CC0 as stated in the pack readme.",
         # ogg/wav/m4a triplicate trees: keep lossless wav only.
-        {"only_dirs_containing": "/wav/"},
+        {
+            "only_dirs_containing": "/wav/",
+            "category_rules": [
+                (r"/explosions/|/guns/", "Weapons & Combat"),
+                (r"/impact/", "Impacts & Hits"),
+                (r"/speech/|/vocal/", "Voice"),
+                (r"/vehicles/", "Machines & Vehicles"),
+                (r"/misc/", "UI"),
+            ],
+        },
     ),
     "Maximiliano-Stradex-Ambient": (
         "H.A.S.T.E. Ambient Tracks",
@@ -195,7 +224,7 @@ PACKS = {
         "https://stradex.itch.io/haste-cc0-asets",
         "Two ambient tracks and a theme from the discontinued game H.A.S.T.E., "
         "released CC0 by its author.",
-        {},
+        {"category": "Music"},
     ),
     "MissLavs Sounds": (
         "MissLav's Sounds",
@@ -203,7 +232,7 @@ PACKS = {
         UPSTREAM,
         "Household recordings (angry dog, chair wheel, pots and pans) by the "
         "curator of the upstream CC0-Public-Domain-Sounds collection, CC0.",
-        {},
+        {"category": "Foley & Objects", "category_rules": [(r"angerdog", "Creatures & Animals")]},
     ),
     "beast_or_animal": (
         "Animal or Beast Sounds",
@@ -211,7 +240,7 @@ PACKS = {
         OGA + "animal-or-beast-sounds",
         "7 strange animal/beast growls and voices for RPG and fantasy games. "
         "CC0, by pauliuw (OpenGameArt).",
-        {},
+        {"category": "Creatures & Animals"},
     ),
     "kenney_casinoaudio": (
         "Casino Audio",
@@ -219,7 +248,7 @@ PACKS = {
         KENNEY,
         "Casino sounds by Kenney (kenney.nl): cards, chips and dice. CC0 per the "
         "included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Foley & Objects"},
     ),
     "kenney_digitalaudio": (
         "Digital Audio",
@@ -227,7 +256,7 @@ PACKS = {
         KENNEY,
         "Digital/chiptune-style effects by Kenney (kenney.nl): beeps, zaps, "
         "power-ups and glitches. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "UI"},
     ),
     "kenney_impactsounds": (
         "Impact Sounds",
@@ -235,7 +264,7 @@ PACKS = {
         KENNEY,
         "Impact sounds by Kenney (kenney.nl): bells, punches, mining and "
         "footsteps on various materials. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Impacts & Hits", "category_rules": [(r"footstep", "Footsteps")]},
     ),
     "kenney_interfacesounds": (
         "Interface Sounds",
@@ -243,7 +272,7 @@ PACKS = {
         KENNEY,
         "UI interface sounds by Kenney (kenney.nl): clicks, confirmations, "
         "drops, glass and pluck tones. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "UI"},
     ),
     "kenney_musicjingles": (
         "Music Jingles",
@@ -251,7 +280,7 @@ PACKS = {
         KENNEY,
         "Short musical jingles by Kenney (kenney.nl) for wins, losses and "
         "level-ups. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Music"},
     ),
     "kenney_rpgaudio": (
         "RPG Audio",
@@ -259,7 +288,7 @@ PACKS = {
         KENNEY,
         "RPG interface and foley sounds by Kenney (kenney.nl): doors, footsteps, "
         "handles, cloth and metal. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Foley & Objects", "category_rules": [(r"footstep", "Footsteps")]},
     ),
     "kenney_uiaudio": (
         "UI Audio",
@@ -267,7 +296,7 @@ PACKS = {
         KENNEY,
         "Classic UI sound set by Kenney (kenney.nl): clicks, rollovers and "
         "switches. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "UI"},
     ),
     "kenney_voiceoverfighter": (
         "Voiceover Pack: Fighter",
@@ -275,7 +304,7 @@ PACKS = {
         KENNEY,
         "Fighting-game announcer voice lines by Kenney (kenney.nl) — 'Fight', "
         "'K.O.', countdowns and more. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Voice"},
     ),
     "kenney_voiceoverpack": (
         "Voiceover Pack",
@@ -283,7 +312,7 @@ PACKS = {
         KENNEY,
         "Male and female voice lines by Kenney (kenney.nl) — menu words, "
         "numbers, letters and phrases. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Voice"},
     ),
     "metal_interactions": (
         "Metal Interactions",
@@ -291,7 +320,7 @@ PACKS = {
         OGA + "metal-interactions",
         "Heavy metal interaction sounds — swings, button presses and clanks. "
         "CC0, by qubodup (OpenGameArt).",
-        {},
+        {"category": "Impacts & Hits"},
     ),
     "sci-fi-sounds": (
         "Sci-Fi Sounds",
@@ -299,7 +328,7 @@ PACKS = {
         KENNEY,
         "Sci-fi sounds by Kenney (kenney.nl): engines, lasers, doors and "
         "computer ambience. CC0 per the included license.",
-        {"skip_names": {"Preview.ogg"}},
+        {"skip_names": {"Preview.ogg"}, "category": "Foley & Objects", "category_rules": [(r"engine|thruster", "Machines & Vehicles"), (r"laser|explosion", "Weapons & Combat"), (r"computer", "UI"), (r"forcefield", "Magic"), (r"impact", "Impacts & Hits")]},
     ),
     "warfork-cc0": (
         "Warfork CC0 Sounds & Music",
@@ -313,6 +342,16 @@ PACKS = {
         {
             "exclude_prefixes": ("warfork-cc0/sounds/music/",),
             "skip_names": {"cc0-source.mp3"},
+            "category": "Foley & Objects",
+            "category_rules": [
+                (r"footstep", "Footsteps"),
+                (r"/music/|/trailer/", "Music"),
+                (r"/announcer/|/ctftactics/|/vsay/|/players/", "Voice"),
+                (r"/weapons/|/bomb/", "Weapons & Combat"),
+                (r"/items/|/menu/", "UI"),
+                (r"/movers/", "Machines & Vehicles"),
+                (r"/ambient/|/world/", "Ambience"),
+            ],
         },
     ),
     # "angerdog" intentionally omitted: exact duplicate subset of "MissLavs Sounds".
@@ -332,6 +371,11 @@ BB_MONTHLY = {
     "bb - Smol Mechanisms (May 2021)": "Small mechanism clicks, winds and gears",
     "bb - Toolbox Rummaging (Sept 2021)": "Toolbox rummaging and tool clatter",
 }
+BB_MONTHLY_CATS = {
+    "bb - Fans and Drones (Jul 2021)": "Ambience",
+    "bb - Novice Cello (Nov 2021)": "Music",
+    "bb - Slide Whistle (Aug 2021)": "Music",
+}
 for folder, desc in BB_MONTHLY.items():
     title = re.sub(r"^bb - ", "", folder)
     PACKS[folder] = (
@@ -339,7 +383,7 @@ for folder, desc in BB_MONTHLY.items():
         "Benjamin Burnes (Abstraction)",
         ABSTRACTION,
         desc + ", from Abstraction's monthly sample-pack series. " + BB_NOTE,
-        {},
+        {"category": BB_MONTHLY_CATS.get(folder, "Foley & Objects")},
     )
 
 MICRO = {
@@ -354,6 +398,12 @@ MICRO = {
     "Micro Pack - Record Fuzzies": "Vinyl record fuzz, crackle and noise",
     "Micro Pack - Small Can": "Small tin-can hits, rolls and rattles",
 }
+MICRO_CATS = {
+    "Micro Pack - Cat Meows": "Creatures & Animals",
+    "Micro Pack - MadameBerry - Stream Noises": "Ambience",
+    "Micro Pack - NazdyNate - Electromagnetic Sounds": "Ambience",
+    "Micro Pack - Organic Wooshes": "Whooshes & Transitions",
+}
 for folder, desc in MICRO.items():
     title = re.sub(r"^Micro Pack - ", "", folder)
     PACKS[folder] = (
@@ -361,7 +411,7 @@ for folder, desc in MICRO.items():
         "Benjamin Burnes (Abstraction)",
         ABSTRACTION,
         desc + ", from Abstraction's Micro Pack series. " + BB_NOTE,
-        {},
+        {"category": MICRO_CATS.get(folder, "Foley & Objects")},
     )
 
 
@@ -446,16 +496,20 @@ def main() -> None:
                         "role": "Audio",
                     }
                 )
-                items_out.append(
-                    {
-                        "name": item_name,
-                        "itemType": "Sound",
-                        "isPreviewable": True,
-                        "files": [
-                            {"path": relpath.replace(os.sep, "/"), "role": "Audio"}
-                        ],
-                    }
-                )
+                category = categorize(relpath.replace(os.sep, "/"), opts)
+                if category is not None and category not in SOUND_CATEGORIES:
+                    sys.exit(f"unknown category {category!r} for {relpath}")
+                item = {
+                    "name": item_name,
+                    "itemType": "Sound",
+                    "isPreviewable": True,
+                    "files": [
+                        {"path": relpath.replace(os.sep, "/"), "role": "Audio"}
+                    ],
+                }
+                if category is not None:
+                    item["metadataJson"] = json.dumps({"category": category})
+                items_out.append(item)
 
                 wf_rel = "waveforms/" + os.path.splitext(
                     relpath.replace(os.sep, "/")
