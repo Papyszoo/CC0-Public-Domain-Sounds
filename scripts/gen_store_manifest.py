@@ -532,6 +532,26 @@ def main() -> None:
                         }
                     )
 
+        # Pack main cover thumbnail preview (inserted first so it wins primary thumbnail selection)
+        cover_rel = f"covers/{folder}.png"
+        cover_abs = os.path.join(REPO, cover_rel)
+        if os.path.isfile(cover_abs):
+            with open(cover_abs, "rb") as fh:
+                cover_data = fh.read()
+            previews_out.insert(
+                0,
+                {
+                    "fileName": os.path.basename(cover_rel),
+                    "path": cover_rel,
+                    "externalUrl": f"{RAW_BASE}/{commit}/"
+                    + "/".join(quote(p) for p in cover_rel.split("/")),
+                    "sha256": hashlib.sha256(cover_data).hexdigest(),
+                    "size": len(cover_data),
+                    "contentType": "image/png",
+                    "type": "Thumbnail",
+                },
+            )
+
         if not files_out:
             sys.exit(f"pack produced no files: {folder}")
         total_files += len(files_out)
