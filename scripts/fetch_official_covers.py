@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Fetch the original author's cover art for sound packs that have one.
 
-An original cover always beats a generated one, so this runs first and
-generate_branded_covers.py only fills the gaps it leaves.
+A pack either ships the author's own cover or it ships none: the store renders
+its title as text instead. Nothing here invents artwork — a generated cover is
+a picture the author never made, and once published it is indistinguishable
+from the real thing.
 
-Two rules learned the hard way, both of which had silently produced generated
-covers for packs that DO have author art:
+Two rules learned the hard way, both of which had silently hidden author art
+behind a generated cover back when this repo still generated them:
 
 1. `<meta>` attribute order is not fixed. itch.io emits
    `content="..." property="og:image"`, Kenney emits the reverse. A regex that
@@ -52,19 +54,22 @@ OFFICIAL_PAGES = {
     "Maximiliano-Stradex-Ambient": "https://stradex.itch.io/haste-cc0-asets",
 }
 
-# Packs whose upstream has no usable author artwork, with the reason. Recorded
-# so a later run doesn't re-investigate the same dead ends — drop an entry here
-# if a source ever publishes real art.
+# Why a pack has no author artwork, keyed by the source host. Recorded per pack
+# so a later run — or a later agent — doesn't re-investigate the same dead ends.
+# Drop an entry into OFFICIAL_PAGES if a source ever publishes real art.
 NO_OFFICIAL_ART = {
-    "opengameart": (
+    "opengameart.org": (
         "OpenGameArt renders an automatic waveform-on-background image for audio "
         "submissions; there is no author-supplied cover to take."
     ),
-    "abstraction": (
-        "Abstraction's site has no per-pack page and the current Gumroad catalogue "
+    "abstractionmusic.com": (
+        "No per-pack page on the author's site, and the current Gumroad catalogue "
         "no longer lists these 2021 monthly/micro packs."
     ),
-    "other": "No cover image found on the source page.",
+    "www.warfork.com": (
+        "The only art available is the game's Steam capsule, which is not part of "
+        "the CC0 sound release."
+    ),
 }
 
 
@@ -108,11 +113,10 @@ def fetch_cover(folder: str, page_url: str) -> tuple[bool, str]:
 
 
 def main() -> int:
-    registry: dict[str, dict] = {}
-    if os.path.exists(REGISTRY):
-        with open(REGISTRY, encoding="utf-8") as handle:
-            registry = json.load(handle)
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from gen_store_manifest import PACKS
 
+    registry: dict[str, dict] = {}
     failures: list[tuple[str, str]] = []
     print(f"Fetching original cover art for {len(OFFICIAL_PAGES)} pack(s)...")
     for folder, page_url in OFFICIAL_PAGES.items():
@@ -127,12 +131,30 @@ def main() -> int:
             print(f"  [FAIL] {folder}: {detail}")
             failures.append((folder, detail))
 
+    # Every other pack is recorded as having no cover at all — the store shows
+    # its title as text. A stale generated PNG left on disk would quietly become
+    # a cover again, so those are removed here too.
+    for folder, data in PACKS.items():
+        if folder in registry:
+            continue
+        website = data[2] or ""
+        host = website.split("/")[2] if "://" in website else ""
+        registry[folder] = {
+            "origin": "none",
+            "reason": NO_OFFICIAL_ART.get(host, "No cover image found on the source page."),
+        }
+        stale = os.path.join(COVERS_DIR, f"{folder}.png")
+        if os.path.exists(stale):
+            os.remove(stale)
+            print(f"  [RM]   {folder}: removed a cover with no author source")
+
     with open(REGISTRY, "w", encoding="utf-8") as handle:
         json.dump(dict(sorted(registry.items())), handle, indent=2)
         handle.write("\n")
 
     originals = sum(1 for v in registry.values() if v.get("origin") == "original")
-    print(f"\n{originals} original cover(s) on disk; {len(failures)} failed.")
+    none = sum(1 for v in registry.values() if v.get("origin") == "none")
+    print(f"\n{originals} pack(s) with author art; {none} show their title as text.")
     if failures:
         print("A pack listed in OFFICIAL_PAGES has author art — do not accept a")
         print("generated cover for it. Fix the extractor or remove the entry:")
