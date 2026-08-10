@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-"""Generate stylish 800x800 pack cover PNGs for all sound packs missing official covers."""
+"""Generate stylish 800x800 pack cover PNGs for sound packs with no author art.
+
+Run fetch_official_covers.py FIRST: an original cover always beats a generated
+one, and this script refuses to overwrite any cover that covers/covers.json
+records as original.
+"""
 
 from __future__ import annotations
 
+import json
 import os
 import sys
 import math
@@ -15,6 +21,12 @@ from gen_store_manifest import PACKS, categorize
 
 COVERS_DIR = os.path.join(REPO, "covers")
 os.makedirs(COVERS_DIR, exist_ok=True)
+
+REGISTRY_PATH = os.path.join(COVERS_DIR, "covers.json")
+REGISTRY: dict[str, dict] = {}
+if os.path.exists(REGISTRY_PATH):
+    with open(REGISTRY_PATH, encoding="utf-8") as _handle:
+        REGISTRY = json.load(_handle)
 
 WIDTH = 800
 HEIGHT = 800
@@ -83,9 +95,18 @@ def draw_waveform(draw: ImageDraw.Draw, y_center: int, width: int, height: int, 
 def generate_cover(folder: str, name: str, creator: str, desc: str, opts: dict):
     out_path = os.path.join(COVERS_DIR, f"{folder}.png")
 
-    # Don't overwrite Kenney official covers if larger than 5KB (they were scraped cleanly)
-    if os.path.exists(out_path) and folder.startswith("kenney_") and os.path.getsize(out_path) > 5000:
-        print(f"Skipping existing official cover for {folder}")
+    # An original cover always wins. Protection comes from covers/covers.json,
+    # never from a name prefix: the old `folder.startswith("kenney_")` test
+    # overwrote the author artwork of any pack whose folder was named otherwise,
+    # which is how three packs with real covers ended up showing generated ones.
+    if REGISTRY.get(folder, {}).get("origin") == "original":
+        if os.path.exists(out_path):
+            print(f"Keeping original cover for {folder}")
+            return
+        print(
+            f"WARNING: {folder} is registered as having original art but "
+            f"covers/{folder}.png is missing — run fetch_official_covers.py."
+        )
         return
 
     category = opts.get("category", "Foley & Objects")
@@ -155,12 +176,47 @@ def generate_cover(folder: str, name: str, creator: str, desc: str, opts: dict):
     print(f"Generated cover for {folder} ({category}) -> {os.path.basename(out_path)}")
 
 
+# Why a pack has no author art, by source. Recorded per pack so the next run
+# (or the next agent) doesn't re-investigate a known dead end.
+NO_ART_REASONS = {
+    "opengameart.org": (
+        "OpenGameArt auto-generates a waveform image for audio submissions; "
+        "there is no author-supplied cover to take."
+    ),
+    "abstractionmusic.com": (
+        "No per-pack page on the author's site, and the current Gumroad "
+        "catalogue no longer lists these 2021 monthly/micro packs."
+    ),
+}
+
+
 def main():
     print(f"Generating covers for {len(PACKS)} packs...")
     for folder, data in PACKS.items():
         name, creator, website, desc, opts = data
         generate_cover(folder, name, creator, desc, opts)
-    print("All cover images generated successfully!")
+
+    # Record provenance for every pack, so which covers are the author's own
+    # and which this script invented is auditable rather than assumed.
+    registry = dict(REGISTRY)
+    for folder, data in PACKS.items():
+        if registry.get(folder, {}).get("origin") == "original":
+            continue
+        website = data[2] or ""
+        host = website.split("/")[2] if "://" in website else ""
+        registry[folder] = {
+            "origin": "generated",
+            "reason": NO_ART_REASONS.get(host, "No cover image found on the source page."),
+        }
+    with open(REGISTRY_PATH, "w", encoding="utf-8") as handle:
+        json.dump(dict(sorted(registry.items())), handle, indent=2)
+        handle.write("\n")
+
+    originals = sum(1 for v in registry.values() if v.get("origin") == "original")
+    print(
+        f"All cover images ready: {originals} original, "
+        f"{len(registry) - originals} generated (see covers/covers.json)."
+    )
 
 
 if __name__ == "__main__":

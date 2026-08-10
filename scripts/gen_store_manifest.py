@@ -426,6 +426,29 @@ def main() -> None:
         ["git", "-C", REPO, "rev-parse", "HEAD"], text=True
     ).strip()
 
+    # The manifest pins every URL to this commit and states each file's SHA-256.
+    # Generating from a dirty tree describes bytes that were never committed,
+    # and generating from an unpushed commit produces URLs the store cannot
+    # fetch — both surface as a mass validation failure minutes into a
+    # submission, long after the store has started downloading.
+    dirty = subprocess.check_output(
+        ["git", "-C", REPO, "status", "--porcelain"], text=True
+    ).strip()
+    if dirty and not os.environ.get("ALLOW_DIRTY"):
+        sys.exit(
+            "Working tree has uncommitted changes — commit and push them first, "
+            "or set ALLOW_DIRTY=1 to generate a preview."
+        )
+
+    on_remote = subprocess.check_output(
+        ["git", "-C", REPO, "branch", "-r", "--contains", commit], text=True
+    ).strip()
+    if not on_remote and not os.environ.get("ALLOW_UNPUSHED"):
+        sys.exit(
+            f"Commit {commit} is not on any remote branch — push it before "
+            "generating, or set ALLOW_UNPUSHED=1 for a preview."
+        )
+
     packs_out = []
     total_files = 0
     total_bytes = 0
