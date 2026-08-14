@@ -1,0 +1,28 @@
+{
+  "name": "80 CC0 RPG SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/80-cc0-rpg-sfx",
+  "license": "CC0",
+  "description": "80 fantasy/RPG effects: blades, pages, chains, creatures, coins, gems, locks, metal and spells. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "blade",
+        "Weapons & Combat"
+      ],
+      [
+        "spell",
+        "Magic"
+      ],
+      [
+        "creature",
+        "Creatures & Animals"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

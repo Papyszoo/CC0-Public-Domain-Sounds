@@ -1,0 +1,20 @@
+{
+  "name": "MissLav's Sounds",
+  "creator": "MissLav (lavender.pet)",
+  "website": "https://github.com/lavenderdotpet/CC0-Public-Domain-Sounds",
+  "license": "CC0",
+  "description": "Household recordings (angry dog, chair wheel, pots and pans) by the curator of the upstream CC0-Public-Domain-Sounds collection, CC0.",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "angerdog",
+        "Creatures & Animals"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "No cover image found on the source page."
+  }
+}

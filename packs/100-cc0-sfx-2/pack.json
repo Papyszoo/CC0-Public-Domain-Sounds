@@ -1,0 +1,33 @@
+{
+  "name": "100 CC0 SFX #2",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-sfx-2",
+  "license": "CC0",
+  "description": "Second pack of 100 CC0 sound effects: air, doors, footsteps, glass, hits, items, ambient/machine/water loops, metal, stones, switches, thunder and wood. By rubberduck (OpenGameArt).",
+  "generation": {
+    "strip_prefix": "sfx100v2_",
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "footstep",
+        "Footsteps"
+      ],
+      [
+        "loop_|thunder",
+        "Ambience"
+      ],
+      [
+        "hit",
+        "Impacts & Hits"
+      ],
+      [
+        "_air",
+        "Whooshes & Transitions"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

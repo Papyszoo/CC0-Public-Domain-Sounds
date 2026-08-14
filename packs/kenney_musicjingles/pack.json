@@ -1,0 +1,15 @@
+{
+  "name": "Music Jingles",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Short musical jingles by Kenney (kenney.nl) for wins, losses and level-ups. CC0 per the included license.",
+  "generation": {
+    "category": "Music"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/music-jingles",
+    "image": "https://kenney.nl/media/pages/assets/music-jingles/ef8668e122-1677590390/preview-5.png"
+  }
+}

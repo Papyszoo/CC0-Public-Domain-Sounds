@@ -1,0 +1,35 @@
+{
+  "name": "Free Retro Arcade Sounds Pack",
+  "creator": "The Motion Monkey",
+  "website": "http://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/",
+  "license": "CC0",
+  "description": "Original retro arcade sounds — explosions, guns, impacts, vehicles, speech and vocal effects (v1.0.5, WAV). CC0 as stated in the pack readme.",
+  "generation": {
+    "category_rules": [
+      [
+        "/explosions/|/guns/",
+        "Weapons & Combat"
+      ],
+      [
+        "/impact/",
+        "Impacts & Hits"
+      ],
+      [
+        "/speech/|/vocal/",
+        "Voice"
+      ],
+      [
+        "/vehicles/",
+        "Machines & Vehicles"
+      ],
+      [
+        "/misc/",
+        "UI"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "No cover image found on the source page."
+  }
+}

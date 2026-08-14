@@ -1,0 +1,14 @@
+{
+  "name": "30 Weird CC0 SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/30-weird-cc0-sfx",
+  "license": "CC0",
+  "description": "30 weird sound effects — part recorded and filtered, part synthesized. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

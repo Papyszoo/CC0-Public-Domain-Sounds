@@ -1,0 +1,21 @@
+{
+  "name": "Impact Sounds",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Impact sounds by Kenney (kenney.nl): bells, punches, mining and footsteps on various materials. CC0 per the included license.",
+  "generation": {
+    "category": "Impacts & Hits",
+    "category_rules": [
+      [
+        "footstep",
+        "Footsteps"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "image": "https://kenney.nl/media/pages/assets/impact-sounds/37d145475f-1677589720/audio_impact.png"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "100 CC0 Metal and Wood SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-metal-and-wood-sfx",
+  "license": "CC0",
+  "description": "100 metal and wood sounds: doors, hammers, keys, locks, hits, falling, breaking, cracking and squeaking. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "hit|slam|fall|break",
+        "Impacts & Hits"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

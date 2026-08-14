@@ -1,0 +1,14 @@
+{
+  "name": "25 CC0 Mud SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/25-cc0-mud-sfx",
+  "license": "CC0",
+  "description": "25 wet, squishy mud/slime sound effects recorded in real mud. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

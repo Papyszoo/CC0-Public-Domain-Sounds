@@ -1,0 +1,37 @@
+{
+  "name": "Sci-Fi Sounds",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Sci-fi sounds by Kenney (kenney.nl): engines, lasers, doors and computer ambience. CC0 per the included license.",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "engine|thruster",
+        "Machines & Vehicles"
+      ],
+      [
+        "laser|explosion",
+        "Weapons & Combat"
+      ],
+      [
+        "computer",
+        "UI"
+      ],
+      [
+        "forcefield",
+        "Magic"
+      ],
+      [
+        "impact",
+        "Impacts & Hits"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/sci-fi-sounds",
+    "image": "https://kenney.nl/media/pages/assets/sci-fi-sounds/112ea5fed7-1677589328/audiopreview_scifi.png"
+  }
+}

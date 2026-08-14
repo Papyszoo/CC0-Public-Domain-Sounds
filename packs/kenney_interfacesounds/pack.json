@@ -1,0 +1,15 @@
+{
+  "name": "Interface Sounds",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "UI interface sounds by Kenney (kenney.nl): clicks, confirmations, drops, glass and pluck tones. CC0 per the included license.",
+  "generation": {
+    "category": "UI"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "image": "https://kenney.nl/media/pages/assets/interface-sounds/428fc5f14c-1677589445/preview_interface.png"
+  }
+}

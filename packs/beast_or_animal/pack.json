@@ -1,0 +1,14 @@
+{
+  "name": "Animal or Beast Sounds",
+  "creator": "pauliuw",
+  "website": "https://opengameart.org/content/animal-or-beast-sounds",
+  "license": "CC0",
+  "description": "7 strange animal/beast growls and voices for RPG and fantasy games. CC0, by pauliuw (OpenGameArt).",
+  "generation": {
+    "category": "Creatures & Animals"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

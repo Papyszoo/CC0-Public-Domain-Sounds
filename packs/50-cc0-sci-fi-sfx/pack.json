@@ -1,0 +1,28 @@
+{
+  "name": "50 CC0 Sci-Fi SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/50-cc0-sci-fi-sfx",
+  "license": "CC0",
+  "description": "50 sci-fi effects: beeps, explosions, loops, lasers, rockets, shooting, teleport and terminal sounds. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "UI",
+    "category_rules": [
+      [
+        "laser|shoot|explos|rocket",
+        "Weapons & Combat"
+      ],
+      [
+        "loop|ambient",
+        "Ambience"
+      ],
+      [
+        "teleport",
+        "Magic"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Voiceover Pack: Fighter",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Fighting-game announcer voice lines by Kenney (kenney.nl) — 'Fight', 'K.O.', countdowns and more. CC0 per the included license.",
+  "generation": {
+    "category": "Voice"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/voiceover-pack-fighter",
+    "image": "https://kenney.nl/media/pages/assets/voiceover-pack-fighter/3ba8f3be6e-1677589824/preview.png"
+  }
+}

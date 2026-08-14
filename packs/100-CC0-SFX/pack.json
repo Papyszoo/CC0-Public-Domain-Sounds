@@ -1,0 +1,24 @@
+{
+  "name": "100 CC0 SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-sfx",
+  "license": "CC0",
+  "description": "100 household and foley sound effects — bells, dishes, doors, glass, metal, springs, slams, tools and more. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "shot",
+        "Weapons & Combat"
+      ],
+      [
+        "machine",
+        "Machines & Vehicles"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

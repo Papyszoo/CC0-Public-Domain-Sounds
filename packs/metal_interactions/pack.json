@@ -1,0 +1,14 @@
+{
+  "name": "Metal Interactions",
+  "creator": "qubodup",
+  "website": "https://opengameart.org/content/metal-interactions",
+  "license": "CC0",
+  "description": "Heavy metal interaction sounds — swings, button presses and clanks. CC0, by qubodup (OpenGameArt).",
+  "generation": {
+    "category": "Impacts & Hits"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

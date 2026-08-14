@@ -1,0 +1,24 @@
+{
+  "name": "30 CC0 SFX Loops",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/30-cc0-sfx-loops",
+  "license": "CC0",
+  "description": "30 loopable effects: machines, alarms, ambient, noise, rain and water. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Ambience",
+    "category_rules": [
+      [
+        "machine|pump|saw|boil",
+        "Machines & Vehicles"
+      ],
+      [
+        "alarm",
+        "UI"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

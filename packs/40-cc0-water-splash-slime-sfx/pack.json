@@ -1,0 +1,20 @@
+{
+  "name": "40 CC0 Water / Splash / Slime SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+  "license": "CC0",
+  "description": "40 water, splash and slime sounds incl. bubble and rain loops, partly recorded from real slime. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "loop",
+        "Ambience"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

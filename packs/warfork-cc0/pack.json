@@ -1,0 +1,44 @@
+{
+  "name": "Warfork CC0 Sounds & Music",
+  "creator": "Team Forbidden LLC",
+  "website": "https://www.warfork.com",
+  "license": "CC0",
+  "description": "The CC0-dedicated sound and music set from the arena FPS Warfork: announcer lines, weapons, items, movement, menu sounds and music tracks. CC0 per the included dedication by Team Forbidden.",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "footstep",
+        "Footsteps"
+      ],
+      [
+        "/music/|/trailer/",
+        "Music"
+      ],
+      [
+        "/announcer/|/ctftactics/|/vsay/|/players/",
+        "Voice"
+      ],
+      [
+        "/weapons/|/bomb/",
+        "Weapons & Combat"
+      ],
+      [
+        "/items/|/menu/",
+        "UI"
+      ],
+      [
+        "/movers/",
+        "Machines & Vehicles"
+      ],
+      [
+        "/ambient/|/world/",
+        "Ambience"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "The only art available is the game's Steam capsule, which is not part of the CC0 sound release."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "75 CC0 Breaking / Falling / Hit SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+  "license": "CC0",
+  "description": "75 breaking, falling and impact sounds across wood, metal, glass, rock and stone. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Impacts & Hits"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

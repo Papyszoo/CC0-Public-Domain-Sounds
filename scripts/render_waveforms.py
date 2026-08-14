@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Render a waveform PNG for every audio file in store-manifest.json.
 
-Output: <repo>/waveforms/<audio path with .png extension>.
+Output: packs/<pack>/thumbnails/<audio-relative-path>.png.
 Two-pass: peak-detect (volumedetect), then showwavespic with makeup gain so
 quiet recordings don't render as flat lines. Gain capped at +20 dB.
 """
@@ -22,7 +22,16 @@ MAX_GAIN_DB = 20.0
 
 def render(path: str) -> tuple[str, str | None]:
     src = os.path.join(REPO, path)
-    out = os.path.join(REPO, "waveforms", os.path.splitext(path)[0] + ".png")
+    parts = path.replace(os.sep, "/").split("/")
+    if len(parts) < 4 or parts[0] != "packs" or parts[2] != "sounds":
+        return path, "unexpected manifest audio path"
+    out = os.path.join(
+        REPO,
+        "packs",
+        parts[1],
+        "thumbnails",
+        os.path.splitext("/".join(parts[3:]))[0] + ".png",
+    )
     if os.path.isfile(out):
         return path, None
     os.makedirs(os.path.dirname(out), exist_ok=True)

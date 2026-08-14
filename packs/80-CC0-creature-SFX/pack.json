@@ -1,0 +1,14 @@
+{
+  "name": "80 CC0 Creature SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/80-cc0-creature-sfx",
+  "license": "CC0",
+  "description": "80 creature sounds — aliens, barks, breaths, bugs, grunts, roars, screams and more, mostly voice-acted and filtered. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "Creatures & Animals"
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}

@@ -1,2 +1,6 @@
-
+.DS_Store
 .directory
+.agents/
+.claude/
+AGENTS.md
+CLAUDE.md

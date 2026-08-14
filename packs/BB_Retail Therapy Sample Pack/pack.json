@@ -1,0 +1,24 @@
+{
+  "name": "Retail Therapy Sample Pack",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "license": "CC0",
+  "description": "Large foley sample pack recorded in retail environments — carts, registers, packaging and shop ambience. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "generation": {
+    "category": "Foley & Objects",
+    "category_rules": [
+      [
+        "chittering",
+        "Creatures & Animals"
+      ],
+      [
+        "laughter",
+        "Voice"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "No per-pack page on the author's site, and the current Gumroad catalogue no longer lists these 2021 monthly/micro packs."
+  }
+}

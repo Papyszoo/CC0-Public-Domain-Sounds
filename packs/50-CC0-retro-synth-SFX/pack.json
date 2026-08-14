@@ -1,0 +1,20 @@
+{
+  "name": "50 CC0 Retro / Synth SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "license": "CC0",
+  "description": "50 retro/synth effects made in LMMS with ZynAddSubFX: power-ups, coins, explosions, shots, beeps and lasers. CC0, by rubberduck (OpenGameArt).",
+  "generation": {
+    "category": "UI",
+    "category_rules": [
+      [
+        "laser|shoot|shot|explos",
+        "Weapons & Combat"
+      ]
+    ]
+  },
+  "cover": {
+    "origin": "none",
+    "reason": "OpenGameArt renders an automatic waveform-on-background image for audio submissions; there is no author-supplied cover to take."
+  }
+}
