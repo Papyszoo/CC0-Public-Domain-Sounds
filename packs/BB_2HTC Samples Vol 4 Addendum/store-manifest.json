@@ -1,0 +1,3139 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "2HTC Samples Vol. 4 Addendum",
+  "creator": "Benjamin Burnes (Abstraction) & Mark Powers",
+  "website": "https://abstractionmusic.com",
+  "description": "Addendum to 2HTC Samples Vol. 4 with additional drums, loops, pads and solos. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/BB_2HTC Samples Vol 4 Addendum",
+  "itemCount": 104,
+  "items": [
+    {
+      "name": "2023 09 06 Moonlit Chill Breeze Classic Jazz Snlap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-06 Moonlit Chill Breeze - Classic Jazz Snlap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Substring",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-13 For Those Who Love Spreadsheets - Substring.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 27 200ms Big Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-27 200ms - Big Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary Lil Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-07 Rest of the Weary - Lil Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 09 Having A Normal One The Smallest Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-09 Having a Normal One - The Smallest Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 11 Labradorescence Whine Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-11 Labradorescence - Whine Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Resonant Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-15 Seafoam - Resonant Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Tiny Snare Fill",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-15 Seafoam - Tiny Snare Fill.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 11 13 Bodega Run Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-11-13 Bodega Run - Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 11 13 Bodega Run Nice And Simple Drum Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-11-13 Bodega Run - Nice and Simple Drum Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Lil Snare",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-06 Coding Vibes - Lil Snare.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Solid Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-06 Coding Vibes - Solid Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side Discord Strike",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-13 A Call From the Other Side - Discord Strike.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 20 Neon AM Echoed Drum Boops",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-20 Neon AM - Echoed Drum Boops.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 27 One Last Keysmash Before The Year Ends Good Snare",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-27 One Last Keysmash Before the Year Ends - Good Snare.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Bassy Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Bassy Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Chunky Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Chunky Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Cool Pop Sound",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Cool Pop Sound.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Nice Snare",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Nice Snare.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 09 Emulsified House Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-09 Emulsified - House Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough EDM Clap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - EDM Clap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough Fuzzy Kick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - Fuzzy Kick.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough Kick And Clave",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - Kick and Clave.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 06 Moonlit Chill Breeze Chillout",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-06 Moonlit Chill Breeze - Chillout.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Select Column Span",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-13 For Those Who Love Spreadsheets - Select Column Span.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 20 Dream Sequence Uplifting Synths",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-20 Dream Sequence - Uplifting Synths.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 27 200ms Nice Arp Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-27 200ms - Nice Arp Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 09 Having A Normal One I Dig This Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-09 Having a Normal One - I Dig This Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 11 Labradorescence BIG",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-11 Labradorescence - BIG.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 11 Labradorescence Mechanical",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-11 Labradorescence - Mechanical.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Tension",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-15 Seafoam - Tension.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 25 Trapistry Intro Mystery",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-25 Trapistry - Intro Mystery.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 28 Penny Wishes Fairy Fountain",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-28 Penny Wishes - Fairy Fountain.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 28 Penny Wishes Piano",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-28 Penny Wishes - Piano.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Hard To Go Wrong With Dnb",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-06 Coding Vibes - Hard To Go Wrong With DnB.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Lush Pad Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-06 Coding Vibes - Lush Pad Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side That Part In Poltergeist When Things Get Crazy",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-13 A Call From the Other Side - That Part in Poltergeist When Things Get Crazy.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 09 Emulsified Chill EDM",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-09 Emulsified - Chill EDM.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough Little Bass Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-17 Never Enough - Little Bass Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough Neat Rhythm",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-17 Never Enough - Neat Rhythm.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 20 At The Threshold Smooth Jazz Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-20 At the Threshold - Smooth Jazz Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 06 Moonlit Chill Breeze Lush Outro",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-09-06 Moonlit Chill Breeze - Lush Outro.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 27 200ms Slightly Metallic",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-09-27 200ms - Slightly Metallic.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 04 Déjà Voodoo Ethereal",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-04 Déjà Voodoo - Ethereal.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 04 Déjà Voodoo Fading Away",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-04 Déjà Voodoo - Fading Away.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary Time To Rest",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-07 Rest of the Weary - Time to Rest.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary Vocal Grains",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-07 Rest of the Weary - Vocal Grains.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 11 Labradorescence Ancient Signal",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-11 Labradorescence - Ancient Signal.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 11 Labradorescence Whine Fades",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-11 Labradorescence - Whine Fades.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Synth Fade",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-15 Seafoam - Synth Fade.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 18 Mindless Compliance Cool Piano",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-18 Mindless Compliance - Cool Piano.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 18 Mindless Compliance Intro Wash Of Color",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-18 Mindless Compliance - Intro Wash of Color.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 25 Trapistry Rhodes Chords",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-25 Trapistry - Rhodes Chords.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 11 13 Bodega Run Rhodes Fade",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-11-13 Bodega Run - Rhodes Fade.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Pad Fade",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-06 Coding Vibes - Pad Fade.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side Tension Pad",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-13 A Call From the Other Side - Tension Pad.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 20 Neon AM Kick Pad",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Kick Pad.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 20 Neon AM Rhodes Chord",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Rhodes Chord.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 20 Neon AM Trumpet Pad",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Trumpet Pad.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Rhodes Tone",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-03 Project 56 - Rhodes Tone.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 09 Emulsified Stab Fade",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-09 Emulsified - Stab Fade.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 13 Bioluminescence Rhodes Fade",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-13 Bioluminescence - Rhodes Fade.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 13 Bioluminescence Watery Pad",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-13 Bioluminescence - Watery Pad.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 20 At The Threshold The End Of An Era",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-20 At the Threshold - The End of An Era.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 20 At The Threshold Yet More Rhodes",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-20 At the Threshold - Yet More Rhodes.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Sum Span",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-13 For Those Who Love Spreadsheets - Sum Span.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 20 Dream Sequence Synth To Pad",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-20 Dream Sequence - Synth to Pad.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 20 Dream Sequence Whole Tone Scale",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-20 Dream Sequence - Whole Tone Scale.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 04 Déjà Voodoo Smol Bass Run",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-04 Déjà Voodoo - Smol Bass Run.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary Bigg Bass",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-07 Rest of the Weary - Bigg Bass.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary Floating Lights",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-07 Rest of the Weary - Floating Lights.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 09 Having A Normal One Melodic Thunk",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-09 Having a Normal One - Melodic Thunk.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Arp Fadeout",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-15 Seafoam - Arp Fadeout.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 18 Mindless Compliance Little Note Run",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-18 Mindless Compliance - Little Note Run.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 25 Trapistry I Just Like This Bit",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-25 Trapistry - I Just Like This Bit.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 11 13 Bodega Run I Dig This One Too",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-11-13 Bodega Run - I Dig This One Too.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side Haunted Synth",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-13 A Call From the Other Side - Haunted Synth.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side Trouble Fading",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-13 A Call From the Other Side - Trouble Fading.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 20 Neon AM Lil Plucks",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-20 Neon AM - Lil Plucks.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Cooldown Solo",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-03 Project 56 - Cooldown Solo.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 13 Bioluminescence Bass Walkup",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Bass Walkup.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 13 Bioluminescence Bloop Lead",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Bloop Lead.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 13 Bioluminescence Quiet Piano",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Quiet Piano.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 17 Never Enough Pads And Plucks",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-17 Never Enough - Pads and Plucks.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 20 At The Threshold More Smooth Jazz",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-20 At the Threshold - More Smooth Jazz.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 06 Moonlit Chill Breeze Triplet Unison",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-06 Moonlit Chill Breeze - Triplet Unison.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Buffer Overflow",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Buffer Overflow.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Conditional Formatting",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Conditional Formatting.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 13 For Those Who Love Spreadsheets Copy Previous Cell",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Copy Previous Cell.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 20 Dream Sequence When We Close Our Eyes",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-20 Dream Sequence - When We Close Our Eyes.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 09 20 Dream Sequence You're Already Dreaming",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-20 Dream Sequence - You're Already Dreaming.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 07 Rest Of The Weary It Is Now Safe",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-07 Rest of the Weary - It is Now Safe.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 09 Having A Normal One What Can I Say",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-09 Having a Normal One - What Can I Say.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 15 Seafoam Quiet Waves",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-15 Seafoam - Quiet Waves.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 18 Mindless Compliance Take Matters Into Your Own Hands",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-18 Mindless Compliance - Take Matters Into Your Own Hands.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 10 28 Penny Wishes Pad With Pitch Bend",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-28 Penny Wishes - Pad With Pitch Bend.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 06 Coding Vibes Synth Woop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-06 Coding Vibes - Synth Woop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 13 A Call From The Other Side Audio Swirl",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-13 A Call From the Other Side - Audio Swirl.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 27 One Last Keysmash Before The Year Ends Hello Ben Underscore Burnes",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello Ben Underscore Burnes.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 27 One Last Keysmash Before The Year Ends Hello",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2023 12 27 One Last Keysmash Before The Year Ends Pad With Mumbles",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Pad With Mumbles.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 03 Project 56 Descending Boop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-03 Project 56 - Descending Boop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 09 Emulsified Downlifter Crash",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-09 Emulsified - Downlifter Crash.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "2024 01 09 Emulsified Little Fills",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-09 Emulsified - Little Fills.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Classic Jazz Snlap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-06 Moonlit Chill Breeze - Classic Jazz Snlap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Classic%20Jazz%20Snlap.wav",
+      "sha256": "4862ddf55e70eb578866bf57ca3c84f2760cc618a2de0cf5f1755846c337d57b",
+      "size": 60464,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Substring.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-13 For Those Who Love Spreadsheets - Substring.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Substring.wav",
+      "sha256": "aa3498e880beebed6dc408319d187a8c23eaca7c1890d087b8a8a316dc5a559d",
+      "size": 106734,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Big Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-09-27 200ms - Big Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-09-27%20200ms%20-%20Big%20Kick.wav",
+      "sha256": "08f9f6c83232d6322e8c65c510b5271890278302db1e927232fa93d8c2002250",
+      "size": 35890,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Lil Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-07 Rest of the Weary - Lil Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-10-07%20Rest%20of%20the%20Weary%20-%20Lil%20Clap.wav",
+      "sha256": "8259b19a7f098982cfac7ca6128c8ce8d52958df8607f8100fb0a0214608853f",
+      "size": 25570,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - The Smallest Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-09 Having a Normal One - The Smallest Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-10-09%20Having%20a%20Normal%20One%20-%20The%20Smallest%20Clap.wav",
+      "sha256": "5063edcd8d36f23ee89c7c3f28d81fd52e209b4293d1632e3707e6060c8bc19f",
+      "size": 49622,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Whine Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-11 Labradorescence - Whine Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-10-11%20Labradorescence%20-%20Whine%20Kick.wav",
+      "sha256": "c2b620d0d2419fd54b55fae320606048b2d591af16161a79c7d103976c9c16d6",
+      "size": 285830,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Resonant Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-15 Seafoam - Resonant Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-10-15%20Seafoam%20-%20Resonant%20Clap.wav",
+      "sha256": "81748cc70afbd65f6f1079d6b5b0f287b9aa19e5ba0571b1f93047213bb983bc",
+      "size": 190310,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Tiny Snare Fill.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-10-15 Seafoam - Tiny Snare Fill.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-10-15%20Seafoam%20-%20Tiny%20Snare%20Fill.wav",
+      "sha256": "2df243d7e40259744952f2e2bd971c95530ba590c5aecca524636f1d931d8b44",
+      "size": 49602,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-11-13 Bodega Run - Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-11-13%20Bodega%20Run%20-%20Clap.wav",
+      "sha256": "6e7740bf3086e66ec8d2b02c5aaf2da7ff53f2057afb5bd976c72b4e4c8df212",
+      "size": 59592,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Nice and Simple Drum Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-11-13 Bodega Run - Nice and Simple Drum Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-11-13%20Bodega%20Run%20-%20Nice%20and%20Simple%20Drum%20Loop.wav",
+      "sha256": "6f502b6e754d653fae70466bfc1756614eedd2b65cf5ffe6f11387abf4f69e2c",
+      "size": 467928,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Lil Snare.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-06 Coding Vibes - Lil Snare.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-12-06%20Coding%20Vibes%20-%20Lil%20Snare.wav",
+      "sha256": "8bc1c9e8fdf0d1fdf485288996205135de227506c4c596c1908b84f8303b48a6",
+      "size": 30880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Solid Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-06 Coding Vibes - Solid Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-12-06%20Coding%20Vibes%20-%20Solid%20Kick.wav",
+      "sha256": "d1bd1c07b1c75163d424e820902f54289ae6e2f91a7fee66c0f0fd00c4c51a91",
+      "size": 61796,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Discord Strike.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-13 A Call From the Other Side - Discord Strike.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Discord%20Strike.wav",
+      "sha256": "a3a966ce45abaf1f43523668ada4f0a3db4ebf8542ad5a1895e53df49f8e68b5",
+      "size": 52092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Echoed Drum Boops.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-20 Neon AM - Echoed Drum Boops.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-12-20%20Neon%20AM%20-%20Echoed%20Drum%20Boops.wav",
+      "sha256": "7943b66c5ccbdbc635d00ce0165d93223a4097f170c351023d2aef5b9e23da97",
+      "size": 587826,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Good Snare.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2023-12-27 One Last Keysmash Before the Year Ends - Good Snare.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Good%20Snare.wav",
+      "sha256": "a7f7591da2cd6e5a90e5cd3cd089d00e79702972536b2b424b5e5a88ce1321c8",
+      "size": 58534,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Bassy Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Bassy Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-03%20Project%2056%20-%20Bassy%20Kick.wav",
+      "sha256": "a56aeb26da6f2ba05b53761ba32af12d710c4874357ac320256834ae1f841fb8",
+      "size": 87956,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Chunky Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Chunky Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-03%20Project%2056%20-%20Chunky%20Kick.wav",
+      "sha256": "595596c834efe0553ecb065c6bc79d1081aeca37dd6e6a6562349db7b17de466",
+      "size": 113812,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Cool Pop Sound.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Cool Pop Sound.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-03%20Project%2056%20-%20Cool%20Pop%20Sound.wav",
+      "sha256": "41c240d14780d36ecf4f57e3db1974a1fcc079c38dcdc3c6bb8e705e1293ab87",
+      "size": 34136,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Nice Snare.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-03 Project 56 - Nice Snare.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-03%20Project%2056%20-%20Nice%20Snare.wav",
+      "sha256": "0562d25c49399edd3ed600c01c4178387b10c685e61b637770c5e683a5669759",
+      "size": 19312,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - House Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-09 Emulsified - House Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-09%20Emulsified%20-%20House%20Clap.wav",
+      "sha256": "c844c56489b91798187c991fae00984fbc25bef4f09ec0d9d8f5b6450afda850",
+      "size": 45384,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - EDM Clap.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - EDM Clap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-17%20Never%20Enough%20-%20EDM%20Clap.wav",
+      "sha256": "23ebe220adf4cb1c1abe936c6e44e7c0655ea8b1ed0f18e466527a7190f00bbd",
+      "size": 22828,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Fuzzy Kick.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - Fuzzy Kick.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-17%20Never%20Enough%20-%20Fuzzy%20Kick.wav",
+      "sha256": "d6fe484aaae16ec18e87f72c871f0607eac343f5075c510c5ec679ed7f79428a",
+      "size": 82028,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Kick and Clave.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Drums/2024-01-17 Never Enough - Kick and Clave.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Drums/2024-01-17%20Never%20Enough%20-%20Kick%20and%20Clave.wav",
+      "sha256": "a4a449235d0975038ce2802fe07d158660137d1f1254f4cb056dad1143b86390",
+      "size": 93004,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Chillout.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-06 Moonlit Chill Breeze - Chillout.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Chillout.wav",
+      "sha256": "abac6fc4580dea05aed2e89433c184b52f2f6c8f5f8b835780959e3ebc395c2f",
+      "size": 2245648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Select Column Span.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-13 For Those Who Love Spreadsheets - Select Column Span.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Select%20Column%20Span.wav",
+      "sha256": "386c78af9bfad0a9c779336a49f39717ea4ee2b751691a21e3ae495a49e7e105",
+      "size": 1728442,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Uplifting Synths.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-20 Dream Sequence - Uplifting Synths.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-09-20%20Dream%20Sequence%20-%20Uplifting%20Synths.wav",
+      "sha256": "7098139280f0d784d5207a8163ad536761f1e33ea8285f4ae925785dce222dda",
+      "size": 1879194,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Nice Arp Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-09-27 200ms - Nice Arp Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-09-27%20200ms%20-%20Nice%20Arp%20Loop.wav",
+      "sha256": "32e1f490a32d91373f09c8681c1889c4342d308718cf806302d14d3eae3c413b",
+      "size": 424050,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - I Dig This Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-09 Having a Normal One - I Dig This Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-09%20Having%20a%20Normal%20One%20-%20I%20Dig%20This%20Loop.wav",
+      "sha256": "c0af63a603dce25cce707ab27eed367fd5742f1fad0ad932561c85bf78e0fd68",
+      "size": 1540230,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - BIG.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-11 Labradorescence - BIG.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-11%20Labradorescence%20-%20BIG.wav",
+      "sha256": "972a7d156702b1c18cf1a3a9be4195a852a0cd917e4d52afbdabb0d21fc8efec",
+      "size": 1156318,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Mechanical.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-11 Labradorescence - Mechanical.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-11%20Labradorescence%20-%20Mechanical.wav",
+      "sha256": "6627e0f6f6afc876401af02db48be9c7f415e2046c31cc0fb4fa2f584b93b72e",
+      "size": 1153450,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Tension.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-15 Seafoam - Tension.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-15%20Seafoam%20-%20Tension.wav",
+      "sha256": "df4155dccc9d2e1266f81ea332d51d38e79025bf077a1b285cf78f4101ce84ba",
+      "size": 1539562,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - Intro Mystery.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-25 Trapistry - Intro Mystery.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-25%20Trapistry%20-%20Intro%20Mystery.wav",
+      "sha256": "c8db2380c0e70c0cc15c95758b291825f3868dfdb62d181712baaf6bd19bcbfb",
+      "size": 1954190,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Fairy Fountain.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-28 Penny Wishes - Fairy Fountain.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-28%20Penny%20Wishes%20-%20Fairy%20Fountain.wav",
+      "sha256": "b3f7c8f3dfce25b2f4bdc26622e5e31d56e9bfb25c6f838a55709af8de9baa94",
+      "size": 1586700,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Piano.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-10-28 Penny Wishes - Piano.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-10-28%20Penny%20Wishes%20-%20Piano.wav",
+      "sha256": "bffb2180ee5a228071578935606676d631a0bcca05a867e594d69aae597d7718",
+      "size": 1592192,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Hard To Go Wrong With DnB.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-06 Coding Vibes - Hard To Go Wrong With DnB.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-12-06%20Coding%20Vibes%20-%20Hard%20To%20Go%20Wrong%20With%20DnB.wav",
+      "sha256": "74103b01eae19a645dd7887c73f83ca573967ee03551554f730fab79c5994898",
+      "size": 996404,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Lush Pad Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-06 Coding Vibes - Lush Pad Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-12-06%20Coding%20Vibes%20-%20Lush%20Pad%20Loop.wav",
+      "sha256": "02d236165a2d4a6a700bb361591535c29ae8b77cb2364f01a6f9091334eafe5e",
+      "size": 1992608,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - That Part in Poltergeist When Things Get Crazy.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2023-12-13 A Call From the Other Side - That Part in Poltergeist When Things Get Crazy.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20That%20Part%20in%20Poltergeist%20When%20Things%20Get%20Crazy.wav",
+      "sha256": "f1aba878b09789e4c1c8bc605be57f10001134bd7757cd85eafbbb0d75e47916",
+      "size": 996636,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Chill EDM.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-09 Emulsified - Chill EDM.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2024-01-09%20Emulsified%20-%20Chill%20EDM.wav",
+      "sha256": "2fdb03f9f7ed91700dae4cd39d36df93cd7d6bb743cac610f401fb1c0c30ff30",
+      "size": 1411632,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Little Bass Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-17 Never Enough - Little Bass Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2024-01-17%20Never%20Enough%20-%20Little%20Bass%20Loop.wav",
+      "sha256": "511940762104659d419833a4558e56b59f2d3c0084286d2ba06bd23cee388263",
+      "size": 322748,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Neat Rhythm.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-17 Never Enough - Neat Rhythm.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2024-01-17%20Never%20Enough%20-%20Neat%20Rhythm.wav",
+      "sha256": "f854b28bfac8ee002e6f5cb07cd48663ab8bc63c8dbc71e3c5972114506412c9",
+      "size": 735968,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - Smooth Jazz Loop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Loops/2024-01-20 At the Threshold - Smooth Jazz Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Loops/2024-01-20%20At%20the%20Threshold%20-%20Smooth%20Jazz%20Loop.wav",
+      "sha256": "4665f0976c72ab4e104042f6d1b7b9e8c045c23d1039ae4f00e50c62c68b4a41",
+      "size": 1993582,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Lush Outro.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-09-06 Moonlit Chill Breeze - Lush Outro.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Lush%20Outro.wav",
+      "sha256": "6d592190645193d4ef68fda3e9c4546815fe542ebdd0d8baed47c4c4e3642df2",
+      "size": 1332824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Slightly Metallic.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-09-27 200ms - Slightly Metallic.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-09-27%20200ms%20-%20Slightly%20Metallic.wav",
+      "sha256": "e4201566a2ab8966cdc1103407448a866d4073edbfe6d099353700d7e80c3c40",
+      "size": 1257190,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Ethereal.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-04 Déjà Voodoo - Ethereal.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Ethereal.wav",
+      "sha256": "504ede3f6167f97d4162337db13a22de32f9a30eb49ea064d7398dedcb2e5c4c",
+      "size": 1858646,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Fading Away.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-04 Déjà Voodoo - Fading Away.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Fading%20Away.wav",
+      "sha256": "4b7e4d836b3a325a3404fe78c499365a8aab7f43d586be5d7df706aa4906f6ea",
+      "size": 497150,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Time to Rest.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-07 Rest of the Weary - Time to Rest.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-07%20Rest%20of%20the%20Weary%20-%20Time%20to%20Rest.wav",
+      "sha256": "07d77acab3808ed6c7677490ad03efbd919c14f34492929768bb2ef935a06561",
+      "size": 1607742,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Vocal Grains.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-07 Rest of the Weary - Vocal Grains.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-07%20Rest%20of%20the%20Weary%20-%20Vocal%20Grains.wav",
+      "sha256": "f31cc572a328d691918a3aeba2fd0a29b9d9df45406fa3d655b5aee08e653108",
+      "size": 371498,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Ancient Signal.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-11 Labradorescence - Ancient Signal.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-11%20Labradorescence%20-%20Ancient%20Signal.wav",
+      "sha256": "7cbcdc908ebb37ef64114d6b53ad7d08e650673f19233aa12e932f0306df685c",
+      "size": 1064534,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Whine Fades.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-11 Labradorescence - Whine Fades.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-11%20Labradorescence%20-%20Whine%20Fades.wav",
+      "sha256": "3d5be7ef94e8b6eaeed12b0b177ec6eac321ac54c850978d203d2a7998b2a97d",
+      "size": 856594,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Synth Fade.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-15 Seafoam - Synth Fade.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-15%20Seafoam%20-%20Synth%20Fade.wav",
+      "sha256": "55ef540d9ac749995e544fd87ffb02fdf97660f29394bd60a033bcbfbabe2351",
+      "size": 773382,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Cool Piano.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-18 Mindless Compliance - Cool Piano.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-18%20Mindless%20Compliance%20-%20Cool%20Piano.wav",
+      "sha256": "41491022835a6f8a3f0b661ec956093a1c043b54be3be9aaaf3135b575838557",
+      "size": 401590,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Intro Wash of Color.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-18 Mindless Compliance - Intro Wash of Color.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-18%20Mindless%20Compliance%20-%20Intro%20Wash%20of%20Color.wav",
+      "sha256": "d1164a209f234dc0c484ec5162d894543c1f6d444555bbb3d29ab821fb2d0550",
+      "size": 2279646,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - Rhodes Chords.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-10-25 Trapistry - Rhodes Chords.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-10-25%20Trapistry%20-%20Rhodes%20Chords.wav",
+      "sha256": "4158397b101e709eb99f3ae59fae9863c296d21adf9380788f13e6504871a161",
+      "size": 2462826,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Rhodes Fade.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-11-13 Bodega Run - Rhodes Fade.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-11-13%20Bodega%20Run%20-%20Rhodes%20Fade.wav",
+      "sha256": "f450b0aca91507bc61bf55da687de2ec7e2cc664f94eeeb27fb0223fddcc7cb2",
+      "size": 1287488,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Pad Fade.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-06 Coding Vibes - Pad Fade.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-12-06%20Coding%20Vibes%20-%20Pad%20Fade.wav",
+      "sha256": "60ea03106a778d118db6f1d26933491dedbb9d5c92ceeebd07194af36461f498",
+      "size": 1361788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Tension Pad.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-13 A Call From the Other Side - Tension Pad.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Tension%20Pad.wav",
+      "sha256": "ee92a69371fbe71f63b0a85548cabfc6e666e8102775acc866ab794252187446",
+      "size": 873400,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Kick Pad.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Kick Pad.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-12-20%20Neon%20AM%20-%20Kick%20Pad.wav",
+      "sha256": "b3f420b00e0e046560b44ad7867bc6538c44d02b9545a5a77b9eea9e61669c3c",
+      "size": 350794,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Rhodes Chord.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Rhodes Chord.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-12-20%20Neon%20AM%20-%20Rhodes%20Chord.wav",
+      "sha256": "f61519573c86f460ea70ee43655f8b850a53c734d24f514c58c31a532f80a934",
+      "size": 117534,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Trumpet Pad.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2023-12-20 Neon AM - Trumpet Pad.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2023-12-20%20Neon%20AM%20-%20Trumpet%20Pad.wav",
+      "sha256": "5b4bf0645dcb93a4c6fdd017da6bdda217a2f0db7e28e275aa3dda574699418e",
+      "size": 693594,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Rhodes Tone.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-03 Project 56 - Rhodes Tone.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-03%20Project%2056%20-%20Rhodes%20Tone.wav",
+      "sha256": "876267c11e53f837ef40dc0dff79514d1b884c237cc37aa8576ad0356b445e54",
+      "size": 172988,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Stab Fade.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-09 Emulsified - Stab Fade.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-09%20Emulsified%20-%20Stab%20Fade.wav",
+      "sha256": "2fdef01438f1c0ffdafee629add315b77fa70e157649ec7f56c0e352e9cb7416",
+      "size": 283192,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Rhodes Fade.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-13 Bioluminescence - Rhodes Fade.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-13%20Bioluminescence%20-%20Rhodes%20Fade.wav",
+      "sha256": "b14948f69234a2fc95bbaee91d8a81c7cc6689398116885b6d6ba4163c811574",
+      "size": 892384,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Watery Pad.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-13 Bioluminescence - Watery Pad.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-13%20Bioluminescence%20-%20Watery%20Pad.wav",
+      "sha256": "0cf3c2a939f50e31c3e10d192688cbd0882e23afbec53f72f925d891758d4772",
+      "size": 914280,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - The End of An Era.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-20 At the Threshold - The End of An Era.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-20%20At%20the%20Threshold%20-%20The%20End%20of%20An%20Era.wav",
+      "sha256": "35340331b3c9fa14a20bf104d12d39bfdb01881c3e4d876b837dd99f3869ec87",
+      "size": 2044222,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - Yet More Rhodes.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Pads/2024-01-20 At the Threshold - Yet More Rhodes.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Pads/2024-01-20%20At%20the%20Threshold%20-%20Yet%20More%20Rhodes.wav",
+      "sha256": "f3eeaf04e514eb822fb66845b728fb4bef4eabb2a3fe31d97d5c0d0ed4656b30",
+      "size": 366246,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Sum Span.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-13 For Those Who Love Spreadsheets - Sum Span.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Sum%20Span.wav",
+      "sha256": "9bf78af7037ba84b85d6f69c4c6cebd717beb495e2dfb0949c88f437890e8966",
+      "size": 863910,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Synth to Pad.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-20 Dream Sequence - Synth to Pad.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-09-20%20Dream%20Sequence%20-%20Synth%20to%20Pad.wav",
+      "sha256": "ac38d62e87ccf8e3d7598a54360d73aed0a4b7998110941af120615d485284cd",
+      "size": 880750,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Whole Tone Scale.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-09-20 Dream Sequence - Whole Tone Scale.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-09-20%20Dream%20Sequence%20-%20Whole%20Tone%20Scale.wav",
+      "sha256": "52cc5768adb510ecd40b8621154996df49b0d5e3fd7df644086835b61861b519",
+      "size": 1885702,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Smol Bass Run.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-04 Déjà Voodoo - Smol Bass Run.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Smol%20Bass%20Run.wav",
+      "sha256": "11aadb8c3f22059ec9ebfa063030b71e31788205e11d61acfdac7779e2c3e450",
+      "size": 124622,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Bigg Bass.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-07 Rest of the Weary - Bigg Bass.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-07%20Rest%20of%20the%20Weary%20-%20Bigg%20Bass.wav",
+      "sha256": "453db0996a07241ea9a1e9912d6eb6da04e5e0e02396ebc3dd1c5100910974fa",
+      "size": 51110,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Floating Lights.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-07 Rest of the Weary - Floating Lights.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-07%20Rest%20of%20the%20Weary%20-%20Floating%20Lights.wav",
+      "sha256": "b1d47797a46a80bdc62872bd678fb553bc64cc5b730c7ccfb6128f2be77b5477",
+      "size": 1611166,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - Melodic Thunk.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-09 Having a Normal One - Melodic Thunk.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-09%20Having%20a%20Normal%20One%20-%20Melodic%20Thunk.wav",
+      "sha256": "0b7f8dfd6cf343be0b2a9512aa0ec6bbb9696c50ab59d4b19dd59231446d233f",
+      "size": 91510,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Arp Fadeout.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-15 Seafoam - Arp Fadeout.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-15%20Seafoam%20-%20Arp%20Fadeout.wav",
+      "sha256": "c86d834dc862f7511f756091602dab7c156a8405857fbf51c06ced85ae8f2940",
+      "size": 1974966,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Little Note Run.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-18 Mindless Compliance - Little Note Run.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-18%20Mindless%20Compliance%20-%20Little%20Note%20Run.wav",
+      "sha256": "745b9edea9d9e932936797b2ddfa1ce589a2e12157d962dc6fdf300e950069fc",
+      "size": 141302,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - I Just Like This Bit.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-10-25 Trapistry - I Just Like This Bit.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-10-25%20Trapistry%20-%20I%20Just%20Like%20This%20Bit.wav",
+      "sha256": "f4cc5869be050f2969c277cad665fd985ce69f19c26ffebff739231a82bcca59",
+      "size": 4694730,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - I Dig This One Too.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-11-13 Bodega Run - I Dig This One Too.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-11-13%20Bodega%20Run%20-%20I%20Dig%20This%20One%20Too.wav",
+      "sha256": "7f429d29ff4b90b83ab2fe59e489284a1022f8566b783da9844e58d5cf73e404",
+      "size": 3956824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Haunted Synth.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-13 A Call From the Other Side - Haunted Synth.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Haunted%20Synth.wav",
+      "sha256": "566ba3970012af279bc57b11b1222ed8c4d41c9e92193003a4f9cda63768e5d2",
+      "size": 4484460,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Trouble Fading.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-13 A Call From the Other Side - Trouble Fading.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Trouble%20Fading.wav",
+      "sha256": "d0c5bc7ce9beb411d5020293f2a93051c5e51c130597f070849899d7a080af5a",
+      "size": 2709100,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Lil Plucks.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2023-12-20 Neon AM - Lil Plucks.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2023-12-20%20Neon%20AM%20-%20Lil%20Plucks.wav",
+      "sha256": "bc73abcde71bdc5dbdfda63ae67564593b43cbfafc350dbc6fb77240e93dda89",
+      "size": 176082,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Cooldown Solo.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-03 Project 56 - Cooldown Solo.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-03%20Project%2056%20-%20Cooldown%20Solo.wav",
+      "sha256": "769cfbc9c8e3f99a38d42165e87ff69b975ef70fbe7bb11440ad957ea14811de",
+      "size": 4661616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Bass Walkup.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Bass Walkup.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-13%20Bioluminescence%20-%20Bass%20Walkup.wav",
+      "sha256": "543aea5a24bea54aa8f21106561eed20e491cb418d0e642296cc5d8e7c9dcfa0",
+      "size": 255212,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Bloop Lead.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Bloop Lead.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-13%20Bioluminescence%20-%20Bloop%20Lead.wav",
+      "sha256": "40ccbbf6cdd9334e4db2390d89a982bc01229da6441ada5a31b95f3325632a4b",
+      "size": 940552,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Quiet Piano.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-13 Bioluminescence - Quiet Piano.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-13%20Bioluminescence%20-%20Quiet%20Piano.wav",
+      "sha256": "acba126c502de21ed0b2370acae7c40bc9d69cad5f91bad4c751cb9093ccb42a",
+      "size": 492416,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Pads and Plucks.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-17 Never Enough - Pads and Plucks.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-17%20Never%20Enough%20-%20Pads%20and%20Plucks.wav",
+      "sha256": "9e5ff5a183a54ff133de26442b5f8d2d5efd222884d8811c78a72bd1219722be",
+      "size": 460356,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - More Smooth Jazz.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Solos/2024-01-20 At the Threshold - More Smooth Jazz.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Solos/2024-01-20%20At%20the%20Threshold%20-%20More%20Smooth%20Jazz.wav",
+      "sha256": "829e92503157920a4b03c8342efc3599c0458fb0fdeb2d17bf568cb48711290e",
+      "size": 4056446,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Triplet Unison.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-06 Moonlit Chill Breeze - Triplet Unison.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Triplet%20Unison.wav",
+      "sha256": "dae8cb97c61b26bd924775bb02fc73d6caea68e9c5a674a615dd55568e5cb3a0",
+      "size": 977700,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Buffer Overflow.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Buffer Overflow.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Buffer%20Overflow.wav",
+      "sha256": "a4daaf56126c2ff44b13e60642d7dd342de021df48116ff483ec05113e913bbe",
+      "size": 647202,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Conditional Formatting.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Conditional Formatting.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Conditional%20Formatting.wav",
+      "sha256": "bf9795e7143982fc3f38aaf181d14b945230f593d39097f04fe4fa2d15068256",
+      "size": 2693014,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Copy Previous Cell.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-13 For Those Who Love Spreadsheets - Copy Previous Cell.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Copy%20Previous%20Cell.wav",
+      "sha256": "6744348d33a99c8bed6ebe17fba877ebc2d5b9525f60564c04beb11e47db2791",
+      "size": 543150,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - When We Close Our Eyes.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-20 Dream Sequence - When We Close Our Eyes.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-20%20Dream%20Sequence%20-%20When%20We%20Close%20Our%20Eyes.wav",
+      "sha256": "7aebb60783a0119b8c2715cb43ed99d6ef08fab09088c427ba981cf23388e195",
+      "size": 1703258,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - You're Already Dreaming.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-09-20 Dream Sequence - You're Already Dreaming.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-09-20%20Dream%20Sequence%20-%20You%27re%20Already%20Dreaming.wav",
+      "sha256": "255c0686d99aac7e5ea1a257bd1801c7f9f4d0d8da83813c92aa28448301d414",
+      "size": 775846,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - It is Now Safe.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-07 Rest of the Weary - It is Now Safe.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-10-07%20Rest%20of%20the%20Weary%20-%20It%20is%20Now%20Safe.wav",
+      "sha256": "1e09de6a751a42256daddcd4a251260b6ade4002e341e3a66c573d738fe3c2db",
+      "size": 881042,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - What Can I Say.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-09 Having a Normal One - What Can I Say.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-10-09%20Having%20a%20Normal%20One%20-%20What%20Can%20I%20Say.wav",
+      "sha256": "d4deaba4a85a9ca2f38b6fa3c84e6cefdee76b22a13cc3fe621bd15ea2cd13bf",
+      "size": 196570,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Quiet Waves.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-15 Seafoam - Quiet Waves.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-10-15%20Seafoam%20-%20Quiet%20Waves.wav",
+      "sha256": "d8bba7c843ed7ef62233a5b8d38f1fcfa08e0b5bdcd6d368d4f2ae3d580e66ee",
+      "size": 1151410,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Take Matters Into Your Own Hands.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-18 Mindless Compliance - Take Matters Into Your Own Hands.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-10-18%20Mindless%20Compliance%20-%20Take%20Matters%20Into%20Your%20Own%20Hands.wav",
+      "sha256": "5567af66391324ee600b9d0d71b11a7cac666e95a53681011e3b5e2c1b928b94",
+      "size": 1114522,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Pad With Pitch Bend.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-10-28 Penny Wishes - Pad With Pitch Bend.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-10-28%20Penny%20Wishes%20-%20Pad%20With%20Pitch%20Bend.wav",
+      "sha256": "ec3d65c21628f459470daf33c532b5ab7d6e95ff5275c4f4f3573bb373cf8145",
+      "size": 539748,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Synth Woop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-06 Coding Vibes - Synth Woop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-12-06%20Coding%20Vibes%20-%20Synth%20Woop.wav",
+      "sha256": "909118e736e99d05d943e8dfa300e910e6789b707bdf7254b775fdae938c00c4",
+      "size": 63712,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Audio Swirl.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-13 A Call From the Other Side - Audio Swirl.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Audio%20Swirl.wav",
+      "sha256": "9eb9adeb027a61fdec55ec441b2f237fc0af39177b94b429c703c526bb590a17",
+      "size": 603876,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Hello Ben Underscore Burnes.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello Ben Underscore Burnes.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Hello%20Ben%20Underscore%20Burnes.wav",
+      "sha256": "619a2ae452261e68288afe87b58fccdd208b2283f6648bbf74f483746dbabab5",
+      "size": 2495798,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Hello.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Hello.wav",
+      "sha256": "329724e0834e1e3f8f7360cce74512342f1c1db2369d61cac77cf4292972d451",
+      "size": 163842,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Pad With Mumbles.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Pad With Mumbles.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Pad%20With%20Mumbles.wav",
+      "sha256": "1cb767d4bcd46b51d5b37a6c3cf96d5a64fcabbd371a6f9884d1d723149dca00",
+      "size": 747870,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Descending Boop.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-03 Project 56 - Descending Boop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2024-01-03%20Project%2056%20-%20Descending%20Boop.wav",
+      "sha256": "8316a369c2ea9974c170553bc4762e626ae9c5c58cde3ef78352ed7aacf96740",
+      "size": 232720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Downlifter Crash.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-09 Emulsified - Downlifter Crash.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2024-01-09%20Emulsified%20-%20Downlifter%20Crash.wav",
+      "sha256": "d12a1526340525b9792a2c302ce584a12a1e75de9768ba9b8916860852c63352",
+      "size": 851152,
+      "role": "Audio"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Little Fills.wav",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/sounds/Weird/2024-01-09 Emulsified - Little Fills.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/sounds/Weird/2024-01-09%20Emulsified%20-%20Little%20Fills.wav",
+      "sha256": "2725f23f281d0af642d7f99bd81d9c78a6713aaa9fce0d42f8877cf2c603b524",
+      "size": 110868,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Classic Jazz Snlap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-09-06 Moonlit Chill Breeze - Classic Jazz Snlap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Classic%20Jazz%20Snlap.png",
+      "sha256": "21ce41052a87b77474d49fb948bfdd1446b0cfd5e920f0c091282e7732295657",
+      "size": 4639,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 06 Moonlit Chill Breeze Classic Jazz Snlap"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Substring.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-09-13 For Those Who Love Spreadsheets - Substring.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Substring.png",
+      "sha256": "b8d5ee31ddaef837d84cb7a9ea32805fb7619073224cb8493708921ec0b98fda",
+      "size": 2995,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Substring"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Big Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-09-27 200ms - Big Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-09-27%20200ms%20-%20Big%20Kick.png",
+      "sha256": "6a0bcac41ed7e7ab73fd6379fc1673f156f6b8c0c9cccdb9cd640e3feb3119a4",
+      "size": 4614,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 27 200ms Big Kick"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Lil Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-10-07 Rest of the Weary - Lil Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-10-07%20Rest%20of%20the%20Weary%20-%20Lil%20Clap.png",
+      "sha256": "4527e91304f03f8af59ec83d88867338535e44d706174d46ce0c60c3d3ae6c32",
+      "size": 3651,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary Lil Clap"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - The Smallest Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-10-09 Having a Normal One - The Smallest Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-10-09%20Having%20a%20Normal%20One%20-%20The%20Smallest%20Clap.png",
+      "sha256": "bedc6d5fd9d209ebef4a59ba555bc175de8770cc3712665094d4c59f05a9eaad",
+      "size": 2689,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 09 Having A Normal One The Smallest Clap"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Whine Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-10-11 Labradorescence - Whine Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-10-11%20Labradorescence%20-%20Whine%20Kick.png",
+      "sha256": "891c83d7691161a0b595a6606e107f13a9e05bb4b17cfeb6572f773f5ddba5de",
+      "size": 3247,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 11 Labradorescence Whine Kick"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Resonant Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-10-15 Seafoam - Resonant Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-10-15%20Seafoam%20-%20Resonant%20Clap.png",
+      "sha256": "88914f442d5d7f91d0c7d8286efdc1b6f428d5d636c2201a7d5d301c4a9e78f1",
+      "size": 4245,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Resonant Clap"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Tiny Snare Fill.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-10-15 Seafoam - Tiny Snare Fill.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-10-15%20Seafoam%20-%20Tiny%20Snare%20Fill.png",
+      "sha256": "4f4ea5a1f4ed4e24edfa54f6b8ecdfc16cab9175e3c5836a26a0f05162ff944e",
+      "size": 4663,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Tiny Snare Fill"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-11-13 Bodega Run - Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-11-13%20Bodega%20Run%20-%20Clap.png",
+      "sha256": "96f46737a2fbedbabfc699bd58308f9f1a2d36e2f7078b1b8e773532e4c1456d",
+      "size": 4549,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 11 13 Bodega Run Clap"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Nice and Simple Drum Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-11-13 Bodega Run - Nice and Simple Drum Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-11-13%20Bodega%20Run%20-%20Nice%20and%20Simple%20Drum%20Loop.png",
+      "sha256": "63354dced68a362e53d0e8b956a29131f91649497ff5b371c9bcf25cf1fdd07a",
+      "size": 3301,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 11 13 Bodega Run Nice And Simple Drum Loop"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Lil Snare.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-12-06 Coding Vibes - Lil Snare.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-12-06%20Coding%20Vibes%20-%20Lil%20Snare.png",
+      "sha256": "cb35fc3b5f0eeab0248ed63b9299d88024908ac04ddff737d84272633e98555c",
+      "size": 4449,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Lil Snare"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Solid Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-12-06 Coding Vibes - Solid Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-12-06%20Coding%20Vibes%20-%20Solid%20Kick.png",
+      "sha256": "eb251597094634390e5ae57b5b1e2771e71d6e8acb9fb68d76a8c0084240208e",
+      "size": 3417,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Solid Kick"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Discord Strike.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-12-13 A Call From the Other Side - Discord Strike.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Discord%20Strike.png",
+      "sha256": "8da2ac6041a7e465dbbf6c91d9871fbed21ebc7c39909c7d73b43ca6958a7d13",
+      "size": 4448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side Discord Strike"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Echoed Drum Boops.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-12-20 Neon AM - Echoed Drum Boops.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-12-20%20Neon%20AM%20-%20Echoed%20Drum%20Boops.png",
+      "sha256": "772a6e27be41afe8814f164a472ff4d060b7723debcc7f4c2c6001ead57e81c9",
+      "size": 3073,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 20 Neon AM Echoed Drum Boops"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Good Snare.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2023-12-27 One Last Keysmash Before the Year Ends - Good Snare.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Good%20Snare.png",
+      "sha256": "5c8d489d0d8275f17ec89cebdd5f4e3d551e70ad20de33e8c4c47ba7b7fce558",
+      "size": 4172,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 27 One Last Keysmash Before The Year Ends Good Snare"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Bassy Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-03 Project 56 - Bassy Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-03%20Project%2056%20-%20Bassy%20Kick.png",
+      "sha256": "0d4367c5d7e6c74691242a7a7d8a994a487729b8d2ed9adac1742eb9fec62f12",
+      "size": 4669,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Bassy Kick"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Chunky Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-03 Project 56 - Chunky Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-03%20Project%2056%20-%20Chunky%20Kick.png",
+      "sha256": "c7f119e76011b772a80af037527e6e24a2abc81d9454474fba9615f6239722cc",
+      "size": 4750,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Chunky Kick"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Cool Pop Sound.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-03 Project 56 - Cool Pop Sound.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-03%20Project%2056%20-%20Cool%20Pop%20Sound.png",
+      "sha256": "19619f027917f1f0c99b5c28cf1c5d25f26ff53a17e73b6ab3cdd61a601c011d",
+      "size": 3142,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Cool Pop Sound"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Nice Snare.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-03 Project 56 - Nice Snare.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-03%20Project%2056%20-%20Nice%20Snare.png",
+      "sha256": "065dc8e749f8fd88b3df902c043f057bdc34c84ee4d658652977ebbc3387f4a3",
+      "size": 4378,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Nice Snare"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - House Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-09 Emulsified - House Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-09%20Emulsified%20-%20House%20Clap.png",
+      "sha256": "387a6ae89c596bcd02786d06830efe05053b5a6af04ca22dba815eaada3716e3",
+      "size": 3732,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 09 Emulsified House Clap"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - EDM Clap.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-17 Never Enough - EDM Clap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-17%20Never%20Enough%20-%20EDM%20Clap.png",
+      "sha256": "ba81124f71bd9f3017f0a087b1bab186a1f41ed5b72fbb89cb24f39bcd903924",
+      "size": 4026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough EDM Clap"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Fuzzy Kick.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-17 Never Enough - Fuzzy Kick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-17%20Never%20Enough%20-%20Fuzzy%20Kick.png",
+      "sha256": "1339b8ce624b60999d36c1d00ac4a02214ae5b5edee3ee75c38c07546e81c2ef",
+      "size": 2419,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough Fuzzy Kick"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Kick and Clave.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Drums/2024-01-17 Never Enough - Kick and Clave.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Drums/2024-01-17%20Never%20Enough%20-%20Kick%20and%20Clave.png",
+      "sha256": "a3cf37aae44a7d2871312233d32f64944bb44eb6a64c71163866e92d5e8268bc",
+      "size": 2642,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough Kick And Clave"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Chillout.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-09-06 Moonlit Chill Breeze - Chillout.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Chillout.png",
+      "sha256": "68fab36a766da521d939de6e1740af58c0dcf9e06bb8a40b9aaa5e61bab5ed85",
+      "size": 4611,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 06 Moonlit Chill Breeze Chillout"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Select Column Span.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-09-13 For Those Who Love Spreadsheets - Select Column Span.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Select%20Column%20Span.png",
+      "sha256": "c31c5f7fafa2ddd8b3f94c4e18348feec0009ff34825ed58c66f3cc97cda262d",
+      "size": 3389,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Select Column Span"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Uplifting Synths.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-09-20 Dream Sequence - Uplifting Synths.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-09-20%20Dream%20Sequence%20-%20Uplifting%20Synths.png",
+      "sha256": "f7a1b2cae69825b0f231ac5175778a4dae4f3b21a708c49dd870a1d2b90d07b2",
+      "size": 4581,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 20 Dream Sequence Uplifting Synths"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Nice Arp Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-09-27 200ms - Nice Arp Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-09-27%20200ms%20-%20Nice%20Arp%20Loop.png",
+      "sha256": "11bdc93229d0e10e6482c47c9b83ecda3c5637f3d75b51510349c34fd5c2a4cd",
+      "size": 4928,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 27 200ms Nice Arp Loop"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - I Dig This Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-09 Having a Normal One - I Dig This Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-09%20Having%20a%20Normal%20One%20-%20I%20Dig%20This%20Loop.png",
+      "sha256": "becde311b6092e297afd7ecf03f3919487c4840f86b19d8b34066eda56a2c9fd",
+      "size": 4504,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 09 Having A Normal One I Dig This Loop"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - BIG.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-11 Labradorescence - BIG.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-11%20Labradorescence%20-%20BIG.png",
+      "sha256": "64e1027e61ac7c18de04e7eeca1b42db393758a45777f0c2c7635b4d41163e1c",
+      "size": 4914,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 11 Labradorescence BIG"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Mechanical.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-11 Labradorescence - Mechanical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-11%20Labradorescence%20-%20Mechanical.png",
+      "sha256": "057f78bcb82dd451011fdd2673ba99561eefc52426221cca2d32367416fa2ba9",
+      "size": 4804,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 11 Labradorescence Mechanical"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Tension.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-15 Seafoam - Tension.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-15%20Seafoam%20-%20Tension.png",
+      "sha256": "54f9dd9d2508f46a416f5446d2c7219c31a20e1a8fca227f4074ab78bf3206da",
+      "size": 4962,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Tension"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - Intro Mystery.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-25 Trapistry - Intro Mystery.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-25%20Trapistry%20-%20Intro%20Mystery.png",
+      "sha256": "0e65746a0b3e3a98f37e5a2aa3f4651ccf186ba42232e06e13aa9116cd7d6651",
+      "size": 4641,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 25 Trapistry Intro Mystery"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Fairy Fountain.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-28 Penny Wishes - Fairy Fountain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-28%20Penny%20Wishes%20-%20Fairy%20Fountain.png",
+      "sha256": "4af7c2f2a9c0c446db00a5b2a4c2b6a173ffd2627c09fb451c43a4f85dbd329a",
+      "size": 4909,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 28 Penny Wishes Fairy Fountain"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Piano.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-10-28 Penny Wishes - Piano.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-10-28%20Penny%20Wishes%20-%20Piano.png",
+      "sha256": "f5ae5a3a25aa45ec8047d937cfc76aea3e9a98a30ea6ebc556c14a7b96e4d101",
+      "size": 4424,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 28 Penny Wishes Piano"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Hard To Go Wrong With DnB.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-12-06 Coding Vibes - Hard To Go Wrong With DnB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-12-06%20Coding%20Vibes%20-%20Hard%20To%20Go%20Wrong%20With%20DnB.png",
+      "sha256": "562ea6299d2c239a2e64e2c84b42bd0ad067ac49b05a4509da287809b21b9b3c",
+      "size": 5023,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Hard To Go Wrong With Dnb"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Lush Pad Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-12-06 Coding Vibes - Lush Pad Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-12-06%20Coding%20Vibes%20-%20Lush%20Pad%20Loop.png",
+      "sha256": "bb42cb066022a2afd4d66a8e5ce8f91d0d65ec4a61dc878246228eac54e5b65c",
+      "size": 4571,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Lush Pad Loop"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - That Part in Poltergeist When Things Get Crazy.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2023-12-13 A Call From the Other Side - That Part in Poltergeist When Things Get Crazy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20That%20Part%20in%20Poltergeist%20When%20Things%20Get%20Crazy.png",
+      "sha256": "478d3bbfa3aa1b54a0af8e6f4b2c571f5aaf2afb38ff2cd260145fdf9d3fa1a1",
+      "size": 4752,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side That Part In Poltergeist When Things Get Crazy"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Chill EDM.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2024-01-09 Emulsified - Chill EDM.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2024-01-09%20Emulsified%20-%20Chill%20EDM.png",
+      "sha256": "8d1fdf95a29b701d13243e6eaf198faf94fa11035686d5f14c883c43a4a8be10",
+      "size": 3772,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 09 Emulsified Chill EDM"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Little Bass Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2024-01-17 Never Enough - Little Bass Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2024-01-17%20Never%20Enough%20-%20Little%20Bass%20Loop.png",
+      "sha256": "01251100b46903d5ac6d7219541ee77284ec667045a42fa93a10628a8205161f",
+      "size": 4315,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough Little Bass Loop"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Neat Rhythm.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2024-01-17 Never Enough - Neat Rhythm.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2024-01-17%20Never%20Enough%20-%20Neat%20Rhythm.png",
+      "sha256": "91c6930fae8ae9da9c7e2a9636904f794a900bc44ad6021b097da3c31e5c414e",
+      "size": 2689,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough Neat Rhythm"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - Smooth Jazz Loop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Loops/2024-01-20 At the Threshold - Smooth Jazz Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Loops/2024-01-20%20At%20the%20Threshold%20-%20Smooth%20Jazz%20Loop.png",
+      "sha256": "68ae4d3e25379c0afe8d201425d6dec9ebf825dd3138bc888d3cddaacbe757d1",
+      "size": 4593,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 20 At The Threshold Smooth Jazz Loop"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Lush Outro.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-09-06 Moonlit Chill Breeze - Lush Outro.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Lush%20Outro.png",
+      "sha256": "5aaa82b56ce8cf29e33eda4654ddf5b3e0bf263191e0bdfb98f16fb60d6402db",
+      "size": 3410,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 06 Moonlit Chill Breeze Lush Outro"
+    },
+    {
+      "fileName": "2023-09-27 200ms - Slightly Metallic.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-09-27 200ms - Slightly Metallic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-09-27%20200ms%20-%20Slightly%20Metallic.png",
+      "sha256": "dd4a07adbf4061c0fc02c13dd4894b1465f5c9f38a274b4d83141ef361dff9a9",
+      "size": 3993,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 27 200ms Slightly Metallic"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Ethereal.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-04 Déjà Voodoo - Ethereal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Ethereal.png",
+      "sha256": "21d126981b056e897b88e0bb90be25227b6f25ac369de718cc70e7c032a2bdb1",
+      "size": 4837,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 04 Déjà Voodoo Ethereal"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Fading Away.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-04 Déjà Voodoo - Fading Away.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Fading%20Away.png",
+      "sha256": "66c29efe4b5eca331b6fb767e2fe4633e0bd3b86f141a40b77659c6e7b0c9d13",
+      "size": 4377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 04 Déjà Voodoo Fading Away"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Time to Rest.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-07 Rest of the Weary - Time to Rest.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-07%20Rest%20of%20the%20Weary%20-%20Time%20to%20Rest.png",
+      "sha256": "b989192565e4fdb24c602225cfae7c0985bf7017594d46a93031c59e52ebda09",
+      "size": 4577,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary Time To Rest"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Vocal Grains.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-07 Rest of the Weary - Vocal Grains.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-07%20Rest%20of%20the%20Weary%20-%20Vocal%20Grains.png",
+      "sha256": "1bbb78afaa8a5c5802a977b589f98a4299a20696d2c9488ec0393f8ca057f162",
+      "size": 4793,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary Vocal Grains"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Ancient Signal.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-11 Labradorescence - Ancient Signal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-11%20Labradorescence%20-%20Ancient%20Signal.png",
+      "sha256": "1db361752c715037c6122d3d3e4d129b9ae2cc5b553167f9435cf86b891037d5",
+      "size": 2826,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 11 Labradorescence Ancient Signal"
+    },
+    {
+      "fileName": "2023-10-11 Labradorescence - Whine Fades.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-11 Labradorescence - Whine Fades.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-11%20Labradorescence%20-%20Whine%20Fades.png",
+      "sha256": "b4a69fdb5cd9459951b4d26d7a97a3babc5900649606904200cc1ef59adee70b",
+      "size": 4527,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 11 Labradorescence Whine Fades"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Synth Fade.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-15 Seafoam - Synth Fade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-15%20Seafoam%20-%20Synth%20Fade.png",
+      "sha256": "a6d2699a8d63fa0e7891d749e83ed3f31adc30bebf1e63bebb64b1580fc31e00",
+      "size": 4315,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Synth Fade"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Cool Piano.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-18 Mindless Compliance - Cool Piano.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-18%20Mindless%20Compliance%20-%20Cool%20Piano.png",
+      "sha256": "68eff59b2e9e39324b7e814b05a77e6cdfafc477297ad0a508f05b5abb838623",
+      "size": 4343,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 18 Mindless Compliance Cool Piano"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Intro Wash of Color.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-18 Mindless Compliance - Intro Wash of Color.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-18%20Mindless%20Compliance%20-%20Intro%20Wash%20of%20Color.png",
+      "sha256": "8d2108a78aa6ca0d2e71e724db6dc85367120720e28c87cc23c747e485ac7d35",
+      "size": 4432,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 18 Mindless Compliance Intro Wash Of Color"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - Rhodes Chords.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-10-25 Trapistry - Rhodes Chords.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-10-25%20Trapistry%20-%20Rhodes%20Chords.png",
+      "sha256": "3e620b275d5d22ac2fb99c8b977f84c7af64ee77c000d24cea9e5e177ddbe3ac",
+      "size": 4026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 25 Trapistry Rhodes Chords"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - Rhodes Fade.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-11-13 Bodega Run - Rhodes Fade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-11-13%20Bodega%20Run%20-%20Rhodes%20Fade.png",
+      "sha256": "b6635c0717d8d57e28e25ffc39e8ae63fad69758c72dbacf90c39a52477e04ee",
+      "size": 3484,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 11 13 Bodega Run Rhodes Fade"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Pad Fade.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-12-06 Coding Vibes - Pad Fade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-12-06%20Coding%20Vibes%20-%20Pad%20Fade.png",
+      "sha256": "116ce583edcf855f9b3e08c3b930d420e02f7df74547625864c9763220a490b6",
+      "size": 3892,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Pad Fade"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Tension Pad.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-12-13 A Call From the Other Side - Tension Pad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Tension%20Pad.png",
+      "sha256": "42f1578bc2c51a416e7a5835496f7de4ede551c2b327953666a0c4787a77397a",
+      "size": 3833,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side Tension Pad"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Kick Pad.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-12-20 Neon AM - Kick Pad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-12-20%20Neon%20AM%20-%20Kick%20Pad.png",
+      "sha256": "66cc73c6d3430da569ab4710f545fc93509ca3f9a5d3904466c484f9a2045806",
+      "size": 2880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 20 Neon AM Kick Pad"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Rhodes Chord.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-12-20 Neon AM - Rhodes Chord.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-12-20%20Neon%20AM%20-%20Rhodes%20Chord.png",
+      "sha256": "2fbeecede5d6411b08ed8583bbf0ebe1e56cd22d0157b5ce54ca0f77a488501d",
+      "size": 4667,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 20 Neon AM Rhodes Chord"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Trumpet Pad.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2023-12-20 Neon AM - Trumpet Pad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2023-12-20%20Neon%20AM%20-%20Trumpet%20Pad.png",
+      "sha256": "f06f3b1077b0f23850af4ee3467e21768c4c918936b6b8803812f330c459c783",
+      "size": 4660,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 20 Neon AM Trumpet Pad"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Rhodes Tone.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-03 Project 56 - Rhodes Tone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-03%20Project%2056%20-%20Rhodes%20Tone.png",
+      "sha256": "dcc42186df9b8f3da79e6b20b2a9798fb98c911bbfa0dd9fde14d19ac74d5e86",
+      "size": 2714,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Rhodes Tone"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Stab Fade.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-09 Emulsified - Stab Fade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-09%20Emulsified%20-%20Stab%20Fade.png",
+      "sha256": "836be7326f48999dc5b97d05b41efe7b51a8477ef28212c75e4e46d3240a0c67",
+      "size": 2585,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 09 Emulsified Stab Fade"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Rhodes Fade.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-13 Bioluminescence - Rhodes Fade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-13%20Bioluminescence%20-%20Rhodes%20Fade.png",
+      "sha256": "b37e332f225204aca594094f57b82cc0bc4f6bd7cdf4abbc436f6d7032db1ada",
+      "size": 3613,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 13 Bioluminescence Rhodes Fade"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Watery Pad.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-13 Bioluminescence - Watery Pad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-13%20Bioluminescence%20-%20Watery%20Pad.png",
+      "sha256": "a820e25dc6a49c1fea1b1671eea56f6b717e2f62c1f1fcdd0c797c83a221b00f",
+      "size": 4483,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 13 Bioluminescence Watery Pad"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - The End of An Era.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-20 At the Threshold - The End of An Era.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-20%20At%20the%20Threshold%20-%20The%20End%20of%20An%20Era.png",
+      "sha256": "6d401e8b506aa33d41f0457e2e3cc1f0fd601682192323e9a74c0e53e5c1b06f",
+      "size": 3680,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 20 At The Threshold The End Of An Era"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - Yet More Rhodes.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Pads/2024-01-20 At the Threshold - Yet More Rhodes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Pads/2024-01-20%20At%20the%20Threshold%20-%20Yet%20More%20Rhodes.png",
+      "sha256": "9615a0d92c398817e01925fb7c0834e4df2eb5b4c1238eb25159e83dd9ba987c",
+      "size": 4797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 20 At The Threshold Yet More Rhodes"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Sum Span.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-09-13 For Those Who Love Spreadsheets - Sum Span.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Sum%20Span.png",
+      "sha256": "95abcb9cd38e2c764a3f0af37733c3ab7290610b7710d982742866b1d9831776",
+      "size": 3931,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Sum Span"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Synth to Pad.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-09-20 Dream Sequence - Synth to Pad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-09-20%20Dream%20Sequence%20-%20Synth%20to%20Pad.png",
+      "sha256": "2b231fa04ec29717f120cd1cd6895879753752903264f155c905c422ada45b03",
+      "size": 4380,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 20 Dream Sequence Synth To Pad"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - Whole Tone Scale.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-09-20 Dream Sequence - Whole Tone Scale.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-09-20%20Dream%20Sequence%20-%20Whole%20Tone%20Scale.png",
+      "sha256": "66815060ef31084be98ab1a694b8713c6d040a22211d80748ea5cc6552b601bf",
+      "size": 4859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 20 Dream Sequence Whole Tone Scale"
+    },
+    {
+      "fileName": "2023-10-04 Déjà Voodoo - Smol Bass Run.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-04 Déjà Voodoo - Smol Bass Run.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-04%20D%C3%A9j%C3%A0%20Voodoo%20-%20Smol%20Bass%20Run.png",
+      "sha256": "79d755ebb60b7eed22b5d8701283dee6ee31b13597a86b808fc392649686140e",
+      "size": 4883,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 04 Déjà Voodoo Smol Bass Run"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Bigg Bass.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-07 Rest of the Weary - Bigg Bass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-07%20Rest%20of%20the%20Weary%20-%20Bigg%20Bass.png",
+      "sha256": "b71ae4eb4efa8147656772f6e893a68ff54f1c4b2914717fd49ceab5685a8990",
+      "size": 4700,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary Bigg Bass"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - Floating Lights.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-07 Rest of the Weary - Floating Lights.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-07%20Rest%20of%20the%20Weary%20-%20Floating%20Lights.png",
+      "sha256": "ff4a95abe866ab817ad87c7fcab7394bc9e4c968cd195c741278f13ba09b761b",
+      "size": 4621,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary Floating Lights"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - Melodic Thunk.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-09 Having a Normal One - Melodic Thunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-09%20Having%20a%20Normal%20One%20-%20Melodic%20Thunk.png",
+      "sha256": "0abe4949c18027a6dc6cd7bb9ba053fa805ac86776dbbf26f07b336d380086e4",
+      "size": 3022,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 09 Having A Normal One Melodic Thunk"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Arp Fadeout.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-15 Seafoam - Arp Fadeout.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-15%20Seafoam%20-%20Arp%20Fadeout.png",
+      "sha256": "6ab660c87622b1b26bbf31756a5e5281e6a099dab447e4233e490621691659fb",
+      "size": 3940,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Arp Fadeout"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Little Note Run.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-18 Mindless Compliance - Little Note Run.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-18%20Mindless%20Compliance%20-%20Little%20Note%20Run.png",
+      "sha256": "f70a309a7831fbdc486c49f705fce9f4d38cd6bd04476671a27e72d97591db20",
+      "size": 4882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 18 Mindless Compliance Little Note Run"
+    },
+    {
+      "fileName": "2023-10-25 Trapistry - I Just Like This Bit.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-10-25 Trapistry - I Just Like This Bit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-10-25%20Trapistry%20-%20I%20Just%20Like%20This%20Bit.png",
+      "sha256": "59e64443c964fdee962b0870a0ed3f8f3e0ad080984d901e00ac900a479b3dfc",
+      "size": 5031,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 25 Trapistry I Just Like This Bit"
+    },
+    {
+      "fileName": "2023-11-13 Bodega Run - I Dig This One Too.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-11-13 Bodega Run - I Dig This One Too.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-11-13%20Bodega%20Run%20-%20I%20Dig%20This%20One%20Too.png",
+      "sha256": "0b923552591a65fd0c4b5185d06f269eee849a6194ffba02b3e04acec0238a66",
+      "size": 4618,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 11 13 Bodega Run I Dig This One Too"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Haunted Synth.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-12-13 A Call From the Other Side - Haunted Synth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Haunted%20Synth.png",
+      "sha256": "f31a9fd2bd74877cedd82ed57ea6997a769b6006887f32c9f68dd3926517b6a9",
+      "size": 4980,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side Haunted Synth"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Trouble Fading.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-12-13 A Call From the Other Side - Trouble Fading.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Trouble%20Fading.png",
+      "sha256": "d41ab4f739afa0a8d72761b4f6e9756a61b28b8f4c3623ba8ce1c00a80954635",
+      "size": 3763,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side Trouble Fading"
+    },
+    {
+      "fileName": "2023-12-20 Neon AM - Lil Plucks.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2023-12-20 Neon AM - Lil Plucks.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2023-12-20%20Neon%20AM%20-%20Lil%20Plucks.png",
+      "sha256": "2964f5e3891605327fb5334c59bb898f5c1c2dc23727aa7bd209e570355e7c76",
+      "size": 4637,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 20 Neon AM Lil Plucks"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Cooldown Solo.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-03 Project 56 - Cooldown Solo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-03%20Project%2056%20-%20Cooldown%20Solo.png",
+      "sha256": "64ddb2561870d8d378d2a1ef5494ac6d0728b5edb502a31164a95456c1107131",
+      "size": 3948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Cooldown Solo"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Bass Walkup.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-13 Bioluminescence - Bass Walkup.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-13%20Bioluminescence%20-%20Bass%20Walkup.png",
+      "sha256": "722b7bcba29d664f805173b22aaded0068b793a805b190617b887ff4bb1a44db",
+      "size": 5096,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 13 Bioluminescence Bass Walkup"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Bloop Lead.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-13 Bioluminescence - Bloop Lead.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-13%20Bioluminescence%20-%20Bloop%20Lead.png",
+      "sha256": "d553736063a1991eac54f0376b9a0868243efdcd04ff347ec6bc77652c23aa20",
+      "size": 4633,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 13 Bioluminescence Bloop Lead"
+    },
+    {
+      "fileName": "2024-01-13 Bioluminescence - Quiet Piano.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-13 Bioluminescence - Quiet Piano.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-13%20Bioluminescence%20-%20Quiet%20Piano.png",
+      "sha256": "2b11b558fa38a13215cd52bb3d4d2aa4c6232b869d02865ce5d93564ae3dc22b",
+      "size": 4359,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 13 Bioluminescence Quiet Piano"
+    },
+    {
+      "fileName": "2024-01-17 Never Enough - Pads and Plucks.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-17 Never Enough - Pads and Plucks.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-17%20Never%20Enough%20-%20Pads%20and%20Plucks.png",
+      "sha256": "ebc32a16a6a3e61f4ca76c1eed8a6dcc7c53ff0f598c42aefa712f2b32d94302",
+      "size": 4802,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 17 Never Enough Pads And Plucks"
+    },
+    {
+      "fileName": "2024-01-20 At the Threshold - More Smooth Jazz.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Solos/2024-01-20 At the Threshold - More Smooth Jazz.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Solos/2024-01-20%20At%20the%20Threshold%20-%20More%20Smooth%20Jazz.png",
+      "sha256": "48fe65ae1e331c3008c74355f987e163c1e0e433c80b249a47cd8eef47a2bbc1",
+      "size": 4760,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 20 At The Threshold More Smooth Jazz"
+    },
+    {
+      "fileName": "2023-09-06 Moonlit Chill Breeze - Triplet Unison.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-06 Moonlit Chill Breeze - Triplet Unison.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-06%20Moonlit%20Chill%20Breeze%20-%20Triplet%20Unison.png",
+      "sha256": "3667b5b6126571bed29bafa8e3e11b14125484cde87461375c49b18263cfa20b",
+      "size": 4870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 06 Moonlit Chill Breeze Triplet Unison"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Buffer Overflow.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-13 For Those Who Love Spreadsheets - Buffer Overflow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Buffer%20Overflow.png",
+      "sha256": "b245efe82bafb648da8e5639f36f789f1e219124f6608b6d7861f87c984ce4d7",
+      "size": 4057,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Buffer Overflow"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Conditional Formatting.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-13 For Those Who Love Spreadsheets - Conditional Formatting.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Conditional%20Formatting.png",
+      "sha256": "aadcb607704b2cfae8fd87154dd1efdb63698a03e046cfef64cea05991d59911",
+      "size": 3534,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Conditional Formatting"
+    },
+    {
+      "fileName": "2023-09-13 For Those Who Love Spreadsheets - Copy Previous Cell.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-13 For Those Who Love Spreadsheets - Copy Previous Cell.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-13%20For%20Those%20Who%20Love%20Spreadsheets%20-%20Copy%20Previous%20Cell.png",
+      "sha256": "ed8daf83ebe43a1d7d42891ef1cd4863f47bec0c3c7e570aa822a32c81f7d5de",
+      "size": 3151,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 13 For Those Who Love Spreadsheets Copy Previous Cell"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - When We Close Our Eyes.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-20 Dream Sequence - When We Close Our Eyes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-20%20Dream%20Sequence%20-%20When%20We%20Close%20Our%20Eyes.png",
+      "sha256": "2b93dd1afdc6afd2683aa3fbe524fd1584d654c255b9aae09f2814dbb8ac55bb",
+      "size": 4648,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 20 Dream Sequence When We Close Our Eyes"
+    },
+    {
+      "fileName": "2023-09-20 Dream Sequence - You're Already Dreaming.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-09-20 Dream Sequence - You're Already Dreaming.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-09-20%20Dream%20Sequence%20-%20You%27re%20Already%20Dreaming.png",
+      "sha256": "115bdf0ad0ea2d2e1352eb75bbf64a3b9a1f1bb5ed4352b8d77fdb268f59f793",
+      "size": 4061,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 09 20 Dream Sequence You're Already Dreaming"
+    },
+    {
+      "fileName": "2023-10-07 Rest of the Weary - It is Now Safe.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-10-07 Rest of the Weary - It is Now Safe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-10-07%20Rest%20of%20the%20Weary%20-%20It%20is%20Now%20Safe.png",
+      "sha256": "608d95bff66096c93f6fa269bfd0e46a33e7d494f82cf103092b95101262426a",
+      "size": 3724,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 07 Rest Of The Weary It Is Now Safe"
+    },
+    {
+      "fileName": "2023-10-09 Having a Normal One - What Can I Say.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-10-09 Having a Normal One - What Can I Say.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-10-09%20Having%20a%20Normal%20One%20-%20What%20Can%20I%20Say.png",
+      "sha256": "e4b7cf220f8d41b74f88203d06e3f659c21a05c5b353c36489c4c456c75ea319",
+      "size": 4423,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 09 Having A Normal One What Can I Say"
+    },
+    {
+      "fileName": "2023-10-15 Seafoam - Quiet Waves.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-10-15 Seafoam - Quiet Waves.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-10-15%20Seafoam%20-%20Quiet%20Waves.png",
+      "sha256": "ac80850f21cedf410fba6d8cc873065e7d870015c899177005d62b950ba912a7",
+      "size": 3983,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 15 Seafoam Quiet Waves"
+    },
+    {
+      "fileName": "2023-10-18 Mindless Compliance - Take Matters Into Your Own Hands.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-10-18 Mindless Compliance - Take Matters Into Your Own Hands.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-10-18%20Mindless%20Compliance%20-%20Take%20Matters%20Into%20Your%20Own%20Hands.png",
+      "sha256": "5828a05a8c8c7adc818d16d7aa7cab5a04832727b6a7903a65da122903206337",
+      "size": 4702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 18 Mindless Compliance Take Matters Into Your Own Hands"
+    },
+    {
+      "fileName": "2023-10-28 Penny Wishes - Pad With Pitch Bend.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-10-28 Penny Wishes - Pad With Pitch Bend.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-10-28%20Penny%20Wishes%20-%20Pad%20With%20Pitch%20Bend.png",
+      "sha256": "4c9904f18143e9dec6eab0c1ff5e1a84c71ef0c0b2c5d2110bffb496b09f3e60",
+      "size": 4880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 10 28 Penny Wishes Pad With Pitch Bend"
+    },
+    {
+      "fileName": "2023-12-06 Coding Vibes - Synth Woop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-12-06 Coding Vibes - Synth Woop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-12-06%20Coding%20Vibes%20-%20Synth%20Woop.png",
+      "sha256": "25bbe1d4ba95ea1ab862a7d4d84590a5121b6d90cdc7b394d87ac4e9697be084",
+      "size": 4390,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 06 Coding Vibes Synth Woop"
+    },
+    {
+      "fileName": "2023-12-13 A Call From the Other Side - Audio Swirl.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-12-13 A Call From the Other Side - Audio Swirl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-12-13%20A%20Call%20From%20the%20Other%20Side%20-%20Audio%20Swirl.png",
+      "sha256": "b2eeb245e0dd8bd853e33fe87a5e4f8df08a5a7bd64880eb64d2113a7c741a25",
+      "size": 4539,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 13 A Call From The Other Side Audio Swirl"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Hello Ben Underscore Burnes.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello Ben Underscore Burnes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Hello%20Ben%20Underscore%20Burnes.png",
+      "sha256": "c0bfe099fc6f06e174028b8e33fe303bf73497c1d2d48824e96d76ffe36a3e3d",
+      "size": 4816,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 27 One Last Keysmash Before The Year Ends Hello Ben Underscore Burnes"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Hello.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Hello.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Hello.png",
+      "sha256": "c4411845c70a0f06fbf25c93a60864834aac8545d21b1fb336cbe2ff53baa76a",
+      "size": 3642,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 27 One Last Keysmash Before The Year Ends Hello"
+    },
+    {
+      "fileName": "2023-12-27 One Last Keysmash Before the Year Ends - Pad With Mumbles.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2023-12-27 One Last Keysmash Before the Year Ends - Pad With Mumbles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2023-12-27%20One%20Last%20Keysmash%20Before%20the%20Year%20Ends%20-%20Pad%20With%20Mumbles.png",
+      "sha256": "0e08d99c72a88f1c33611843aeb6c99b803155bbd88fe034770753247b9d2a0a",
+      "size": 4883,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2023 12 27 One Last Keysmash Before The Year Ends Pad With Mumbles"
+    },
+    {
+      "fileName": "2024-01-03 Project 56 - Descending Boop.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2024-01-03 Project 56 - Descending Boop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2024-01-03%20Project%2056%20-%20Descending%20Boop.png",
+      "sha256": "9dbb73806269f65bf4cbc7f2ce3a713303199d57243fdda1f0c8c259750b0737",
+      "size": 3756,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 03 Project 56 Descending Boop"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Downlifter Crash.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2024-01-09 Emulsified - Downlifter Crash.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2024-01-09%20Emulsified%20-%20Downlifter%20Crash.png",
+      "sha256": "e5d2828c1094621c98e5ebc8da1eb7f600b76e4debeb813561f03895c1a4710c",
+      "size": 2840,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 09 Emulsified Downlifter Crash"
+    },
+    {
+      "fileName": "2024-01-09 Emulsified - Little Fills.png",
+      "path": "packs/BB_2HTC Samples Vol 4 Addendum/thumbnails/Weird/2024-01-09 Emulsified - Little Fills.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/BB_2HTC%20Samples%20Vol%204%20Addendum/thumbnails/Weird/2024-01-09%20Emulsified%20-%20Little%20Fills.png",
+      "sha256": "e050ce27732a0660fca0d1624cbe63b5fd772462541d07e8f7fc1b5069951d93",
+      "size": 3905,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "2024 01 09 Emulsified Little Fills"
+    }
+  ]
+}

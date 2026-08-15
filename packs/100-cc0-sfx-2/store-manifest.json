@@ -1,0 +1,3019 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "100 CC0 SFX #2",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-sfx-2",
+  "description": "Second pack of 100 CC0 sound effects: air, doors, footsteps, glass, hits, items, ambient/machine/water loops, metal, stones, switches, thunder and wood. By rubberduck (OpenGameArt).",
+  "folder": "packs/100-cc0-sfx-2",
+  "itemCount": 100,
+  "items": [
+    {
+      "name": "Air 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Whooshes & Transitions\"}"
+    },
+    {
+      "name": "Air 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Whooshes & Transitions\"}"
+    },
+    {
+      "name": "Air 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Whooshes & Transitions\"}"
+    },
+    {
+      "name": "Door 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Footstep 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wet 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wet 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wet 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wood 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wood 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wood 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep Wood 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Glass 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Items 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_items_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Items 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_items_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lock Open 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_lock_open_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Loop Ambient 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Ambient 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Ambient 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Ambient 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Construction Site",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_construction_site.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Highway",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_highway.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Metal 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 17",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_17.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 18",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_18.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 19",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_19.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 20",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_20.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 21",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_21.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 22",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_22.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 23",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_23.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 24",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_24.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 25",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_25.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 26",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_26.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 27",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_27.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 28",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_28.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 29",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_29.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 30",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_30.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 31",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_31.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 32",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_32.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 33",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_33.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 34",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_34.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 35",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_35.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 36",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_36.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 37",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_37.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Switch 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_switch_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Switch 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_switch_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thunder 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_thunder_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Wood 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "sfx100v2_air_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_air_01.ogg",
+      "sha256": "bb292a9fc082557e65199d01abe124459d910519b39c913ecb6c6f2207576d6f",
+      "size": 35391,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_air_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_air_02.ogg",
+      "sha256": "c2d5d5f73b70c155797c1655bdd1850145a47606803e1d9b6dd9c59d35a6909a",
+      "size": 18127,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_air_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_air_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_air_03.ogg",
+      "sha256": "df32019155c3a8b5fc77244126261695f762ba7018a4fc4c6d9ad201cedeb985",
+      "size": 8034,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_door_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_door_01.ogg",
+      "sha256": "3fffeef28d3c1662814c33411fe5e76cbb1f74fe58c9ed0cab796c57ca9846b7",
+      "size": 9219,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_door_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_door_02.ogg",
+      "sha256": "317b5caa1e2800dea1189b73ac2a6e4f92b137da7bfe115c7acc382c3f43da6e",
+      "size": 7694,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_door_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_door_03.ogg",
+      "sha256": "9776b3858ca41bb6e8363b8195a70ebc70e3404a6c08ead1907177c65ccd04b6",
+      "size": 12603,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_door_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_door_04.ogg",
+      "sha256": "76d65828142228ea2c25d936971437a77bfad30bf482e3d55d49081a8723590a",
+      "size": 7096,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_door_05.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_door_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_door_05.ogg",
+      "sha256": "96e51ecf6c493753740ae3ddd260734a079b5f492d087c7e68891ce78289e535",
+      "size": 8913,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_01.ogg",
+      "sha256": "007a96c62d6c335df0d292bdc5cf44fef768b7e2f14378759d03673be6be7ec6",
+      "size": 8134,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_02.ogg",
+      "sha256": "8b478a7245bbe358fcddaa5047f8f4e29c8eca52ff79c25d489b5f378747228c",
+      "size": 8318,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_01.ogg",
+      "sha256": "c2663b62fc7239972c044719b95daec4004976fc9bd0a1678c06170d99a3d408",
+      "size": 8079,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_02.ogg",
+      "sha256": "b2cfbdd75ee970dcb68cc157fec818eda2f5802989b0da684aa67817cb914b52",
+      "size": 9330,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wet_03.ogg",
+      "sha256": "4d475dd54d72a862cb72fcff4d1970161e619352f500f8b75755a2f5e987513e",
+      "size": 9029,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_01.ogg",
+      "sha256": "52465eeb853a8fa3cd9f4e218dc0b28bdcb3bb52da72f5bece5d47cae2523a20",
+      "size": 7391,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_02.ogg",
+      "sha256": "e6c35ceaabd50775ba222d8c9566e807b876debf066443626a0a4906849982d4",
+      "size": 7801,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_03.ogg",
+      "sha256": "c02fd155ca74ece4e5c9992f1d48c615bc768b0a8c712423d7091bc0f1207d4c",
+      "size": 6272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_footstep_wood_04.ogg",
+      "sha256": "d229d313dc89c5c1d337f2f348d75822695530832fd10469595a3d37c53118ab",
+      "size": 7591,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_01.ogg",
+      "sha256": "9c664345b242c2ff06e4d00b0383a03afe1b7bf8a685ec9628fb605a1e43c196",
+      "size": 7727,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_02.ogg",
+      "sha256": "27464f1af8eabe2df582d17d12fd9e140e69723d87a4548123cb0ac796aded0b",
+      "size": 10592,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_03.ogg",
+      "sha256": "e540ec72e2386a1e98f23047f4f070a8554335f57417deb11514a198382a58fd",
+      "size": 11271,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_04.ogg",
+      "sha256": "f639cedb7d6d2383202b37c5a55e0a81c57ab178c19f506b75ca4b3ffb118345",
+      "size": 7040,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_05.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_05.ogg",
+      "sha256": "5179a026765a6ab37fbeb7f97935aac0b355161f07731e7a39c95b213beb35e8",
+      "size": 12153,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_glass_06.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_glass_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_glass_06.ogg",
+      "sha256": "00c27eba112a5d6dda6658a7de104aebea21befa597aa493c134a6f1c7f239a2",
+      "size": 10379,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_hit_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_hit_01.ogg",
+      "sha256": "61b8b2a790e2c8dcf315886933aaefc89a8e4053d81c6869c264e40aa80f8233",
+      "size": 7903,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_hit_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_hit_02.ogg",
+      "sha256": "f75eaee9a0cea0f99e5d173a924c4ac72c865450c494794f9bfe48315461baea",
+      "size": 6766,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_hit_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_hit_03.ogg",
+      "sha256": "f44a40884dd13df80ef6bad1b8ca91a2566daaf9e03c25420ff018e4ba11e632",
+      "size": 6673,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_items_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_items_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_items_01.ogg",
+      "sha256": "828940e6c04c63ea22f15ff47b6722c2b9fde54f148b26935d95a645baf770f4",
+      "size": 13577,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_items_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_items_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_items_02.ogg",
+      "sha256": "fe585eaf85fbbc0f56653174bc374aa9d2143c9dad68154bf9c596f7c1ee62d6",
+      "size": 12726,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_lock_open_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_lock_open_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_lock_open_01.ogg",
+      "sha256": "5147f96254216792e0bf5f32a3589efbc4e4632fbba4737740f336b7bfbf3f55",
+      "size": 12434,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_01.ogg",
+      "sha256": "da300375993cd5b807c497523a05ec8e9ee0912ea3500efd733eb5d4c4614fc6",
+      "size": 200436,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_02.ogg",
+      "sha256": "e0ff913ddca018d6f97f1bb4d5f8e0b5ab913e4421d1e5f7ccbd4ffadd908573",
+      "size": 57688,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_03.ogg",
+      "sha256": "313ed49a7c84406f388aefa6d107f3fb08efda584dfc0f337dfe8900a90f1b85",
+      "size": 53822,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_ambient_04.ogg",
+      "sha256": "1a3c6e80fd4f630abc2377f88734dabc58b9d08256426e33f985e0e606a5a0e6",
+      "size": 183679,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_construction_site.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_construction_site.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_construction_site.ogg",
+      "sha256": "2037a4b9825c9e9e9434841c35b7241b6e8718b16925f05fdd9d8ed01269bf80",
+      "size": 170609,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_highway.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_highway.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_highway.ogg",
+      "sha256": "e20f1110657b69dccc15a23dc16863a9186123818bc1de38209f85cc771c4678",
+      "size": 187109,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_01.ogg",
+      "sha256": "18aa96bda8feb81ffa4158545749a4fddbd419124025832d0014bb0ddfaecc8a",
+      "size": 83979,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_02.ogg",
+      "sha256": "098f3c6ea71eef9ccd1667f36e9bd8cfd51857603ff56f649ab742dd75d8fe98",
+      "size": 123685,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_03.ogg",
+      "sha256": "0508e8b7c73e0492ff58abc2dcae303f5492c1e14b51dc62a74387db1ca13b73",
+      "size": 54177,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_machine_04.ogg",
+      "sha256": "a704a39b52999a767e88416fd26cb6d43124b965d4fffd3c37272447bc6382c7",
+      "size": 66131,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_01.ogg",
+      "sha256": "955a367cf87f150f7868e2ecf5745ef13cec2c78a29304eda27e74f1fea06c57",
+      "size": 72644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_02.ogg",
+      "sha256": "32bc3462ebd2376d9b84e8f602969f8c2a475f589adee9804207e19116cda768",
+      "size": 104892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_loop_water_03.ogg",
+      "sha256": "33b123860425a34ce8de43cfa075b0b4ffb7a3cf090be5c21213c9b99f3d2fa3",
+      "size": 109094,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_01.ogg",
+      "sha256": "c2e97c7a8e7bca13eb3f711d8a9f58aa7f982c69af43af4ce4a151246a42ebee",
+      "size": 12444,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_02.ogg",
+      "sha256": "d33548b1b6d977ecd5b8433c305dd99533232a2aad40d2e0bc5bc90e8549cbd2",
+      "size": 9891,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_03.ogg",
+      "sha256": "53eb198a955b61962b6ca88461379236b08d2d0eec5807570339946b10117cab",
+      "size": 7971,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_04.ogg",
+      "sha256": "33c7d65086795882b8ffaaa215be3b38695dcca5e2112e5d9e3fe6e67328dae7",
+      "size": 9408,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_05.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_05.ogg",
+      "sha256": "64e7b8d40642f59c0aa2f925d66ce9333b0cbb20bc010f1496cd89cd7197d247",
+      "size": 9663,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_06.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_06.ogg",
+      "sha256": "3d989232768f98190fbdcfff80f890f476c4d18d7709c5c907b20439bbf70d5a",
+      "size": 8154,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_hit_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_01.ogg",
+      "sha256": "ad7167446b3d2fe0f5bb9009c4c4c6bca583107d4525549239782a22d84a5db0",
+      "size": 13340,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_metal_hit_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_metal_hit_02.ogg",
+      "sha256": "5ea1f077585fb655220a19bcd5cfaf44d60151652339cdcecc86b1fc3b4fe94d",
+      "size": 7136,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_01.ogg",
+      "sha256": "859d7efdd1c4bf11e3c11d47435feff9c829f87682862ec8e656a257bdf4ccbc",
+      "size": 7573,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_02.ogg",
+      "sha256": "f402a1771027e3c14c462bc5872798541338ce15fecc344a3ce082c53c9a1a9b",
+      "size": 12974,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_03.ogg",
+      "sha256": "d9d34b034e0654ea046c1a9758b2525aaa9c79d470777987bb8c8f74094a3b08",
+      "size": 14705,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_04.ogg",
+      "sha256": "d9131ec104e83030f0c3f0501749fcc0def72e29eefce5617d2d3acdad394603",
+      "size": 9820,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_05.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_05.ogg",
+      "sha256": "72cb1939e193775acb47cadc8347c3ad5f22141e26025bc9dabe9a14cf8880f7",
+      "size": 9614,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_06.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_06.ogg",
+      "sha256": "5de97b852b56350b6c38c3dc7dde734cd2474842b455206dcb24c2106df19b54",
+      "size": 9208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_07.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_07.ogg",
+      "sha256": "ad97042f94345e9fa4af2baac33afadd5a271985f0aab02c14e38d852f00e19a",
+      "size": 6616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_08.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_08.ogg",
+      "sha256": "357a5d56167674567f61cbe8440ec6da912f778360564c0982221bc0a22087b2",
+      "size": 7790,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_09.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_09.ogg",
+      "sha256": "ffc358e93906a7882d58e41cdc4e8f4cc30a167ae1a5d3a571cf273410c6cd05",
+      "size": 13317,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_10.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_10.ogg",
+      "sha256": "b237673e49405dbe39fd76d9ee75f144108693e3372caa5a355eab7ef30b4f87",
+      "size": 13604,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_11.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_11.ogg",
+      "sha256": "e622088d887adecdf3ea2c5585c759edac59834a90001038e018340f8644f4e8",
+      "size": 10324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_12.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_12.ogg",
+      "sha256": "f0de2422aac5c0c07fcb807a43b576b8de9bc5f0a27e392a78f0be440adbec45",
+      "size": 42078,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_13.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_13.ogg",
+      "sha256": "055d4c66217240b989cea31b29792e890c1e0c846dbf06a466e5f9cbffe88237",
+      "size": 13195,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_14.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_14.ogg",
+      "sha256": "5fcbafdf6241c0a69a508cd41d3c043519290c4445d964d3fe9c9d1e0cee9427",
+      "size": 7422,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_15.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_15.ogg",
+      "sha256": "f28389627f8a10b32fae95ab173a9b1278b4b8882a896dc948d9025e26af51f6",
+      "size": 9847,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_16.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_16.ogg",
+      "sha256": "e8f5b6e7722d914bef04d834af86c0f6a825cdcb61e50c9b8ab92ae25514363e",
+      "size": 13386,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_17.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_17.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_17.ogg",
+      "sha256": "7552abd789a82c5cd24ae1d116b80c0b8338146068917aa18b727c44cb05cce6",
+      "size": 9442,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_18.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_18.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_18.ogg",
+      "sha256": "27fe46262d64533b23422c396aebef947ba1176eb36759181e0e116edf940c34",
+      "size": 10710,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_19.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_19.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_19.ogg",
+      "sha256": "4e1845008a3fd8f5bff6337b974f661ad987da362bf8b51829c5908961221352",
+      "size": 10320,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_20.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_20.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_20.ogg",
+      "sha256": "8ec989891acb43c3540f75579dbc7c14966a1121adb4337201d291d71c736b5a",
+      "size": 8713,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_21.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_21.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_21.ogg",
+      "sha256": "905192db3279855fd50021b3c14b8f17ba60c5f73332cd124da4aba918202737",
+      "size": 25440,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_22.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_22.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_22.ogg",
+      "sha256": "b2a2c20119f5e045cdcbe8f0f9fdda4d754bc129a9557f9ff6abc2ed84d63e43",
+      "size": 39657,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_23.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_23.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_23.ogg",
+      "sha256": "9608a2f15b974c55cc9b57e2fa39562f6ce26942d2e37975b89ccc02b2b836cf",
+      "size": 11568,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_24.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_24.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_24.ogg",
+      "sha256": "03c688e64ea8af452773b35c5591c9dbb18deec1cc0d63ec19bd7eb0fb77170b",
+      "size": 10758,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_25.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_25.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_25.ogg",
+      "sha256": "a84bb05ad572bf56e5a9ba73f85d3d610773fa07b0d71a251928be729e346bbd",
+      "size": 15953,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_26.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_26.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_26.ogg",
+      "sha256": "ba96e8417c38548ca02a015bcb696667da7c976b742af1b7f8a35d1f3aa98dfa",
+      "size": 8895,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_27.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_27.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_27.ogg",
+      "sha256": "c76cecfd5ba91093fd3bd5d9514ab3f0a8808a3efce02ce2e7c472a92bf6865b",
+      "size": 7738,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_28.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_28.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_28.ogg",
+      "sha256": "58df0970c7531038c3730f5f92fd10986264efc91d17168ce6597647e8f68fa2",
+      "size": 39519,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_29.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_29.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_29.ogg",
+      "sha256": "9b6419b27ad4abae663a12ef7ce77445acd9c6dc57427bf9539ef07a70bb1420",
+      "size": 8602,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_30.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_30.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_30.ogg",
+      "sha256": "40817110d6471c8c87986a76537463c3a3757c6f7bbffe681e0eb3861a08365a",
+      "size": 7730,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_31.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_31.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_31.ogg",
+      "sha256": "82834bcf0943768a6b3057b4fe6b54ba1f9ea51c6899be8f0d7755a909e40a47",
+      "size": 6509,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_32.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_32.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_32.ogg",
+      "sha256": "78be9e46f6ea6e8d993f7acae7a85094f88eefc04ef7427f0e313beaae0fa55d",
+      "size": 11772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_33.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_33.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_33.ogg",
+      "sha256": "cb7c531c4e04bb4b3fbffef56022a4f9493acf54e9fb6401189499e9e6e87350",
+      "size": 15318,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_34.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_34.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_34.ogg",
+      "sha256": "4d4fe17c6c95115d0af1d307f5c2453d8182ac0cd771c2fccc633e2d78a73879",
+      "size": 14383,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_35.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_35.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_35.ogg",
+      "sha256": "a67d9c58c187df12b710bf53334e44972200d9ae1b25065a67b13634765b499e",
+      "size": 13476,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_36.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_36.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_36.ogg",
+      "sha256": "3d6149605a3037969f4917467558689dcc13fbefa74740afe3a4da1f69af59b4",
+      "size": 10178,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_misc_37.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_misc_37.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_misc_37.ogg",
+      "sha256": "1416274a2b40502b97bf95067c66f0d7d3bf343c684f0ce069fa9f382ffbe64d",
+      "size": 72484,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_stones_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_stones_01.ogg",
+      "sha256": "20d293a892e1fa6330da2569065aa260a822198bddce2b183f8c11642e7deb4d",
+      "size": 12669,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_stones_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_stones_02.ogg",
+      "sha256": "23f8c7335eb656ea759899946ed665712ec41f4572656f421f7f5652bea66279",
+      "size": 12558,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_stones_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_stones_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_stones_03.ogg",
+      "sha256": "94d7e0978fd90621d2d24e8ea33eefbae2933a434bb14c643cc12ea5175cefa9",
+      "size": 12455,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_switch_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_switch_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_switch_01.ogg",
+      "sha256": "fa2c8ebd6361394762e9964698a0be2e31ae62dc91510f81c716c0ef8cf5741d",
+      "size": 7740,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_switch_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_switch_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_switch_02.ogg",
+      "sha256": "4ea2e80d7b9bee89dcb878233ae6bd3a18c1cf960885ec844b3d43dfbf8d700b",
+      "size": 7760,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_thunder_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_thunder_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_thunder_01.ogg",
+      "sha256": "8a4f1dee999546b363f989eff92174375eeae7c241dc9beaa0892fb131ef12a9",
+      "size": 51493,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_01.ogg",
+      "sha256": "3d2f562125ccc5f4e5b2d547fac204025249acbe4ff31db721a64a639cf58fd6",
+      "size": 11855,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_02.ogg",
+      "sha256": "199fd6f6715ea73028163346ac08de5b02cbd304569a6590ae6fc581221a840d",
+      "size": 11044,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_03.ogg",
+      "sha256": "57330fbbd91c7ab5356c65f22813988bcf07d363099b5dda0a958ceab443df2c",
+      "size": 12811,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_04.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_04.ogg",
+      "sha256": "afa88de3d54c12b2a8111149da18de5b0eb2bf315f8c8cf0814e181a36da1d0b",
+      "size": 6647,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_01.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_01.ogg",
+      "sha256": "84abc80d93011d86f29bc55c10a023265ece0851d0784d1bf07c5990f08daeab",
+      "size": 7629,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_02.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_02.ogg",
+      "sha256": "7ff0c18fafb7d025addb5d3cb586444842d8281ca9ed265eb2ac7213fa754b8a",
+      "size": 8233,
+      "role": "Audio"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_03.ogg",
+      "path": "packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/sounds/sfx100v2_wood_hit_03.ogg",
+      "sha256": "268dddd7bee1961ef6ea0ab41972be6eaa45c2449aca6e53dab57ecd04c7de2a",
+      "size": 8113,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "sfx100v2_air_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_01.png",
+      "sha256": "38bccb76a9342c7b95a0ccd1dece4a12edb5fb2f1dcae2f951e890b75459618d",
+      "size": 3857,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air 01"
+    },
+    {
+      "fileName": "sfx100v2_air_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_02.png",
+      "sha256": "e04d42bd6a9f32cb302cb58e7e4f4613b03a3e89f703056b73b50fdfec7d83da",
+      "size": 4190,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air 02"
+    },
+    {
+      "fileName": "sfx100v2_air_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_air_03.png",
+      "sha256": "b53fd40d05d3133db7a0f1a6d17316e5fcc1a693cd9b3e0003bcb9bc7ba22b3d",
+      "size": 4140,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air 03"
+    },
+    {
+      "fileName": "sfx100v2_door_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_01.png",
+      "sha256": "6917fa1a3aa3ede988aa25969c4f5d026eae30d1c381ddffea65c0594c1c6708",
+      "size": 3020,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 01"
+    },
+    {
+      "fileName": "sfx100v2_door_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_02.png",
+      "sha256": "a3f0c980ce94c8f6074f2dd6499cbf66c6ec6b90b999b830b49b89f14eb8e232",
+      "size": 2428,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 02"
+    },
+    {
+      "fileName": "sfx100v2_door_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_03.png",
+      "sha256": "b0e01d95f9afd99270dfffcbeb051c504a9e4b174ccaf7b369e9f2ff2dc29616",
+      "size": 3416,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 03"
+    },
+    {
+      "fileName": "sfx100v2_door_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_04.png",
+      "sha256": "9cfe31678798a12b1e40cec75c71fc230843fd95765dbca1f0f1ebbcfda7264b",
+      "size": 3237,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 04"
+    },
+    {
+      "fileName": "sfx100v2_door_05.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_door_05.png",
+      "sha256": "d608c44fe1cdd0f2b92c905f9f12860b3c29992afd7ac6e542f4735cab83b4f5",
+      "size": 2957,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 05"
+    },
+    {
+      "fileName": "sfx100v2_footstep_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_01.png",
+      "sha256": "4eecd5afdb992664b4199a93f5e5a718e6a050400f0d6c3c23da97a0b32a6634",
+      "size": 2893,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep 01"
+    },
+    {
+      "fileName": "sfx100v2_footstep_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_02.png",
+      "sha256": "c7ca38584f4e869905f4fd1776ed8c230545b10f373dc68960c8a0347274f880",
+      "size": 2653,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep 02"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_01.png",
+      "sha256": "a6392aa27abaf3d21a94a71bf004bd9f2a76fa82388c3fa7303841460d713bd7",
+      "size": 3787,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wet 01"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_02.png",
+      "sha256": "e6d186c41ebe71a2049dbabf701575317970bc86942b3b1451a1e511bfae01c6",
+      "size": 3808,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wet 02"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wet_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wet_03.png",
+      "sha256": "f81daf432f28f9f2d9b02fd1a0f2dae50b3b1fa9e2d73e97d7b660601c52adff",
+      "size": 3340,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wet 03"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_01.png",
+      "sha256": "4964f64497f78dbce258d182fe51e6e41da91794b5e573f9963ab5af4743ccb6",
+      "size": 3373,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wood 01"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_02.png",
+      "sha256": "5aaeef70f821ae247984ae471da89c7c4bc31758c1627b35a659bd431533db30",
+      "size": 3900,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wood 02"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_03.png",
+      "sha256": "fd7344bee92d089577cbf2c680de3d833d0d34464730b2ed667711941b1f1396",
+      "size": 2044,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wood 03"
+    },
+    {
+      "fileName": "sfx100v2_footstep_wood_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_footstep_wood_04.png",
+      "sha256": "9d6957c11b215f48b0390583652d5e3942caf6847bf7b91e51753b3ca7e4762a",
+      "size": 2712,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep Wood 04"
+    },
+    {
+      "fileName": "sfx100v2_glass_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_01.png",
+      "sha256": "fcd34e0828d60161cac70c37781a73637c40d5f7e7028c6d61bacd00cb5d3822",
+      "size": 2013,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 01"
+    },
+    {
+      "fileName": "sfx100v2_glass_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_02.png",
+      "sha256": "de644c601dddfaaeada3e798158b540376fa64dbe89425ea6e356df0dc18bff8",
+      "size": 2865,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 02"
+    },
+    {
+      "fileName": "sfx100v2_glass_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_03.png",
+      "sha256": "d4383cb9329ec8649228f47fb41dabde0c1d9f53e1f2d110eac9d0f9c6236956",
+      "size": 2843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 03"
+    },
+    {
+      "fileName": "sfx100v2_glass_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_04.png",
+      "sha256": "471dec1a2187b7b7b6ff9366fe37073ff5aac6ed1624b1950d24ea8ac562e37e",
+      "size": 2582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 04"
+    },
+    {
+      "fileName": "sfx100v2_glass_05.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_05.png",
+      "sha256": "f6d99da1cc22b408de4145ec524f91c42eb0cd049a4a9f689d64a5f27b46b490",
+      "size": 3538,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 05"
+    },
+    {
+      "fileName": "sfx100v2_glass_06.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_glass_06.png",
+      "sha256": "cc7f626403c730b36573b6b58617e39f8fef81a4f77367a59fa946133678ce60",
+      "size": 3220,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 06"
+    },
+    {
+      "fileName": "sfx100v2_hit_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_01.png",
+      "sha256": "d02020f5b2a84ded2e6f428a8b4d34d4aba81a53070af9001ad3eccd2dc60ea0",
+      "size": 2548,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 01"
+    },
+    {
+      "fileName": "sfx100v2_hit_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_02.png",
+      "sha256": "013b6857bf086aff042b9945c42f4232627e9ca220cdc1fb2f526ea9e7810e0d",
+      "size": 1632,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 02"
+    },
+    {
+      "fileName": "sfx100v2_hit_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_hit_03.png",
+      "sha256": "26c2f8fd82bda9d73deb59e7446c0cb7f365bc31b6af4c713c1ccc283c042b0b",
+      "size": 2226,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 03"
+    },
+    {
+      "fileName": "sfx100v2_items_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_items_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_items_01.png",
+      "sha256": "225f2a19455bf8955c33d1aa7363417be80d00b3cf9828f52013000cc0f19d15",
+      "size": 2524,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 01"
+    },
+    {
+      "fileName": "sfx100v2_items_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_items_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_items_02.png",
+      "sha256": "0653cf6b2188c6a6a506f3f4d3b8c88a4b8d086bd9b0d2835bf82cf6c49325d0",
+      "size": 3326,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 02"
+    },
+    {
+      "fileName": "sfx100v2_lock_open_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_lock_open_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_lock_open_01.png",
+      "sha256": "59fe5e6fb97c9055e70bb895eb98ca796750bd7b19013c1ec24668fe948b0655",
+      "size": 2501,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lock Open 01"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_01.png",
+      "sha256": "fd42c5c5a5df9643f3148b7985883d79423ec82521da59f7829c514974d7dcb2",
+      "size": 4647,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient 01"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_02.png",
+      "sha256": "0616a2bc6ef80c96e16b36afb920a58080b8b11a5fe1257328b70a08515744a4",
+      "size": 4703,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient 02"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_03.png",
+      "sha256": "43f2a0da64f4bd553d4dd3db80a54ad27245ca3fe422beb94a57cc46a08054f1",
+      "size": 4805,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient 03"
+    },
+    {
+      "fileName": "sfx100v2_loop_ambient_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_ambient_04.png",
+      "sha256": "73d4bcd2b650e0a18761e7e694581584715b0f571715aa24d95826c2f9f82c24",
+      "size": 4568,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient 04"
+    },
+    {
+      "fileName": "sfx100v2_loop_construction_site.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_construction_site.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_construction_site.png",
+      "sha256": "d5513fe65ebb493bf36c470848fbdbccf8d9025394c8ef516e0a857c7b934533",
+      "size": 4754,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Construction Site"
+    },
+    {
+      "fileName": "sfx100v2_loop_highway.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_highway.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_highway.png",
+      "sha256": "03048104b5a040f2c6186cfa532df0d3f6df339569751d87b8256c2bce2e7ba0",
+      "size": 3971,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Highway"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_01.png",
+      "sha256": "c3351e7d71b193ee19ef36760b41d2511ca294343b663843d0dff93139cd85e1",
+      "size": 4514,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 01"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_02.png",
+      "sha256": "4d656292917eb910b2821168f854f5cacc7145fa691a17c612ea294714c0b39f",
+      "size": 4531,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 02"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_03.png",
+      "sha256": "11064fa126b44d3d8f154793c028bf646eb79dc6765120bb147b6b7d8aa03029",
+      "size": 3488,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 03"
+    },
+    {
+      "fileName": "sfx100v2_loop_machine_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_machine_04.png",
+      "sha256": "f388274c21c859fe61f96d77abf6b79503425bad8736bfea33899bbe62140c33",
+      "size": 4806,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 04"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_01.png",
+      "sha256": "769b4c25e4671a1db87621318618bd153bbf43db46f071436ae3a9f9b0cf2e88",
+      "size": 4764,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 01"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_02.png",
+      "sha256": "9af7f7cffb4e110572661c2870dd6db00aeacb4a59d86d0adc87b5d777bc3dc2",
+      "size": 4989,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 02"
+    },
+    {
+      "fileName": "sfx100v2_loop_water_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_loop_water_03.png",
+      "sha256": "5288d06d1272a7d8b12d6d06e302212b2b6e7c0c88e92af8751f8058e8aceb1c",
+      "size": 4522,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 03"
+    },
+    {
+      "fileName": "sfx100v2_metal_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_01.png",
+      "sha256": "96de9ac88ff81e81e445eff8ba5609d274941cf8045d2dae2278821749dca1c3",
+      "size": 3534,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 01"
+    },
+    {
+      "fileName": "sfx100v2_metal_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_02.png",
+      "sha256": "dad7a836b96cabb1d509f2cba606b937f2068f35b06a817dd7d232cdf8fa0dd7",
+      "size": 3584,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 02"
+    },
+    {
+      "fileName": "sfx100v2_metal_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_03.png",
+      "sha256": "75aed94987d0fd155e3bba3af28f73075375472d8ac9dddc7bb3b94c51398f30",
+      "size": 3585,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 03"
+    },
+    {
+      "fileName": "sfx100v2_metal_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_04.png",
+      "sha256": "f366f2ffab6d3813612e936bd34ff5bd0cde4cce9b7ff3657046b29b5b128b12",
+      "size": 3641,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 04"
+    },
+    {
+      "fileName": "sfx100v2_metal_05.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_05.png",
+      "sha256": "64ed655ea427fa3a3a4cf61cbaa7049171d4c6655aca7b41e557b28a71640856",
+      "size": 2454,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 05"
+    },
+    {
+      "fileName": "sfx100v2_metal_06.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_06.png",
+      "sha256": "02ddef7015127719bfef95bf423e0ae45f59e0d81b1fea894ef43523fd978cf2",
+      "size": 2499,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 06"
+    },
+    {
+      "fileName": "sfx100v2_metal_hit_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_hit_01.png",
+      "sha256": "66161c2770d1fc97de6fb61dff4d08424e6c99d5d343a9079b86e4de50deb528",
+      "size": 2702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 01"
+    },
+    {
+      "fileName": "sfx100v2_metal_hit_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_metal_hit_02.png",
+      "sha256": "b274e1fd050afafbe3ce54664b1a43fdc08fd874e3f6043b3fbce37a03d40d53",
+      "size": 2100,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 02"
+    },
+    {
+      "fileName": "sfx100v2_misc_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_01.png",
+      "sha256": "95f49504ece067bee0c56a1842baba60ec11fbe142440f691639e20249eb39f8",
+      "size": 3009,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 01"
+    },
+    {
+      "fileName": "sfx100v2_misc_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_02.png",
+      "sha256": "b2eadd3f5f8a05a486f5c63b962353124f6d61e426543d35b0e14539df41e3ae",
+      "size": 4104,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 02"
+    },
+    {
+      "fileName": "sfx100v2_misc_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_03.png",
+      "sha256": "d0d9fd331f4a3cab1312807d75524f98250fb896f1769eeff31710fa02ac4696",
+      "size": 2456,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 03"
+    },
+    {
+      "fileName": "sfx100v2_misc_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_04.png",
+      "sha256": "19e9ff1d94996fb42ae16e8a3ebf8c410e41a644ea5725b10caacf941cfd07ed",
+      "size": 2870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 04"
+    },
+    {
+      "fileName": "sfx100v2_misc_05.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_05.png",
+      "sha256": "2482aeccfca78484b3694ef8a3cec3140beca8b733e9f561b4ce053a3b38beb5",
+      "size": 3274,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 05"
+    },
+    {
+      "fileName": "sfx100v2_misc_06.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_06.png",
+      "sha256": "7d89329b0809a5953ee872e47f2b5cd47ddbb257cb6e2105c53d216cadc121c8",
+      "size": 3473,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 06"
+    },
+    {
+      "fileName": "sfx100v2_misc_07.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_07.png",
+      "sha256": "1da3b94a2227d8bc38f5e6e5fb358292e01189c0dc2cce18ff4dbd010a8cbc30",
+      "size": 2842,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 07"
+    },
+    {
+      "fileName": "sfx100v2_misc_08.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_08.png",
+      "sha256": "cc99c472280996f4d9fdbcf3e4e9b8f92628fb47477bb5dbda4ad8abe21cb74a",
+      "size": 2167,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 08"
+    },
+    {
+      "fileName": "sfx100v2_misc_09.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_09.png",
+      "sha256": "df657cd6a39c3042481e1d43fdc33d92996a8d7e12177d2293e4f678f57bb35a",
+      "size": 2602,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 09"
+    },
+    {
+      "fileName": "sfx100v2_misc_10.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_10.png",
+      "sha256": "e88f31ee32538c5f489af91b5a62c8616d8b4cf5b9f5ce378876659c54966254",
+      "size": 2311,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 10"
+    },
+    {
+      "fileName": "sfx100v2_misc_11.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_11.png",
+      "sha256": "5528be02c0396b2c662362bff0a9303773c1974ddd4492689703c8544e9d642d",
+      "size": 1802,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 11"
+    },
+    {
+      "fileName": "sfx100v2_misc_12.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_12.png",
+      "sha256": "0962cd79513516911d613cd4aa720fd0108a0f0bf80eae0218dd9b469f7ec028",
+      "size": 3518,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 12"
+    },
+    {
+      "fileName": "sfx100v2_misc_13.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_13.png",
+      "sha256": "917027336d2b58ed4d423ee421cdde5fed04ab9d2a5239e14bfd2f64792ff926",
+      "size": 2598,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 13"
+    },
+    {
+      "fileName": "sfx100v2_misc_14.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_14.png",
+      "sha256": "ebdb9991b9d660b4908c085a377f88fc006f98dd8b24ebc8633019f3325da4c2",
+      "size": 2157,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 14"
+    },
+    {
+      "fileName": "sfx100v2_misc_15.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_15.png",
+      "sha256": "b7d0d07ebad279602c3f493979db8a2d8aadb781aaf0e468b330c0e38e4c815f",
+      "size": 2677,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 15"
+    },
+    {
+      "fileName": "sfx100v2_misc_16.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_16.png",
+      "sha256": "fb79b7ea12a85c05ea93fee4be14af2a9df44679dcb661c95946da73b07eb0c1",
+      "size": 2643,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 16"
+    },
+    {
+      "fileName": "sfx100v2_misc_17.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_17.png",
+      "sha256": "97e78a32033866668ff09d0e1c62b290e42222ed1efeb4c2f44a68a7c5409ccc",
+      "size": 2282,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 17"
+    },
+    {
+      "fileName": "sfx100v2_misc_18.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_18.png",
+      "sha256": "6514e84e46214584c140df98cb5728bf697daf232e54841d1f81303c03c92e46",
+      "size": 1966,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 18"
+    },
+    {
+      "fileName": "sfx100v2_misc_19.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_19.png",
+      "sha256": "6d0e93f76c162f82ff84e5fc00962a519612c3dc286859af0cd66c1a48f42bcf",
+      "size": 1963,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 19"
+    },
+    {
+      "fileName": "sfx100v2_misc_20.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_20.png",
+      "sha256": "9462d5ac96d24a427248582c205a880ff2ee006d6ca823791ccfe22753b5c725",
+      "size": 2785,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 20"
+    },
+    {
+      "fileName": "sfx100v2_misc_21.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_21.png",
+      "sha256": "f45617f896a519f424abdc63075566bcaac175b856f04050132fb5737bcd0529",
+      "size": 2663,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 21"
+    },
+    {
+      "fileName": "sfx100v2_misc_22.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_22.png",
+      "sha256": "4b2c42c1b84c839ba38e0d69dbb385e992eccd08b64480d98c019bbaf1e5bf71",
+      "size": 4644,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 22"
+    },
+    {
+      "fileName": "sfx100v2_misc_23.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_23.png",
+      "sha256": "7f545f7eb5e566a2ea080b14b543f201cc2c8a97710ff76beecb847331f932cb",
+      "size": 3325,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 23"
+    },
+    {
+      "fileName": "sfx100v2_misc_24.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_24.png",
+      "sha256": "68f4a4710eac9a29e874639d39894920d38a6f83550fdd3b78a2b44365cbc33e",
+      "size": 2749,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 24"
+    },
+    {
+      "fileName": "sfx100v2_misc_25.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_25.png",
+      "sha256": "125c99ef74a1070d34b2156d39947a091bd23dcbb482273014782dc5c67ed05e",
+      "size": 2863,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 25"
+    },
+    {
+      "fileName": "sfx100v2_misc_26.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_26.png",
+      "sha256": "932f65cf7f67af3abd22e786cf6ea106b955141c64ba718202b7f6bb7a8b07d6",
+      "size": 2705,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 26"
+    },
+    {
+      "fileName": "sfx100v2_misc_27.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_27.png",
+      "sha256": "5d8f6e1393482de83dee2b766f5d5e73bd03dceed755e85385d1c14084f5e0eb",
+      "size": 2607,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 27"
+    },
+    {
+      "fileName": "sfx100v2_misc_28.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_28.png",
+      "sha256": "4c6f1d1e3b3d7d31327ea1bb936436ef4e8df05b778aa0afb04e17d8f02c206b",
+      "size": 4972,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 28"
+    },
+    {
+      "fileName": "sfx100v2_misc_29.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_29.png",
+      "sha256": "03ebad991c9a1995174745df392656fc06415a7e9585a339deae079bd8f7da69",
+      "size": 2373,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 29"
+    },
+    {
+      "fileName": "sfx100v2_misc_30.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_30.png",
+      "sha256": "65a9c48dd7fbee8838a125626411d7a239f3fc6fc4280164ca673bbdcc79de79",
+      "size": 2229,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 30"
+    },
+    {
+      "fileName": "sfx100v2_misc_31.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_31.png",
+      "sha256": "a6eb5dc637cbf6e472a839e74c4417e90ec3e35850254fe20acd246244d9a4b1",
+      "size": 1983,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 31"
+    },
+    {
+      "fileName": "sfx100v2_misc_32.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_32.png",
+      "sha256": "d00df920795ed30a1020c0db1e286e16d74366074bd6f623e45a4188f3df5cad",
+      "size": 3242,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 32"
+    },
+    {
+      "fileName": "sfx100v2_misc_33.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_33.png",
+      "sha256": "77118f9360fa1618925211b005610dae5fafb9aeb4dd45f18db1bdce4e54d77d",
+      "size": 2913,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 33"
+    },
+    {
+      "fileName": "sfx100v2_misc_34.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_34.png",
+      "sha256": "28289b92597a980f1d69b161a3c391b3a49c3de50fd8f82f75efa442087c0abc",
+      "size": 3037,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 34"
+    },
+    {
+      "fileName": "sfx100v2_misc_35.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_35.png",
+      "sha256": "fb648a6274b318d1c4e895b860f5faa0b1aca4b442e84c87944e7c8c9c4f00a5",
+      "size": 2935,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 35"
+    },
+    {
+      "fileName": "sfx100v2_misc_36.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_36.png",
+      "sha256": "4f1e10f0559c5b2c96fee2c55176d67ea4f5a6813c60069fd7f37f5cbdefea4a",
+      "size": 2702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 36"
+    },
+    {
+      "fileName": "sfx100v2_misc_37.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_misc_37.png",
+      "sha256": "e42513e9852fb6835b1f4cedf3cb9db068d484dfa06f554bb19373f97624873a",
+      "size": 3433,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 37"
+    },
+    {
+      "fileName": "sfx100v2_stones_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_01.png",
+      "sha256": "321d6de5570e76e0ccb261014e2e5cfc979ac8ac07ede9fdcb59d60c85aca421",
+      "size": 2071,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 01"
+    },
+    {
+      "fileName": "sfx100v2_stones_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_02.png",
+      "sha256": "3301fe7efc45cfa10ed9adf3603488ede2d2f26726186f65af91150e90733500",
+      "size": 2190,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 02"
+    },
+    {
+      "fileName": "sfx100v2_stones_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_stones_03.png",
+      "sha256": "c73ec00c07ced30d1f34e64ea9e84226fad97a16a10aec67acb48e89a80f1171",
+      "size": 2159,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 03"
+    },
+    {
+      "fileName": "sfx100v2_switch_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_switch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_switch_01.png",
+      "sha256": "3e3586182c3e3eb909ad3d97360cae6f702b039d85445a76befbb6039d7c747b",
+      "size": 2279,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch 01"
+    },
+    {
+      "fileName": "sfx100v2_switch_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_switch_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_switch_02.png",
+      "sha256": "584dc8fc235883225152b9669e8751789fe2ae8d9951bc7e36000cfcd68d6840",
+      "size": 2329,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch 02"
+    },
+    {
+      "fileName": "sfx100v2_thunder_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_thunder_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_thunder_01.png",
+      "sha256": "f9101a074c9786dadaf0c2c9eeaab1e6d107c8ad77d32b7e2bb1320f16d3e921",
+      "size": 3261,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thunder 01"
+    },
+    {
+      "fileName": "sfx100v2_wood_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_01.png",
+      "sha256": "23f97b9e34e127ce3a2b2defd94b7d8f30cb0d6a50c9ba9ae1538f3606ca5e9b",
+      "size": 2806,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 01"
+    },
+    {
+      "fileName": "sfx100v2_wood_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_02.png",
+      "sha256": "f47f9c69f76916f28e74fca6463c2eb06eda308c3defcd83927e471005d38e51",
+      "size": 2565,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 02"
+    },
+    {
+      "fileName": "sfx100v2_wood_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_03.png",
+      "sha256": "83890ebcfbfdb893e113a5df924cb56edf7146c57b058822392657401df49ea2",
+      "size": 2609,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 03"
+    },
+    {
+      "fileName": "sfx100v2_wood_04.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_04.png",
+      "sha256": "f0938fd628f247ac78e2291076e48017678f3cab9ea45005563f9db54bc545e0",
+      "size": 2160,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 04"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_01.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_01.png",
+      "sha256": "2065b1fe66d91873ce5091cb470d8364d2ba5d4e17af74ea92343e3bc053ac97",
+      "size": 3071,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 01"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_02.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_02.png",
+      "sha256": "b78d4aff5501ae10680aad3eb4a37b058b2413a5527cf3d32c4bbc4d5220288b",
+      "size": 2936,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 02"
+    },
+    {
+      "fileName": "sfx100v2_wood_hit_03.png",
+      "path": "packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-cc0-sfx-2/thumbnails/sfx100v2_wood_hit_03.png",
+      "sha256": "df38dc49d81a64313bae1846065c42aa1d593ffae387b71bd3f4873043f739ac",
+      "size": 2391,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 03"
+    }
+  ]
+}

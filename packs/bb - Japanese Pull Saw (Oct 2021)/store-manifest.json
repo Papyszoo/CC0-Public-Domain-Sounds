@@ -1,0 +1,559 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Japanese Pull Saw (Oct 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Japanese pull-saw cutting foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Japanese Pull Saw (Oct 2021)",
+  "itemCount": 18,
+  "items": [
+    {
+      "name": "Flick 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 01.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flick 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 02.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flick 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 03.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flick 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 04.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flick 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 05.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Scrape 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Scrape 01.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Scrape 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Scrape 02.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 01.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 02.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 03.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 04.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 05.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 06.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 07.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wobble 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 08.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wop 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 01.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wop 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 02.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wop 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 03.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Flick 01.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 01.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Flick%2001.wav",
+      "sha256": "8ba924c0021c0199c14ab37c0b31bf4ab4b52dfa30b4a62a952983ab50a6b29f",
+      "size": 987760,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flick 02.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 02.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Flick%2002.wav",
+      "sha256": "44daeb33839ed16f655e167c2f14ac78ea32af053851ff21cf6b851448ab974f",
+      "size": 934100,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flick 03.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 03.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Flick%2003.wav",
+      "sha256": "c3e0eb3c45d03b6794319aa531ea3dbbcea1e8f82cb8135fdd824d91ba2f315b",
+      "size": 753792,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flick 04.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 04.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Flick%2004.wav",
+      "sha256": "f451902c595f3a8a19b6cc021f6c9b5a635737041a50e02453a84824ee4f72eb",
+      "size": 1263616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flick 05.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Flick 05.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Flick%2005.wav",
+      "sha256": "f9b069e9338cf5c1786ac9348f6d3f141465ff9056d91a97a467238cc660d6c6",
+      "size": 576648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Scrape 01.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Scrape 01.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Scrape%2001.wav",
+      "sha256": "591b15efaa6607ff168bc8d9218d76d7352e16ca2b72fe805b92ae9da9d44b47",
+      "size": 712616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Scrape 02.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Scrape 02.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Scrape%2002.wav",
+      "sha256": "8547f83d92b26db200717ad8d7ab4b6b175d613e1195dd5d24d0879f2dc08aba",
+      "size": 653792,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 01.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 01.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2001.wav",
+      "sha256": "f709364e2f2341235799283c99c62fd8aba99340ad6a32558182726f9aaf9c42",
+      "size": 728096,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 02.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 02.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2002.wav",
+      "sha256": "4c1a2ecadd32e0f4f0b42738ddef6be11ca8b1dbc04b70c07860fd7dc1907852",
+      "size": 415736,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 03.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 03.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2003.wav",
+      "sha256": "1b145a73f7299b4e619161361ec3249269eb433af7c2cfbce4fd69dd8f8c97b5",
+      "size": 607768,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 04.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 04.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2004.wav",
+      "sha256": "b3838273e335d86797096d5cd1c42394e85e85001c8abafc42a77ca5db67d363",
+      "size": 937212,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 05.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 05.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2005.wav",
+      "sha256": "5f306b67c77bbf22198b45ad42be4444b1ce3ca3f0e14754358bc1f38ffdc6f7",
+      "size": 1088220,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 06.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 06.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2006.wav",
+      "sha256": "12fe7dcef00cad5d0b7ccd694f26bbf095f54f4b957f20ca7a6f3c35583af171",
+      "size": 825860,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 07.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 07.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2007.wav",
+      "sha256": "72bbe99c37c77d61cb5bb6593e86e13e1e3969449a7627150daeca9c183c5d90",
+      "size": 656640,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble 08.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wobble 08.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wobble%2008.wav",
+      "sha256": "325543cdd774735b1d0054dc752038ee8aa71697ebb41b7b2942c3644ef68d92",
+      "size": 864764,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wop 01.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 01.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wop%2001.wav",
+      "sha256": "53c9ed370c28b77ecd897dabdb22691169ca48660cd46419e7e036492e2dd456",
+      "size": 617584,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wop 02.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 02.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wop%2002.wav",
+      "sha256": "8a8c5d86c1c1ce9a1a2ed3ab199e933a8d3788296ebae618268df8e3cd83f64e",
+      "size": 404920,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wop 03.wav",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/sounds/Wop 03.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/sounds/Wop%2003.wav",
+      "sha256": "9633f3e1f9f6722a47e86da96f39891e644041ec99bf45e528cb3130eaea6946",
+      "size": 439448,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Flick 01.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Flick 01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Flick%2001.png",
+      "sha256": "9f8fce4440d79971e85a309ee3aa632cd1860018ff8947aae49788996242dbc6",
+      "size": 2679,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flick 01"
+    },
+    {
+      "fileName": "Flick 02.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Flick 02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Flick%2002.png",
+      "sha256": "6b57dae8d89b7dfd7b501dfc4348aa7c252ad293a8964746e4595baf8b578327",
+      "size": 2544,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flick 02"
+    },
+    {
+      "fileName": "Flick 03.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Flick 03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Flick%2003.png",
+      "sha256": "9fc8db493d59723f22f4ce6dcac9611dbaaa1c2b9031f5f6dafe90814542b51b",
+      "size": 2972,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flick 03"
+    },
+    {
+      "fileName": "Flick 04.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Flick 04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Flick%2004.png",
+      "sha256": "04f3dba40127be01bd3bcc9237812bf5ef0e8f7a215587324f54a4614ad56b70",
+      "size": 2619,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flick 04"
+    },
+    {
+      "fileName": "Flick 05.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Flick 05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Flick%2005.png",
+      "sha256": "33fa689c05b7e2b01d6a6356714f37761bd597fd8efb2a33a6022fa8d8c3bcc2",
+      "size": 3321,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flick 05"
+    },
+    {
+      "fileName": "Scrape 01.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Scrape 01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Scrape%2001.png",
+      "sha256": "f7ce53bf546d1740a53f3b0b1b571d0f93630da6b823f727bece6b0dfc5c21ed",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Scrape 01"
+    },
+    {
+      "fileName": "Scrape 02.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Scrape 02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Scrape%2002.png",
+      "sha256": "75770848f86cd5a1422f44b6bf5c85040ebd5f97cd1e157852e61a46f023f974",
+      "size": 3072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Scrape 02"
+    },
+    {
+      "fileName": "Wobble 01.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2001.png",
+      "sha256": "a1a9207e417df0111d06d7da6ed29704d625417c8ff85527b9a5e5b1ea4165db",
+      "size": 2655,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 01"
+    },
+    {
+      "fileName": "Wobble 02.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2002.png",
+      "sha256": "d443f6534c730882d5d9c7a44c9907692158a1943bdf4ccfb4b8c25cfea62c6b",
+      "size": 2672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 02"
+    },
+    {
+      "fileName": "Wobble 03.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2003.png",
+      "sha256": "1ed5a40d738ed1e029044ef90fdb5c10ec3d1bdac0604bfb5dc5fd3350a89629",
+      "size": 3766,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 03"
+    },
+    {
+      "fileName": "Wobble 04.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2004.png",
+      "sha256": "9c7b553effcd743b6cd3834ab8fbfe3119c2498aaf2343d22213aff360e083a5",
+      "size": 2857,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 04"
+    },
+    {
+      "fileName": "Wobble 05.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2005.png",
+      "sha256": "999f9055489fd04c1c75c7d1a54b2fcd18239201b074c7109ab4dad0fff61c0c",
+      "size": 2602,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 05"
+    },
+    {
+      "fileName": "Wobble 06.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2006.png",
+      "sha256": "901d50735d39a9ce78a496bf643bed3ed5b6f78f08bb1d480a5e78308563eec7",
+      "size": 2511,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 06"
+    },
+    {
+      "fileName": "Wobble 07.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2007.png",
+      "sha256": "603a2d711313d306a30bf914fa5902fbe96d5ed133b5be98ef5578ad8a4a4069",
+      "size": 3659,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 07"
+    },
+    {
+      "fileName": "Wobble 08.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wobble 08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wobble%2008.png",
+      "sha256": "e375f69d2f58558489b3374a28b7cb46351ae96acc356e4721a5f7b8b458d1cf",
+      "size": 2741,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble 08"
+    },
+    {
+      "fileName": "Wop 01.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wop 01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wop%2001.png",
+      "sha256": "6a8882132a97d734da6948b395f8acd049ccc093b942c9129659a49b73432ccd",
+      "size": 3309,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wop 01"
+    },
+    {
+      "fileName": "Wop 02.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wop 02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wop%2002.png",
+      "sha256": "4da339e98c6d902f8cf2b0c577c093477205a91a8a003ed151eea7414caefcf4",
+      "size": 3185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wop 02"
+    },
+    {
+      "fileName": "Wop 03.png",
+      "path": "packs/bb - Japanese Pull Saw (Oct 2021)/thumbnails/Wop 03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Japanese%20Pull%20Saw%20%28Oct%202021%29/thumbnails/Wop%2003.png",
+      "sha256": "fbd895b641f1c664feee9424ecc67454373c9469d358beca52b3a11bd3790759",
+      "size": 3212,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wop 03"
+    }
+  ]
+}

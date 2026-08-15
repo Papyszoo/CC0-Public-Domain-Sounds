@@ -1,0 +1,1558 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "UI Audio",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "description": "Classic UI sound set by Kenney (kenney.nl): clicks, rollovers and switches. CC0 per the included license.",
+  "folder": "packs/kenney_uiaudio",
+  "itemCount": 51,
+  "items": [
+    {
+      "name": "Click1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/click1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Click2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/click2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Click3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/click3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Click4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/click4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Click5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/click5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Mouseclick1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/mouseclick1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Mouserelease1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/mouserelease1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Rollover6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/rollover6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch17",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch17.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch18",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch18.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch19",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch19.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch20",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch20.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch21",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch21.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch22",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch22.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch23",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch23.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch24",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch24.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch25",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch25.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch26",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch26.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch27",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch27.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch28",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch28.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch29",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch29.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch30",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch30.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch31",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch31.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch32",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch32.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch33",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch33.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch34",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch34.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch35",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch35.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch36",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch36.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch37",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch37.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch38",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch38.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch7.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch8.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Switch9",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_uiaudio/sounds/Audio/switch9.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "click1.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/click1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/click1.ogg",
+      "sha256": "59175ac17cd49a68dd736285738441287636112a84a6f7ce0d89921bda5a5360",
+      "size": 4983,
+      "role": "Audio"
+    },
+    {
+      "fileName": "click2.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/click2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/click2.ogg",
+      "sha256": "c394b46bc6737f7f7edfbfa3031ce621b7a43d498d456d6198364eee9cd3e306",
+      "size": 4656,
+      "role": "Audio"
+    },
+    {
+      "fileName": "click3.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/click3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/click3.ogg",
+      "sha256": "e3e7fc7ccd9c5cfdf77bffa05aee10d4973812076c76dc889ba2b16ea434127f",
+      "size": 4880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "click4.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/click4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/click4.ogg",
+      "sha256": "9c02bbfc872b50eb8750adf4b7c343120f19f5d2f04ab06a7a8948368a77b872",
+      "size": 4558,
+      "role": "Audio"
+    },
+    {
+      "fileName": "click5.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/click5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/click5.ogg",
+      "sha256": "52d41e0bb012731bf2a391d53ffb52265ef21589c7701e66b391d5e36a65b293",
+      "size": 4532,
+      "role": "Audio"
+    },
+    {
+      "fileName": "mouseclick1.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/mouseclick1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/mouseclick1.ogg",
+      "sha256": "ece1210c62ccae6c9ea4f4c59466d9d453d6b357c7d4b1a6c31196e5e6fea1bf",
+      "size": 4686,
+      "role": "Audio"
+    },
+    {
+      "fileName": "mouserelease1.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/mouserelease1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/mouserelease1.ogg",
+      "sha256": "23cb78cea76d8f1bb1266af228101a09b5d62063f4ac87ead15b1d395c6181f0",
+      "size": 4775,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover1.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover1.ogg",
+      "sha256": "4eb47e2e1540c44847b47a89825e21335c820a4e54cacf8c4c1eb5100e36af42",
+      "size": 5932,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover2.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover2.ogg",
+      "sha256": "d0bc0fcba496d73df1da8c145e5330df75f87ab5a4f33a9b71461b006b5c338e",
+      "size": 4701,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover3.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover3.ogg",
+      "sha256": "641df2c95468f1f035ff0ae964129da10543b4ea8ff6c13f66bcbd899dcfc113",
+      "size": 4778,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover4.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover4.ogg",
+      "sha256": "8b70e47aa1d51d220a3609a02cc50ceed6e05a20f51c6f8daaf5fd83eae42cf3",
+      "size": 5188,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover5.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover5.ogg",
+      "sha256": "3e1805b914a66e63695913d19ba98c5ec584cc69d29c7167d83c460ab752a5d3",
+      "size": 5258,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rollover6.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/rollover6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/rollover6.ogg",
+      "sha256": "18f6f69f5fdbf55c175ca4eca8447d4ad5d8a315efd985038424f922dadefad8",
+      "size": 5385,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch1.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch1.ogg",
+      "sha256": "efdd1d1e2904fb2d81259cd96bb80101caceae94be02baa4b5310714a6708b19",
+      "size": 6104,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch10.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch10.ogg",
+      "sha256": "bf61b3f3af39b2c680e70ee2f791786edd2bca2016ea683947059f079849bbf3",
+      "size": 6456,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch11.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch11.ogg",
+      "sha256": "a8d445bd96fe3842ff2dcdd42ae728330baa8928032ca5f3d5cd4b926929550a",
+      "size": 6248,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch12.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch12.ogg",
+      "sha256": "dab0c21eacb6536724d139c27c0d60c932c87171752dc8d24d7a826694377f94",
+      "size": 4588,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch13.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch13.ogg",
+      "sha256": "54d1e63b907274bb415a8de7f652194756a8eeab4079a7cf769ec153b93a436a",
+      "size": 4467,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch14.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch14.ogg",
+      "sha256": "c640b370738c816eda3d1196d8a8dda7130825b4094f3bb3cbba22a9f6f9b7c9",
+      "size": 4522,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch15.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch15.ogg",
+      "sha256": "5a20a9d5365dec8fec1311731540f56429cab38822326133c7ce60fbcf9fd275",
+      "size": 6325,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch16.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch16.ogg",
+      "sha256": "d2e9dd4fd2918132f8400e270701384e93139f2207ac115705a2c183cf3d2098",
+      "size": 6991,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch17.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch17.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch17.ogg",
+      "sha256": "d09974d4cf5ccb2d75647e2464cd424e7e3c7a0374e73e8a22577662031a3677",
+      "size": 6686,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch18.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch18.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch18.ogg",
+      "sha256": "ba759707fc2e55f4e7d1edd1dd78a4110267f4dc564edfb989c00f062ef69d8c",
+      "size": 7633,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch19.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch19.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch19.ogg",
+      "sha256": "63753f884e4e0d44b0939bee9f048b32e658d996958930363c0579ffa0f810c1",
+      "size": 7177,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch2.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch2.ogg",
+      "sha256": "aa8ad6e4745e87c84c24a0335e0e0f8629ccbbc474ccfd544fe07d7f3a1b2280",
+      "size": 6042,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch20.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch20.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch20.ogg",
+      "sha256": "276b402ee4840f88a8df4eca6ece029b61c5840fa9149b0c5008fe4bda89cc21",
+      "size": 6965,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch21.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch21.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch21.ogg",
+      "sha256": "8a3fdc5d35c74ae4ce4ec75c1f85c7f5fac1a2a6ac838353b09c48c5d7888fc9",
+      "size": 7453,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch22.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch22.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch22.ogg",
+      "sha256": "913261ad55fa0692902e4027a7a139844e7589d30c4286ab10e6d637f28b1d9f",
+      "size": 7116,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch23.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch23.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch23.ogg",
+      "sha256": "148d91722dd819b450d8b50e65686d9b1d39d38ca05b361caa387bcbd2a90d81",
+      "size": 7177,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch24.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch24.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch24.ogg",
+      "sha256": "aec5e91eef35c4a64d3bec7a25e54a68fa0448f4cf3179455e18c72c3dda60e9",
+      "size": 6340,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch25.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch25.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch25.ogg",
+      "sha256": "ba31fc9a780a6908809154e0108e8d2728b5b9a6e769c8f56d61d920fba100ae",
+      "size": 7130,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch26.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch26.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch26.ogg",
+      "sha256": "1a628e2fbede99afdb57533fa367f352fede596df18c91deb841a21f8171654a",
+      "size": 6031,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch27.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch27.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch27.ogg",
+      "sha256": "a6a3a5fa54037e3b69c0fe7f2d9b50422cb23dd616bb7f72ac0a2a028a810028",
+      "size": 6445,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch28.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch28.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch28.ogg",
+      "sha256": "2f7b627d85ce1530faef5374d3826bfca1ff2823b1b41d5f908448976061e2d4",
+      "size": 5916,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch29.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch29.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch29.ogg",
+      "sha256": "b2923ed170e963b5e211bf73e75f8eeb41f6b49a46eb52f3b3fc43234c713a16",
+      "size": 6769,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch3.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch3.ogg",
+      "sha256": "75d87dc60b7d29df838530af8c9e28205102234e07b5f1e849aa3d95c3922bd0",
+      "size": 6270,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch30.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch30.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch30.ogg",
+      "sha256": "d220abb5218fccc6d37649e17e7cce2a4e253f474332d9ea2b0f0518264aff5a",
+      "size": 7151,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch31.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch31.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch31.ogg",
+      "sha256": "bca5f3047e73d28f6619d49a45dee1984340c165da5fa49b239068c2cb9b4be1",
+      "size": 8180,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch32.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch32.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch32.ogg",
+      "sha256": "b740f507ad386a1d09bb5ca69a75231656a71375df11348fcd2d5e323b8d6727",
+      "size": 7868,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch33.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch33.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch33.ogg",
+      "sha256": "977ecead4b27cf9801aed433bfa4bdfcf49444c15990d27d2e472401a1fb2742",
+      "size": 8530,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch34.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch34.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch34.ogg",
+      "sha256": "6e7943ed133c1b559d009da5028da0a318fee0b1bcfe6e4fa49744ba2cd3975b",
+      "size": 7910,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch35.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch35.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch35.ogg",
+      "sha256": "1ec7f5a76318f88c499d37567167f565cb564266d52b37112aac6467fe4126cb",
+      "size": 6935,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch36.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch36.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch36.ogg",
+      "sha256": "1dd3cf29291219ab2eed0292d5c3b06b1e102ea70821099e741fc127734ffa04",
+      "size": 6616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch37.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch37.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch37.ogg",
+      "sha256": "25faa57a3e819a3e3a2191934226e540467fcd11680131a7a77b47271048327e",
+      "size": 6822,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch38.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch38.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch38.ogg",
+      "sha256": "d5c164ba622e3c7904eb0f442a81cff9985bebbd8951202348d2a7c8a449309b",
+      "size": 7303,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch4.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch4.ogg",
+      "sha256": "687a42c24e5d25be1a256f35a439fe858548fe76d43ccfb17db546618b0d36db",
+      "size": 6477,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch5.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch5.ogg",
+      "sha256": "8a5c85c0009cfd985634e8fdb4e0350690be5d85fd49f43a90b35c7de0bef7c0",
+      "size": 6181,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch6.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch6.ogg",
+      "sha256": "34d37cbfe6785cab2f3217b613fc976ba05b869c0ce61381eafa67ee257ecc9d",
+      "size": 6610,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch7.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch7.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch7.ogg",
+      "sha256": "7a3032d1dae63d1096cf2f1e59cb43e598d5229dcb9617e9d3fb13e96c78d5f2",
+      "size": 5707,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch8.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch8.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch8.ogg",
+      "sha256": "c7bf07f8d58ac62faac2427868619631b1a89b0ab08e87c7c01621a086fa1873",
+      "size": 6253,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch9.ogg",
+      "path": "packs/kenney_uiaudio/sounds/Audio/switch9.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/sounds/Audio/switch9.ogg",
+      "sha256": "069861740681c528866483e3d528d79034f24d744c4fc79f7045b7d9ed999e26",
+      "size": 6009,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/kenney_uiaudio/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/cover.png",
+      "sha256": "ae47bd8f710881ee927bfb5f13f8433064fdd5966e4a2a763e3fab1e49d8b4ba",
+      "size": 14975,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "click1.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/click1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/click1.png",
+      "sha256": "02a2397373b2aa18bb2839dcfa0d7a15167096f5a27594635a0b6ec0ffaf3407",
+      "size": 2344,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click1"
+    },
+    {
+      "fileName": "click2.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/click2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/click2.png",
+      "sha256": "cfc8c16a3be3efe232b97fc32b5a5fde1b533c7d580874d53ee70bb37c11b74f",
+      "size": 3229,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click2"
+    },
+    {
+      "fileName": "click3.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/click3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/click3.png",
+      "sha256": "84b747d1a9e55470359f9e02de25d4e107388d1bc037898b104a5e6f3530bf16",
+      "size": 2387,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click3"
+    },
+    {
+      "fileName": "click4.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/click4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/click4.png",
+      "sha256": "871b36139acb7d46e0d317d4a1d44b4dbfc75d45414932b598708faadf4d23ee",
+      "size": 3751,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click4"
+    },
+    {
+      "fileName": "click5.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/click5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/click5.png",
+      "sha256": "c6e324dd4dba2bf13042908e732ae5febe60943fa7fa8ed0393c7167822e89d1",
+      "size": 3906,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click5"
+    },
+    {
+      "fileName": "mouseclick1.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/mouseclick1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/mouseclick1.png",
+      "sha256": "ff47772a60102a997e5adc2f7f37201af7df455adc5c8ef2829ee1a0b579eaae",
+      "size": 2864,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mouseclick1"
+    },
+    {
+      "fileName": "mouserelease1.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/mouserelease1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/mouserelease1.png",
+      "sha256": "106609fa1ab1899c1cf6e6e1e8035459915855e0cfea8cc00c2db8408111d8b1",
+      "size": 2898,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mouserelease1"
+    },
+    {
+      "fileName": "rollover1.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover1.png",
+      "sha256": "a3c9abc9ee416e0e284fb23ec5985b3690bb92fa6bfd2a781801bdba277f906e",
+      "size": 2827,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover1"
+    },
+    {
+      "fileName": "rollover2.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover2.png",
+      "sha256": "80849f5754fbe657ca7096649c0d9400e74f41ffbb6524a188913fb379890380",
+      "size": 2818,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover2"
+    },
+    {
+      "fileName": "rollover3.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover3.png",
+      "sha256": "f2be3af51500173820221bc97c2c538ffa4c82e308a859d30d9a17c2b7ca01d9",
+      "size": 4866,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover3"
+    },
+    {
+      "fileName": "rollover4.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover4.png",
+      "sha256": "e0f9c3519fbd26b48ccae55977e0fc0e5fdcc535dc358b56a433074a46cb2069",
+      "size": 2896,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover4"
+    },
+    {
+      "fileName": "rollover5.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover5.png",
+      "sha256": "a2278530ce2232518ddd7ed97f042935a13bacecd66fd6dc3304a224205e788d",
+      "size": 2949,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover5"
+    },
+    {
+      "fileName": "rollover6.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/rollover6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/rollover6.png",
+      "sha256": "e1804413ffa9f18305e6a09416e57f5234eee9cb02cada4450a75eca5523fd00",
+      "size": 2591,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rollover6"
+    },
+    {
+      "fileName": "switch1.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch1.png",
+      "sha256": "2ad66b6cd832d671012fa3c622caa377b1d0b7aeddff3b02b5d8e5d086532836",
+      "size": 1971,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch1"
+    },
+    {
+      "fileName": "switch10.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch10.png",
+      "sha256": "e05dea5c9622f0507a1179502f85d42f34bafcc2295f6c11b2e56ee4c2ccc1c2",
+      "size": 1683,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch10"
+    },
+    {
+      "fileName": "switch11.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch11.png",
+      "sha256": "c5cceaabd1e63a0c6dc4f9806ae2ef29f7787af0336ed86be8e98e485d25451e",
+      "size": 1946,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch11"
+    },
+    {
+      "fileName": "switch12.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch12.png",
+      "sha256": "673157586f51cf154bc04a27d84b04567aa677af34dc33931e732349e1e72865",
+      "size": 3736,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch12"
+    },
+    {
+      "fileName": "switch13.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch13.png",
+      "sha256": "c4c0bc95b71de7331f7323f6d2375cce6b9505a78dc19e96662a05d39f72467f",
+      "size": 3842,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch13"
+    },
+    {
+      "fileName": "switch14.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch14.png",
+      "sha256": "db74b4d51262ac8004472f8923f86a146d66add721d39546fb546d8da6414116",
+      "size": 3855,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch14"
+    },
+    {
+      "fileName": "switch15.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch15.png",
+      "sha256": "5f24f606b31d99efb26941ba90caa63bc6fe11f1a65c459f65a4b5ba3695a726",
+      "size": 1992,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch15"
+    },
+    {
+      "fileName": "switch16.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch16.png",
+      "sha256": "d5c49894061574bb12ec6de8b0be4db845b1c96d44aaad1016d4aac8f30c6cbe",
+      "size": 2027,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch16"
+    },
+    {
+      "fileName": "switch17.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch17.png",
+      "sha256": "437f63eccf7094eec7c2c158da13e20623595239465a78f2224d1a6f72134c20",
+      "size": 1713,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch17"
+    },
+    {
+      "fileName": "switch18.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch18.png",
+      "sha256": "83be5f3f721b71d74aa8c5264bb1dc619971580835228e4c28d78f493eadf198",
+      "size": 1818,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch18"
+    },
+    {
+      "fileName": "switch19.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch19.png",
+      "sha256": "865e6676dffb0bd5c72b9e475830480d6b80a3504387c47bc871e5e6f8f39826",
+      "size": 1769,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch19"
+    },
+    {
+      "fileName": "switch2.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch2.png",
+      "sha256": "9d9b5df43b885f5dcfb593f6d9001f75653a99a17f9298e6f7610317f4c3976b",
+      "size": 1852,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch2"
+    },
+    {
+      "fileName": "switch20.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch20.png",
+      "sha256": "9c8f747b17f18f34d4b91d57dfd02ce651cd9f4645c33c5b05eeccac6ac80db1",
+      "size": 1925,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch20"
+    },
+    {
+      "fileName": "switch21.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch21.png",
+      "sha256": "c672cbce11c7ee2a64c60be6b64f47abe0de506b7863d93f419f4a72dc27b5ae",
+      "size": 2011,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch21"
+    },
+    {
+      "fileName": "switch22.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch22.png",
+      "sha256": "6a784cf1aa58d033753c03f6bb5f32e895896da6f27fc09372065eb6e25909c2",
+      "size": 2076,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch22"
+    },
+    {
+      "fileName": "switch23.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch23.png",
+      "sha256": "15deeffbe8bdb5b7812e3ca1c6296f06fd4f468b38dc588ee1e01fe5d2a85e5c",
+      "size": 1952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch23"
+    },
+    {
+      "fileName": "switch24.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch24.png",
+      "sha256": "259d3a89ef15a7c8fd94f8bdaa526e2a6be0456911d14553234b39e2368bc654",
+      "size": 2135,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch24"
+    },
+    {
+      "fileName": "switch25.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch25.png",
+      "sha256": "da0a6ab24310c1eec392c8fdecbb6e68df50acb616592eca16240230a8ab2264",
+      "size": 1964,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch25"
+    },
+    {
+      "fileName": "switch26.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch26.png",
+      "sha256": "35e56746f4af400d153f95b74027f77045957fe160d946129e9432e281e1dda7",
+      "size": 1902,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch26"
+    },
+    {
+      "fileName": "switch27.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch27.png",
+      "sha256": "c73cdad0e66926db2a98e1e8fbf14c5867b730b1a7dfaca51810ef3e818694ce",
+      "size": 1989,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch27"
+    },
+    {
+      "fileName": "switch28.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch28.png",
+      "sha256": "5f1814ff0412eca63e8ffd74d9f9a814d04bc108ea1f1282d4f0bf5e40ffa4ae",
+      "size": 2006,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch28"
+    },
+    {
+      "fileName": "switch29.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch29.png",
+      "sha256": "6726d754172379d5f4334f79194cfaec4b81e014298e4d2a359e648ba29025e3",
+      "size": 1784,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch29"
+    },
+    {
+      "fileName": "switch3.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch3.png",
+      "sha256": "66bbbc36a12ce4b4ee0320fa1b0cf15f4c89d47f17168190380c75047348a2b3",
+      "size": 1937,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch3"
+    },
+    {
+      "fileName": "switch30.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch30.png",
+      "sha256": "cb96f03321e8dec15c5964c2c0f07ab78ecc61ccbb9f3255fdc5329304e1546f",
+      "size": 1882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch30"
+    },
+    {
+      "fileName": "switch31.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch31.png",
+      "sha256": "7871c582ce10fc29f74535d7950f5e31316619be13295f567d48c0476170aaf4",
+      "size": 1934,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch31"
+    },
+    {
+      "fileName": "switch32.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch32.png",
+      "sha256": "aca2970137106d20340c52478969ababdc079beab343e47f9c613bbc764ffdd2",
+      "size": 2134,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch32"
+    },
+    {
+      "fileName": "switch33.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch33.png",
+      "sha256": "ad4f8ab6844c4887b1832ef23579b8805b313f244a02d2fd53a882d87bffbbe4",
+      "size": 2085,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch33"
+    },
+    {
+      "fileName": "switch34.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch34.png",
+      "sha256": "aef0b9e48b2808a4faba6e8ae5fe5171ae6b9cc207e00781d0be50110fa71115",
+      "size": 2091,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch34"
+    },
+    {
+      "fileName": "switch35.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch35.png",
+      "sha256": "062107b915524af3e0ef21a40d56e1238c5d3138f406548a5606ba5a8ae970b0",
+      "size": 2008,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch35"
+    },
+    {
+      "fileName": "switch36.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch36.png",
+      "sha256": "b93725bebdf592b75f1b559ca8cd570c36b8656464110c4625eb914ffe2a51d6",
+      "size": 1811,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch36"
+    },
+    {
+      "fileName": "switch37.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch37.png",
+      "sha256": "34262c3155cf830a1c67cedc1a31e5d63e9f766684198636915abc0b0d0a5d71",
+      "size": 1781,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch37"
+    },
+    {
+      "fileName": "switch38.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch38.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch38.png",
+      "sha256": "13abd8a50418c5ebba118af0f93034e3b0c3dd74de55e56d20b0fa23159d086f",
+      "size": 2236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch38"
+    },
+    {
+      "fileName": "switch4.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch4.png",
+      "sha256": "6db376bba0d73581541713328758fa5cfedca316b1ca3c897fe7f7b437be30b0",
+      "size": 1627,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch4"
+    },
+    {
+      "fileName": "switch5.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch5.png",
+      "sha256": "c8c12023ee9ea8b29446a13add72e366de65f87bc13ebd777535da9a7c3a98d0",
+      "size": 1918,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch5"
+    },
+    {
+      "fileName": "switch6.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch6.png",
+      "sha256": "dc3909acdd67b6f147f6d624f487976c38dfc582978e6e46bf70a87ab3d9d43c",
+      "size": 1898,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch6"
+    },
+    {
+      "fileName": "switch7.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch7.png",
+      "sha256": "0bde8cff2743094ebe775a77c28d2247bd090102338cc3faf1883b6ee4e5ab82",
+      "size": 2498,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch7"
+    },
+    {
+      "fileName": "switch8.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch8.png",
+      "sha256": "5e56ede7a6dd5d99ff8840bb7a2f1842a8e424a2ef1c0e8a9231e270c20ff669",
+      "size": 1696,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch8"
+    },
+    {
+      "fileName": "switch9.png",
+      "path": "packs/kenney_uiaudio/thumbnails/Audio/switch9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_uiaudio/thumbnails/Audio/switch9.png",
+      "sha256": "19353338fe7a21217e498b0fdc077b415ddbc50ff4aabe286374d9c819e64c33",
+      "size": 1968,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch9"
+    }
+  ]
+}

@@ -1,0 +1,1648 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Casino Audio",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "description": "Casino sounds by Kenney (kenney.nl): cards, chips and dice. CC0 per the included license.",
+  "folder": "packs/kenney_casinoaudio",
+  "itemCount": 54,
+  "items": [
+    {
+      "name": "Cardfan1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardFan1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardfan2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardFan2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardopenpackage1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardopenpackage2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardplace1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardplace2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardplace3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardplace4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardshove1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardshove2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardshove3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardshove4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardshuffle",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardShuffle.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide7.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardslide8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide8.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardtakeoutpackage1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cardtakeoutpackage2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chiplay1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chiplay2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chiplay3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipscollide1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipscollide2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipscollide3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipscollide4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipshandle6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chipsstack6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dicethrow1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dicethrow2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dicethrow3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dicethrow4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Diegrab1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieGrab1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Diegrab2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieGrab2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dieshuffle1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dieshuffle2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dieshuffle3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Diethrow1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Diethrow2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Diethrow3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "cardFan1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardFan1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardFan1.ogg",
+      "sha256": "7a9758ccad8899baef1b9f60b4064e4baa724a548293832fdaea07e6e07e638d",
+      "size": 12489,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardFan2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardFan2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardFan2.ogg",
+      "sha256": "5743373c9dde00c6eee949a2c8e65d75946522768999167e1f5632451630e848",
+      "size": 18363,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardOpenPackage1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage1.ogg",
+      "sha256": "1214059fdfbf1c396c0702244fc833739cc346d326a71e450b731f456e54d6fb",
+      "size": 12715,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardOpenPackage2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardOpenPackage2.ogg",
+      "sha256": "49e02479815c69cd303e0d8f12952c0492d5b3e555838f3485cc25a09818e6fb",
+      "size": 10918,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardPlace1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardPlace1.ogg",
+      "sha256": "d8f26c33a665dcbdcc6f632f6050bc9dd548feb0d4942d4547615926d3926810",
+      "size": 9624,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardPlace2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardPlace2.ogg",
+      "sha256": "903d5050718595e87864dd755643b476ab1a5533080dcc2dddc72570d33ba9f8",
+      "size": 8046,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardPlace3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardPlace3.ogg",
+      "sha256": "1d988631a6e5201ed1bb0d728f2e43a3ec79401258426858793598044ac95841",
+      "size": 11503,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardPlace4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardPlace4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardPlace4.ogg",
+      "sha256": "18e3ba713b7259605fd27cdc048085ed56cf86b32403f070b6cb125019f77183",
+      "size": 9618,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardShove1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardShove1.ogg",
+      "sha256": "1ea667aa6795d5f14239192116ebcbd8f3f47eb1c7faaf2ec56844b9067b8b06",
+      "size": 10690,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardShove2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardShove2.ogg",
+      "sha256": "8e95c1d3ae94b5b91bc663432ad7c3bf4e03a541c22ec10fa51c65fe0e29054b",
+      "size": 10445,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardShove3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardShove3.ogg",
+      "sha256": "399520d483a1466fcaa850b9c407b4edbd5c7f0cbdf17e84dea12e9636326d0d",
+      "size": 9948,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardShove4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardShove4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardShove4.ogg",
+      "sha256": "0a1ad3a2f16bd2ed73349e6342426ca7a59a6e26b7e26e36d51d51c2c2349d6f",
+      "size": 10875,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardShuffle.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardShuffle.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardShuffle.ogg",
+      "sha256": "96c84883a30845ede723a4cf2e8369e9837e7dd4e0d4eb0212b0a7ed21b0f544",
+      "size": 30002,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide1.ogg",
+      "sha256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+      "size": 8833,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide2.ogg",
+      "sha256": "e674a1679ec87b507047fe012d068ad2c412125f56186f0e732684705c2a6888",
+      "size": 9042,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide3.ogg",
+      "sha256": "af2ab62656cb3df73316ce5771b8ee1111a840962b21607e3202151e7413c52c",
+      "size": 9164,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide4.ogg",
+      "sha256": "b9c82bcdbe6b7d00a06e2546bd2683a9ab082ca5fd090a42882f33eddd925b7f",
+      "size": 7912,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide5.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide5.ogg",
+      "sha256": "8638ab0c17f029aded0e27a4f9b9bb9f8c621b19a6e9975e855cb40ea63e2201",
+      "size": 9180,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide6.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide6.ogg",
+      "sha256": "be85da181ac879c20cb667d0f9f156dbdc236d3751737ad27359a15e946430a0",
+      "size": 8780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide7.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide7.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide7.ogg",
+      "sha256": "bda2040194f43484d03ee3c65ed6fff57251882ea7227abce4214bfa30bf2705",
+      "size": 9580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardSlide8.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardSlide8.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardSlide8.ogg",
+      "sha256": "95d9aa26f8c63af9934f27a8e3b7e9b583f177640f0bbd6982f12dba52b9ae6b",
+      "size": 9863,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardTakeOutPackage1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage1.ogg",
+      "sha256": "6d38b979f64d20e4153173187ed67b04c6c004767c0a43eddb65c75fa925a1c4",
+      "size": 8269,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cardTakeOutPackage2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/cardTakeOutPackage2.ogg",
+      "sha256": "d991829eeaf7e5a6f8462594e5be0d91535309ffd6249278f34eec70470395a4",
+      "size": 9424,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipLay1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipLay1.ogg",
+      "sha256": "4b2111252ccb64eed67f171e061053849cfbb29873536c03948646f244a3905c",
+      "size": 5720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipLay2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipLay2.ogg",
+      "sha256": "8ca8b2d450741c04ed7b4ba51ed3f73c2400c8b3dbe83b974be4fe4774a76712",
+      "size": 6123,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipLay3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipLay3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipLay3.ogg",
+      "sha256": "bf24ebb417b6279568800dffdb0205d3ec8854c7efe179e8964755a6341727aa",
+      "size": 6327,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsCollide1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsCollide1.ogg",
+      "sha256": "f41b3d106360fc68ebc061a211d4265b4cb5fa1fbe86e4d57d3673510e2c3784",
+      "size": 6356,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsCollide2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsCollide2.ogg",
+      "sha256": "2a10c5ff4b2fbaa55a317fc258ddce3fec85bd26db2d3c2ad298b3b33ce23bc6",
+      "size": 5987,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsCollide3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsCollide3.ogg",
+      "sha256": "1c5e885f72b64c38fff7ef05579e49310e7acf026cf123ffb65fffb57fb06e1c",
+      "size": 6301,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsCollide4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsCollide4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsCollide4.ogg",
+      "sha256": "1ffa34af64adc62fce583c5aa9a3c98287b1673ef191576a5571f1ffd39529dd",
+      "size": 6038,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle1.ogg",
+      "sha256": "a2c495237fb0dc0dc96ccc2c9840572edd226e6459398ecb631c6c9f9e5408f0",
+      "size": 9374,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle2.ogg",
+      "sha256": "099b6d7d3a71e7d22171a93d124e7366e326d32eb85d718ba29abded8a49c329",
+      "size": 8639,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle3.ogg",
+      "sha256": "7c5a86e27b2bef839ae096dd655506cf46a82494bd01cc28f51bed6ab26cc342",
+      "size": 6261,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle4.ogg",
+      "sha256": "0d171ea00224709cbe31ef95a111eabaf1382606a4836c5717043b339cbed8e9",
+      "size": 7347,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle5.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle5.ogg",
+      "sha256": "589753ea21b1955626e82975be8979f42140f5b0645a8c33c2d1f7e33fba68cb",
+      "size": 11273,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsHandle6.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsHandle6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsHandle6.ogg",
+      "sha256": "527d4d3de55cc261dc476329b71a750c296f3ad633ac50318d913976bb89857c",
+      "size": 8909,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack1.ogg",
+      "sha256": "12bf175b9afcea112175b241ad3336c6244ac5fdcdff8b5942ecc03f2225e0c4",
+      "size": 6469,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack2.ogg",
+      "sha256": "9f985e766c3557eef1764240b48e30b2f0ffa870a99f05de85cd6bf0ea758ef5",
+      "size": 5642,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack3.ogg",
+      "sha256": "48cc0f01e2b62be7677f2e8c02177906cab80e96fa8176fa05b3ced35bc2a9c2",
+      "size": 7203,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack4.ogg",
+      "sha256": "129a3af12f096ef9d8326b32c3c674d687f1a0b447157ccd02fb431ba134b580",
+      "size": 6095,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack5.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack5.ogg",
+      "sha256": "42dd800e3e24bbd07d3ebfc86c44b6500d376641e30270dc363d95a73e90b56e",
+      "size": 5749,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chipsStack6.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/chipsStack6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/chipsStack6.ogg",
+      "sha256": "5ec35171aa65bf5edd977e293523a649227accf36e682bf1ac9a84286f04c682",
+      "size": 5821,
+      "role": "Audio"
+    },
+    {
+      "fileName": "diceThrow1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/diceThrow1.ogg",
+      "sha256": "b31d716165be60e442da3c1ca25a3968aad1e0851a7f0859f495aecc02fd9e13",
+      "size": 8410,
+      "role": "Audio"
+    },
+    {
+      "fileName": "diceThrow2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/diceThrow2.ogg",
+      "sha256": "a2702cfe14d24aab302483a1499daa88474a4af4acd794b58d97f4af16333b3d",
+      "size": 9824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "diceThrow3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/diceThrow3.ogg",
+      "sha256": "52fc44c7bb89328a147738574c925508c34abf4c19a014575b37ffb8c6b02437",
+      "size": 10018,
+      "role": "Audio"
+    },
+    {
+      "fileName": "diceThrow4.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/diceThrow4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/diceThrow4.ogg",
+      "sha256": "6253cabcb10c4152548cbc9d3ea87c1bf1bd484f0bd8d6b73c542e690509c0fd",
+      "size": 8159,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieGrab1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieGrab1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieGrab1.ogg",
+      "sha256": "1952cf1987b2c1ebb035b30b5f0caf23604b6ce4c88b6a226fe6e6257ce730f3",
+      "size": 10278,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieGrab2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieGrab2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieGrab2.ogg",
+      "sha256": "4eb4940d1e71aa3f6ac5f865b6b47748a492adf6a83d622c8efe6284dbebbd2c",
+      "size": 11437,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieShuffle1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieShuffle1.ogg",
+      "sha256": "ba603441c857204dbe3ff3345902c7e1c3f523bf1bd314acf088609bc6c1e4e5",
+      "size": 19388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieShuffle2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieShuffle2.ogg",
+      "sha256": "47e8e2cb0adb95bcd7348b58db8dc2bbfe3c553e50a4e9ef007e67891ed51ca2",
+      "size": 19976,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieShuffle3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieShuffle3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieShuffle3.ogg",
+      "sha256": "aecd1dd0de6e42ebb510d1f9bfe91a580a8af238dd73bdfda368b90b894b5c09",
+      "size": 19722,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieThrow1.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieThrow1.ogg",
+      "sha256": "4e6581c73465cdd7ec32e86a709b4ea5c682e819c9bdb7989d1df1880ba67886",
+      "size": 9523,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieThrow2.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieThrow2.ogg",
+      "sha256": "e0b8c370503b2c5c2a72d311cccae30fe63a6afd48f2be32e771fcf1a98585d6",
+      "size": 7545,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dieThrow3.ogg",
+      "path": "packs/kenney_casinoaudio/sounds/Audio/dieThrow3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/sounds/Audio/dieThrow3.ogg",
+      "sha256": "09c13d35a9a30bfce31a5e9bca94adc5be189ddecd0b4500237d54c7fd05227c",
+      "size": 9231,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/kenney_casinoaudio/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/cover.png",
+      "sha256": "543fdf282d80447ac81b8b21a4ff0e37d5356fa671fe65402ac4e59b8d3db688",
+      "size": 14817,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "cardFan1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardFan1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardFan1.png",
+      "sha256": "a71de5ae78ba180b63b1d780150ac7ab799706b9673ad177197356ff19c06e9b",
+      "size": 3536,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardfan1"
+    },
+    {
+      "fileName": "cardFan2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardFan2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardFan2.png",
+      "sha256": "e1853283e81514b54eba999a7409af2e1d709743d518cc382a1e7e45ca301df5",
+      "size": 2459,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardfan2"
+    },
+    {
+      "fileName": "cardOpenPackage1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardOpenPackage1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardOpenPackage1.png",
+      "sha256": "2f79f18a9504c74aa39743fe7e6a910ebe98d610b8e056c40d49e9e481cff10e",
+      "size": 2404,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardopenpackage1"
+    },
+    {
+      "fileName": "cardOpenPackage2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardOpenPackage2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardOpenPackage2.png",
+      "sha256": "bac8ffe6fb2b4e72355a01a55b59e7fa1335fd7f44f2b98b1f4e199fd6adca4d",
+      "size": 2886,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardopenpackage2"
+    },
+    {
+      "fileName": "cardPlace1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardPlace1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardPlace1.png",
+      "sha256": "67570e96a07a27128bec30e2b76953763f3e075695f4bef8525f2d7492293fea",
+      "size": 1865,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardplace1"
+    },
+    {
+      "fileName": "cardPlace2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardPlace2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardPlace2.png",
+      "sha256": "aa54fcf4d0dabe069a18592ec1126845dfdc0e839078d462c3e11bcac4874545",
+      "size": 1898,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardplace2"
+    },
+    {
+      "fileName": "cardPlace3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardPlace3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardPlace3.png",
+      "sha256": "874bca6863960e14b87b9b72b7d410378f40c90db8e1ba39da2a57a6b4af63d4",
+      "size": 1827,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardplace3"
+    },
+    {
+      "fileName": "cardPlace4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardPlace4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardPlace4.png",
+      "sha256": "5624174d37ae0d7e821051f0813338cdb11c3836c94ba5072c583be230d211d7",
+      "size": 2069,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardplace4"
+    },
+    {
+      "fileName": "cardShove1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardShove1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardShove1.png",
+      "sha256": "690ccfea3c6819011b6761c0bff932abaca90d8ab2038802f022a700d6b047f0",
+      "size": 2891,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardshove1"
+    },
+    {
+      "fileName": "cardShove2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardShove2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardShove2.png",
+      "sha256": "97ec746906c1a81daf4deb1acb4ea9b5776b5bab2f3aac88fa30d299eca600c7",
+      "size": 2517,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardshove2"
+    },
+    {
+      "fileName": "cardShove3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardShove3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardShove3.png",
+      "sha256": "fcf5881810755a8c16408b2978d23608865afb191ae353f704d54c0b3b6d73d3",
+      "size": 2564,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardshove3"
+    },
+    {
+      "fileName": "cardShove4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardShove4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardShove4.png",
+      "sha256": "9f52803067f18101ecda677b3c0eb7169c36662fa42b19b90765849292a8f188",
+      "size": 2677,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardshove4"
+    },
+    {
+      "fileName": "cardShuffle.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardShuffle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardShuffle.png",
+      "sha256": "19165673c8e8aae3a83565d0b08ded56f189265a35d6f4d7741f6b4cdff08fee",
+      "size": 2988,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardshuffle"
+    },
+    {
+      "fileName": "cardSlide1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide1.png",
+      "sha256": "8f573b089fd11703ccf754a37d7971f98974de36f00421b609a8dd5abd25cabd",
+      "size": 1731,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide1"
+    },
+    {
+      "fileName": "cardSlide2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide2.png",
+      "sha256": "bd26576a9fb4273d557c5bf073c75ebd8745fa969450011bab0131456ca32d98",
+      "size": 1854,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide2"
+    },
+    {
+      "fileName": "cardSlide3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide3.png",
+      "sha256": "2995e09a43cf5ffd88cc240963f309e22c9dddf2510ee0ee381d955c8934cb4e",
+      "size": 2034,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide3"
+    },
+    {
+      "fileName": "cardSlide4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide4.png",
+      "sha256": "9f97b271d51012e5c7a356ed6c30eb66a51e98fdec3c1245b326f851b4b0d3e7",
+      "size": 2349,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide4"
+    },
+    {
+      "fileName": "cardSlide5.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide5.png",
+      "sha256": "e843412565f8a952399085e2e5af75c4331943299195f97bc70a55574fe0ff18",
+      "size": 1959,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide5"
+    },
+    {
+      "fileName": "cardSlide6.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide6.png",
+      "sha256": "f5f9bcffbdf8df2af06aa3bfe0bb1cc34532c1061e87ad81b8cf44e8a5b5e74c",
+      "size": 1912,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide6"
+    },
+    {
+      "fileName": "cardSlide7.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide7.png",
+      "sha256": "f62bd784e615e78a9f51fedb6f8f9c39ec76747d41ed81046ff37a300f306196",
+      "size": 2264,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide7"
+    },
+    {
+      "fileName": "cardSlide8.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardSlide8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardSlide8.png",
+      "sha256": "f0ad292a09eba273a18fd59f3efa71e1d24ba8ccdc18f319156648273d3ee778",
+      "size": 2076,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardslide8"
+    },
+    {
+      "fileName": "cardTakeOutPackage1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardTakeOutPackage1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardTakeOutPackage1.png",
+      "sha256": "5fabc0e6bb79251a9d930283876bddb1fa690e24fac2a398c7fee242eca5d88f",
+      "size": 3977,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardtakeoutpackage1"
+    },
+    {
+      "fileName": "cardTakeOutPackage2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/cardTakeOutPackage2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/cardTakeOutPackage2.png",
+      "sha256": "a6f4c23bef37cf9ae1f496caf9b5eca50c75e0a4c6102a2ceff27ea61561a78d",
+      "size": 3881,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cardtakeoutpackage2"
+    },
+    {
+      "fileName": "chipLay1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipLay1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipLay1.png",
+      "sha256": "2ebce0c46fcf5e91fd92853892c73c8cc21750a0a4898425f3a16af44bec561c",
+      "size": 2091,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chiplay1"
+    },
+    {
+      "fileName": "chipLay2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipLay2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipLay2.png",
+      "sha256": "fde051842d81129673c43834073885d1c77565479ea39a2310d2419cda0add0e",
+      "size": 1859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chiplay2"
+    },
+    {
+      "fileName": "chipLay3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipLay3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipLay3.png",
+      "sha256": "960ef3e620d153b1040cd9aa9afae4c2dc83d938303769cae7bd5b4bbcf7989d",
+      "size": 2299,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chiplay3"
+    },
+    {
+      "fileName": "chipsCollide1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide1.png",
+      "sha256": "39be73d9af193a904db93a8dabe508afe58db816ef95320c740768bae60851fc",
+      "size": 1781,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipscollide1"
+    },
+    {
+      "fileName": "chipsCollide2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide2.png",
+      "sha256": "7369de0c6d95a5d59a6cb1b2efe71947d408a33d131ef0ada76fb141fed02aef",
+      "size": 2090,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipscollide2"
+    },
+    {
+      "fileName": "chipsCollide3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide3.png",
+      "sha256": "c3fff1b0464f3d1cb8858b683c2164b8830e94658ad84ac28da8c4f4348785d1",
+      "size": 1656,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipscollide3"
+    },
+    {
+      "fileName": "chipsCollide4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsCollide4.png",
+      "sha256": "ce26fd4d7ab432e3c692e73e3dc52a50c5b3c9ba4856ef639286591c459eb1cf",
+      "size": 1728,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipscollide4"
+    },
+    {
+      "fileName": "chipsHandle1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle1.png",
+      "sha256": "42934a2c17f1456a5fc6b6937cb31a9a17b7ea3748faa83a5113683e558264d3",
+      "size": 1843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle1"
+    },
+    {
+      "fileName": "chipsHandle2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle2.png",
+      "sha256": "fcdce18e01c8e70522b40f7ba6ce2b1eea2796ddf4ed35c33268d5cd0c205fd3",
+      "size": 1891,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle2"
+    },
+    {
+      "fileName": "chipsHandle3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle3.png",
+      "sha256": "274cdbadf563b3b749e08169c84f9bdc5dc596e1ed189a5e2ff1b7e1150ff3d2",
+      "size": 2396,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle3"
+    },
+    {
+      "fileName": "chipsHandle4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle4.png",
+      "sha256": "8b48f3a85358b24af6fbf9ff191c3db4c1c22c8e832ea4cbb502b51f1d517965",
+      "size": 2918,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle4"
+    },
+    {
+      "fileName": "chipsHandle5.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle5.png",
+      "sha256": "6eff3802f6330dd8e6f74e7664961f43d5c789bd2e3a952bb54948799be83dbd",
+      "size": 3690,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle5"
+    },
+    {
+      "fileName": "chipsHandle6.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsHandle6.png",
+      "sha256": "f9d96030342b7424c5ee0cfe25dab39ee28b0ac88d8129ca850b6a778ad8a10a",
+      "size": 2546,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipshandle6"
+    },
+    {
+      "fileName": "chipsStack1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack1.png",
+      "sha256": "95308bc393ceb1542553f107e6b732e28b812886a11969b646af5a6bdea52560",
+      "size": 1793,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack1"
+    },
+    {
+      "fileName": "chipsStack2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack2.png",
+      "sha256": "376de7db37d788c77c620b9ca8dfaef350212eb1ed9ba1de8de52381c54b25c5",
+      "size": 1980,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack2"
+    },
+    {
+      "fileName": "chipsStack3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack3.png",
+      "sha256": "29f997263bf2e83aeb2604cfeb329a1d867c2cc330218af71fb91d02e2662d56",
+      "size": 2185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack3"
+    },
+    {
+      "fileName": "chipsStack4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack4.png",
+      "sha256": "a5d6a6e0c90978dee5eda51ba6e857f656ff30cd95c39f54129974541edb0cf0",
+      "size": 2203,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack4"
+    },
+    {
+      "fileName": "chipsStack5.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack5.png",
+      "sha256": "3f63d65ef5c191aa915d44ccbe07f7dc140d2617af26520e3dfb48c18000dd5a",
+      "size": 2033,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack5"
+    },
+    {
+      "fileName": "chipsStack6.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/chipsStack6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/chipsStack6.png",
+      "sha256": "b3c5b221d4e435442c79979bff0b60076c01c36b0000df4d9a424ec0ebf22c68",
+      "size": 2026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chipsstack6"
+    },
+    {
+      "fileName": "diceThrow1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/diceThrow1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/diceThrow1.png",
+      "sha256": "3e8d8b524965743e8e15abc211597e07a69923a1057a681cf4a8827f658ba96b",
+      "size": 1673,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dicethrow1"
+    },
+    {
+      "fileName": "diceThrow2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/diceThrow2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/diceThrow2.png",
+      "sha256": "1118fd0e253c3d338a116dd1d833524b8bb3e2ec393ffd2885ba1ea6d17728b5",
+      "size": 2262,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dicethrow2"
+    },
+    {
+      "fileName": "diceThrow3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/diceThrow3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/diceThrow3.png",
+      "sha256": "715cde57da9cf67ef7913339b8dcb38e801caa50680cf3b219bb672f2df4708f",
+      "size": 1869,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dicethrow3"
+    },
+    {
+      "fileName": "diceThrow4.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/diceThrow4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/diceThrow4.png",
+      "sha256": "693ef43a79fe7bceccfea77dc7e489e1d822cd0e6c7d1ee578aedf8170d0b684",
+      "size": 1902,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dicethrow4"
+    },
+    {
+      "fileName": "dieGrab1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieGrab1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieGrab1.png",
+      "sha256": "40718656abc6c1c1676098f9366cdcea61ae6fb6783d34755ec9ba4f5b551ccd",
+      "size": 2402,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Diegrab1"
+    },
+    {
+      "fileName": "dieGrab2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieGrab2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieGrab2.png",
+      "sha256": "fe8351bb233695db35b06d0ce97b02a70c0b0be5be80510e4c42893061d9c6f3",
+      "size": 2084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Diegrab2"
+    },
+    {
+      "fileName": "dieShuffle1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle1.png",
+      "sha256": "63d15f064f8f4bc9588902fa6e1432443b0daaaa8d07ecda67a01123f28321e6",
+      "size": 2387,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dieshuffle1"
+    },
+    {
+      "fileName": "dieShuffle2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle2.png",
+      "sha256": "79f944ef9ce6071ddee8aa7aab1cb88916b5ee56a5e96e68bb26a97e1ccae744",
+      "size": 2876,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dieshuffle2"
+    },
+    {
+      "fileName": "dieShuffle3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieShuffle3.png",
+      "sha256": "80835db6c0a68433b7e7b140bc69dd4b2e5230537e5890188f3e6c2227d49d11",
+      "size": 2688,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dieshuffle3"
+    },
+    {
+      "fileName": "dieThrow1.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieThrow1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieThrow1.png",
+      "sha256": "58f69c54c6256274ec5b2ea83a714b6b76ff2e2e27dc3d87a35e5a241142062d",
+      "size": 2113,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Diethrow1"
+    },
+    {
+      "fileName": "dieThrow2.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieThrow2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieThrow2.png",
+      "sha256": "829d950da02558dd7ac745bac78606c760258a16fa04019013f8a7557a8eee75",
+      "size": 2143,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Diethrow2"
+    },
+    {
+      "fileName": "dieThrow3.png",
+      "path": "packs/kenney_casinoaudio/thumbnails/Audio/dieThrow3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_casinoaudio/thumbnails/Audio/dieThrow3.png",
+      "sha256": "532abf7c7dda8eaa125a41006e739178540e55a86d3c309cdacbca1a6e271608",
+      "size": 2461,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Diethrow3"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Animal or Beast Sounds",
+  "creator": "pauliuw",
+  "website": "https://opengameart.org/content/animal-or-beast-sounds",
+  "description": "7 strange animal/beast growls and voices for RPG and fantasy games. CC0, by pauliuw (OpenGameArt).",
+  "folder": "packs/beast_or_animal",
+  "itemCount": 7,
+  "items": [
+    {
+      "name": "Growl 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Growl 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Growl 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Growl 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Growl",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Growl.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Voice 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Voice 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Voice 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Voice 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Voice 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Voice 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Voice",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/beast_or_animal/sounds/Voice.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Growl 1.wav",
+      "path": "packs/beast_or_animal/sounds/Growl 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Growl%201.wav",
+      "sha256": "ef1d862eaa7d6e64d64aaa7970a9f9c0c01d5fa82479bcc4b419fd620d2b6947",
+      "size": 260362,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Growl 2.wav",
+      "path": "packs/beast_or_animal/sounds/Growl 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Growl%202.wav",
+      "sha256": "0795080c568020b79585fedf8301ec8a764dfa773a692b2fd71b677a5f13375b",
+      "size": 254754,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Growl.wav",
+      "path": "packs/beast_or_animal/sounds/Growl.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Growl.wav",
+      "sha256": "649b4ea8a583390e82e2712f732a88a6025829ba6e0ccb3558ad668f9590d9b7",
+      "size": 242740,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice 1.wav",
+      "path": "packs/beast_or_animal/sounds/Voice 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Voice%201.wav",
+      "sha256": "355fc74679f50e19928cd27de76f7fab0c10ca9a61428e35f6d510b11a01f989",
+      "size": 55488,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice 2.wav",
+      "path": "packs/beast_or_animal/sounds/Voice 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Voice%202.wav",
+      "sha256": "7b6d2d28b0d8616caefc4e03cc02d8d4ecf947ef8c4a4c8428b3a989ce256901",
+      "size": 60868,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice 3.wav",
+      "path": "packs/beast_or_animal/sounds/Voice 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Voice%203.wav",
+      "sha256": "47ce3cf8054b4cfbbf77698b6d6959928c387777bffae5f22d21187ebc755763",
+      "size": 348388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice.wav",
+      "path": "packs/beast_or_animal/sounds/Voice.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/sounds/Voice.wav",
+      "sha256": "0b63d8e5f3ff15310d86225000a34efad90c3c3bacde4f94d6954964f5e4ebdf",
+      "size": 124996,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Growl 1.png",
+      "path": "packs/beast_or_animal/thumbnails/Growl 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Growl%201.png",
+      "sha256": "319e90380f32c26b778e20f0566447d8f86b2462b6e8812ca318bd25fab486a4",
+      "size": 4808,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Growl 1"
+    },
+    {
+      "fileName": "Growl 2.png",
+      "path": "packs/beast_or_animal/thumbnails/Growl 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Growl%202.png",
+      "sha256": "097c42093887522499512134a5898a4942d905b575d7b08601b0a7dd910e4ebf",
+      "size": 4650,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Growl 2"
+    },
+    {
+      "fileName": "Growl.png",
+      "path": "packs/beast_or_animal/thumbnails/Growl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Growl.png",
+      "sha256": "d1f94c888b5eab1eac4416ae659bcdb16823c77eeb1fcf7993f34846c9fb0a91",
+      "size": 4736,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Growl"
+    },
+    {
+      "fileName": "Voice 1.png",
+      "path": "packs/beast_or_animal/thumbnails/Voice 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Voice%201.png",
+      "sha256": "46d808c57f9932b5237cda6451dcace69d2392103e83910ec12ef1313cf4144f",
+      "size": 4731,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice 1"
+    },
+    {
+      "fileName": "Voice 2.png",
+      "path": "packs/beast_or_animal/thumbnails/Voice 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Voice%202.png",
+      "sha256": "9d7512e0c62b64b93e0c923298957e0e9b541cb140aa0ac8e1b2abcffdd16c6d",
+      "size": 4788,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice 2"
+    },
+    {
+      "fileName": "Voice 3.png",
+      "path": "packs/beast_or_animal/thumbnails/Voice 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Voice%203.png",
+      "sha256": "31df2c47a198370d4e076e88319f78d57d247ee847dc5307693acde65df411e8",
+      "size": 4311,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice 3"
+    },
+    {
+      "fileName": "Voice.png",
+      "path": "packs/beast_or_animal/thumbnails/Voice.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/beast_or_animal/thumbnails/Voice.png",
+      "sha256": "10b380d78beaf829ae10a23c088fe0ee972002732a7faffb993466fad9c2da8a",
+      "size": 4304,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice"
+    }
+  ]
+}

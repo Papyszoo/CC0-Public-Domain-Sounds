@@ -1,0 +1,529 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: Chairmat",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Chair-mat crunches and flexes, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - Chairmat",
+  "itemCount": 17,
+  "items": [
+    {
+      "name": "Chair Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chair Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chair Roll 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fake Thunder 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Fake Thunder 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fake Thunder 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Fake Thunder 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multi Woom 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multi Woom 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multi Woom 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tapping 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Tapping 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tapping 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Tapping 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "The World's Largest DJ",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/The World's Largest DJ.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Woom 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Chairmat/sounds/Woom 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Chair Roll 1.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Chair%20Roll%201.wav",
+      "sha256": "af72be022303b990a202971100f5f93b026aaa920f8b81121f1f42d4cb184207",
+      "size": 529244,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Chair Roll 2.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Chair%20Roll%202.wav",
+      "sha256": "450eaa2917411d9018c2f1eb6057d4b893aa6aa337311c5ae4016d45a8c3a901",
+      "size": 793844,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Chair Roll 3.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Chair Roll 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Chair%20Roll%203.wav",
+      "sha256": "239173feea246d745e20e8416fd9ca61f8d80e48e4809cf6e11411e7e50efdec",
+      "size": 476324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fake Thunder 1.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Fake Thunder 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Fake%20Thunder%201.wav",
+      "sha256": "09446e73d65fd672f05293fa55fbc5862e1b0de69f7c3a595ec448b2dce00cca",
+      "size": 2045752,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fake Thunder 2.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Fake Thunder 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Fake%20Thunder%202.wav",
+      "sha256": "973b92fed404c7c54e030e32c72250f4a3288f5717e8a2b88710757db7264617",
+      "size": 2790860,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multi Woom 1.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Multi%20Woom%201.wav",
+      "sha256": "010d6db6866185b537c5da11a1991d49440c83fc53e737a3160eccce33e46b3a",
+      "size": 430700,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multi Woom 2.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Multi%20Woom%202.wav",
+      "sha256": "e9acf618ba27bcc6bb0c889bbe3c9a75018a44294d89ebb869999044b93c2968",
+      "size": 727720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multi Woom 3.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Multi Woom 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Multi%20Woom%203.wav",
+      "sha256": "a40b70a276bf88caa9b8093fa5057cee2bb2dfa27c0086da35011adc8ccf5d6c",
+      "size": 419388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Tapping 1.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Tapping 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Tapping%201.wav",
+      "sha256": "243f28b6681a2fde08dac02f5dd6e6d81ef94d7e23593188a14d2936884dbf03",
+      "size": 862008,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Tapping 2.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Tapping 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Tapping%202.wav",
+      "sha256": "f3cc77b0f4cb9213e4ca879016435489993db7e96330cd6263b0a0f3a7ef623a",
+      "size": 562456,
+      "role": "Audio"
+    },
+    {
+      "fileName": "The World's Largest DJ.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/The World's Largest DJ.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/The%20World%27s%20Largest%20DJ.wav",
+      "sha256": "ce27588106ade6d8db94383c296df75547aa68840203c9bfc04cc12c17562e4b",
+      "size": 483300,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 1.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%201.wav",
+      "sha256": "a04169bdc4764cde37b4de7e6cf6b89d8dd01d96315730d327ffeb3f5bc6e041",
+      "size": 300392,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 2.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%202.wav",
+      "sha256": "44ddd95d7008412a336bc7597848adde5d0cd8e14526c329b20d260a93cda90b",
+      "size": 161948,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 3.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%203.wav",
+      "sha256": "78f1c30d45d181cda1033b30c994b70c4596b45dd8277c9be6b9345dee23db85",
+      "size": 231860,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 4.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%204.wav",
+      "sha256": "3a4f65b90de27d103d5369e382b16c40fd799d53ffe57bfe943fa8ab3a3941af",
+      "size": 371232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 5.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%205.wav",
+      "sha256": "815cba53192c5c0e4bb528bb2544b9fce310d4756400ebf0ff3e8378e594e751",
+      "size": 289180,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Woom 6.wav",
+      "path": "packs/Micro Pack - Chairmat/sounds/Woom 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/sounds/Woom%206.wav",
+      "sha256": "9dea6886f695d096e06a9c85956736df24e56d67ddcd4284c0c084dd11967782",
+      "size": 465156,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Chair Roll 1.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Chair Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Chair%20Roll%201.png",
+      "sha256": "13dd0b4a53d62fbaca3cfeae4ee3800aa450c183e278d7494e3ada3fef0c106a",
+      "size": 3918,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chair Roll 1"
+    },
+    {
+      "fileName": "Chair Roll 2.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Chair Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Chair%20Roll%202.png",
+      "sha256": "9eba3d218cd221d7a4f165b802d71a6accc910875b8eaac40019d392603c01c5",
+      "size": 4475,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chair Roll 2"
+    },
+    {
+      "fileName": "Chair Roll 3.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Chair Roll 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Chair%20Roll%203.png",
+      "sha256": "395d1a5090328c5b44dd807e846e76e690f5a00dbe9927636bbad648fc180793",
+      "size": 4145,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chair Roll 3"
+    },
+    {
+      "fileName": "Fake Thunder 1.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Fake Thunder 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Fake%20Thunder%201.png",
+      "sha256": "fb0e2105994992653f485f2e3de86e0630b1c0e62f6891f4333f03e00d08765b",
+      "size": 4401,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fake Thunder 1"
+    },
+    {
+      "fileName": "Fake Thunder 2.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Fake Thunder 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Fake%20Thunder%202.png",
+      "sha256": "399f97bb602194bab9ed7058b0dd7cb8f91ea3f0c89f541e46a7d5f5455e70db",
+      "size": 4680,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fake Thunder 2"
+    },
+    {
+      "fileName": "Multi Woom 1.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Multi Woom 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Multi%20Woom%201.png",
+      "sha256": "9031e6249d5b53f138accee48137d8f88b71b042a44a8ada0bae091b2e6b78e5",
+      "size": 4331,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multi Woom 1"
+    },
+    {
+      "fileName": "Multi Woom 2.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Multi Woom 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Multi%20Woom%202.png",
+      "sha256": "b903c389ab48d7a65fdbe68e93a87bb32bd8f325803c0120a7fbe625f0f08cdd",
+      "size": 3872,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multi Woom 2"
+    },
+    {
+      "fileName": "Multi Woom 3.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Multi Woom 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Multi%20Woom%203.png",
+      "sha256": "96a44482d4a5a1473749326fc266fc975ee876c425e8e951192f23127ccc5820",
+      "size": 4151,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multi Woom 3"
+    },
+    {
+      "fileName": "Tapping 1.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Tapping 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Tapping%201.png",
+      "sha256": "4530fec1d1ad822c0d32c7b4e64f8758bcfc6301033421388aff09e00b2108a3",
+      "size": 4585,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tapping 1"
+    },
+    {
+      "fileName": "Tapping 2.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Tapping 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Tapping%202.png",
+      "sha256": "77be239fee63b74b0081acb630e30df22a0e09ea733885514aba7ff05c5b641e",
+      "size": 3994,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tapping 2"
+    },
+    {
+      "fileName": "The World's Largest DJ.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/The World's Largest DJ.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/The%20World%27s%20Largest%20DJ.png",
+      "sha256": "184c0b66c446abe1a34ab7cb7f047417ddcac6fe899b0c5e52b6d5453e49db9d",
+      "size": 4761,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "The World's Largest DJ"
+    },
+    {
+      "fileName": "Woom 1.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%201.png",
+      "sha256": "040405e971b151ef88e21e6bebcff212ae5e6cbc40e8d62d784bd74f9d2fb064",
+      "size": 4086,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 1"
+    },
+    {
+      "fileName": "Woom 2.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%202.png",
+      "sha256": "ac873e4f73b0856ca6a29382d287637778be11cd8098414415ee456791453159",
+      "size": 4502,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 2"
+    },
+    {
+      "fileName": "Woom 3.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%203.png",
+      "sha256": "14e788331a5b965d076b96d1cfe77977de7aa49178a4eb851ee4bdc0b277a47b",
+      "size": 3663,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 3"
+    },
+    {
+      "fileName": "Woom 4.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%204.png",
+      "sha256": "3c696a04d09a4db7a8f65f29cdbcb2384a03f20490e34e1ff169d973d7b75ad4",
+      "size": 3438,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 4"
+    },
+    {
+      "fileName": "Woom 5.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%205.png",
+      "sha256": "09d10fa4029ca13dede3c332d6b0a0bc1501cc87a2cd0a8176e6c15d7229093a",
+      "size": 4362,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 5"
+    },
+    {
+      "fileName": "Woom 6.png",
+      "path": "packs/Micro Pack - Chairmat/thumbnails/Woom 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Chairmat/thumbnails/Woom%206.png",
+      "sha256": "9597c21b6f70a834af2bf60d05e1e7e9687f2a580482a39f4fcb07a09e8c4bd5",
+      "size": 3554,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Woom 6"
+    }
+  ]
+}

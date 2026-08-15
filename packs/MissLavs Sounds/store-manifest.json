@@ -1,0 +1,259 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "MissLav's Sounds",
+  "creator": "MissLav (lavender.pet)",
+  "website": "https://github.com/lavenderdotpet/CC0-Public-Domain-Sounds",
+  "description": "Household recordings (angry dog, chair wheel, pots and pans) by the curator of the upstream CC0-Public-Domain-Sounds collection, CC0.",
+  "folder": "packs/MissLavs Sounds",
+  "itemCount": 8,
+  "items": [
+    {
+      "name": "Angerdog1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Angerdog2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Angerdog3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Angerdog4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Angerdog5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog5.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Angerdog6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/angerdog6.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Chairwheel",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/chairwheel.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Potsandpansclean",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/MissLavs Sounds/sounds/potsandpansclean.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "angerdog1.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog1.ogg",
+      "sha256": "4e690536ef6b64ca4384fffb7c54ee017abf02d7b20274b986610738e73f4021",
+      "size": 406260,
+      "role": "Audio"
+    },
+    {
+      "fileName": "angerdog2.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog2.ogg",
+      "sha256": "fe8c747fb31e8b8cbdcc1e1a5f6d5539f1b271f422de5320d67cfe0c359d5a26",
+      "size": 212714,
+      "role": "Audio"
+    },
+    {
+      "fileName": "angerdog3.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog3.ogg",
+      "sha256": "89f7853d03aab2433cc157d337fd7e64cc6ab074665434167c21bfd47f83f1ae",
+      "size": 365590,
+      "role": "Audio"
+    },
+    {
+      "fileName": "angerdog4.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog4.ogg",
+      "sha256": "7c4f86f0bbc6e1b440b39c27946ba5be57199ca2390e005519ed58e321097c11",
+      "size": 365590,
+      "role": "Audio"
+    },
+    {
+      "fileName": "angerdog5.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog5.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog5.ogg",
+      "sha256": "3a6be573050a67ada9fdc7dd88e67c7cf7bf8bd585ff950442de33c8983f5352",
+      "size": 305199,
+      "role": "Audio"
+    },
+    {
+      "fileName": "angerdog6.ogg",
+      "path": "packs/MissLavs Sounds/sounds/angerdog6.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/angerdog6.ogg",
+      "sha256": "e00d73e7ca4e43cd91820945d655f037cf5beadd0be64970df75feb3e92c4acf",
+      "size": 603511,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chairwheel.ogg",
+      "path": "packs/MissLavs Sounds/sounds/chairwheel.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/chairwheel.ogg",
+      "sha256": "107f9e3734c8ae3419fe80677ffd1dd383f0ad9e094c13d98908bd86f602f86d",
+      "size": 144073,
+      "role": "Audio"
+    },
+    {
+      "fileName": "potsandpansclean.ogg",
+      "path": "packs/MissLavs Sounds/sounds/potsandpansclean.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/sounds/potsandpansclean.ogg",
+      "sha256": "fe9582572c0d58d6009ae6b3074ce648681ee844123c5db6ee4f1d0e28e16810",
+      "size": 1032458,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "angerdog1.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog1.png",
+      "sha256": "654eb3bffb62457c4301bd8ee7d3f338fe48538eacd2747bd98d5bcdcc69ce4b",
+      "size": 4142,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog1"
+    },
+    {
+      "fileName": "angerdog2.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog2.png",
+      "sha256": "8df6c923f060a1c2476891e11ada3b64420cedfb8f2a40b5a62426824930a6e9",
+      "size": 4075,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog2"
+    },
+    {
+      "fileName": "angerdog3.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog3.png",
+      "sha256": "181c917b688979463a734ed00a9321e22bfe046b8cbcb0bf7b11b7a1519ab267",
+      "size": 3781,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog3"
+    },
+    {
+      "fileName": "angerdog4.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog4.png",
+      "sha256": "181c917b688979463a734ed00a9321e22bfe046b8cbcb0bf7b11b7a1519ab267",
+      "size": 3781,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog4"
+    },
+    {
+      "fileName": "angerdog5.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog5.png",
+      "sha256": "2568cd52e5c59bcd3a4d0a69583d5592dc91b01d9e3cde878502ee531637d77a",
+      "size": 4232,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog5"
+    },
+    {
+      "fileName": "angerdog6.png",
+      "path": "packs/MissLavs Sounds/thumbnails/angerdog6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/angerdog6.png",
+      "sha256": "aea1529da918d02aca811cb54254bdb95ab2dd54ed5008bdbaca890f599ee96d",
+      "size": 4498,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Angerdog6"
+    },
+    {
+      "fileName": "chairwheel.png",
+      "path": "packs/MissLavs Sounds/thumbnails/chairwheel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/chairwheel.png",
+      "sha256": "ae013a75fd6819d6f1f93c8841284b470f122a72a102a2a9fa67b787880b801f",
+      "size": 4638,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chairwheel"
+    },
+    {
+      "fileName": "potsandpansclean.png",
+      "path": "packs/MissLavs Sounds/thumbnails/potsandpansclean.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/MissLavs%20Sounds/thumbnails/potsandpansclean.png",
+      "sha256": "807b7a26a5914628f707ed158663f626e30c83fdb206fb3bafb14294e8ad1252",
+      "size": 2663,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Potsandpansclean"
+    }
+  ]
+}

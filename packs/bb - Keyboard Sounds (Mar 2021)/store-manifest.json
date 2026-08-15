@@ -1,0 +1,769 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Keyboard Sounds (Mar 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Keyboard typing and key-press foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Keyboard Sounds (Mar 2021)",
+  "itemCount": 25,
+  "items": [
+    {
+      "name": "Button Push 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Button Push 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Button Push 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Button Push 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Button Push 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key Combo 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key Combo 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key Combo 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key Combo 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Key Combo 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Typing 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Typing 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Typing Lots Of Swears",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing Lots of Swears.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keyboard Typing Slower",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing Slower.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Model D Switch 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Button - Push 1.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Button%20-%20Push%201.wav",
+      "sha256": "a098a0b21e4f2334676af4b2ed4cc60349bb2d69fea871341f549a0ea12f9345",
+      "size": 78092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Button - Push 2.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Button%20-%20Push%202.wav",
+      "sha256": "a67d0bf3399cc0b1e060730ceb36162ad6d9356847c052f8a94f4c3f1bfca863",
+      "size": 60256,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Button - Push 3.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Button%20-%20Push%203.wav",
+      "sha256": "9e3fc2604e8436e4ccda50255770032e1303cec3d000fcf766cfb6735815102b",
+      "size": 44060,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Button - Push 4.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Button%20-%20Push%204.wav",
+      "sha256": "22bc54cdc43cd0ade97346d6bbae0ae3129a8e0effa615f170cf69591ced1a08",
+      "size": 55812,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Button - Push 5.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Button - Push 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Button%20-%20Push%205.wav",
+      "sha256": "5076ccc60be4053fad2f0a08875eea2f341179500384539a36a38d2648eaeb85",
+      "size": 77208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key 1.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%201.wav",
+      "sha256": "01e60b4202f46790223c152b6c3223a6ae5f41d54f4a1885918be1857002ccb5",
+      "size": 49896,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key 2.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%202.wav",
+      "sha256": "c1c6f828a5fcc4a165ed44762f2197ce54b2b3661ca02415222e7d5ff32e77ee",
+      "size": 72880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key 3.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%203.wav",
+      "sha256": "4bda51753f45427aed8761efb862fb95f817b5e2b28edb3b748b4cc360ed54af",
+      "size": 84336,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key 4.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%204.wav",
+      "sha256": "4f07be740c2e89d20d5aa1200583eff2e53de38704799d12840d5666af8035c1",
+      "size": 54348,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 1.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%20Combo%201.wav",
+      "sha256": "ad01ec3f3067d8c08e93a4470a41838eb6b4a484efb60d82f7fc267e997f03fc",
+      "size": 131024,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 2.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%20Combo%202.wav",
+      "sha256": "eb7da5fff08e9b894194ef248fc2d9f5c475eff5b501099229b4fa39c00f6141",
+      "size": 104948,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 3.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%20Combo%203.wav",
+      "sha256": "3bb02da13b6e0a0c2ed71560692d6bce0a15463372a089cf3f66fdea574a6465",
+      "size": 67296,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 4.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%20Combo%204.wav",
+      "sha256": "3e15000a1bee9259027ce228db25c7a799839c8b016f7bf64f3e5ccb1a6b718c",
+      "size": 98212,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 5.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Key Combo 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Key%20Combo%205.wav",
+      "sha256": "ec5786f21632ac24a1ed4c54fb5375526b1f7aaa0e4b182e38efc578bb252ca8",
+      "size": 56856,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Typing 1.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Typing%201.wav",
+      "sha256": "1c9e1444ab43931ec13aa99b97a6e6276d1822c2e587370224a27e0a2a74bf79",
+      "size": 375732,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Typing 2.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Typing%202.wav",
+      "sha256": "4f9dc532ce4d99118e064db6c864b52909e5b378c7f9b3db159b05985f8be9c2",
+      "size": 1026544,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Typing Lots of Swears.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing Lots of Swears.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Typing%20Lots%20of%20Swears.wav",
+      "sha256": "3debbdeece999b4c0f7bb5bb0a1d66bcc6eeca7a50507a9ebc350904f7e4b65b",
+      "size": 717332,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Keyboard - Typing Slower.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Keyboard - Typing Slower.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Keyboard%20-%20Typing%20Slower.wav",
+      "sha256": "e031cc52a841e90b0c46ea95e4b5e59cf35b2965db398196988aa62bc87038db",
+      "size": 342880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 1.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%201.wav",
+      "sha256": "40343cdb37bbd0bc1db8f4bfde101db6c0634baa7626647525cc40023f0dc1a0",
+      "size": 371772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 2.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%202.wav",
+      "sha256": "7bb02d5927bbbc40e3c1ef41ee1b7e679bba8ce4866cb0e618ac547c244711b2",
+      "size": 397564,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 3.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%203.wav",
+      "sha256": "a8533adfc71593a059d7bf29848670a2c58e9f9e1bd43a0567d458d04c22c01e",
+      "size": 365572,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 4.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%204.wav",
+      "sha256": "72321d30674254fec850accd76af8d19562d52fa977eee0aa65c8f44e5b7daa3",
+      "size": 297516,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 5.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%205.wav",
+      "sha256": "ffb6344c7c1c0f0a28f3002d9a1f35b1217e4dfeced83f9c9c0955beb91d8a58",
+      "size": 118336,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 6.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%206.wav",
+      "sha256": "436b01072baf0bf8ead57942a464aee8d986ac3bf9bd037ecb282f6225f8baef",
+      "size": 123468,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Model D - Switch 7.wav",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/sounds/Model D - Switch 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/sounds/Model%20D%20-%20Switch%207.wav",
+      "sha256": "261e57a096cc6dee37b7429c32fd6e13423f7defbc2ab62c1c34ff2e76dccb48",
+      "size": 135740,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Button - Push 1.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Button - Push 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Button%20-%20Push%201.png",
+      "sha256": "930c1da6c0fbb78350ecd09daf59974f6d1698155453a0d974125d5cdc7e74f5",
+      "size": 2072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Button Push 1"
+    },
+    {
+      "fileName": "Button - Push 2.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Button - Push 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Button%20-%20Push%202.png",
+      "sha256": "11aeac940761a3516d4c0920d9ffee239dfc7c9558984934dfec79cdc2186025",
+      "size": 2084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Button Push 2"
+    },
+    {
+      "fileName": "Button - Push 3.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Button - Push 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Button%20-%20Push%203.png",
+      "sha256": "67ee9cdce72882e3abddfca10a71a29cc66734426871617057f3950a1d1ee6ce",
+      "size": 2044,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Button Push 3"
+    },
+    {
+      "fileName": "Button - Push 4.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Button - Push 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Button%20-%20Push%204.png",
+      "sha256": "80023e92cfcba99e03aaaa9d9917265ee3603c303c9a980d7356dd9725e2960f",
+      "size": 1926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Button Push 4"
+    },
+    {
+      "fileName": "Button - Push 5.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Button - Push 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Button%20-%20Push%205.png",
+      "sha256": "d5abd79ad733b8fd4e7737be8f33d244990751ca22f0e74ba2cfdec5b466fbf2",
+      "size": 2323,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Button Push 5"
+    },
+    {
+      "fileName": "Keyboard - Key 1.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%201.png",
+      "sha256": "e7abdfe85da5ceac73197a6300fa7a7040cf78baae6470f6d318a4914caa7c1c",
+      "size": 2179,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key 1"
+    },
+    {
+      "fileName": "Keyboard - Key 2.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%202.png",
+      "sha256": "827e6b5402728e6ed1ff296200ac351b79190b70c799d99f878fbd660b4848ae",
+      "size": 1718,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key 2"
+    },
+    {
+      "fileName": "Keyboard - Key 3.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%203.png",
+      "sha256": "7f0669020e17204b69e926c8c7dbf76f4732de2235444fd912a8e0cd84e64648",
+      "size": 2297,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key 3"
+    },
+    {
+      "fileName": "Keyboard - Key 4.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%204.png",
+      "sha256": "e806dcebc9ed21b269fdd954b78d5dbcd6280692471a75730d76cd729188dd7c",
+      "size": 2018,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key 4"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 1.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key Combo 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%20Combo%201.png",
+      "sha256": "40f9cf7be726b1682b0f71bbd578e8445d3a4e781066c80115728cd540138768",
+      "size": 2098,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key Combo 1"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 2.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key Combo 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%20Combo%202.png",
+      "sha256": "516f99bfc7782aa8b5ee051f7453efcde216836f74d08ac08762055fb83d4f65",
+      "size": 2262,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key Combo 2"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 3.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key Combo 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%20Combo%203.png",
+      "sha256": "9954116a8ce9923ab8b5a2b56390aa86eb4152c6402f7d12236bde76d3def8e6",
+      "size": 2348,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key Combo 3"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 4.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key Combo 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%20Combo%204.png",
+      "sha256": "e8eb9a6c9e990ca57532ab2e98f60f02d7720950ec58099911be4c7f621a9125",
+      "size": 2418,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key Combo 4"
+    },
+    {
+      "fileName": "Keyboard - Key Combo 5.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Key Combo 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Key%20Combo%205.png",
+      "sha256": "b2b9b1c2b2b430f67279bf7d3d255049e5195720176a57549bdbf7040b21da51",
+      "size": 2312,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Key Combo 5"
+    },
+    {
+      "fileName": "Keyboard - Typing 1.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Typing 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Typing%201.png",
+      "sha256": "1faa8db487875958c811339c0541825d2db5663b5d9f31e2cb3625c45c823beb",
+      "size": 2977,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Typing 1"
+    },
+    {
+      "fileName": "Keyboard - Typing 2.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Typing 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Typing%202.png",
+      "sha256": "99fd496a9419b56664617ca2a1eed37a24807a23a3243186f871d7ebb9a2b8af",
+      "size": 3314,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Typing 2"
+    },
+    {
+      "fileName": "Keyboard - Typing Lots of Swears.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Typing Lots of Swears.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Typing%20Lots%20of%20Swears.png",
+      "sha256": "adc5701481c7c7c202f05d64aad320cfe255ec095773859959559ce1ddc0ce4d",
+      "size": 3025,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Typing Lots Of Swears"
+    },
+    {
+      "fileName": "Keyboard - Typing Slower.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Keyboard - Typing Slower.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Keyboard%20-%20Typing%20Slower.png",
+      "sha256": "ef73562d2628c0de7d996287d13459407aeafab7a50d9972f7b6626cf2ca7e40",
+      "size": 2444,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keyboard Typing Slower"
+    },
+    {
+      "fileName": "Model D - Switch 1.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%201.png",
+      "sha256": "6f5cedcb92214199a1b4b125fe46eb4c638f8c24674f6c267b466ffe1e92f6f7",
+      "size": 1575,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 1"
+    },
+    {
+      "fileName": "Model D - Switch 2.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%202.png",
+      "sha256": "5a7a2b72c5b40f01e14242f91cabdfb83494d98563041d1898b471e446925004",
+      "size": 1522,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 2"
+    },
+    {
+      "fileName": "Model D - Switch 3.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%203.png",
+      "sha256": "1e5e87c938382a41c5c42761c2a0c60e3c468ea777f687756b5eb153791fa8de",
+      "size": 1630,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 3"
+    },
+    {
+      "fileName": "Model D - Switch 4.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%204.png",
+      "sha256": "efe1f009303480d1ffc240ac05d0df6b8083f2330a76e7cdd98b107b509215dc",
+      "size": 1582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 4"
+    },
+    {
+      "fileName": "Model D - Switch 5.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%205.png",
+      "sha256": "32ffc9d335762b5c5202789a2dcbbd27363006644b0504c7f1913a07f1bb2d64",
+      "size": 1868,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 5"
+    },
+    {
+      "fileName": "Model D - Switch 6.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%206.png",
+      "sha256": "3ba081952008d724464f69f55dd55c0d65834b54345a284fdaba46bebd93708d",
+      "size": 1670,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 6"
+    },
+    {
+      "fileName": "Model D - Switch 7.png",
+      "path": "packs/bb - Keyboard Sounds (Mar 2021)/thumbnails/Model D - Switch 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Keyboard%20Sounds%20%28Mar%202021%29/thumbnails/Model%20D%20-%20Switch%207.png",
+      "sha256": "07ee8e558b5b167e90e33a9a15a1c5114f5374c7f15c2c6723b480f4c3c20fdb",
+      "size": 1729,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Model D Switch 7"
+    }
+  ]
+}

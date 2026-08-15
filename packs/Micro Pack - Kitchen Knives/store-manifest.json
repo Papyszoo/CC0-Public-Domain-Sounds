@@ -1,0 +1,1009 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: Kitchen Knives",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Kitchen knife shings, chops and sharpening, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - Kitchen Knives",
+  "itemCount": 33,
+  "items": [
+    {
+      "name": "Big Knife Scrape 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 8.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Scrape 9",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 9.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Sheath 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Sheath 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Sheath 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Sheath 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Tap 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Tap 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Tap 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Unsheath 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Unsheath 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Knife Unsheath 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Unsheath 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Serrated Knife Scrape 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Serrated Knife Scrape 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Serrated Knife Scrape 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Serrated Knife Scrape 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Serrated Knife Scrape 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Scrape 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Sheath 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Sheath 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Unsheath 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Unsheath 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Knife Unsheath 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Unsheath 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unpleasant Scraping 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unpleasant Scraping 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unpleasant Scraping 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Big Knife - Scrape 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%201.wav",
+      "sha256": "5a68f7c06a71c50690b2d161ba35acf6a7affd2c0c3986cec4c25a9caf384a7f",
+      "size": 148712,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%202.wav",
+      "sha256": "b89c7f068eb3f8ffeb23a1248b6592919557042bb3ce75ecda4640549ac68239",
+      "size": 169344,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 3.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%203.wav",
+      "sha256": "60c09db6f87a9e0264c8f4454bae476fed876e5a01c1d9d8d692e6382b57488f",
+      "size": 368020,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 4.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%204.wav",
+      "sha256": "f70afdfde69bf309cf718fd245b008642b403cbc682aaa2002c9041a85e0d0b3",
+      "size": 354364,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 5.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%205.wav",
+      "sha256": "aebe89d9ba883c51028ce42def61bb3dd13e7be1a82d05bd937b81e5d33075c9",
+      "size": 333784,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 6.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%206.wav",
+      "sha256": "448ae655aa6525fb7cfd945c1e04d8d203ec9a27938d16f1213affe29809d950",
+      "size": 280048,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 7.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%207.wav",
+      "sha256": "5c9d032eb0503bc95e94524dda7e7cc68907d00f07cd05525991d52fbb7f89e9",
+      "size": 288996,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 8.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 8.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%208.wav",
+      "sha256": "d6231d8b5edd2dfaaeba9b6012389a0f0da147d89c3dbf8f23c5f403bf91d486",
+      "size": 327512,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Scrape 9.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Scrape 9.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Scrape%209.wav",
+      "sha256": "18642c158eedf3af337844be2c19f161696da31ab8dedd14a9f73a509ac5d787",
+      "size": 381152,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Sheath 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Sheath 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Sheath%201.wav",
+      "sha256": "a18ce60cdf83c09da26e39288b9069abd336555bc532025ca15bec55c9d1ed9c",
+      "size": 265824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Sheath 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Sheath 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Sheath%202.wav",
+      "sha256": "e2d24271f2aab53872b0fd131e286421f358f281307da60c6ac5a8572cc467bb",
+      "size": 242268,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Tap 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Tap%201.wav",
+      "sha256": "d02823e1b7ad5454ec008797c4ebb03c9d0c1c43cf706e04c08cfd688f2cd850",
+      "size": 452420,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Tap 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Tap%202.wav",
+      "sha256": "cabc34f5ecf3a57dd449410da6f57482c8b9476404b6de25a1e524399084d0ce",
+      "size": 238188,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Tap 3.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Tap 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Tap%203.wav",
+      "sha256": "6ebc2baf987827455f805bd83a0fcc9490d059be1156f81a956c379d5a36c3cf",
+      "size": 140880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Unsheath 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Unsheath 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Unsheath%201.wav",
+      "sha256": "b54114721930fd8755e943e8ea90e0c8c339c11f9a26f49d9b56409f453fe746",
+      "size": 338496,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Knife - Unsheath 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Big Knife - Unsheath 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Big%20Knife%20-%20Unsheath%202.wav",
+      "sha256": "561cffe913a3630f239958bd08851e9941963d8109b2878e340983883e12b0db",
+      "size": 276184,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Serrated%20Knife%20-%20Scrape%201.wav",
+      "sha256": "c5b962dcb92413115618a56d247f877723fe4ca6e9fee98230dbe48a377941b0",
+      "size": 295056,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Serrated%20Knife%20-%20Scrape%202.wav",
+      "sha256": "7f601047ca8a8fe9e5c85bcb6da51a4636787bbe43910a1b55d739f9ec356b52",
+      "size": 251844,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 3.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Serrated%20Knife%20-%20Scrape%203.wav",
+      "sha256": "708c13806ea48f20e06006918715c5ce858d61e4f3a12e0b3baa9d4de58c12d4",
+      "size": 271372,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 4.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Serrated%20Knife%20-%20Scrape%204.wav",
+      "sha256": "f17412fa297cef9d3f164fbfd4ebf81e0a80e14bee22cd451d829a5cfbfaa68c",
+      "size": 276960,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 5.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Serrated Knife - Scrape 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Serrated%20Knife%20-%20Scrape%205.wav",
+      "sha256": "c2f3ee193f0ed5851c73eb1812ccfc2170fd17d553d0dfdb12f6d6e909c55898",
+      "size": 313556,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%201.wav",
+      "sha256": "193ae453ee889259050a2d91f65f56deb08a80f29c5332a208e60b43d22f1c17",
+      "size": 73268,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%202.wav",
+      "sha256": "c6af43d7f87ac0dea8008947f77a1982d2d79c04070f117156e3bbc3fd12bcf3",
+      "size": 164688,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 3.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%203.wav",
+      "sha256": "b54b581e340e1ecb2344d335309d3c6c7d6427901aaf0cbb4d15ab14cc15638c",
+      "size": 146032,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 4.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%204.wav",
+      "sha256": "a4ca914b9e72bc7aaace76afd6c8fa021a4e2c6bb6db880b7edc93425e9fa37b",
+      "size": 160900,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 5.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%205.wav",
+      "sha256": "b02be9ae7be454e6e9c38cd7ce9aaf30f86281bf4646a5db359b7eeb4f9ba7f7",
+      "size": 155420,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Scrape 6.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Scrape 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Scrape%206.wav",
+      "sha256": "9eac80589b49fade7007373c8dae093099281cf5ddf3c331b046cc6a26f7136c",
+      "size": 140696,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Sheath 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Sheath 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Sheath%201.wav",
+      "sha256": "70a1fb632cd973e3859117c4df22db4f136a5e848a6df10685258e24e63b9fc1",
+      "size": 182696,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Unsheath 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Unsheath 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Unsheath%201.wav",
+      "sha256": "765a7625ac9bb1050b1f0cecc2147048dbbeaa593b1b90fa56ffb27a911babec",
+      "size": 165316,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Knife - Unsheath 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Small Knife - Unsheath 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Small%20Knife%20-%20Unsheath%202.wav",
+      "sha256": "ad0e8deb9ff0512be2602e89e245f434220f83d9ff7b82be55bbd7e17dd51b42",
+      "size": 215328,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unpleasant Scraping 1.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Unpleasant%20Scraping%201.wav",
+      "sha256": "10476af6a74c6d2bfc884699ce1400d89c9ff19505c1640f1e578d1a643b77d9",
+      "size": 270144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unpleasant Scraping 2.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Unpleasant%20Scraping%202.wav",
+      "sha256": "860ce12fc6369a25e07d14404ce038a84911fafca2b681ad7e42c26902102cba",
+      "size": 701164,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unpleasant Scraping 3.wav",
+      "path": "packs/Micro Pack - Kitchen Knives/sounds/Unpleasant Scraping 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/sounds/Unpleasant%20Scraping%203.wav",
+      "sha256": "abec70ca38d60aa2abafde04a51d227f0ddb737c0d2a1bd9bc5aa3072388287e",
+      "size": 1076316,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Big Knife - Scrape 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%201.png",
+      "sha256": "2166f511fd84a78873a8909b8bb0eae8c7b14a705760b637c210fd1635cdfe8e",
+      "size": 2890,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 1"
+    },
+    {
+      "fileName": "Big Knife - Scrape 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%202.png",
+      "sha256": "8a7068a6cbffd5ab80d17a8865f0ecd0cb5131eedde4addac2327097a445d8c8",
+      "size": 2916,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 2"
+    },
+    {
+      "fileName": "Big Knife - Scrape 3.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%203.png",
+      "sha256": "9acaf84a251c0acc11616545d92299ed8a416ce9c624731caba1e2930cb96665",
+      "size": 2827,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 3"
+    },
+    {
+      "fileName": "Big Knife - Scrape 4.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%204.png",
+      "sha256": "627f29aece5049c9cfdc774e9fe67f17442844ebafcf85e563083f3510332b62",
+      "size": 2464,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 4"
+    },
+    {
+      "fileName": "Big Knife - Scrape 5.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%205.png",
+      "sha256": "2b452a28eb5bb537df63a837bb925c86f0ba90d7aba6b55cc78f2f753681be42",
+      "size": 2328,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 5"
+    },
+    {
+      "fileName": "Big Knife - Scrape 6.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%206.png",
+      "sha256": "d8be5539cbc03e0aee8b4e51301744f56aad4c0c2fc6f6b07f89d56ce14e0904",
+      "size": 2182,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 6"
+    },
+    {
+      "fileName": "Big Knife - Scrape 7.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%207.png",
+      "sha256": "1666560ce2b4b0ab6165d050ff3ab580145eca9cfcd123b610ceccf308114eb2",
+      "size": 2348,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 7"
+    },
+    {
+      "fileName": "Big Knife - Scrape 8.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%208.png",
+      "sha256": "23a20a18478595ab277197adac4c5ae91aa71c015a22d5d7ee1c3890727cb2f4",
+      "size": 2407,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 8"
+    },
+    {
+      "fileName": "Big Knife - Scrape 9.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Scrape 9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Scrape%209.png",
+      "sha256": "fee56f7c663bd9d9f1b66cf9e002faeea82f58079897e011519ce441ee06e017",
+      "size": 2691,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Scrape 9"
+    },
+    {
+      "fileName": "Big Knife - Sheath 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Sheath 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Sheath%201.png",
+      "sha256": "8476c7c5db3fa41f9967950fd38ab60fc423574fc9761855843d78a5e823ea47",
+      "size": 3063,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Sheath 1"
+    },
+    {
+      "fileName": "Big Knife - Sheath 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Sheath 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Sheath%202.png",
+      "sha256": "4c9faad84b09fd3172a87b13e29ecce404af0f630ffd4a79e65231dbdec7f883",
+      "size": 2315,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Sheath 2"
+    },
+    {
+      "fileName": "Big Knife - Tap 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Tap 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Tap%201.png",
+      "sha256": "767d7af86e532acc05f9e5b6c06fe34f6410d49756861e545b2f13996df8445a",
+      "size": 1644,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Tap 1"
+    },
+    {
+      "fileName": "Big Knife - Tap 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Tap 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Tap%202.png",
+      "sha256": "591b17d9d0c2a9a2380f888fa59ad323eaf618c5e0bb2609cfd6a5e627b2e45c",
+      "size": 1798,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Tap 2"
+    },
+    {
+      "fileName": "Big Knife - Tap 3.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Tap 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Tap%203.png",
+      "sha256": "63872ced4f1401936afeecee876f53a8cfcf964e2c3b94c0f69c55051b866b4a",
+      "size": 2403,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Tap 3"
+    },
+    {
+      "fileName": "Big Knife - Unsheath 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Unsheath 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Unsheath%201.png",
+      "sha256": "60aa860560df03b5d84ef0a720478289257ebd702cb8be426f8bc76189dacace",
+      "size": 3073,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Unsheath 1"
+    },
+    {
+      "fileName": "Big Knife - Unsheath 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Big Knife - Unsheath 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Big%20Knife%20-%20Unsheath%202.png",
+      "sha256": "4e1e3f0b7331a943bf40a1aa951c9458c05ef9f672959fe69951ea8873ffe48e",
+      "size": 3656,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Knife Unsheath 2"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Serrated Knife - Scrape 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Serrated%20Knife%20-%20Scrape%201.png",
+      "sha256": "177fb82ca071a7dfd0b51d2b3faad722bd74b171cc51136f343cdc8ab1b2d993",
+      "size": 3175,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Serrated Knife Scrape 1"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Serrated Knife - Scrape 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Serrated%20Knife%20-%20Scrape%202.png",
+      "sha256": "305541a1246a2e4d07b6ce826b22bb8202fb7ad9ebe7101160b895cb13978e01",
+      "size": 3136,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Serrated Knife Scrape 2"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 3.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Serrated Knife - Scrape 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Serrated%20Knife%20-%20Scrape%203.png",
+      "sha256": "07cffcb0bde85bd74dcd5ca08357a57f254304c7cb80b9f10e6b704662041f02",
+      "size": 3414,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Serrated Knife Scrape 3"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 4.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Serrated Knife - Scrape 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Serrated%20Knife%20-%20Scrape%204.png",
+      "sha256": "23c41b05fc3a3794569557149a16b66b79aefd17967c94a6551c8c511929bbaf",
+      "size": 3327,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Serrated Knife Scrape 4"
+    },
+    {
+      "fileName": "Serrated Knife - Scrape 5.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Serrated Knife - Scrape 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Serrated%20Knife%20-%20Scrape%205.png",
+      "sha256": "0fd24ccce348e3a9a47dc9977ce19f4a707fb366360fa92e5801ae0074ae3ced",
+      "size": 2805,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Serrated Knife Scrape 5"
+    },
+    {
+      "fileName": "Small Knife - Scrape 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%201.png",
+      "sha256": "a7509ba818204102744bd14601a1a0ab0f6442a85ad7f7a1e45c33425e1fbb8d",
+      "size": 2507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 1"
+    },
+    {
+      "fileName": "Small Knife - Scrape 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%202.png",
+      "sha256": "f0404a4fb118a00403363dd3d277df9cd0d0968306b1904d47d6ea1e80242121",
+      "size": 2842,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 2"
+    },
+    {
+      "fileName": "Small Knife - Scrape 3.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%203.png",
+      "sha256": "ee98d575ac0387cd9fe7fd8d0f03515410f53eaca37d5fd5addaa3c6b5d6bb07",
+      "size": 2549,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 3"
+    },
+    {
+      "fileName": "Small Knife - Scrape 4.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%204.png",
+      "sha256": "9eceaa5b9e90cf16f8ef00f9e70a7acfae37b03971374ab9c48b8ab7ae727ba8",
+      "size": 3231,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 4"
+    },
+    {
+      "fileName": "Small Knife - Scrape 5.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%205.png",
+      "sha256": "5116d468e447f2834e98d31d56be5fd50888e4bf34ac872265c1d47f8f17c696",
+      "size": 3534,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 5"
+    },
+    {
+      "fileName": "Small Knife - Scrape 6.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Scrape 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Scrape%206.png",
+      "sha256": "7887f13603c82e6b98cc021e8fec00fba011ab0493f38c5fa5d7866f83cca500",
+      "size": 2978,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Scrape 6"
+    },
+    {
+      "fileName": "Small Knife - Sheath 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Sheath 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Sheath%201.png",
+      "sha256": "6544d66f3bdb3b3dd7cb607087bbecbb3074055468b9049c31127a1719d06d70",
+      "size": 2372,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Sheath 1"
+    },
+    {
+      "fileName": "Small Knife - Unsheath 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Unsheath 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Unsheath%201.png",
+      "sha256": "34a6013d70a40bf9881ff32b391d62b88deac58a05068b1eb07d78ad204d1dad",
+      "size": 1805,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Unsheath 1"
+    },
+    {
+      "fileName": "Small Knife - Unsheath 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Small Knife - Unsheath 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Small%20Knife%20-%20Unsheath%202.png",
+      "sha256": "422ef77d4a23cbff831d5b650117dbdba681fd86cfc7956f855a1b00f2aa1057",
+      "size": 1735,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Knife Unsheath 2"
+    },
+    {
+      "fileName": "Unpleasant Scraping 1.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Unpleasant Scraping 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Unpleasant%20Scraping%201.png",
+      "sha256": "107dd2cd9a5b32ee1283c74c7fbadbdb4c82d38fe4035422ae36e764a742d4a1",
+      "size": 2728,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unpleasant Scraping 1"
+    },
+    {
+      "fileName": "Unpleasant Scraping 2.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Unpleasant Scraping 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Unpleasant%20Scraping%202.png",
+      "sha256": "616f529aaecf72be6264e89a03ecf014d88f126470e674832a1e493f30e96430",
+      "size": 3079,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unpleasant Scraping 2"
+    },
+    {
+      "fileName": "Unpleasant Scraping 3.png",
+      "path": "packs/Micro Pack - Kitchen Knives/thumbnails/Unpleasant Scraping 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Kitchen%20Knives/thumbnails/Unpleasant%20Scraping%203.png",
+      "sha256": "993d03d1e78658065df96a7b5495385d970a0cfc57707f5f54f23385a5038496",
+      "size": 4032,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unpleasant Scraping 3"
+    }
+  ]
+}

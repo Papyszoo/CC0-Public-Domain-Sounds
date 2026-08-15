@@ -1,0 +1,3019 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "100 CC0 Metal and Wood SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-metal-and-wood-sfx",
+  "description": "100 metal and wood sounds: doors, hammers, keys, locks, hits, falling, breaking, cracking and squeaking. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/100-CC0-wood-metal-SFX",
+  "itemCount": 100,
+  "items": [
+    {
+      "name": "Door Open 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/door_open_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hammer 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hammer 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hammer 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hammer 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Keys 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lock Open 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/lock_open_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Close 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_close_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Hit 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Open 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_open_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Sheet 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Slam 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_slam_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Spring 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_spring_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Spring 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_spring_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 17",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_17.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Breaking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Breaking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Close 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_close_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Close 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_close_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Cracking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Cracking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Cracking 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Cracking 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Falling 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Falling 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Falling 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Falling 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hammer 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Hammer 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Hit 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Slam 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Slam 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Slam 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Slam 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Wood Squeak 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood Squeak 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "door_open_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/door_open_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/door_open_01.ogg",
+      "sha256": "58455b99af8f62b10559607435de0f72b9c798ebe085f49101df3c3d9ec043c7",
+      "size": 17265,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hammer_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/hammer_01.ogg",
+      "sha256": "ebbeac7365b2b4f4eaa6829a3c09e0be46e20950f8322eb5c72a616679d6c482",
+      "size": 15402,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hammer_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/hammer_02.ogg",
+      "sha256": "0e4a3eac2ffd7bd7f3d7dea84df761bd2ef1dbe754199d16f11aa8dd5a668781",
+      "size": 12076,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hammer_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/hammer_03.ogg",
+      "sha256": "98052d53c8a27747fe08cc0a7e0e7ff75a260bd6bea7b6de49968840dccda090",
+      "size": 12435,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hammer_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/hammer_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/hammer_04.ogg",
+      "sha256": "7fd6d4ab5a7fe6e0993b99fe91010271548bd319a50237f16120a431040ae169",
+      "size": 12845,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_01.ogg",
+      "sha256": "8bc33b2545a8bd9c1b0e2c47665c6bb9ca981ab972415f66a2d468d0b4921a5a",
+      "size": 18061,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_02.ogg",
+      "sha256": "ce802cc346ef49a71fcae75ec2a45bbf8c7a1cfe365d3d5b6755b902ce4b9523",
+      "size": 21599,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_03.ogg",
+      "sha256": "7feae62edb5f00bff8f798aca958413a058a3ec3c341677235834903291e6fe4",
+      "size": 20971,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_04.ogg",
+      "sha256": "22f7c1475af93208149c1219b1fc7fdfd746a5fed1b95a7fe60b130c0c27ee2d",
+      "size": 17603,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_05.ogg",
+      "sha256": "d31aef529ad99479417b4968fa239cf4841f0ae7eba23933b19a476c7c3d2f07",
+      "size": 26933,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_06.ogg",
+      "sha256": "9f637b55456930eddaa9432ace31009d37c543b64738fa1ab8452d58b1c82123",
+      "size": 30051,
+      "role": "Audio"
+    },
+    {
+      "fileName": "keys_07.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/keys_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/keys_07.ogg",
+      "sha256": "6c759cbd2dd2d1ea7f11a84d1b40f9e9ac62d49faf260100760e2dc9c77c4a28",
+      "size": 30494,
+      "role": "Audio"
+    },
+    {
+      "fileName": "lock_open_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/lock_open_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/lock_open_01.ogg",
+      "sha256": "f37728690c9559d32527b55e25102a1acb7beafdfab7ad12e099285d13d29e01",
+      "size": 33021,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_close_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_close_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_close_01.ogg",
+      "sha256": "f504b912782760ff3ec25814db6c27bd2d884a94cda2a94d0ffbec921ab478b6",
+      "size": 29099,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_falling_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_falling_01.ogg",
+      "sha256": "84f68de4298918630f328087486619e4b80892f7655724f9d391af730b37cea0",
+      "size": 64014,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_falling_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_falling_02.ogg",
+      "sha256": "df317939deadccb4c1b4c83f7b18d549cb0b4d46ed996607d703f1a6122fea6f",
+      "size": 40266,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_hit_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_hit_01.ogg",
+      "sha256": "f5fd185fce454947c1d91ce6757e219c4d7c6c139d4aa9d419cd7a79c7f6df3b",
+      "size": 12422,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_hit_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_hit_02.ogg",
+      "sha256": "9074c0828727bd00834cabcaaf5b8cbff2cfad7b45676b95d86c0919e444f8b1",
+      "size": 17378,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_hit_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_hit_03.ogg",
+      "sha256": "9daf6e7e1fc1871acfb063cb25ce050faab559ee6c42fed84bf18a4067f26a4d",
+      "size": 17431,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_hit_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_hit_04.ogg",
+      "sha256": "dfc5ebc2cafcf2670f3937882c5040abe5c8855885c886023592d9a0779dde48",
+      "size": 15532,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_hit_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_hit_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_hit_05.ogg",
+      "sha256": "04e4d0926afd4bcd7d451884e0a74cea7c9661f56e211aeb8a4ee07bbccf4715",
+      "size": 13937,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_open_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_open_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_open_01.ogg",
+      "sha256": "b68844e779fd0d4234bd2511d91db1c72cbf10fa9bc0bbd49f3be6bdb311eb6d",
+      "size": 47159,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_01.ogg",
+      "sha256": "114002a50404928b5e257d1d188d1da5f197c251868ef37182e9aba15bca7a72",
+      "size": 18428,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_02.ogg",
+      "sha256": "152604697b4a7e36f7b0644bb4ffc9fbb96831c2387313e9e14c732068420606",
+      "size": 20927,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_03.ogg",
+      "sha256": "f7938996a1271dcd4e54e0b3fcbbbaa9960ec93dcc745dd4d0dbd7d300b0a9bc",
+      "size": 25381,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_04.ogg",
+      "sha256": "4c3a2db2940ce846d745fea57407dd8644e60dc15ecc203dee2d02713ebb2fd4",
+      "size": 18350,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_05.ogg",
+      "sha256": "cea32d672ee3bbc4098cdfc9c5984858071b2a8255ff2abd30e4c900822dfd7f",
+      "size": 15069,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_sheet_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_sheet_06.ogg",
+      "sha256": "d420000a04be527a1cbd6ddf9f9d4a77e7929c8941364b2dc575c1254204a8c2",
+      "size": 26995,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_slam_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_slam_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_slam_01.ogg",
+      "sha256": "a335ccf202578bd740f930f0648a4dcbbbce3ebb2519335be023532578f56176",
+      "size": 24256,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_spring_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_spring_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_spring_01.ogg",
+      "sha256": "bc7d84bf0353ef884c62dc0a9ef29e05864d452ac8509a40e125fb9d7507f98f",
+      "size": 30914,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_spring_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/metal_spring_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/metal_spring_02.ogg",
+      "sha256": "373fb40c3f895e04623633057160a217005b04816a957094ae3c3d66fe21dca0",
+      "size": 27119,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_01.ogg",
+      "sha256": "8f3417358d867d09ca4a7eb103d1662e6091255efcfa18e3789fd7afdcad79b7",
+      "size": 45207,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_02.ogg",
+      "sha256": "1dd47726713d8d9e5bc862658866e028f758ee3a07649ec887ceab2b371e5eaf",
+      "size": 17054,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_03.ogg",
+      "sha256": "072f97bda14a9926ef01a6e7ef244e7fd0b24d2e58fd22b1a7a21776229f1bcf",
+      "size": 29427,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_04.ogg",
+      "sha256": "97fad46cfefc55a1693e1fefa7e6529754b8ec2d678bed36a914a2fd8f7cf808",
+      "size": 27244,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_05.ogg",
+      "sha256": "42f012188dec2887d97e2969c6f315c85ba8a9b91dd6115d8a00368d3581ad6d",
+      "size": 31353,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_06.ogg",
+      "sha256": "9f6d3a779148408b130a3e8bb2b214b61158afa90331e3570e05240dc426c519",
+      "size": 31099,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_07.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_07.ogg",
+      "sha256": "0441a1c4c5b4530d932c67b3786b94791bab65830b8b84f3a9eff6ad838ccae2",
+      "size": 40617,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_08.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_08.ogg",
+      "sha256": "eb874c92e07aa2498a521b1ad95b8711729abaef5457fb9cb0586f42f93b346e",
+      "size": 19377,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_09.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_09.ogg",
+      "sha256": "e3de74b187495c4b519e6dd9e00312208a69281ffffcde01ed6acc0324b605cf",
+      "size": 32253,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_10.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_10.ogg",
+      "sha256": "aecbdff15fad7a0c9c3cd9210eb8163df6519cb0508ddbdae27a140ff95d279c",
+      "size": 22160,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_11.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_11.ogg",
+      "sha256": "54e2662594ff34ae369c31908a9d1c67cf81f1a0efe74a60ae8ebdc0ee996544",
+      "size": 26124,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_12.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_12.ogg",
+      "sha256": "c6121995566e0f4757e022e3387dcee80e408fd5c8becae9b832741c9cfdf4ff",
+      "size": 16028,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_13.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_13.ogg",
+      "sha256": "4091e23723f5b3e689d5c87a84ba9f177890dbebffbf2adf10dc2a20aa91d465",
+      "size": 15643,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_14.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_14.ogg",
+      "sha256": "7afafe15f3fa05ae071faf5eeee8eb43f8fbec6dcf51ef908caf59273c88e532",
+      "size": 24441,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_15.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_15.ogg",
+      "sha256": "31bc6513d98c0c28b36f17f692d62071b46f17cba44766861b6f76949fe1383c",
+      "size": 23576,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_16.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_16.ogg",
+      "sha256": "db99816cdc8b8a6d6b86b37af7476a3fb04f1d7341c37be1b1c481eb76cbc7b0",
+      "size": 17712,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_17.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/misc_17.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/misc_17.ogg",
+      "sha256": "56aec918804e02916f0dc0f30a3e7c59163e69098832de2b5aa07ff2d6941626",
+      "size": 15176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_01.ogg",
+      "sha256": "a679ab1a1d3fafcddf408e3f39fa55c23f5725ff84d8c9aff6e04511805616cc",
+      "size": 23580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_02.ogg",
+      "sha256": "f38aa1f822bd1d4ba2fbf7df2a8c12ea27dbca537b81cf9032b8729fe7223822",
+      "size": 19976,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_03.ogg",
+      "sha256": "2e3e006dc02d0ddd462b7a961e86712922849862379ac4f9524bff876cac92e3",
+      "size": 22921,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_04.ogg",
+      "sha256": "38dff738edb9ad33e35dd65dedd1d3c07e5a04c4613631daa99b0a6a7bf2597b",
+      "size": 37563,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_05.ogg",
+      "sha256": "32e51e074cfbf11c1bef75ad827ffd07be6215ced153d6a7eda7954703c193ce",
+      "size": 22526,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_06.ogg",
+      "sha256": "a8ca49d4c86d295c983312b8859d4620db4fdf198142f3e6defe71db615c1acd",
+      "size": 23192,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_07.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_07.ogg",
+      "sha256": "bd0b8f1b7438bf1a2e69cfda7e760ba98ca8dbe37195a1fc8e922fadfc291138",
+      "size": 18065,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_08.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_08.ogg",
+      "sha256": "7b12fb3f6e7eb4207e76809cc8b875bbd9161b1b340a3f13349023ed127e109d",
+      "size": 20105,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_09.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_09.ogg",
+      "sha256": "81a2a696eff9980f31e4081470d4ce5de40477f52177aa9c0d7f7f18166a2086",
+      "size": 25340,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_10.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_10.ogg",
+      "sha256": "0ed377175537e140950a7656012d991910135925c8f2df93d6ed60819e51eedd",
+      "size": 23892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_11.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_11.ogg",
+      "sha256": "04a8867b10ef3b694891cd3260747e7970de4eb0dea8db32f7935f24f44482a0",
+      "size": 21243,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_12.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/tools_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/tools_12.ogg",
+      "sha256": "27b4bc998d47d4e7c0bc91b1f7bd9529b9be6c0ef7fdc1540f5ecb885cc1774c",
+      "size": 20291,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_breaking_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_01.ogg",
+      "sha256": "83a0e17e536a17897d5915e88c9e70d0be06d0a43bb3a38f44314ada46b06a3e",
+      "size": 28031,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_breaking_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_breaking_02.ogg",
+      "sha256": "042e97ceaa551dd3fcccba0e9bdf1e8145133ac4d2ee0b0cbcd0ee698b7cb229",
+      "size": 24126,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_close_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_close_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_close_01.ogg",
+      "sha256": "e4cbbaa6331b42a32cc3a63d643f4849c65c39a45e7c57d568eb1790619af06d",
+      "size": 18325,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_close_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_close_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_close_02.ogg",
+      "sha256": "250275ce07101fa11ee8f371972e67e1024737a2d1d6b23a6772c2935b193f39",
+      "size": 17485,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_cracking_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_01.ogg",
+      "sha256": "ee00fa26ec72a2bd05adc71a4edf6627db2adedc6f0416ef6788c4790c1d2724",
+      "size": 11910,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_cracking_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_02.ogg",
+      "sha256": "128a798ebb92958c9bee5a71c420c3f61f59c241ecaca75f0bbde780bb086abd",
+      "size": 15144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_cracking_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_03.ogg",
+      "sha256": "9d0a3e8ee99fbf4e83472fcc26a48f834a6ac01c60769b9712e93f1e2a7f3116",
+      "size": 14747,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_cracking_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_cracking_04.ogg",
+      "sha256": "9ac6d1ab3bce4a872bbde85fc1dc73f8243c1cfed95b0d135f3632be8b632e38",
+      "size": 13788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_01.ogg",
+      "sha256": "38c5307455f35c3b61e06fbd01cae41f245cd45b12807747bd5830b2ff7448d1",
+      "size": 27848,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_02.ogg",
+      "sha256": "b5f8794539fb13d73444d1b955877dbf5e5bf4ad37723dc08e7d3eb1d75273f5",
+      "size": 23581,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_03.ogg",
+      "sha256": "e844780ce472459cf1ee90e0cf8f49f05a0e0be5566ada20db42523f67fd0233",
+      "size": 22906,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_04.ogg",
+      "sha256": "c0e6c75ce6eac3cd7a05008dff45e65dcd313d7d6706585de06d1948c01f3cf6",
+      "size": 18374,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_05.ogg",
+      "sha256": "b3ed00cd0113912a28b65f56488ecf66002ab7f3dba68a675eca81684f9b10d5",
+      "size": 32966,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_falling_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_falling_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_falling_06.ogg",
+      "sha256": "663880c8e43f0f4fe9f001de8023f93ff874079fa84dde1d68aae0837c07a81f",
+      "size": 24754,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hammer_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_01.ogg",
+      "sha256": "7af2b82ed659153da6c3dd69024e15bdb3c3c5b101c4086ee2181c1f846fe28a",
+      "size": 14174,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hammer_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hammer_02.ogg",
+      "sha256": "f3e8812f053d35d5ebbaec39c7d7136ccfcf4ad7b420beded1401c9aaca13625",
+      "size": 13316,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_01.ogg",
+      "sha256": "cf3211d80094cd363e8e56906ad42a8baf10f31ef9e197f3f63464a957bade3a",
+      "size": 13573,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_02.ogg",
+      "sha256": "533144d0633e756d91a7ee6d3a1f00bed81ad85d221232c5e4812e4fd7b14177",
+      "size": 16082,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_03.ogg",
+      "sha256": "0f78a5cbe44d2ee45dfc1709f72af87bcbe5e3a8ad369b52535cfe6dbbd626a6",
+      "size": 16580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_04.ogg",
+      "sha256": "c7723f3c577cc6f46b091233fcb735016c6e15d462b371393baa4d265aef52b6",
+      "size": 16065,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_05.ogg",
+      "sha256": "a6e1a4cfb65c4fc46248b3db84666275d466c2434c283028c7f0ce70035e75de",
+      "size": 9553,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_06.ogg",
+      "sha256": "6224beb74c930ac6b88358ced7c024b23a50d71acfe565e83cc29ffbe383676e",
+      "size": 13185,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_07.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_07.ogg",
+      "sha256": "80176bf1f0a503df1b802c758af2c62f72b6c93c586b8071615174fd7b5abfca",
+      "size": 14805,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_08.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_08.ogg",
+      "sha256": "b91720c949e065eabf8980beefe95bc1ede281224d834838c32a6753f2ad93a1",
+      "size": 17512,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_hit_09.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_hit_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_hit_09.ogg",
+      "sha256": "7e90e5834792ea302ef767235b92862045b4075021c73bc2e0ee3f352bc5cdc1",
+      "size": 12494,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_01.ogg",
+      "sha256": "29db37359c77f06c20e8c92148dfec69d3c50a174122505cf4d2b9726b14162c",
+      "size": 20566,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_02.ogg",
+      "sha256": "458f522d941247ee447978307842c67aec08b421878c16d2d357172c7a579e9a",
+      "size": 16143,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_03.ogg",
+      "sha256": "4e875c284377b8809e5b7acf7fa04aae1d8d44ada43d2592ca4e8802b8621bfe",
+      "size": 19914,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_04.ogg",
+      "sha256": "75e5b460e59250b542eb315adc39899c624042d5b58dd92eef57c5a53d750bc4",
+      "size": 20676,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_05.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_05.ogg",
+      "sha256": "b6cd88c1de4d423d8ba69e6b5aea2ab348baaacd5b411fd03a145699a3fb4169",
+      "size": 13593,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_06.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_06.ogg",
+      "sha256": "b0f0ec852dbb8e108817411089c150bd40c93d326719bd2cf1561e87fded3e20",
+      "size": 19364,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_07.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_07.ogg",
+      "sha256": "0868c3ad57a72cab43e8904a030156efe9169717d886517341f0abc2942d14eb",
+      "size": 20467,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_08.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_08.ogg",
+      "sha256": "c2e09d4ee40480defa46d11d63fc80a578fe098985470afa8d2bb3ee1840732e",
+      "size": 15825,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_misc_09.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_misc_09.ogg",
+      "sha256": "bae89cd81dbfae2feb52718bc8811ec773443ffd80cdc7ea8ec055f130cbb035",
+      "size": 31973,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_slam_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_slam_01.ogg",
+      "sha256": "a6c0789f549c57bf2022d2bc131b5d78b66c2ea9483d7bf2f6d2d5f74302137c",
+      "size": 13534,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_slam_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_slam_02.ogg",
+      "sha256": "73606869502682f640ebc0ab330c66801650a58a363f90c93c7882cd1abb587f",
+      "size": 23991,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_slam_03.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_slam_03.ogg",
+      "sha256": "fe61f296255b041c3bad6bbde0c7cf1325965b252d03833fe35deebaa7a1bd76",
+      "size": 20188,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_slam_04.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_slam_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_slam_04.ogg",
+      "sha256": "a1b97f2f3821eb52ab42852fb4538b7bd0a6f080e1608fba0a813105ba85cace",
+      "size": 17868,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_squeak_01.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_01.ogg",
+      "sha256": "c6c90e02993b2e044937f344351b417aeff6841aa4cd683f208d85ececf23392",
+      "size": 21785,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_squeak_02.ogg",
+      "path": "packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/sounds/wood_squeak_02.ogg",
+      "sha256": "841793c92034e419afec66538f7cf08f0f36f307aa3a1a5aaf7b664a0a178dee",
+      "size": 19159,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "door_open_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/door_open_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/door_open_01.png",
+      "sha256": "8923ab94c57454d79e9037e1e24198790cd92e8ca68d7ccb513da984b97b12ae",
+      "size": 2646,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Open 01"
+    },
+    {
+      "fileName": "hammer_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/hammer_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/hammer_01.png",
+      "sha256": "772a5b4e08901e3eac7fae65fdb1a5abfc1462ba54fc84ea9ea3fd98033e2a71",
+      "size": 2323,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hammer 01"
+    },
+    {
+      "fileName": "hammer_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/hammer_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/hammer_02.png",
+      "sha256": "7e20fab2900c7bae2580e7bc890b8580f79831b0b156bfe84c79e351accd2619",
+      "size": 2883,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hammer 02"
+    },
+    {
+      "fileName": "hammer_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/hammer_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/hammer_03.png",
+      "sha256": "d3d95d9aca589f1e5d8d5a5fbbc69cb06897b819a4df3e4fd1b99054c20c2b8e",
+      "size": 2962,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hammer 03"
+    },
+    {
+      "fileName": "hammer_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/hammer_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/hammer_04.png",
+      "sha256": "6d1140a42dd219d7b2d962c6d1ecc85369f28323a25118d2ed3bc24cf7cc182e",
+      "size": 2745,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hammer 04"
+    },
+    {
+      "fileName": "keys_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_01.png",
+      "sha256": "0f0efd1eb09e2476975c9c6249c907ac7a94615ed674e55db9611d6040fd9dc4",
+      "size": 2681,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 01"
+    },
+    {
+      "fileName": "keys_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_02.png",
+      "sha256": "1b45ca4b1c433680d5392dd5de9b1a48b61c25f03924c003f5d3648521ecfa8e",
+      "size": 3721,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 02"
+    },
+    {
+      "fileName": "keys_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_03.png",
+      "sha256": "d96822eebc46b99700823e1dd7c21feee1bb5ffa2d1571ce3da761d660f6cece",
+      "size": 3820,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 03"
+    },
+    {
+      "fileName": "keys_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_04.png",
+      "sha256": "2ffd27e22c859d42fc5e63c7aac9c9eaf6bd063efdec763b970ca433fdf796eb",
+      "size": 3157,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 04"
+    },
+    {
+      "fileName": "keys_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_05.png",
+      "sha256": "b3718c964f9aa85818510a12806c5e3916fd6ad7dad836d43d9742444caad62d",
+      "size": 2810,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 05"
+    },
+    {
+      "fileName": "keys_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_06.png",
+      "sha256": "e34bfc7f7819fe7dbfe2342747a671420083cef95f39f2424a62e04877123e22",
+      "size": 3286,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 06"
+    },
+    {
+      "fileName": "keys_07.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/keys_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/keys_07.png",
+      "sha256": "c153bf8f6968094a4aa29f6b73aba5a8f81edaacead08c5e092ecabcb1de78de",
+      "size": 3880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Keys 07"
+    },
+    {
+      "fileName": "lock_open_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/lock_open_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/lock_open_01.png",
+      "sha256": "640ca339c9826268c17d919b62e7da4af98f737a5d795794955f9d4f37cea19c",
+      "size": 2892,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lock Open 01"
+    },
+    {
+      "fileName": "metal_close_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_close_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_close_01.png",
+      "sha256": "0e124c78bb3bd76dfc3e72075a239ca92d9b4f8f470c99cc627199c47d5f06ba",
+      "size": 2312,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Close 01"
+    },
+    {
+      "fileName": "metal_falling_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_falling_01.png",
+      "sha256": "0fb9dea7b3da8fd92fa2c3ee307823cd22ad2bf41101b5f612ba3ed287497e2c",
+      "size": 3424,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Falling 01"
+    },
+    {
+      "fileName": "metal_falling_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_falling_02.png",
+      "sha256": "e4822c8da015823cc9348783709808eeb3b497b7d19f3424039a4921bc674d0d",
+      "size": 3501,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Falling 02"
+    },
+    {
+      "fileName": "metal_hit_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_01.png",
+      "sha256": "0e2e243a969e01d1393663c5639006c03dbc020cb4e3934b49cccca6a8a9d473",
+      "size": 2505,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 01"
+    },
+    {
+      "fileName": "metal_hit_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_02.png",
+      "sha256": "a9587d7a1b0c272adc6193025e348cc5d14cae899fc09b31c64b98be3c35bd0e",
+      "size": 2624,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 02"
+    },
+    {
+      "fileName": "metal_hit_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_03.png",
+      "sha256": "1393a752f31d6dafee10454d2cfe2488b5fed837a25bbae968cdb458416aca79",
+      "size": 3697,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 03"
+    },
+    {
+      "fileName": "metal_hit_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_04.png",
+      "sha256": "f8af8c52707dfddaa7edcf9a7dadc918da1cae5da67cec34c0f31a7b895714b3",
+      "size": 2480,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 04"
+    },
+    {
+      "fileName": "metal_hit_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_hit_05.png",
+      "sha256": "2808a20ef368edf3bc8b680b0d13451e909d4a073ebe8cb19fb9180825ec4405",
+      "size": 2376,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hit 05"
+    },
+    {
+      "fileName": "metal_open_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_open_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_open_01.png",
+      "sha256": "0f722834356fd9b0ba589e269d0ab4d68ed9fd2094eb46bc3363b6d508b91dea",
+      "size": 2072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Open 01"
+    },
+    {
+      "fileName": "metal_sheet_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_01.png",
+      "sha256": "28216dc7a1799d77a07edeb7c4f70260263c5018d367a22bd1cb0572d49761d4",
+      "size": 2949,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 01"
+    },
+    {
+      "fileName": "metal_sheet_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_02.png",
+      "sha256": "cb684ce5cb189daa191afa90e298d752a35052d8f1d0a99558549c7a028e5f70",
+      "size": 3322,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 02"
+    },
+    {
+      "fileName": "metal_sheet_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_03.png",
+      "sha256": "35a8e3469dd07d3452916ec82a22b1507b3f539822885cc315b8ba6059997137",
+      "size": 3830,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 03"
+    },
+    {
+      "fileName": "metal_sheet_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_04.png",
+      "sha256": "a24aec7a6cfb7bf7ab6485ec8085753c2b2f473d1ac4a59fcc519b035f975054",
+      "size": 2777,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 04"
+    },
+    {
+      "fileName": "metal_sheet_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_05.png",
+      "sha256": "6375966ee0a573ee757a84563e8a9d9bac0493419f5c3a0bc7a41a2a812a921b",
+      "size": 3457,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 05"
+    },
+    {
+      "fileName": "metal_sheet_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_sheet_06.png",
+      "sha256": "eec92bba61e28de0c266427251c61911ca1a468534a4bced9cfb42034a3394d3",
+      "size": 3526,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Sheet 06"
+    },
+    {
+      "fileName": "metal_slam_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_slam_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_slam_01.png",
+      "sha256": "81b7af22f0cc4a30f0e474602a3b2c1edc1ff2c736cd86fa937cb3ee0902f6bf",
+      "size": 2732,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Slam 01"
+    },
+    {
+      "fileName": "metal_spring_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_spring_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_spring_01.png",
+      "sha256": "ec6d64c735a9bad35f9cf40fdf55edc00c216d76a3c4faa73a7558977e06d9a8",
+      "size": 2464,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Spring 01"
+    },
+    {
+      "fileName": "metal_spring_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/metal_spring_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/metal_spring_02.png",
+      "sha256": "d3f4b93d6aecbd081e91e44cfc54076786949fce88c0dea9d5e2dc99f86e3a53",
+      "size": 3236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Spring 02"
+    },
+    {
+      "fileName": "misc_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_01.png",
+      "sha256": "037c7841bb7b82a23f11d11479e39e3cf062d5de3817b44255fffa0d06f3ac0e",
+      "size": 4147,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 01"
+    },
+    {
+      "fileName": "misc_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_02.png",
+      "sha256": "b7858ef10a7dc24856351dcd096454bb48dfa209dc8e2f907a4dc2e50d55cf96",
+      "size": 3329,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 02"
+    },
+    {
+      "fileName": "misc_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_03.png",
+      "sha256": "fc86d0c41df139c0a12aaf4f0beb5426d05256bff65ca490aada5b0c8b855023",
+      "size": 3463,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 03"
+    },
+    {
+      "fileName": "misc_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_04.png",
+      "sha256": "68e1ffd57df2ca524e6e0cd54efc30a5093c7bb445bab9d31fbd798ecee9057f",
+      "size": 3912,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 04"
+    },
+    {
+      "fileName": "misc_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_05.png",
+      "sha256": "5c2558c2f043a7170226090bfeafcb748ea7f0a306007774851645945dbdbb5e",
+      "size": 3253,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 05"
+    },
+    {
+      "fileName": "misc_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_06.png",
+      "sha256": "4a8c1e5eae30e046295f7136fa71abcddcaf988b1228a6ff7a33fa6fe7526131",
+      "size": 2584,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 06"
+    },
+    {
+      "fileName": "misc_07.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_07.png",
+      "sha256": "c3a5c27a89a8382bf2e87b9d59452c409c319c4bd57c158c49b30a5a1293e113",
+      "size": 3870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 07"
+    },
+    {
+      "fileName": "misc_08.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_08.png",
+      "sha256": "e8b3b2166e38331becf41fb26d3d20ab3711ffe29543f5f3705a6f85b409c01d",
+      "size": 2935,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 08"
+    },
+    {
+      "fileName": "misc_09.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_09.png",
+      "sha256": "66b67ea3307f83ad9f05c9b18be337d34b1b4e2105a7ab6e620c6c3916b6ec89",
+      "size": 3520,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 09"
+    },
+    {
+      "fileName": "misc_10.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_10.png",
+      "sha256": "7de354ceee96ebdd5504672d75c34932c22975d543bc802091e0b36f6aad4fcf",
+      "size": 3009,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 10"
+    },
+    {
+      "fileName": "misc_11.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_11.png",
+      "sha256": "1ccf0ba7783c287e719942b7b4b5b568142d980332fc0d07590552c84832d4ec",
+      "size": 3344,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 11"
+    },
+    {
+      "fileName": "misc_12.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_12.png",
+      "sha256": "3cdfecc6c58bc18bf619cf7cf946cfcf613d4c191cbbe10edc0385902746a4bb",
+      "size": 3123,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 12"
+    },
+    {
+      "fileName": "misc_13.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_13.png",
+      "sha256": "3c3165681b75e27d248745a73e327b3063db8caccc40e5e2ba6ed19371d953c8",
+      "size": 3312,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 13"
+    },
+    {
+      "fileName": "misc_14.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_14.png",
+      "sha256": "bcd61cf4d4d2bab6474e3d08a8dc1b0cf04820bbfabec7d5fa42c8b1d91251a3",
+      "size": 3957,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 14"
+    },
+    {
+      "fileName": "misc_15.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_15.png",
+      "sha256": "fa65783ea6780a55d53290449016e078b81c40177ac7eddb8cddd9e050ea651e",
+      "size": 2097,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 15"
+    },
+    {
+      "fileName": "misc_16.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_16.png",
+      "sha256": "28692edd066f724293a4c92e71dc0ec6cf7d5b17a046b83cda2c7006ce3c8262",
+      "size": 2922,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 16"
+    },
+    {
+      "fileName": "misc_17.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/misc_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/misc_17.png",
+      "sha256": "e628f2007656df8f2092462a66704d81447da7a2fb2f463e8a73d183d9a99319",
+      "size": 3425,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 17"
+    },
+    {
+      "fileName": "tools_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_01.png",
+      "sha256": "8db5cf810481f87d88553180e03afe79b2389e64053fa63f6df503147afd03bd",
+      "size": 2548,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 01"
+    },
+    {
+      "fileName": "tools_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_02.png",
+      "sha256": "a4e84c779c978040b7a92141477656b4443eb9a875bb13026684e005151415e7",
+      "size": 3128,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 02"
+    },
+    {
+      "fileName": "tools_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_03.png",
+      "sha256": "767a0a898e68d1a396f6a2b2190a898dc7821155e15eb97b800d109df299fa91",
+      "size": 3509,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 03"
+    },
+    {
+      "fileName": "tools_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_04.png",
+      "sha256": "ed3251b085377639edda158b0e13ed683724ca186ac9c894a442507f61ae78c8",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 04"
+    },
+    {
+      "fileName": "tools_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_05.png",
+      "sha256": "ac0abf83cd4d4541b5ae2d9cc1e34220d30a5b1a65f1c408a9e31ac7e790135e",
+      "size": 3598,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 05"
+    },
+    {
+      "fileName": "tools_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_06.png",
+      "sha256": "df99e4f17a504b6e4200218b5051d0ebbf66dbdc01d8d403509109e7c054a3f7",
+      "size": 3995,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 06"
+    },
+    {
+      "fileName": "tools_07.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_07.png",
+      "sha256": "17273849c41e59c26bd396ee7055820b6bfb0ce42fd472cbe019af4c4d9a411d",
+      "size": 3452,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 07"
+    },
+    {
+      "fileName": "tools_08.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_08.png",
+      "sha256": "1170dbd057f52d06254d76062bc5dc65d13e0f420127d75c66e5e4e97a5317c3",
+      "size": 3019,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 08"
+    },
+    {
+      "fileName": "tools_09.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_09.png",
+      "sha256": "fdb893311321041fb8a6b2afa0d9d9e364fc6a01d75cf1557f2aaa153664a7b8",
+      "size": 3548,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 09"
+    },
+    {
+      "fileName": "tools_10.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_10.png",
+      "sha256": "24961df0badd1ce326b0b865e5a0ced6908a47d52a7cfd2ceb37d61ac4fc37e4",
+      "size": 3770,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 10"
+    },
+    {
+      "fileName": "tools_11.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_11.png",
+      "sha256": "a7883f3b4bb6c1aec2a3ddf0b49cbad8378ec4dc1753097274b8e56f90ef9a4a",
+      "size": 3567,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 11"
+    },
+    {
+      "fileName": "tools_12.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/tools_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/tools_12.png",
+      "sha256": "86d6cf0280866554de9bc53dbd3a4ab318782a70a3b6b1c19298844ccee36531",
+      "size": 3674,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 12"
+    },
+    {
+      "fileName": "wood_breaking_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_breaking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_breaking_01.png",
+      "sha256": "cbda2adb1b696cdb819664ea656d222853c7f9287a297cb3a4fafd6ebfa8822b",
+      "size": 3149,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Breaking 01"
+    },
+    {
+      "fileName": "wood_breaking_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_breaking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_breaking_02.png",
+      "sha256": "70da3cf7ebbe304346aa3e654dbb237e004f06a4c1e3b49f48e368165939a7c8",
+      "size": 3377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Breaking 02"
+    },
+    {
+      "fileName": "wood_close_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_close_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_close_01.png",
+      "sha256": "afeec8d4862fa5d647c70e086039731414558284772412d4427d26b67742ee3e",
+      "size": 3101,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Close 01"
+    },
+    {
+      "fileName": "wood_close_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_close_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_close_02.png",
+      "sha256": "066197b2d6a74ba8005ed35285d9a0acd1cb88c907ccb3c99c41ca0170202c5d",
+      "size": 2576,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Close 02"
+    },
+    {
+      "fileName": "wood_cracking_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_01.png",
+      "sha256": "613f31cad3e72e4f83bc3ef2fda4adeed2cb65d245b633aa2323ad3558352064",
+      "size": 2731,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Cracking 01"
+    },
+    {
+      "fileName": "wood_cracking_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_02.png",
+      "sha256": "a3eaf0078d47c313444279d14cae0a618ca68d6a25d09a93a124edc652a7d0a2",
+      "size": 2383,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Cracking 02"
+    },
+    {
+      "fileName": "wood_cracking_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_03.png",
+      "sha256": "c776546b596c1193cca78aad5e50e562997daf6ecc5ce40c2163b4317a6d7eef",
+      "size": 2361,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Cracking 03"
+    },
+    {
+      "fileName": "wood_cracking_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_cracking_04.png",
+      "sha256": "f93a8a5fa52fdea49ba32b2412c23105a3843c7e7142dc09b03600654c1df1d1",
+      "size": 2875,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Cracking 04"
+    },
+    {
+      "fileName": "wood_falling_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_01.png",
+      "sha256": "1eae5d938339b3d96f20988d1dd49a141e4f888a4be1de459105cf0430c95bf6",
+      "size": 3133,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 01"
+    },
+    {
+      "fileName": "wood_falling_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_02.png",
+      "sha256": "dd6a003f847dba251b08229680b6cfba72a0e9076a13f53c6cc14fac09bc27e8",
+      "size": 3221,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 02"
+    },
+    {
+      "fileName": "wood_falling_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_03.png",
+      "sha256": "62edb10dd66ce7af517ead54664fb647bd392d3215d723b5501468ea85855b92",
+      "size": 3059,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 03"
+    },
+    {
+      "fileName": "wood_falling_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_04.png",
+      "sha256": "9307a1d0b65f8be353413c1332a86ce59ed80de0981c3797e9504917cf1c6c74",
+      "size": 3366,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 04"
+    },
+    {
+      "fileName": "wood_falling_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_05.png",
+      "sha256": "329e631636e31d54a948bff30809bc3978f0c0ebc6027c47c550796f71ad0414",
+      "size": 3662,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 05"
+    },
+    {
+      "fileName": "wood_falling_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_falling_06.png",
+      "sha256": "808f741b75333b20279a07ae5d24395a8c276de4245d07ad992f9f9ca60c98cb",
+      "size": 2878,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Falling 06"
+    },
+    {
+      "fileName": "wood_hammer_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hammer_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hammer_01.png",
+      "sha256": "c3670b7087b511fc431514d71c4073a0014740d62f9daa97590746255ecd4a18",
+      "size": 3360,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hammer 01"
+    },
+    {
+      "fileName": "wood_hammer_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hammer_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hammer_02.png",
+      "sha256": "e9870fc90c44611a7d2e8d4e56af87fa7847d06136e962eeb055e01ec60e45b6",
+      "size": 3032,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hammer 02"
+    },
+    {
+      "fileName": "wood_hit_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_01.png",
+      "sha256": "0affbdc97d7a6acd7d733ddfb2743be97698e04e489ebef48d0c10e751368b1f",
+      "size": 2350,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 01"
+    },
+    {
+      "fileName": "wood_hit_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_02.png",
+      "sha256": "7cc522a61027dc1f5bc2bb7cfe2a8d984478c2108fc998769102c32f9fdba4f5",
+      "size": 2573,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 02"
+    },
+    {
+      "fileName": "wood_hit_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_03.png",
+      "sha256": "77ab8382853f630de1dfa0a26b12b79365cd2175df5ffbb08bd6bbf12ae6468d",
+      "size": 2655,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 03"
+    },
+    {
+      "fileName": "wood_hit_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_04.png",
+      "sha256": "2c7488f1f71f587728a473fb5654c5ab561b381a86e29e085e02f285deb44c9d",
+      "size": 3139,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 04"
+    },
+    {
+      "fileName": "wood_hit_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_05.png",
+      "sha256": "4b819c045df7631658dd5de18ddf11adeda1b1575cee9850849dab36712c73e3",
+      "size": 1905,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 05"
+    },
+    {
+      "fileName": "wood_hit_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_06.png",
+      "sha256": "1b7756f2598f61baebd8bd114f58cf15c9b5acad6a3887e222aef0ac63aea9e2",
+      "size": 2337,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 06"
+    },
+    {
+      "fileName": "wood_hit_07.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_07.png",
+      "sha256": "d7a0d45e1a44ab5f8619e75ed935a937e0a42f48446c84279306ee44c3af928c",
+      "size": 2937,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 07"
+    },
+    {
+      "fileName": "wood_hit_08.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_08.png",
+      "sha256": "a3c67afc0c9796447cf569ced545cb5eecaf90b17207f910232832f815693d00",
+      "size": 2686,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 08"
+    },
+    {
+      "fileName": "wood_hit_09.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_hit_09.png",
+      "sha256": "0fce3c3b27f71aa53ebdfb1e7c7587871ac95c19b48566b04143446ad44cf28c",
+      "size": 2850,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Hit 09"
+    },
+    {
+      "fileName": "wood_misc_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_01.png",
+      "sha256": "57728095ab9a3c2da48464c0b510c388917d70a6ad5747233f5f9594a96210e8",
+      "size": 3477,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 01"
+    },
+    {
+      "fileName": "wood_misc_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_02.png",
+      "sha256": "9c389bdd023885ce6575f53e9141dd00293b0370110b0106769c0f6685ad4bd4",
+      "size": 3019,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 02"
+    },
+    {
+      "fileName": "wood_misc_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_03.png",
+      "sha256": "6eabc7f5334200b576135f2afa01a7c247f813c08064306a327e1ea0dff3837c",
+      "size": 3326,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 03"
+    },
+    {
+      "fileName": "wood_misc_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_04.png",
+      "sha256": "369edb6b220d6e662e65457b7ab93b3c958ea9c61d35f677c542be34ec99de0a",
+      "size": 2984,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 04"
+    },
+    {
+      "fileName": "wood_misc_05.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_05.png",
+      "sha256": "fb85a71d6065b169031e5508fd6273b44cc2141d2c3792c0634a59788623fb51",
+      "size": 2327,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 05"
+    },
+    {
+      "fileName": "wood_misc_06.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_06.png",
+      "sha256": "885b8e2b8a3ba7e0d997295f335a8364c5e6fd82512d901a175bfb5aa7843b0b",
+      "size": 3639,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 06"
+    },
+    {
+      "fileName": "wood_misc_07.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_07.png",
+      "sha256": "0d7d34652f0c9b09807f018e93b705f09787434661ff659d2013dadfe7b67bec",
+      "size": 3876,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 07"
+    },
+    {
+      "fileName": "wood_misc_08.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_08.png",
+      "sha256": "3f016c16188ce793e6fb6c4717b9627059cdebc8d873fa2bcbc22d667dbbb4ee",
+      "size": 3384,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 08"
+    },
+    {
+      "fileName": "wood_misc_09.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_misc_09.png",
+      "sha256": "c1bb4e46be5d5499c8c189e2fdad9906fcab744f46ffb831090e46149c65e44a",
+      "size": 3098,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Misc 09"
+    },
+    {
+      "fileName": "wood_slam_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_01.png",
+      "sha256": "5a56478132e9662cef939b2f0c8179318893990dc8dea042f1079788be7b3e51",
+      "size": 2363,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Slam 01"
+    },
+    {
+      "fileName": "wood_slam_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_02.png",
+      "sha256": "fdd8b9fac30c8af547015b0a17c2d505854913a50d4df97919bf94ae85286310",
+      "size": 3409,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Slam 02"
+    },
+    {
+      "fileName": "wood_slam_03.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_03.png",
+      "sha256": "154404eb8801e6113ad3bd767153accfb56bb5ee7a1497b2f350b392513f1c9a",
+      "size": 3281,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Slam 03"
+    },
+    {
+      "fileName": "wood_slam_04.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_slam_04.png",
+      "sha256": "c16bf9be48f5c91010a9323a8b08c2883339bb8ede2d9c61de26b4787880a525",
+      "size": 3204,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Slam 04"
+    },
+    {
+      "fileName": "wood_squeak_01.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_squeak_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_squeak_01.png",
+      "sha256": "eb35f8d29987feba7f04bfb1c10dfd277ec964a330e2a834fc3f17fa9773afb3",
+      "size": 2703,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Squeak 01"
+    },
+    {
+      "fileName": "wood_squeak_02.png",
+      "path": "packs/100-CC0-wood-metal-SFX/thumbnails/wood_squeak_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-wood-metal-SFX/thumbnails/wood_squeak_02.png",
+      "sha256": "f7683e4aca72a15f11c78c34ab2b02fc052f92e1d141948ba53b01b4383a5b88",
+      "size": 2779,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood Squeak 02"
+    }
+  ]
+}

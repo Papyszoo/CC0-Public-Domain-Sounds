@@ -1,0 +1,2419 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "80 CC0 RPG SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/80-cc0-rpg-sfx",
+  "description": "80 fantasy/RPG effects: blades, pages, chains, creatures, coins, gems, locks, metal and spells. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/80-CC0-RPG-SFX",
+  "itemCount": 80,
+  "items": [
+    {
+      "name": "Blade 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/blade_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Blade 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/blade_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Blade 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/blade_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Book 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/book_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Book 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/book_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Book 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/book_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Book 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/book_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chain 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/chain_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chain 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/chain_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chain 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/chain_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Creature Die 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_die_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Hurt 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_hurt_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Hurt 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_hurt_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Monster 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Monster 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Monster 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Monster 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Roar 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Roar 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Roar 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Slime 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Slime 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Slime 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Creature Slime 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Item Coins 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Coins 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Coins 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Coins 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Gem 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Gem 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Gem 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Gem 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Stone 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Stone 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Stone 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Stone 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Wood 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Wood 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Item Wood 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lock 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/lock_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lock 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/lock_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lock 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/lock_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/metal_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/metal_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/metal_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spell 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Spell Fire 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Stones 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/stones_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/stones_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/stones_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Stones 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/stones_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/wood_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/wood_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/wood_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/wood_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wood 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-RPG-SFX/sounds/wood_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "blade_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/blade_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/blade_01.ogg",
+      "sha256": "caf7a7cb9b25cda4bd487c1d12d18b74a34bb18c816fd67277cf3c8d7ef32a3a",
+      "size": 15142,
+      "role": "Audio"
+    },
+    {
+      "fileName": "blade_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/blade_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/blade_02.ogg",
+      "sha256": "c770afec8f62f14d3d082d5437c5cec28e2751d393df645ddd938eabc2588abd",
+      "size": 17776,
+      "role": "Audio"
+    },
+    {
+      "fileName": "blade_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/blade_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/blade_03.ogg",
+      "sha256": "2cd9e6926f4602a4350e703eeae4df520053e290f358ab692632d651ad368a7c",
+      "size": 15184,
+      "role": "Audio"
+    },
+    {
+      "fileName": "book_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/book_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/book_01.ogg",
+      "sha256": "39b2d652dc8de9d4100ae8a1d23364077fff39bf1c90009b0c0d72af8c47d0d4",
+      "size": 34237,
+      "role": "Audio"
+    },
+    {
+      "fileName": "book_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/book_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/book_02.ogg",
+      "sha256": "a3f87cfd37a452231a05ceebf746ae2459849c2e20f7b244e4a9b7dbc1d9e76b",
+      "size": 36858,
+      "role": "Audio"
+    },
+    {
+      "fileName": "book_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/book_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/book_03.ogg",
+      "sha256": "f72e4af8172ae98eaa350892072120e79eb87f91448b99aeaaf1febe070fbb2e",
+      "size": 60390,
+      "role": "Audio"
+    },
+    {
+      "fileName": "book_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/book_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/book_04.ogg",
+      "sha256": "0696632485ed31406f22e97dd38e7f46826739c0ad792878969a44a6e38a260f",
+      "size": 44092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chain_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/chain_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/chain_01.ogg",
+      "sha256": "d376caf0f61384b1d2e0b447f64f06be56d0ee0622ba70dd01cfdd78b3a10687",
+      "size": 23007,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chain_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/chain_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/chain_02.ogg",
+      "sha256": "dd3b753e54fd4e6ed94c36231d1950fafd681ff4a93462cfa3980099a6454ecb",
+      "size": 18783,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chain_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/chain_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/chain_03.ogg",
+      "sha256": "ae2247dc68aa85bca15d87355353b5858441644b6a65172e9659f4d0819b42d6",
+      "size": 36494,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_die_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_die_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_die_01.ogg",
+      "sha256": "b34a816a401c5d80c77a61dabbedef7d1918a01320bbb67286c70f22db4acd43",
+      "size": 15883,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_hurt_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_hurt_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_hurt_01.ogg",
+      "sha256": "9948f9ce067e1aae7bd780e974d51ceae03f2611a52afffb0e092ba47e9dc8e1",
+      "size": 17185,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_hurt_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_hurt_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_hurt_02.ogg",
+      "sha256": "a4ea983e62ace874754c51d78239bd8b6532227119bd511c38fa827b2ccbca70",
+      "size": 20959,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_01.ogg",
+      "sha256": "62cbd7cc9b898932d15d05d62dc262dafb3381123ec778c4cf0e65f6ea341088",
+      "size": 16406,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_02.ogg",
+      "sha256": "cbaafa1a24ac04f803b3cdabcd13e6e1b1e64f36e53cc200da426cef7d33a20b",
+      "size": 7729,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_03.ogg",
+      "sha256": "f12261611d2a93ecb38555a3a1297ef2d0db2e669c9bce1f451d53c1e7c31b35",
+      "size": 29846,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_04.ogg",
+      "sha256": "43108cdb25a82a156b2b3be9da8bb2688536d78b70d8e01fbcf9a3ec7e29d5f8",
+      "size": 24456,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_05.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_05.ogg",
+      "sha256": "09cdd7df30a0f3918cb8a3ce86b999d260c7f289c2049122b550cab65bf9fa9c",
+      "size": 15804,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_06.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_06.ogg",
+      "sha256": "a304bbc2628cb2cfed87be7666c758f9c47746a72d45fe1a75de9c748b790614",
+      "size": 23008,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_07.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_07.ogg",
+      "sha256": "2b3ba62c004befe88418ef3286bceea9c6a59257fa6b75e7a010c2d4717141d6",
+      "size": 15789,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_misc_08.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_misc_08.ogg",
+      "sha256": "86dfb9bb5bf12a1af301ad6ad76ef35e29401240a7f93e37ccfd811770438c4c",
+      "size": 16889,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_monster_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_monster_01.ogg",
+      "sha256": "28d047e95058cecc3513eb831d14072318526fcb9207d8a50aad0f666e17893a",
+      "size": 12446,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_monster_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_monster_02.ogg",
+      "sha256": "2892a32ddfc8d0fc3896f6487adf5a2eb6f3f5766fa02151bddd55e18f218f2f",
+      "size": 16920,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_monster_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_monster_03.ogg",
+      "sha256": "b13abf8c710750bb3699ae61b450fc7c12e92cb9c180581b0f1a681f7f692c8b",
+      "size": 21818,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_monster_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_monster_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_monster_04.ogg",
+      "sha256": "b78ef6dd16f74c7627c4d58c73ad60465b7729bff2cca6bbe3aa84db24bed448",
+      "size": 19153,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_roar_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_roar_01.ogg",
+      "sha256": "ca1b9198490f29037e6e6487dd6db6165ca8b2583a445c0edd6b9f474d2d1f5f",
+      "size": 15061,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_roar_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_roar_02.ogg",
+      "sha256": "4da0cf77a3506e1b573ec40e3688dc66400d1734853510db357fb3f843cde242",
+      "size": 22480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_roar_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_roar_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_roar_03.ogg",
+      "sha256": "3571f6372012fdebb2a38ef89e18a6137b3f17d519f1259aafeb166dbdd94195",
+      "size": 23375,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_slime_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_slime_01.ogg",
+      "sha256": "746d6ef073abfadd43fe184c50c6a2528350d4f566f2c0f54cd51ff0eb665118",
+      "size": 35353,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_slime_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_slime_02.ogg",
+      "sha256": "8c26b66076752b712dad7be704a3e4e11d3a49847fbd804ba7f858024ff33c8d",
+      "size": 35232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_slime_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_slime_03.ogg",
+      "sha256": "0edd014144dbce5ff0386647c25e0c206ae3b382a16683240ab188bd926da8eb",
+      "size": 27560,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creature_slime_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/creature_slime_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/creature_slime_04.ogg",
+      "sha256": "720c15c73a7fae29a02a9cd3cb5b9940ae8213e4b50f8deb0c531796289290d9",
+      "size": 35702,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_coins_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_coins_01.ogg",
+      "sha256": "4e701b281a4f88768beccbe87af4574d13ac5a4bc5cab6c522f0e79823d6e428",
+      "size": 18985,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_coins_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_coins_02.ogg",
+      "sha256": "c1124868c928ef06e9b95fd9bd314eb3aa9a2869cbfde7f5aadcc341fe3edca0",
+      "size": 31942,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_coins_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_coins_03.ogg",
+      "sha256": "cd89cae2221ab5e911f93c208e8b905290f695eea3b1830bc9012cc46f6c047b",
+      "size": 24878,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_coins_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_coins_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_coins_04.ogg",
+      "sha256": "122b633be3e61f35363b28e7ca5f11257d9d7f2759547ba1441cf541a3e5792b",
+      "size": 70846,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_gem_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_gem_01.ogg",
+      "sha256": "8a5d2964febb0c69cc4df2ee5257d173f2cae6960d9534df0001dbf356f27028",
+      "size": 14690,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_gem_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_gem_02.ogg",
+      "sha256": "a5f4b0b3ae0e272765619289ef6709513e0dfa0785d7559e8a223176a8bcf181",
+      "size": 9058,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_gem_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_gem_03.ogg",
+      "sha256": "7b29674b7c8fb0069814623d86fa56a3f370eedcde73d5ce1ecc7339be3a3cba",
+      "size": 11885,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_gem_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_gem_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_gem_04.ogg",
+      "sha256": "e12eb95d0458675c2692831454ed09c7a680de966e7c705ce67a7e12560aa73a",
+      "size": 28423,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_01.ogg",
+      "sha256": "b1a884ddff3c77f1bb365c466fe6bff1507be82a910e10e56b6166dff0804387",
+      "size": 22242,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_02.ogg",
+      "sha256": "d6061d8cb295d2d01d9519c09f96e3e31898f2f919a9ab564c30694dfc10a98e",
+      "size": 22460,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_03.ogg",
+      "sha256": "6240b0727c7815dd4b039b4f5adf288e3cd76a7532eda38ef976f17d3bdec6e0",
+      "size": 19638,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_04.ogg",
+      "sha256": "560304098c339cc948845dcbff5db58abd4391316f1d697a79aad0f4e35c349c",
+      "size": 13457,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_05.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_05.ogg",
+      "sha256": "8cfab891c2867fa2177d18350107068a962b92045af72043e9bc0ea167b9c0db",
+      "size": 15531,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_misc_06.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_misc_06.ogg",
+      "sha256": "ff7ae8c4934e1b2d6f323b99dc9a5bc1f684b9ec050dc659a126676cb16c8140",
+      "size": 29391,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_stone_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_stone_01.ogg",
+      "sha256": "ca630a5d7420d031588b4f5f4e60273d5e6e30b71c6e5a34ec733fb10089b829",
+      "size": 34170,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_stone_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_stone_02.ogg",
+      "sha256": "bc9d36c83f44415b16411878f460a5005bea1ede42259daeb179f59d82a754b5",
+      "size": 15303,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_stone_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_stone_03.ogg",
+      "sha256": "91bc96742252fedcfed2b664f03336c33f6ffbc2039ba6fcaada32b9bb758da6",
+      "size": 24923,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_stone_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_stone_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_stone_04.ogg",
+      "sha256": "bfd2516d62b68f9c0fa02ad2924065b4d7dadbb2fba04e229da774df75ea45b6",
+      "size": 17029,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_wood_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_wood_01.ogg",
+      "sha256": "86c961b9d266911d76e307486bee3c3a7734a200e2e59db10c59e5fc80181e45",
+      "size": 22789,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_wood_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_wood_02.ogg",
+      "sha256": "2de39fd5be0ab8a6089bad92847fa725b3afa2195a5f6220c9b4c5424777cefd",
+      "size": 13988,
+      "role": "Audio"
+    },
+    {
+      "fileName": "item_wood_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/item_wood_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/item_wood_03.ogg",
+      "sha256": "a1f62c20ac2c294309966037fe66fbd5cddbee5df7ae6d6c29e4b2607a0db1e4",
+      "size": 18291,
+      "role": "Audio"
+    },
+    {
+      "fileName": "lock_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/lock_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/lock_01.ogg",
+      "sha256": "e828ad2a936e34a0212f3309c5ac706c0ded412b9b383a87f10bcfa1d1445271",
+      "size": 17452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "lock_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/lock_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/lock_02.ogg",
+      "sha256": "e183464a4e28c1764c70e980465faaf6ea8c33c8ea4a2b636a3ae2c58e8740f5",
+      "size": 15553,
+      "role": "Audio"
+    },
+    {
+      "fileName": "lock_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/lock_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/lock_03.ogg",
+      "sha256": "5fdb74f95dc42dfd06eb89c548c2ab6a3c008a3c9ce3badcdb0e51409e0a4f44",
+      "size": 18168,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/metal_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/metal_01.ogg",
+      "sha256": "433d7adf123f9de425047f6dec3f7b4da510c0fd0208d4893a22be8bd22d9e34",
+      "size": 25403,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/metal_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/metal_02.ogg",
+      "sha256": "30fcaab83dc3fff5335b78f87f9df305f6f8bd7316e2b46e2a4eaed85ee21768",
+      "size": 26586,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/metal_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/metal_03.ogg",
+      "sha256": "e780e2c2125161ed84fad0501af74bccc19ee9075dc9fac1d7d6f292ab3e81e2",
+      "size": 18753,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/misc_01.ogg",
+      "sha256": "f42a9e60a9c92772906d535bea4077e6a816f88c134952f99a55061e05d59b8e",
+      "size": 12521,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/misc_02.ogg",
+      "sha256": "5a17c4f8d8511fef5345ce5879b76795897c0f15a5b1898b62d719c488d1b546",
+      "size": 19851,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/misc_03.ogg",
+      "sha256": "162d7838b1b268a2db410b2282c01bde8bc22a51b29df2d7168adc5e1bfa3bbd",
+      "size": 12875,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_01.ogg",
+      "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+      "size": 29121,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_02.ogg",
+      "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+      "size": 25118,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_01.ogg",
+      "sha256": "02fa3a2c6e79e868e546802f45127c5cdda69aba6d5a24ac997ea66f81a816cb",
+      "size": 39482,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_02.ogg",
+      "sha256": "bf1eef4993f0adb4bd3a1c1ec91f8f6e4ddeb32d922671a14561846d5b7cab98",
+      "size": 33115,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_03.ogg",
+      "sha256": "2e4edee4ff8d7898198f1ab5213e086965e14a665cb947d53759505e28ddd3e4",
+      "size": 71801,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_04.ogg",
+      "sha256": "64d653cd0cc6eb71bb45a1dfbba29eaa769ed5b663cce275082d6971e4f2ca8e",
+      "size": 59036,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_05.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_05.ogg",
+      "sha256": "18025b21a4ecb3b41acc0dccb0697a8930262109ea198ff8c5ef0853d3ed1cfa",
+      "size": 54658,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_06.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_06.ogg",
+      "sha256": "66fa753e8033d08f3837d6ef1706b0450297db68c0d4b21782a03fd9ae960d63",
+      "size": 53074,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spell_fire_07.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/spell_fire_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/spell_fire_07.ogg",
+      "sha256": "bb13cef9c0b0b4ec7f9335c356b14814c88418abd85dd3747cb62469e9ada93f",
+      "size": 24862,
+      "role": "Audio"
+    },
+    {
+      "fileName": "stones_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/stones_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/stones_01.ogg",
+      "sha256": "d11ce95031c2c36ae2a00979620fa95a7a3f5c6d6f2ac86962ed292aa556be8d",
+      "size": 27110,
+      "role": "Audio"
+    },
+    {
+      "fileName": "stones_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/stones_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/stones_02.ogg",
+      "sha256": "57dc6b85ee986e68ddc4b7fb2b41cc1c885151677d32439fdb299492a3103a65",
+      "size": 35982,
+      "role": "Audio"
+    },
+    {
+      "fileName": "stones_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/stones_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/stones_03.ogg",
+      "sha256": "b86d143d7ef4974c2b97fda9e5d1861482646eec754e15935eeb3680ea0d71da",
+      "size": 41046,
+      "role": "Audio"
+    },
+    {
+      "fileName": "stones_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/stones_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/stones_04.ogg",
+      "sha256": "66f1cef820f66d86414d481b37a48a7b7ea11f4a5d7358372ebcfb506af0e652",
+      "size": 20176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_01.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/wood_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/wood_01.ogg",
+      "sha256": "55d4527a1f7d8e158eff0921f7a533340ab6be69a7b9b52fdac7a19b9d8e1cb2",
+      "size": 13512,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_02.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/wood_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/wood_02.ogg",
+      "sha256": "e64b95a1ec7675f28f8837ee4e4e81aa8e5b28e272159a0b3ed124fed037fc4f",
+      "size": 10311,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_03.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/wood_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/wood_03.ogg",
+      "sha256": "64bc25ac915ded78136ef36f71867b08ac462b9178f7db9b461dafaea0a27fdd",
+      "size": 14089,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_04.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/wood_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/wood_04.ogg",
+      "sha256": "bd5dc8469c4f1cb3abff35e2e01b541d4c97d58033f67dfe1c8e3b62ad5350ba",
+      "size": 20667,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wood_05.ogg",
+      "path": "packs/80-CC0-RPG-SFX/sounds/wood_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/sounds/wood_05.ogg",
+      "sha256": "767fbe18abd5c37ced7d9fa86b36862f9680abb79bb0acda448f70850675e7bf",
+      "size": 14208,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "blade_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/blade_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/blade_01.png",
+      "sha256": "3955f8bcb6a5c7619cbd03cc8402aa373d8c7dbb9d5b0975e92ad1bc16471309",
+      "size": 3001,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blade 01"
+    },
+    {
+      "fileName": "blade_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/blade_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/blade_02.png",
+      "sha256": "f70c841cb698f7e1ef21041f9ef9b00d16edf2f534e827cf471b24c749c4c56e",
+      "size": 3631,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blade 02"
+    },
+    {
+      "fileName": "blade_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/blade_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/blade_03.png",
+      "sha256": "a006cfbda627248e28a0eca379ca8ae1cb65d257002cdc52b04331188f51a291",
+      "size": 2896,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blade 03"
+    },
+    {
+      "fileName": "book_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/book_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/book_01.png",
+      "sha256": "e025b70685b0bd2901a24d46de813279680852fd998aa875d544316c2bef9f19",
+      "size": 2695,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Book 01"
+    },
+    {
+      "fileName": "book_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/book_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/book_02.png",
+      "sha256": "1a5d9bc198f7ce2812ca6b0c496e1da5e4ca147b130c250d60c9adaee6ba9f1d",
+      "size": 2990,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Book 02"
+    },
+    {
+      "fileName": "book_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/book_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/book_03.png",
+      "sha256": "146807ad98bfd9261b96ea606e42d096dfd902501a60851fc4263940a8ca9adc",
+      "size": 3809,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Book 03"
+    },
+    {
+      "fileName": "book_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/book_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/book_04.png",
+      "sha256": "b225bb8e096eb17e43a0bc6f2e5cd9cfc568e01df0ac30a26d0fc4c9a6022759",
+      "size": 3102,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Book 04"
+    },
+    {
+      "fileName": "chain_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/chain_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/chain_01.png",
+      "sha256": "4814c2f84a04f7573ae8b58b9562e5655e7f97a5d7e2a04b8a01d8f0580b6c05",
+      "size": 3755,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chain 01"
+    },
+    {
+      "fileName": "chain_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/chain_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/chain_02.png",
+      "sha256": "053d088029eb971c8ae38175174ef90a4b0cc88f3b3f93b5f4b08ce656ae9bf4",
+      "size": 3382,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chain 02"
+    },
+    {
+      "fileName": "chain_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/chain_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/chain_03.png",
+      "sha256": "2e3bdba839ace64fb1cab880fb696e5db010ac2c6dbd9799e897241bddbd5c7a",
+      "size": 3504,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chain 03"
+    },
+    {
+      "fileName": "creature_die_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_die_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_die_01.png",
+      "sha256": "351e687a34c4b132b6a936d009dc2cbd5f079a9823d821fd08c70e59bd57d1e6",
+      "size": 3299,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Die 01"
+    },
+    {
+      "fileName": "creature_hurt_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_hurt_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_hurt_01.png",
+      "sha256": "e1b31b94e24a4d9cebaec33a8f81c76fa74652c60bed6fcff17fb80636163d60",
+      "size": 3210,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Hurt 01"
+    },
+    {
+      "fileName": "creature_hurt_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_hurt_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_hurt_02.png",
+      "sha256": "7076ad3f1b8e2f4af2376efaac1dd013aab42c128b8b992e3bb71e2f85e9faa2",
+      "size": 3122,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Hurt 02"
+    },
+    {
+      "fileName": "creature_misc_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_01.png",
+      "sha256": "09d49d4682c4661567fbd62f89e7895f92355d1c0cfa91d8f08842bd77773f49",
+      "size": 4222,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 01"
+    },
+    {
+      "fileName": "creature_misc_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_02.png",
+      "sha256": "0f0bdae576bc90372e904cb3e8a706f3170fdeb9d24f85661d56ba73f0680956",
+      "size": 2310,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 02"
+    },
+    {
+      "fileName": "creature_misc_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_03.png",
+      "sha256": "33b8a6ef5388d23bd8d4c0084cccc19545d238af2a4302dc3289cc6cf55ad408",
+      "size": 3333,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 03"
+    },
+    {
+      "fileName": "creature_misc_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_04.png",
+      "sha256": "ba0e030ddad389b31abd58768d2e57b5a5739a3fbb3fd440b865aa71c3a5e5aa",
+      "size": 2691,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 04"
+    },
+    {
+      "fileName": "creature_misc_05.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_05.png",
+      "sha256": "c397195ff8b00792d966bb8b787ba9a2eeaa5a94b0eca71cd4b0455f526f0356",
+      "size": 3259,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 05"
+    },
+    {
+      "fileName": "creature_misc_06.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_06.png",
+      "sha256": "20227df36c19144098f5a19c84a3dbb3080cda5a6d7a8bff9a8e2c418e26abff",
+      "size": 2926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 06"
+    },
+    {
+      "fileName": "creature_misc_07.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_07.png",
+      "sha256": "2bf04f6473b1d7eaea305025ecc083b2eb68ac1834cfbadd6b4f8ec89bcecdb6",
+      "size": 3175,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 07"
+    },
+    {
+      "fileName": "creature_misc_08.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_misc_08.png",
+      "sha256": "edf22cfecdf13ee98968bfb0b8c77a8b250ff21c620bc2d2633720c36e1bf231",
+      "size": 2724,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Misc 08"
+    },
+    {
+      "fileName": "creature_monster_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_monster_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_monster_01.png",
+      "sha256": "8075d8a55820b429017e523b069f6ac9fbca350b3f8540b24a3310083cba5e77",
+      "size": 2178,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Monster 01"
+    },
+    {
+      "fileName": "creature_monster_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_monster_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_monster_02.png",
+      "sha256": "82ce05a574a18f6f79f8fe04e38bb21fd82cd2d30d31eca01fc320e71adaf3e3",
+      "size": 2158,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Monster 02"
+    },
+    {
+      "fileName": "creature_monster_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_monster_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_monster_03.png",
+      "sha256": "9ac962ef683c87c11a3f479affc8b1752b5af2668ac4693da181eff2bc27e43c",
+      "size": 3396,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Monster 03"
+    },
+    {
+      "fileName": "creature_monster_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_monster_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_monster_04.png",
+      "sha256": "7673fca595fa4c650a93275bb9365479a435be2e091f78e414ce5ea5b71eb7c4",
+      "size": 3789,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Monster 04"
+    },
+    {
+      "fileName": "creature_roar_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_roar_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_roar_01.png",
+      "sha256": "0d40f582aeee5981b51e8bc0dc371085965d7e393dd4dcf4aa8313b9e6612781",
+      "size": 3705,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Roar 01"
+    },
+    {
+      "fileName": "creature_roar_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_roar_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_roar_02.png",
+      "sha256": "d423f943ad6bd8d3cb3854ff9a92997b382fd8b6b425b1bc9f8a02e5e70259f9",
+      "size": 3400,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Roar 02"
+    },
+    {
+      "fileName": "creature_roar_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_roar_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_roar_03.png",
+      "sha256": "1687c7a7597626a9e1d5d1e449825fb6855f48c46c75552cc4f0311a2ca1478f",
+      "size": 3393,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Roar 03"
+    },
+    {
+      "fileName": "creature_slime_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_slime_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_slime_01.png",
+      "sha256": "e27176ae6f99e508e6a41b9664c698847d3ef92051a0286a00faffff80031fdb",
+      "size": 3602,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Slime 01"
+    },
+    {
+      "fileName": "creature_slime_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_slime_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_slime_02.png",
+      "sha256": "36d65f2dc599a7e05ecbd10bd4da13419a0aff8f1d549a25466cf28f5950470d",
+      "size": 2812,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Slime 02"
+    },
+    {
+      "fileName": "creature_slime_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_slime_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_slime_03.png",
+      "sha256": "c15790706ac3e3188073a33066ba00a2d8919ddbea5c8351daf7cbf120056a5e",
+      "size": 3320,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Slime 03"
+    },
+    {
+      "fileName": "creature_slime_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/creature_slime_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/creature_slime_04.png",
+      "sha256": "075560f7b936a41fe82ba1b212440c110d8bec295d8d25f13a644adde3e9c81d",
+      "size": 3489,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creature Slime 04"
+    },
+    {
+      "fileName": "item_coins_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_coins_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_coins_01.png",
+      "sha256": "bda0b8d000e02ace40ca4fdc9951a3a307edd50ff1476b97b1240c9d78cfc711",
+      "size": 2891,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Coins 01"
+    },
+    {
+      "fileName": "item_coins_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_coins_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_coins_02.png",
+      "sha256": "a24dc17da7d002c1e6a6d8c4f284344ed71b4a2dcf85df3a4864f27917e2223b",
+      "size": 3274,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Coins 02"
+    },
+    {
+      "fileName": "item_coins_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_coins_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_coins_03.png",
+      "sha256": "7ecb71eb53161768a722e6fea83193ad35e7221793da0123b9aaf96c6ee023bb",
+      "size": 3689,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Coins 03"
+    },
+    {
+      "fileName": "item_coins_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_coins_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_coins_04.png",
+      "sha256": "63b41761aee25e47a90a50d11fe42a0f7eb388045dd9897a238a7c38643e8578",
+      "size": 3517,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Coins 04"
+    },
+    {
+      "fileName": "item_gem_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_gem_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_gem_01.png",
+      "sha256": "790d1d5e075c4f613d1dfc0688714c9295f3b0074b34a0041c46070ce092ffdb",
+      "size": 3224,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Gem 01"
+    },
+    {
+      "fileName": "item_gem_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_gem_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_gem_02.png",
+      "sha256": "53bc163900266682d8886c5ce76e2d2bf4f7455d740b0780e5ee76bba28c8a5e",
+      "size": 2297,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Gem 02"
+    },
+    {
+      "fileName": "item_gem_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_gem_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_gem_03.png",
+      "sha256": "244f4c67a93e90c0af6906fb7218f9e76c5ba249df657641b4387b79d1094501",
+      "size": 2386,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Gem 03"
+    },
+    {
+      "fileName": "item_gem_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_gem_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_gem_04.png",
+      "sha256": "668e239e2dbc82bef5961d21f0ce83feda30d12bac8d7d62b81e040fd43be02d",
+      "size": 3045,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Gem 04"
+    },
+    {
+      "fileName": "item_misc_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_01.png",
+      "sha256": "f4b51336de3badc0bef282daf0a624efee9754677bb593914fbf83555703c123",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 01"
+    },
+    {
+      "fileName": "item_misc_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_02.png",
+      "sha256": "3bed79fc41c04b350fc8cfea69fcb80d80e83ea2ac4d094f582586b6669c620d",
+      "size": 3013,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 02"
+    },
+    {
+      "fileName": "item_misc_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_03.png",
+      "sha256": "54c35b3b911ba17cda772d1293f43173b5e8f7816cba78166a5efde825d01e1c",
+      "size": 2943,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 03"
+    },
+    {
+      "fileName": "item_misc_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_04.png",
+      "sha256": "9e4034aeb89590cdf2c0cb71889e6813ed3005cf292b42d7731e302a2ae92813",
+      "size": 2108,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 04"
+    },
+    {
+      "fileName": "item_misc_05.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_05.png",
+      "sha256": "c78c142e7cdcf99534ace82481a5f32cebda732567664b17cd4652c2dc4d1b54",
+      "size": 3078,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 05"
+    },
+    {
+      "fileName": "item_misc_06.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_misc_06.png",
+      "sha256": "fb3e5d033f87bc8ef66bc829281b08ff786d4569244cb96ff297b1a97264cea8",
+      "size": 3542,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Misc 06"
+    },
+    {
+      "fileName": "item_stone_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_stone_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_stone_01.png",
+      "sha256": "21f5ee728653b8715b2dd9fa23606fd7768836ee6347c65e5466d9f0e70c4923",
+      "size": 2507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Stone 01"
+    },
+    {
+      "fileName": "item_stone_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_stone_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_stone_02.png",
+      "sha256": "6aa62d1f1a15c5e027de0f706ba91658dbd8b7058bfafaf5476c5dcbd173944b",
+      "size": 1915,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Stone 02"
+    },
+    {
+      "fileName": "item_stone_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_stone_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_stone_03.png",
+      "sha256": "158a9cb8b99e0e4c3d6ac61b0522defaf264cc3757b9145adadd431726f0cec0",
+      "size": 3179,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Stone 03"
+    },
+    {
+      "fileName": "item_stone_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_stone_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_stone_04.png",
+      "sha256": "455d170b46d2d6b07d6883dc9755710da6f07db1d633b4930086f53a2b238f34",
+      "size": 2846,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Stone 04"
+    },
+    {
+      "fileName": "item_wood_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_wood_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_wood_01.png",
+      "sha256": "9a92b743eda5832db9c54e0dd53ad197cf59d23b05a188e07fbffdb4f807d616",
+      "size": 3042,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Wood 01"
+    },
+    {
+      "fileName": "item_wood_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_wood_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_wood_02.png",
+      "sha256": "30d2eafaa086b4dd2fc7cdcd7de99465c1ca6464443a35c1bd09a0424e1ffc3c",
+      "size": 3450,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Wood 02"
+    },
+    {
+      "fileName": "item_wood_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/item_wood_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/item_wood_03.png",
+      "sha256": "44d037f8f9f8bebc1bece01fe037d037a33a8aa5b036a139be7b5ec21324263c",
+      "size": 3708,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Item Wood 03"
+    },
+    {
+      "fileName": "lock_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/lock_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/lock_01.png",
+      "sha256": "172a22314e7de209633067b23062bf097a50368c5813743f5e606a83b6956ce7",
+      "size": 1801,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lock 01"
+    },
+    {
+      "fileName": "lock_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/lock_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/lock_02.png",
+      "sha256": "3143da7992c892812ae6461e8e22e80ad894113f97c5174302ee3ce62954e517",
+      "size": 1725,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lock 02"
+    },
+    {
+      "fileName": "lock_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/lock_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/lock_03.png",
+      "sha256": "9e744ee15edf15754bafc97c56a3cfd894bc45f1d120f470363ad768ecbec2f9",
+      "size": 2782,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lock 03"
+    },
+    {
+      "fileName": "metal_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/metal_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/metal_01.png",
+      "sha256": "547bdc1f49372249c7323d776d832abac6c7f704ca95f84b1c4ca36f1aa4884b",
+      "size": 2541,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 01"
+    },
+    {
+      "fileName": "metal_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/metal_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/metal_02.png",
+      "sha256": "21e5f7828e9ca319b87310bc91b7711e904fd396dae4a76a5e46ebb73747cece",
+      "size": 4034,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 02"
+    },
+    {
+      "fileName": "metal_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/metal_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/metal_03.png",
+      "sha256": "5806af0f2a92c26a717e2e07857e104625d06586e7cd20c56446bed7b1dff7c0",
+      "size": 3317,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 03"
+    },
+    {
+      "fileName": "misc_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/misc_01.png",
+      "sha256": "e7e98e9b2aa8fb3ef9f0fc765cb2388c47b52e4db1915dddef0c03f4bba4e30d",
+      "size": 1882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 01"
+    },
+    {
+      "fileName": "misc_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/misc_02.png",
+      "sha256": "b7d043a7c00253c980d5d922cfa6c46e2fe58edfe5b9c9a419c6cc3fbf2edd1e",
+      "size": 2669,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 02"
+    },
+    {
+      "fileName": "misc_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/misc_03.png",
+      "sha256": "e9e689566aec22841f72a1d71b7a41d68b6b9c8eee6283b31274abd32a196ed8",
+      "size": 3764,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 03"
+    },
+    {
+      "fileName": "spell_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_01.png",
+      "sha256": "5e735600ad5dde9dd87169d3d4d6097c37814bf91f7b865dc1c5f5637db49e28",
+      "size": 3721,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell 01"
+    },
+    {
+      "fileName": "spell_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_02.png",
+      "sha256": "d3aa7f0f04c90f1eadf4573b039bf5331e415a5d95dbaefabfc8f5ff7394c79b",
+      "size": 3364,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell 02"
+    },
+    {
+      "fileName": "spell_fire_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_01.png",
+      "sha256": "a337d3d5bf4af4725500371179606077a939bd98274582bcc6853dd750dc9f31",
+      "size": 3581,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 01"
+    },
+    {
+      "fileName": "spell_fire_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_02.png",
+      "sha256": "f730f3722128f0628fbfd41d32c445363707ccb5af533666b73e67927600bd00",
+      "size": 3287,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 02"
+    },
+    {
+      "fileName": "spell_fire_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_03.png",
+      "sha256": "e1e581d1703bf85d02daaca0bf75cea2236cc3d092b37534566cd4703cf38f0f",
+      "size": 3691,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 03"
+    },
+    {
+      "fileName": "spell_fire_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_04.png",
+      "sha256": "399b7b9189ea19032cad9d637735b2babfefa7ac7d04830b423b064f19c96f35",
+      "size": 3349,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 04"
+    },
+    {
+      "fileName": "spell_fire_05.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_05.png",
+      "sha256": "87db6ad9fd64dfee52bb40bb0b89ff26fea8454fe13c1b3a5076468f5c26b121",
+      "size": 4269,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 05"
+    },
+    {
+      "fileName": "spell_fire_06.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_06.png",
+      "sha256": "b5c43fdb806fabe158e4aa48220cb350bef609ab644ade25beb949dbf90be9b3",
+      "size": 3751,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 06"
+    },
+    {
+      "fileName": "spell_fire_07.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/spell_fire_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/spell_fire_07.png",
+      "sha256": "0e30b1a6b87eb79419370b38be0a5e808b2e22c885900fda8eee80b97d11f547",
+      "size": 3693,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spell Fire 07"
+    },
+    {
+      "fileName": "stones_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/stones_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/stones_01.png",
+      "sha256": "02cc9fe8fbb0463bca81e4629c6b5a92ba17e3e3cbaba2a122f1144a183bebee",
+      "size": 2105,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 01"
+    },
+    {
+      "fileName": "stones_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/stones_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/stones_02.png",
+      "sha256": "80950d449c8eb5431b9347c53f249436af44b3bc9811231fc5d2766db6c87801",
+      "size": 2473,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 02"
+    },
+    {
+      "fileName": "stones_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/stones_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/stones_03.png",
+      "sha256": "7ec4acd9e20098269d8a7716e69142969974e2ef3cf0c9eeb4215310c1d455cb",
+      "size": 2589,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 03"
+    },
+    {
+      "fileName": "stones_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/stones_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/stones_04.png",
+      "sha256": "0013c199d21517a25e6b901709d2fd56c99b7734d8befb5db83869f2813a9596",
+      "size": 2142,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Stones 04"
+    },
+    {
+      "fileName": "wood_01.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/wood_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/wood_01.png",
+      "sha256": "279650f89383c46ac0071f02fcf482c33d0f1f7d3d18545d3a8d2cf14e6b288c",
+      "size": 2904,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 01"
+    },
+    {
+      "fileName": "wood_02.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/wood_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/wood_02.png",
+      "sha256": "96286aaff7ea249d61580a4874a4447e53b4ca13d083e6b96aca63a005de193e",
+      "size": 2516,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 02"
+    },
+    {
+      "fileName": "wood_03.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/wood_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/wood_03.png",
+      "sha256": "5af5edbf9aa9ebb8bc29c9fbe9e9b213c04fde2969b1e0bf911dd92d11b61484",
+      "size": 2981,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 03"
+    },
+    {
+      "fileName": "wood_04.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/wood_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/wood_04.png",
+      "sha256": "cd9c96bfc8067128a6941528a3c413ef5e87087839af679ad6abaab50d85571c",
+      "size": 2126,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 04"
+    },
+    {
+      "fileName": "wood_05.png",
+      "path": "packs/80-CC0-RPG-SFX/thumbnails/wood_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-RPG-SFX/thumbnails/wood_05.png",
+      "sha256": "72d4fba6b3eb29b0f8dfbcb912b681a5565d5a6d7b450ea031c6a03468d62acd",
+      "size": 2314,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wood 05"
+    }
+  ]
+}

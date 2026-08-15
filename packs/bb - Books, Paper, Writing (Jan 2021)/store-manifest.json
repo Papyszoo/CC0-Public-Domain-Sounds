@@ -1,0 +1,1519 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Books, Paper, Writing (Jan 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Books, paper and writing foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Books, Paper, Writing (Jan 2021)",
+  "itemCount": 50,
+  "items": [
+    {
+      "name": "Fine Felt Tip Lines",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Lines.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fine Felt Tip Scribbles 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Scribbles 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fine Felt Tip Scribbles 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Scribbles 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fine Felt Writing 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fine Felt Writing 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Fine Felt Writing 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Tap 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Tap 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Tap 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Tap 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Taps 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Taps 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Taps 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hardcover Taps 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Click 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Click 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Click 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Click 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Lines 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Lines 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Lines 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Lines 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Scribbles",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Scribbles.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Writing 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Writing 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Mech Pencil Writing 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Writing 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Page Turn 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Page Turn 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Page Turn 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Page Turn Fast",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn Fast.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Cap Clicks 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Clicks 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Cap Clicks 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Clicks 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Cap Lines 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Lines 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Cap Lines 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Lines 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Cap Scribbles",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Scribbles.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Writing 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Writing 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Writing 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pen Writing 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Riffle Pages 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Riffle Pages 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Riffle Pages 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Riffle Turn Page 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Turn Page 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Riffle Turn Page 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Turn Page 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Softcover Tap 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Tap 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Softcover Tap 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Tap 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Softcover Taps 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Softcover Taps 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Softcover Taps 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Cap 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Cap 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Cap 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Cap 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Lines 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Lines 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Lines 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Lines 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Scribbles 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Scribbles 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Scribbles 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Scribbles 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Writing 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Writing 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Thicc Tip Writing 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Writing 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Fine Felt Tip Lines.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Lines.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Tip%20Lines.wav",
+      "sha256": "5be26cffbeca45983b4e0174891b9d20d4f536452c7ded8fb6cc9d53ad703fc3",
+      "size": 120708,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fine Felt Tip Scribbles 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Scribbles 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Tip%20Scribbles%201.wav",
+      "sha256": "716f420112044e9c909f24a60a0c9733ffda334c7b55761c65d9cacab94320af",
+      "size": 381684,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fine Felt Tip Scribbles 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Tip Scribbles 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Tip%20Scribbles%202.wav",
+      "sha256": "ded16434c94b42a03423fc393c91b196403f4f9b156c5e551e85a24c512449bd",
+      "size": 553656,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fine Felt Writing 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Writing%201.wav",
+      "sha256": "5a23f6903f60096ddba204f6c08798147cebe8233102218d456b6c9957b5e12b",
+      "size": 1052140,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fine Felt Writing 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Writing%202.wav",
+      "sha256": "625dec4d36ae7757adf33f15ce767a41182dee1c0d9f6c4589e010198880e344",
+      "size": 1825384,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fine Felt Writing 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Fine Felt Writing 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Fine%20Felt%20Writing%203.wav",
+      "sha256": "1c930287bc631d4f026930d245bb2385b06816c8d6dc0f32fbf08b7399e77de9",
+      "size": 1313208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Tap 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Tap 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Tap%201.wav",
+      "sha256": "8861b76b670efe5571c3a689cec6f06b6eb8740492025cc16412aac75c59be47",
+      "size": 197188,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Tap 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Tap 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Tap%202.wav",
+      "sha256": "05580269dd2d5947495f26b3c978aeddddb0efd926cfc436c7331a42bac403d2",
+      "size": 41360,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Taps 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Taps%201.wav",
+      "sha256": "74bd3d23fcd6f3a6f5d32878548efa2836f549b4a76c0274841c817de16df632",
+      "size": 270612,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Taps 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Taps%202.wav",
+      "sha256": "67b05fd4ef103f2b83e9a4e49ef66a3263ec72802428fdcffc989102c7f02130",
+      "size": 138992,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Taps 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Taps%203.wav",
+      "sha256": "9b4992ed01425c9946bb3c15f64f71cabd9f2ac9ac2f32cdf58da63e901e5bc5",
+      "size": 298972,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hardcover Taps 4.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Hardcover Taps 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Hardcover%20Taps%204.wav",
+      "sha256": "7d62f0974eda449484243b637fd5ca6478dc0a156a689b9cefe70b6c82ae11ec",
+      "size": 525200,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Click 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Click 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Click%201.wav",
+      "sha256": "d6994b2645edbdc6145c21ad9e9d19cecc97aa4a56375601833b10d3e5ffe53c",
+      "size": 131580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Click 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Click 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Click%202.wav",
+      "sha256": "c8f883d256f255335a2a98ae075efaf2c4b47d7fbf6da36d879759c5d0b7e62c",
+      "size": 120884,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Lines 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Lines 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Lines%201.wav",
+      "sha256": "c7c0a9674f087c94e764729122fa1f2ff4462f4820b3f9f0242831bf2d5026a3",
+      "size": 955744,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Lines 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Lines 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Lines%202.wav",
+      "sha256": "e828a49bcc1891077df594160f533e0980bcfa65cdb275e4c36eab6226c78704",
+      "size": 624784,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Scribbles.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Scribbles.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Scribbles.wav",
+      "sha256": "dbcd1b8737246dab8b5ef8d4be6f1b4e75fbe32eaddfbfec913837c8a291873d",
+      "size": 540840,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Writing 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Writing 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Writing%201.wav",
+      "sha256": "b5e7147fc65bdcf77b81dca3bf3cc7ed2e4d8faef44577e0a9a21013204a08fb",
+      "size": 2058672,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Mech Pencil Writing 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Mech Pencil Writing 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Mech%20Pencil%20Writing%202.wav",
+      "sha256": "94e3b0b0e5e0b42c6e627c6954c4051f1264d130d3fa0b93eff1f3773f12304c",
+      "size": 1582780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Page Turn 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Page%20Turn%201.wav",
+      "sha256": "5dabe0b0a2b89d9ede1e6420a5f815a8d4da924a12b636136eb423fce7235c69",
+      "size": 606084,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Page Turn 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Page%20Turn%202.wav",
+      "sha256": "5ac80ad4588fd880f2b2e6df61bd9635ff5894e52fe05e261e7bf8ebb0344719",
+      "size": 578912,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Page Turn 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Page%20Turn%203.wav",
+      "sha256": "281618b71ec8769375ae402c12f4e6fb3cfe567478a696ccb3dfaa1706edd6d8",
+      "size": 518676,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Page Turn Fast.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Page Turn Fast.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Page%20Turn%20Fast.wav",
+      "sha256": "25ec703871ab27d167953b05c5d4736a9034c47debcbd99c1e9525559711ca10",
+      "size": 1257956,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Cap Clicks 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Clicks 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Cap%20Clicks%201.wav",
+      "sha256": "0a94b63a3ed42a923de6618643eb8d8e4e0fff7d3df24d69de084340ebbd31f7",
+      "size": 308864,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Cap Clicks 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Clicks 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Cap%20Clicks%202.wav",
+      "sha256": "e7144e4dcb90c5453d8f8e7ff0c9be88e4b30bc4b512c424a8737c8087a69196",
+      "size": 252604,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Cap Lines 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Lines 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Cap%20Lines%201.wav",
+      "sha256": "75661173e7d9a5c9a0b7a91a2eb5e33474d54102682e9df817ec5d6515f61ced",
+      "size": 708380,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Cap Lines 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Lines 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Cap%20Lines%202.wav",
+      "sha256": "c5a5f47613e57503a9ca3e21a9cac073c1ed7681efca63b9717764cc7ca18221",
+      "size": 739424,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Cap Scribbles.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Cap Scribbles.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Cap%20Scribbles.wav",
+      "sha256": "bddd3c7c29fba1cf629210e7041dcf2d052f2ce8f578cefa1669c36eaf32a366",
+      "size": 628720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Writing 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Writing%201.wav",
+      "sha256": "8d9d87ccca58c0eae92ad3da4a8ddc81855db8aeb81cd495cfe80b53cdce8e5f",
+      "size": 1604880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Writing 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Writing%202.wav",
+      "sha256": "54b1911503512ad90cb3f90e164db76d3e236dfae0b6fdb35e0541e6d5546ae3",
+      "size": 754240,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Writing 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Writing%203.wav",
+      "sha256": "36f797c9ec49da3a1073cd620ed20eab8bc2be7a9cfb2108edfa239a5ecb0548",
+      "size": 903432,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pen Writing 4.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Pen Writing 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Pen%20Writing%204.wav",
+      "sha256": "5e999d57825c01483fa3b7f905ef206cfce865f26375a37050071fb9879927d0",
+      "size": 1644772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Riffle Pages 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Riffle%20Pages%201.wav",
+      "sha256": "e8e1d1fde57f3114bf1a6e4fe9ac5abcd9256a1f186cbdd11560d9d5700b8827",
+      "size": 1326940,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Riffle Pages 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Riffle%20Pages%202.wav",
+      "sha256": "f94f7f11085408caba932b4bc683573914d2f3a0cc42fa6c6a55293527552c38",
+      "size": 313340,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Riffle Pages 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Pages 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Riffle%20Pages%203.wav",
+      "sha256": "8594a0e492446e57a8f0b1cd1b2cad6711bb27165949d4ccb7c23d22127a0b40",
+      "size": 276408,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Riffle Turn Page 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Turn Page 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Riffle%20Turn%20Page%201.wav",
+      "sha256": "9f6b627433fc68509b750b4bda8c18cd8b589e6d09928554abd2d512e0a2648a",
+      "size": 906732,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Riffle Turn Page 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Riffle Turn Page 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Riffle%20Turn%20Page%202.wav",
+      "sha256": "a6aa51705b7cf02fee818b9d56f3f81851d902b699fb508285b838c5ddde6470",
+      "size": 955892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Softcover Tap 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Tap 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Softcover%20Tap%201.wav",
+      "sha256": "81cd86c9b7794f24310cffe5899c9bf658f6ddb9a230fc981d84aee1694d5156",
+      "size": 70584,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Softcover Tap 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Tap 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Softcover%20Tap%202.wav",
+      "sha256": "73a5805c63835dcffea32fdbfec49b7fd6bec68c9231900131d4de05c5c9a27a",
+      "size": 40272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Softcover Taps 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Softcover%20Taps%201.wav",
+      "sha256": "ce12cf12748a9284563d115758838b085498f39e3e6b30e69fe400b8232a3001",
+      "size": 335612,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Softcover Taps 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Softcover%20Taps%202.wav",
+      "sha256": "852c99e115ff7e3c0d550f7f02ec7cba924d9ebad8dd59a7b487ca319756a80a",
+      "size": 283560,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Softcover Taps 3.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Softcover Taps 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Softcover%20Taps%203.wav",
+      "sha256": "fd94dfaaa6be28274e65b4c8cea18b888c61330f983a0d8bfcf4c3b19590627b",
+      "size": 349684,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Cap 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Cap 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Cap%201.wav",
+      "sha256": "b4ad68f824ee2c985900c2f7cea4bb3024f80d8ccdf2f417c385b8649d25b90b",
+      "size": 249728,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Cap 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Cap 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Cap%202.wav",
+      "sha256": "63f376182742eba21dccae9c79acaef15b688d6cbfe510c264b216e55e5cabe3",
+      "size": 194344,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Lines 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Lines 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Lines%201.wav",
+      "sha256": "bf89e000074a127bf232feee9aaf561d4c9c8be72c4b2d551a96997ecf187135",
+      "size": 151860,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Lines 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Lines 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Lines%202.wav",
+      "sha256": "ceec7f11f4aa60528289acde93e495b97458bff34b4d34c021e86ad40d4edae9",
+      "size": 481992,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Scribbles 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Scribbles 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Scribbles%201.wav",
+      "sha256": "6a1fdbf5fd5b85f7aebdbfcac1d6fce36008e5d3eefe3608fe9029ecc19139cc",
+      "size": 332892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Scribbles 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Scribbles 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Scribbles%202.wav",
+      "sha256": "061893269780afe2ee32053b4a850868329f0c88c71b456c77aec3df22db3cf1",
+      "size": 244004,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Writing 1.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Writing 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Writing%201.wav",
+      "sha256": "3def6dbb0ded1d4c04c01f87419cbf99142dce90c3f41c5540922159b1de0ee2",
+      "size": 1970596,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Thicc Tip Writing 2.wav",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/sounds/Thicc Tip Writing 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/sounds/Thicc%20Tip%20Writing%202.wav",
+      "sha256": "2ca758162c78ec1d7427ed41de5cbbcdbe2cef09dddfdee1ebb5a30ffced73ac",
+      "size": 1045576,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Fine Felt Tip Lines.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Tip Lines.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Tip%20Lines.png",
+      "sha256": "547822f2d4fb12bb2146e632c93da67008fac868f6299790392ffae2788b4479",
+      "size": 4132,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Tip Lines"
+    },
+    {
+      "fileName": "Fine Felt Tip Scribbles 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Tip Scribbles 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Tip%20Scribbles%201.png",
+      "sha256": "b1b05b920e88571c6177798e5783457208d0768525c9a4affadb62faf22d3580",
+      "size": 4246,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Tip Scribbles 1"
+    },
+    {
+      "fileName": "Fine Felt Tip Scribbles 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Tip Scribbles 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Tip%20Scribbles%202.png",
+      "sha256": "f1e9c09fc39dc88bdc9fd4d9035f4e986bf48dd80ef3c51fb8839335a22268e3",
+      "size": 3727,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Tip Scribbles 2"
+    },
+    {
+      "fileName": "Fine Felt Writing 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Writing 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Writing%201.png",
+      "sha256": "b2be1721f1ae92e2584c8fca7720ea2b7355e6b0170631a53f61ed39d1a8745a",
+      "size": 3650,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Writing 1"
+    },
+    {
+      "fileName": "Fine Felt Writing 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Writing 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Writing%202.png",
+      "sha256": "85b572edae7a7fdcafdcd8fa577420c43eb95956f7b1dab64b0a45be3a8a6c9a",
+      "size": 4250,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Writing 2"
+    },
+    {
+      "fileName": "Fine Felt Writing 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Fine Felt Writing 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Fine%20Felt%20Writing%203.png",
+      "sha256": "71cb0a1f51b122815fbbaf894e30d0a86c0f86c63277b9c79e59dcf93cbe4f37",
+      "size": 4317,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fine Felt Writing 3"
+    },
+    {
+      "fileName": "Hardcover Tap 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Tap 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Tap%201.png",
+      "sha256": "409bfe27baa6b094bdff490159b662b8e07b5963dc361d3c5014ceef4fd42bc1",
+      "size": 1549,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Tap 1"
+    },
+    {
+      "fileName": "Hardcover Tap 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Tap 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Tap%202.png",
+      "sha256": "bf398e035b5d33c1c6712b7782ce00b004bc0bb451306252b36021572a37e283",
+      "size": 2067,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Tap 2"
+    },
+    {
+      "fileName": "Hardcover Taps 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Taps 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Taps%201.png",
+      "sha256": "9355be69e0beb084c5d7470586782198cd637737a7a88256c095fcf13dd6bc26",
+      "size": 2214,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Taps 1"
+    },
+    {
+      "fileName": "Hardcover Taps 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Taps 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Taps%202.png",
+      "sha256": "c138c112ed018e50020e9d7e81e475b613ed820072fe281cf1eea5f3f20436b5",
+      "size": 2452,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Taps 2"
+    },
+    {
+      "fileName": "Hardcover Taps 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Taps 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Taps%203.png",
+      "sha256": "6d5e5df7bfa6d655e9d0857e811415bf09bd1d8ce8690b21d3ae009843cb4f60",
+      "size": 2036,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Taps 3"
+    },
+    {
+      "fileName": "Hardcover Taps 4.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Hardcover Taps 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Hardcover%20Taps%204.png",
+      "sha256": "4fccdd3e8c29e5c96c1d4d8eb060e1448613e2d1484a2fd6f3dd0c9e0b9b3948",
+      "size": 1965,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hardcover Taps 4"
+    },
+    {
+      "fileName": "Mech Pencil Click 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Click 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Click%201.png",
+      "sha256": "94fdc67c8055ada7b432a15d1c78ac63ddad9e45f1bc42fc8f5c409891538ce1",
+      "size": 2582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Click 1"
+    },
+    {
+      "fileName": "Mech Pencil Click 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Click 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Click%202.png",
+      "sha256": "2ead57110544fa7dd0cd627119c825b04a6feb2ff3401c18ded7078d98f5685e",
+      "size": 2176,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Click 2"
+    },
+    {
+      "fileName": "Mech Pencil Lines 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Lines 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Lines%201.png",
+      "sha256": "0d996d2c4f4990445d8ee1ffca3c8bca8a0e35288ae1f2eed8a628bbab286d80",
+      "size": 3610,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Lines 1"
+    },
+    {
+      "fileName": "Mech Pencil Lines 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Lines 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Lines%202.png",
+      "sha256": "db59707e338c788be998c9392c689882980be8eb16c65f7409d46652e0db70ad",
+      "size": 3732,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Lines 2"
+    },
+    {
+      "fileName": "Mech Pencil Scribbles.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Scribbles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Scribbles.png",
+      "sha256": "667c2e901dec791fa0893754ce69b4b0f3fba65cf91394af317faaf1bfc0374a",
+      "size": 3752,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Scribbles"
+    },
+    {
+      "fileName": "Mech Pencil Writing 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Writing 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Writing%201.png",
+      "sha256": "861ca284cb785160b3336188b645a9eb09eaf420722f372ae18c4b986b0e8550",
+      "size": 4494,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Writing 1"
+    },
+    {
+      "fileName": "Mech Pencil Writing 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Mech Pencil Writing 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Mech%20Pencil%20Writing%202.png",
+      "sha256": "5ccded846883d3751a200f022ad26d6bbf996709753e978309230f800a8a6c0c",
+      "size": 4409,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Mech Pencil Writing 2"
+    },
+    {
+      "fileName": "Page Turn 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Page Turn 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Page%20Turn%201.png",
+      "sha256": "c166fc2dea7add1944e9893865c80a4f6278760e9bf26991f30ea421f6a5cf90",
+      "size": 2170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Page Turn 1"
+    },
+    {
+      "fileName": "Page Turn 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Page Turn 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Page%20Turn%202.png",
+      "sha256": "6cf57101f61a79bd722fd7cc0231e8d00736fb24e2fb6a29c186de809a278d77",
+      "size": 2999,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Page Turn 2"
+    },
+    {
+      "fileName": "Page Turn 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Page Turn 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Page%20Turn%203.png",
+      "sha256": "38b8c5a4c6a841c5ac04b83200c322d78deb834602f834283986c04979a2f054",
+      "size": 2460,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Page Turn 3"
+    },
+    {
+      "fileName": "Page Turn Fast.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Page Turn Fast.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Page%20Turn%20Fast.png",
+      "sha256": "a8220e16d3863407297d54550df37c286353ffb6785ece0f5a32626e3a65051d",
+      "size": 3185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Page Turn Fast"
+    },
+    {
+      "fileName": "Pen Cap Clicks 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Cap Clicks 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Cap%20Clicks%201.png",
+      "sha256": "e7948d73caa0fc7a6a9531d362728a5205ace409e84c1d503c1909aa860f2fd1",
+      "size": 1461,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Cap Clicks 1"
+    },
+    {
+      "fileName": "Pen Cap Clicks 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Cap Clicks 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Cap%20Clicks%202.png",
+      "sha256": "1411306ef3a4927599b12081e6d8e334fd37de645abe961ba44c4991f64e23ba",
+      "size": 1770,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Cap Clicks 2"
+    },
+    {
+      "fileName": "Pen Cap Lines 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Cap Lines 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Cap%20Lines%201.png",
+      "sha256": "79592642abaff6569b65ddf7c52246e38fc71f81744a9a5f8f385a1b809863f9",
+      "size": 3426,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Cap Lines 1"
+    },
+    {
+      "fileName": "Pen Cap Lines 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Cap Lines 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Cap%20Lines%202.png",
+      "sha256": "d2afeb2b8fe36ac2ca9a32ac4854dc25b5b42affcd23f1944436e7cdec20b268",
+      "size": 3137,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Cap Lines 2"
+    },
+    {
+      "fileName": "Pen Cap Scribbles.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Cap Scribbles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Cap%20Scribbles.png",
+      "sha256": "0ab9392d4952671030dd97b4767d0d22db3efdbdd994e71567b32290b8585a86",
+      "size": 3889,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Cap Scribbles"
+    },
+    {
+      "fileName": "Pen Writing 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Writing 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Writing%201.png",
+      "sha256": "4a206bc397ac4da941441a391621cfd3e2aef4b712d511db427b0471bed6ca9f",
+      "size": 3802,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Writing 1"
+    },
+    {
+      "fileName": "Pen Writing 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Writing 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Writing%202.png",
+      "sha256": "c2e0e12a84ea893bb23ef6cb465ae2ebfb3a4ef0a531ee7f8da81d0b026a0da9",
+      "size": 3876,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Writing 2"
+    },
+    {
+      "fileName": "Pen Writing 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Writing 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Writing%203.png",
+      "sha256": "679f6fb88e21db44197a9cc9695502248d57bc3eb3ea490403eb4b7e6730f503",
+      "size": 2933,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Writing 3"
+    },
+    {
+      "fileName": "Pen Writing 4.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Pen Writing 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Pen%20Writing%204.png",
+      "sha256": "e09352833405a5bec5879358446df554a76c91030d2508ef6a05688f93d2ef88",
+      "size": 4211,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pen Writing 4"
+    },
+    {
+      "fileName": "Riffle Pages 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Riffle Pages 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Riffle%20Pages%201.png",
+      "sha256": "755110ea741566a0d56321281914ba5036d115cedaa4dc1e5445ec3fab846045",
+      "size": 2744,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Riffle Pages 1"
+    },
+    {
+      "fileName": "Riffle Pages 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Riffle Pages 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Riffle%20Pages%202.png",
+      "sha256": "0399f498ee6e35cef732d7163dcf63604c56174646e1d99c8df3070ff2576c87",
+      "size": 2267,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Riffle Pages 2"
+    },
+    {
+      "fileName": "Riffle Pages 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Riffle Pages 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Riffle%20Pages%203.png",
+      "sha256": "600760389ac46b1a937e7aaebcd6d5014c37f41cfa313a17741e63a4a96fc3e3",
+      "size": 2526,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Riffle Pages 3"
+    },
+    {
+      "fileName": "Riffle Turn Page 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Riffle Turn Page 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Riffle%20Turn%20Page%201.png",
+      "sha256": "30874cbff02b03cd54db9f586fa62107b27281b8b0e5a8eb9baaa5c01509a50b",
+      "size": 2269,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Riffle Turn Page 1"
+    },
+    {
+      "fileName": "Riffle Turn Page 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Riffle Turn Page 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Riffle%20Turn%20Page%202.png",
+      "sha256": "ecde4ca61260da82c58f6a255068347e2d9819277c9ec7f617b3ce6b7e4a1246",
+      "size": 2168,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Riffle Turn Page 2"
+    },
+    {
+      "fileName": "Softcover Tap 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Softcover Tap 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Softcover%20Tap%201.png",
+      "sha256": "701f2b064111fae271c92b7ecd9d401c0b9aa5265b8d6f7dcd98f40443cd131e",
+      "size": 1891,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Softcover Tap 1"
+    },
+    {
+      "fileName": "Softcover Tap 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Softcover Tap 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Softcover%20Tap%202.png",
+      "sha256": "2962bfec9644788581b8223a4de76eaf6a77b25a08a6fe734073a3efd3556dc2",
+      "size": 2179,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Softcover Tap 2"
+    },
+    {
+      "fileName": "Softcover Taps 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Softcover Taps 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Softcover%20Taps%201.png",
+      "sha256": "f98730e1ada151cfd03dd6a1ae485c66e216eef4b1b6e91bd7ee8d22273863c8",
+      "size": 2110,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Softcover Taps 1"
+    },
+    {
+      "fileName": "Softcover Taps 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Softcover Taps 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Softcover%20Taps%202.png",
+      "sha256": "1dbf86d41f4a7aca48849587d42bced83d270ea863785053955b3163a4b11d42",
+      "size": 2175,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Softcover Taps 2"
+    },
+    {
+      "fileName": "Softcover Taps 3.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Softcover Taps 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Softcover%20Taps%203.png",
+      "sha256": "89fc85de63c4467398f5c941bb2b288b6839c2b8a59481e268e25f688b51e943",
+      "size": 2051,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Softcover Taps 3"
+    },
+    {
+      "fileName": "Thicc Tip Cap 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Cap 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Cap%201.png",
+      "sha256": "31f84a1974c7859df9b5c69b3a6948ea7c7e08906dbb98aa1f59f2a825d9f1ce",
+      "size": 1425,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Cap 1"
+    },
+    {
+      "fileName": "Thicc Tip Cap 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Cap 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Cap%202.png",
+      "sha256": "a997abfcb1a290901362c53b0cc4c9fb15fa918048b1093c6b7513e02259187a",
+      "size": 1471,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Cap 2"
+    },
+    {
+      "fileName": "Thicc Tip Lines 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Lines 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Lines%201.png",
+      "sha256": "e7019390e761f71447e99da801ea66541fefd408b5039efcebdf27815e3162d2",
+      "size": 3657,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Lines 1"
+    },
+    {
+      "fileName": "Thicc Tip Lines 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Lines 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Lines%202.png",
+      "sha256": "e9ea36dddf8d9f332f89ed2de691ce66014669f32660a9e4b957e54a5a51423c",
+      "size": 3196,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Lines 2"
+    },
+    {
+      "fileName": "Thicc Tip Scribbles 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Scribbles 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Scribbles%201.png",
+      "sha256": "18d03c556f691ef191422cb6d074b6e0d238bd9440d7448242c160f4957cc87c",
+      "size": 3577,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Scribbles 1"
+    },
+    {
+      "fileName": "Thicc Tip Scribbles 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Scribbles 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Scribbles%202.png",
+      "sha256": "7588fd0681f0bb47c6409a192612872912056c8843a92e638b6499d48364c8dc",
+      "size": 3808,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Scribbles 2"
+    },
+    {
+      "fileName": "Thicc Tip Writing 1.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Writing 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Writing%201.png",
+      "sha256": "77e1eae88b29c29decc2a3c52337ba2aecac50258a22989edc58094f200f868e",
+      "size": 3651,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Writing 1"
+    },
+    {
+      "fileName": "Thicc Tip Writing 2.png",
+      "path": "packs/bb - Books, Paper, Writing (Jan 2021)/thumbnails/Thicc Tip Writing 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Books%2C%20Paper%2C%20Writing%20%28Jan%202021%29/thumbnails/Thicc%20Tip%20Writing%202.png",
+      "sha256": "6bccf1b6d47f2f8470ff27c5d4b9663b9253de4e9d11ce72cc126251b890e5ea",
+      "size": 3787,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Thicc Tip Writing 2"
+    }
+  ]
+}

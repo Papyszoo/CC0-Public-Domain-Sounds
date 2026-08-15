@@ -1,0 +1,769 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: Paper Cutter",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Paper-cutter slices and chops, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - Paper Cutter",
+  "itemCount": 25,
+  "items": [
+    {
+      "name": "Caress Paper",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Caress Paper.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cut Paper 8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 8.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dry Cut 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dry Cut 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dry Cut 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Floppy Paper",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Floppy Paper.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Lid Snap",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Lid Snap.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Open Close 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Open Close 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Open Close 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Open Close",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper Flutter 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper Flutter 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper Flutter",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper Scraps",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Scraps.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plaster Clatter 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Plaster Clatter 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plaster Clatter",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Plaster Clatter.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shuffle Plastic",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Paper Cutter/sounds/Shuffle Plastic.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Caress Paper.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Caress Paper.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Caress%20Paper.wav",
+      "sha256": "5a06eb5ebfa842debcb76d64bcfd361edf5b6f24e0c2e1ca41c935edd7b1c74b",
+      "size": 200788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 1.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%201.wav",
+      "sha256": "2484b8d3ca6c978b33b115bac7e7099a72a4b2301a0f085f0feffe2a479ab1ea",
+      "size": 304528,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 2.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%202.wav",
+      "sha256": "4f7625cf0363e57c683b5d67aeaa138b497f41f95f2485a175ecc7be2664c34b",
+      "size": 241580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 3.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%203.wav",
+      "sha256": "f6524192c7be8eec085f078291cb6570026b7c8f68c31c64f8ea37bcfbb5a845",
+      "size": 326320,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 4.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%204.wav",
+      "sha256": "2d6e1388beb5fbc82b3dbddf5960b36a9806015b4ddf04085d43d3648ff8d581",
+      "size": 723504,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 5.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%205.wav",
+      "sha256": "1e92e48a50112820c0071b42bd6695b21c90b42f04f25ea18b88f80dfd00963c",
+      "size": 254396,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 6.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%206.wav",
+      "sha256": "b00957d2bb0348ad76d3394c9614ff0a3f9fe7baf7b0bd969d20725999fbee36",
+      "size": 239788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 7.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%207.wav",
+      "sha256": "853ce8296713443466136921c25d20015018c63d3b12c5a93759efe4f850bf7f",
+      "size": 220712,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cut Paper 8.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Cut Paper 8.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Cut%20Paper%208.wav",
+      "sha256": "14d33b29d53ab2aa2ec6a8421fe607c23918ccc7489764d822b9df50027abd82",
+      "size": 180440,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Dry Cut 1.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Dry%20Cut%201.wav",
+      "sha256": "2cde29c1da6a6d5e13a2cf1ed01697081614ad16909c940b810bd2c65725802c",
+      "size": 131216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Dry Cut 2.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Dry%20Cut%202.wav",
+      "sha256": "23a4d157c75cd09d0faa424df7aecb5943afc8f3052c96681cefe2e834ed14a9",
+      "size": 131772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Dry Cut 3.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Dry Cut 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Dry%20Cut%203.wav",
+      "sha256": "c86f338ca216cde9b468a45d0fa8938a187a109c884047d3e6d5c6038e0127cf",
+      "size": 151096,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Floppy Paper.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Floppy Paper.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Floppy%20Paper.wav",
+      "sha256": "b8d09b9d4bb2fae9d05a6249a8cbdd4f1a863fd141a45c123a62e84d56183a68",
+      "size": 427716,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Lid Snap.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Lid Snap.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Lid%20Snap.wav",
+      "sha256": "a978088d651c87edb58e986ece94d18d7008943b804a27780e51e844bce0b979",
+      "size": 49612,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Open Close 2.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Open%20Close%202.wav",
+      "sha256": "be0d30c80416ff0c32d260713328989d22a693e49a7f30942e9721171e82674d",
+      "size": 159680,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Open Close 3.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Open%20Close%203.wav",
+      "sha256": "fa4aa9682e8284b0615f66ff7544a9be6331f8ea0b5e8bbe93070f368ed7f788",
+      "size": 233896,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Open Close 4.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Open%20Close%204.wav",
+      "sha256": "bec9a0a2d78c20ba9a1f55956cc89aab28e5cdc18dd29f481f497fc30482ccdb",
+      "size": 273036,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Open Close.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Open Close.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Open%20Close.wav",
+      "sha256": "1474be431d5284418fb7084e13b4a8b36a18bedc7b482e0bc0219545d50bd415",
+      "size": 131892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Paper Flutter 2.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Paper%20Flutter%202.wav",
+      "sha256": "9a276155d7eb9c2c9361f9a791ebcab88d5410df865a8be215de98991c719515",
+      "size": 634360,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Paper Flutter 3.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Paper%20Flutter%203.wav",
+      "sha256": "85f300f862721939a92db78b3b5dc922cd30a2b1e496ab2a7d4144cbbe5497c7",
+      "size": 287684,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Paper Flutter.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Flutter.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Paper%20Flutter.wav",
+      "sha256": "06665ef2fb30e77a63a59e7a45cd1148ff778614ad56cc87afef2bc290aec5c9",
+      "size": 232392,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Paper Scraps.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Paper Scraps.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Paper%20Scraps.wav",
+      "sha256": "0d600879d3fc6e7b44b55ac2b0dce5f67725fd6443cadaf259c856728075023c",
+      "size": 718216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plaster Clatter 2.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Plaster Clatter 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Plaster%20Clatter%202.wav",
+      "sha256": "54e5fa8d51f7fb4d940d774343900c101bcf760dcefd769005a84b74d50b8fc8",
+      "size": 645936,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plaster Clatter.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Plaster Clatter.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Plaster%20Clatter.wav",
+      "sha256": "46549dbec44fac36157de4926443ab5aeb27b386fbc663caef20bf974495d15f",
+      "size": 531052,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shuffle Plastic.wav",
+      "path": "packs/Micro Pack - Paper Cutter/sounds/Shuffle Plastic.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/sounds/Shuffle%20Plastic.wav",
+      "sha256": "b3b5a4dd775f4e40fc3f759fa925a3013d275707abad5b41c920f976e708d99e",
+      "size": 1044496,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Caress Paper.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Caress Paper.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Caress%20Paper.png",
+      "sha256": "8ef8f87da630e191359b6a46b56da8459a4b9afd0bc445295f32951c8384c93c",
+      "size": 3635,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Caress Paper"
+    },
+    {
+      "fileName": "Cut Paper 1.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%201.png",
+      "sha256": "402a11a82b239d11506858863e69031a85c03058bc209e2994afe53f28d6f61a",
+      "size": 4109,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 1"
+    },
+    {
+      "fileName": "Cut Paper 2.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%202.png",
+      "sha256": "a9235dccb8d3d5e325cc9bacec149a01ca1aae89be0dbb234caa2e07e67960a9",
+      "size": 3800,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 2"
+    },
+    {
+      "fileName": "Cut Paper 3.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%203.png",
+      "sha256": "cb71b8f5e573190d771695a5006d2e0296228ac00e31f616da2d7b9e0926ed79",
+      "size": 4253,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 3"
+    },
+    {
+      "fileName": "Cut Paper 4.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%204.png",
+      "sha256": "e147a6815613bf63596952e6c848ea1b43ffbdea6d9f28bc0b5d2c73a91b9a02",
+      "size": 3843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 4"
+    },
+    {
+      "fileName": "Cut Paper 5.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%205.png",
+      "sha256": "6002a7741d97d7bdcfb639773ba247c73791820c4bc9ca320aec3463b61c9ee7",
+      "size": 4193,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 5"
+    },
+    {
+      "fileName": "Cut Paper 6.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%206.png",
+      "sha256": "9d3d0841d95c425d385b32d3215add64072737c578f07aa2ff97d6259e1235c0",
+      "size": 4236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 6"
+    },
+    {
+      "fileName": "Cut Paper 7.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%207.png",
+      "sha256": "ab5f58e35366d3f5fb7c314b3388659d707fe22c935770187fa4d2b0400794d3",
+      "size": 4129,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 7"
+    },
+    {
+      "fileName": "Cut Paper 8.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Cut Paper 8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Cut%20Paper%208.png",
+      "sha256": "6113ae8aa4b5723961474c64d71b5e432dd6d7c44358aeccb371ba966dd8941e",
+      "size": 4343,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cut Paper 8"
+    },
+    {
+      "fileName": "Dry Cut 1.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Dry Cut 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Dry%20Cut%201.png",
+      "sha256": "87f43a44b2d1a4a223f7701d00f701234c75be4537f12ae7e02570cdbfc5c946",
+      "size": 3761,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dry Cut 1"
+    },
+    {
+      "fileName": "Dry Cut 2.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Dry Cut 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Dry%20Cut%202.png",
+      "sha256": "f973de42a8b3d8c2138ffbc6373a3264c079a5c449536bb769f1bef09a7b8d06",
+      "size": 3565,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dry Cut 2"
+    },
+    {
+      "fileName": "Dry Cut 3.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Dry Cut 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Dry%20Cut%203.png",
+      "sha256": "790d72b8588533d4616a66fe8731104d52fbba6a5d79f289f8c48de6747c8d38",
+      "size": 3068,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dry Cut 3"
+    },
+    {
+      "fileName": "Floppy Paper.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Floppy Paper.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Floppy%20Paper.png",
+      "sha256": "bafbab1e7ce2dbd38aa7876d9815168776111dea9e0dfc09321572c454994d19",
+      "size": 2971,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Floppy Paper"
+    },
+    {
+      "fileName": "Lid Snap.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Lid Snap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Lid%20Snap.png",
+      "sha256": "c4e913625e534babdd72dd10615eafc1047c127e7aaff18978aa706dc36d434f",
+      "size": 2011,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lid Snap"
+    },
+    {
+      "fileName": "Open Close 2.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Open Close 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Open%20Close%202.png",
+      "sha256": "a66864d08bee015605e39e7fcb9d9339f9a51b6b7c513be1779e54a7b29eb513",
+      "size": 2136,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Open Close 2"
+    },
+    {
+      "fileName": "Open Close 3.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Open Close 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Open%20Close%203.png",
+      "sha256": "66f46a20a7f060b320d140e9cb2ff5937721fa0b78434a721f57cc641fa45cca",
+      "size": 1966,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Open Close 3"
+    },
+    {
+      "fileName": "Open Close 4.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Open Close 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Open%20Close%204.png",
+      "sha256": "5bd7d38b5e7aa362eb360f1680aa2a0d948bfd22ec36a34c1e856f7dabb5bb21",
+      "size": 1875,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Open Close 4"
+    },
+    {
+      "fileName": "Open Close.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Open Close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Open%20Close.png",
+      "sha256": "450594c02a07a782cee15feb06d8e583c05257c775b0e458843b04fb9e4733c3",
+      "size": 1975,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Open Close"
+    },
+    {
+      "fileName": "Paper Flutter 2.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Paper Flutter 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Paper%20Flutter%202.png",
+      "sha256": "4c857ac176350ca2b92deff575c0f60eae439c3c5131df3df8d12df400e82596",
+      "size": 2334,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper Flutter 2"
+    },
+    {
+      "fileName": "Paper Flutter 3.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Paper Flutter 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Paper%20Flutter%203.png",
+      "sha256": "c810a164c3dccf79433ab5e8d1f1ec4b79219175c33f39d93cb6c34971c877dc",
+      "size": 2944,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper Flutter 3"
+    },
+    {
+      "fileName": "Paper Flutter.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Paper Flutter.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Paper%20Flutter.png",
+      "sha256": "495c36ef28c0ca61438908d3f7febec41ca802c79bcac29b96d2894a52a9d458",
+      "size": 3810,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper Flutter"
+    },
+    {
+      "fileName": "Paper Scraps.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Paper Scraps.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Paper%20Scraps.png",
+      "sha256": "52faf648bd9b2d96944a1a78f4b53c4b07a1affa91e2ab949ea7701f61c16bbe",
+      "size": 2233,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper Scraps"
+    },
+    {
+      "fileName": "Plaster Clatter 2.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Plaster Clatter 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Plaster%20Clatter%202.png",
+      "sha256": "32a6f9d3c6c723dba02d808e6f1bf6d925aa7311a5b1654c4ef9aff23543acdb",
+      "size": 2627,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plaster Clatter 2"
+    },
+    {
+      "fileName": "Plaster Clatter.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Plaster Clatter.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Plaster%20Clatter.png",
+      "sha256": "09c193027f6b0dc0168d7bd50d23d2f4a4eed2fb5f7380426d899a868599dec6",
+      "size": 2478,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plaster Clatter"
+    },
+    {
+      "fileName": "Shuffle Plastic.png",
+      "path": "packs/Micro Pack - Paper Cutter/thumbnails/Shuffle Plastic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Paper%20Cutter/thumbnails/Shuffle%20Plastic.png",
+      "sha256": "e959ab1b5c8df894e56609b7da8ed0050a558f6904c09524127d62ccc8ad761d",
+      "size": 2489,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shuffle Plastic"
+    }
+  ]
+}

@@ -1,0 +1,2269 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "75 CC0 Breaking / Falling / Hit SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+  "description": "75 breaking, falling and impact sounds across wood, metal, glass, rock and stone. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/75-cc0-breaking-falling-hit-sfx",
+  "itemCount": 75,
+  "items": [
+    {
+      "name": "Bfh1 Breaking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Breaking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Breaking 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Falling 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Breaking 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Falling 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Falling 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Glass Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Hit 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Falling 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Falling 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Falling 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Metal Hit 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Breaking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Breaking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Breaking 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Falling 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Rock Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Breaking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Breaking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Breaking 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Breaking 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Falling 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Falling 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bfh1 Wood Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "bfh1_breaking_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_01.ogg",
+      "sha256": "a714412c46a3409b0de3f10c681f780f534eb81b4b95522ab1f666ec3cbcf900",
+      "size": 48222,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_breaking_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_02.ogg",
+      "sha256": "ca1807a8008c74472042b8e1cc06ad723e00ff80a603879ebd7c2e5ba08573c4",
+      "size": 21954,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_breaking_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_breaking_03.ogg",
+      "sha256": "3ad487a133b2d9641c92f8d7041c23f4e342eb6e5f89cdf35348c2486c25f1f1",
+      "size": 19730,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_01.ogg",
+      "sha256": "98dd38f5684f635755645aeb8e2cd2fd04e65913b35588a5e9444c351b56e2c2",
+      "size": 48286,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_02.ogg",
+      "sha256": "1d4d3def96f410f5af2681357e0dd198502549dbc82637bfdeafbe59ada7d006",
+      "size": 45614,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_03.ogg",
+      "sha256": "6eacbca2aa8fb1f67d953ba40a314abea1ab446d61d4232e8d6d54dc97257c8f",
+      "size": 39014,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_04.ogg",
+      "sha256": "e6b64465a5f48147dfa9b0ce1d25b8401799acfced320c167c9438790d436048",
+      "size": 49591,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_05.ogg",
+      "sha256": "b27b77d60c971c7064496a124b0aa91087fd602186f63ba31fca2e98949871f6",
+      "size": 31488,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_06.ogg",
+      "sha256": "9950100a25a6771513d405be0d37e52a50837e12b2865a6c2a9f9622598736a6",
+      "size": 27461,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_falling_07.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_falling_07.ogg",
+      "sha256": "9f369662ba8d6877740f443f404ed6f3505923c6bf17b2381548c6914054b5bf",
+      "size": 44299,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_01.ogg",
+      "sha256": "438c45398ee77a40d5cc6ffcc59db0cdc709dc6d0521da5e2896b4afc19fcacb",
+      "size": 27455,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_02.ogg",
+      "sha256": "35dcb1dc69338bad745e1cd56c676d04e4afb6687b9aa6d05ba83a255252747b",
+      "size": 20727,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_03.ogg",
+      "sha256": "065edd6caeb5846fa9cddbaeacbabcdea834e7c42182ff98297f2e49f126cc25",
+      "size": 31276,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_04.ogg",
+      "sha256": "b5038806325fa2f336a70cfb72c643d6eaa6e69df084988d4c63d65a0123000c",
+      "size": 32779,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_05.ogg",
+      "sha256": "9e788240282b05f4fd70414b133ab43f9f0c82e36f4879f7eefc9ed062850574",
+      "size": 21425,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_breaking_06.ogg",
+      "sha256": "5dad395c21e85d0750be4b1f9c110aeba366ee5da0dadae8c307497e0a4b4c0d",
+      "size": 36433,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_falling_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_01.ogg",
+      "sha256": "444d1d351eada5c0b8849420dd09fcd95024e28fc7423b3f41effd0df1729337",
+      "size": 20124,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_falling_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_02.ogg",
+      "sha256": "27d1c4f6ded6aab19ce3c573139c65ed756719d6e200ca08bd387d499e27e6e0",
+      "size": 39114,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_falling_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_03.ogg",
+      "sha256": "60311be4cc96c38de5d79377a5506977528f6c5830557ea5454003e558fc53f1",
+      "size": 25853,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_falling_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_falling_04.ogg",
+      "sha256": "09c9e3e4b6b3ca5641a820a8709916f7d8ccc66611ac8c2b12f706409a1c2e29",
+      "size": 29033,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_hit_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_01.ogg",
+      "sha256": "eb32d258cb72a304a3571fb0849f4b89c212cf21f434aad304bfb7eacfe9cb49",
+      "size": 11267,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_glass_hit_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_glass_hit_02.ogg",
+      "sha256": "451e56c4c581305c985ad58ca1e6b15cd7562a5ff1b2a49d66a732fec0ca9a0b",
+      "size": 14091,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_01.ogg",
+      "sha256": "56c627582671ee7f7910d87dee7a0a77814143e06b430cd10cd9e674ec1990d5",
+      "size": 28246,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_02.ogg",
+      "sha256": "a3bd154c391e65947dcd700dfa64b927676253a2e1d229e63443f0ef5f955474",
+      "size": 30619,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_03.ogg",
+      "sha256": "91ef5562417a631bdb306d3c70ec7d33a2d418f5266c1488695a993877af21f9",
+      "size": 19171,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_04.ogg",
+      "sha256": "7f91945ce8e8337c9be832d2e2b8c0c411723731e2f160b89801554ea6b7fdb9",
+      "size": 16929,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_05.ogg",
+      "sha256": "c3e1a46dcf5dc0c15706f3333bfccd0b8d491aa197bc39274a6b5588b3da1ffd",
+      "size": 8330,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_06.ogg",
+      "sha256": "25d4a1eb98a413a15618f5d4ea0dcc3358b7ceae90c609c34c6e56c5ab962c58",
+      "size": 16231,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_07.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_07.ogg",
+      "sha256": "ef0d78e6079b8e66eeded21564f076ee537b8cfa789b140cb0d9d9e10980e04c",
+      "size": 21880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_08.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_08.ogg",
+      "sha256": "646d780521b035ad2f9865bf8f389c5ecaf895e373a0c50918a0bfc26002734e",
+      "size": 19704,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_09.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_09.ogg",
+      "sha256": "0ba19daecc3ba0329520fb1081ac34c9d05ec0dbc047bdd46c6b792742304150",
+      "size": 10881,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_10.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_10.ogg",
+      "sha256": "d940e43687f3bfd442a3796184b429add4afe6b5ac2e99a568ad2ce5eeb713b8",
+      "size": 13017,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_11.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_11.ogg",
+      "sha256": "2afec5267c68aeef3ffc20edd9364f20035b51bb61a0a25e0d4f4ce2eb4b381d",
+      "size": 10651,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_12.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_12.ogg",
+      "sha256": "ce5718e387153d651b8b54c92fdd281bd67a8136b3fad87d7d3bd2b403267969",
+      "size": 24811,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_hit_13.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_hit_13.ogg",
+      "sha256": "d22c573c32dd637caf531e0863de54e2b0bb7b0d22e555e16e9950e7e1f2fd2b",
+      "size": 15630,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_falling_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_01.ogg",
+      "sha256": "7071a56807c7ccf3aa4becba09abd08df0f3e1c844b1ce47d6975dcdfe49562d",
+      "size": 42021,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_falling_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_02.ogg",
+      "sha256": "e40e73a05a9b1ae7d45e24aa898bf610b32334dae80a5c00abe3e2ce0f7d207a",
+      "size": 31167,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_falling_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_03.ogg",
+      "sha256": "968284eeb6838bd6f41ec721a763d12eab5130b541f120aa1887008b0b1c73ae",
+      "size": 13766,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_falling_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_04.ogg",
+      "sha256": "bfa1a79f6f7f6f9e811d052fa5b6989ddf272243c98673bc107552caff1ed16a",
+      "size": 14609,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_falling_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_falling_05.ogg",
+      "sha256": "476c97d3a5011977a01e3ed2774d1a879cb009879294a013976eb50d4864cb20",
+      "size": 17013,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_01.ogg",
+      "sha256": "fcb2e28730c725b794af2e48c784ca933396cf5792f9e24869ed969ae4d888ed",
+      "size": 11820,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_02.ogg",
+      "sha256": "e368991507cfb1ad84743fa64289bd8731acd1b8fa256db1612a30cd0c7d2725",
+      "size": 23524,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_03.ogg",
+      "sha256": "9ae472059557118675f843f5a0a16eea20331d1d1ee2a60a1b4757580579f00f",
+      "size": 16778,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_04.ogg",
+      "sha256": "9888a711535c4474f8599dbb427f591858ecf1a2fd77d1ed86e4234631d82e92",
+      "size": 13131,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_05.ogg",
+      "sha256": "393a4e3c38aa1e3144fcc9972f68f25e38d1852e4793bbd9d0d88a467f319b6b",
+      "size": 15916,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_metal_hit_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_metal_hit_06.ogg",
+      "sha256": "f571aff29262c66954900922cd70d1de25e0acd924c5d71c4536137d3659993b",
+      "size": 18001,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_01.ogg",
+      "sha256": "db71b0c607b0490b6269d1e2cac2550799d4895f41b187c0312527f3deab8c24",
+      "size": 23824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_02.ogg",
+      "sha256": "8dbed98283390813efde7c3be859ccc5523bcce130ee50774e6e55fe280e8719",
+      "size": 28709,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_03.ogg",
+      "sha256": "955f4015607103faabc6f76c6751873ef971ee8eb18917dd6294d8a73394bffb",
+      "size": 22266,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_04.ogg",
+      "sha256": "e55447a96cd60338a7b8b937e7bd2330b13e0de10966360fd9d1a1eb5f8d8691",
+      "size": 12814,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_05.ogg",
+      "sha256": "ddfc012bf42c40bfb9cf89f7eb3d662085ede0d06d2a6baccd7bd871c1cc946e",
+      "size": 13658,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_06.ogg",
+      "sha256": "d3026063e187e19030960be623221b8bb32d70f60f9f63d8d50aa45e49ef6d2a",
+      "size": 41746,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_misc_07.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_misc_07.ogg",
+      "sha256": "f5a41f199e25cac839f7500441dba176f705c4fd14c9ce3f851d4e09adc71a90",
+      "size": 30071,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_01.ogg",
+      "sha256": "970cac3139e1530009ca87f8ee0dd800dc4da61917a5e62bdc83d475a9bf4da7",
+      "size": 30092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_02.ogg",
+      "sha256": "3e06b794511f693b6aaca5eee1d47491bab74d814746a68de6c8bf4eec744ccc",
+      "size": 45809,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_breaking_03.ogg",
+      "sha256": "a4f7a3ccebff4e8211b6aa146b8ff708bdea1c4e41115ab3b8a0d0c33094d6ee",
+      "size": 26580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_01.ogg",
+      "sha256": "9e58d2d3302c1bad27267cef6a2b3b47bb636f49f77d8e4b986ac81a26e80d7b",
+      "size": 36250,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_02.ogg",
+      "sha256": "c8421825c5e08e4bf4ed290232963aeffcf4e179c28d33a6714c5fb9704f799f",
+      "size": 18412,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_03.ogg",
+      "sha256": "16080f9bc90924b0e4ede52922529e30e34e72af32a505b39bdfc5ebcbb9248c",
+      "size": 40966,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_04.ogg",
+      "sha256": "a60fb182abebc50819d4794adbed365c940219307b713c3224d93b7f384635e9",
+      "size": 15560,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_05.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_05.ogg",
+      "sha256": "5ccb5d99ae33341d9f80fe760174182f0d2d98477b8340ee51d3f7de31279693",
+      "size": 19534,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_06.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_06.ogg",
+      "sha256": "73142e5b167bc8c3660f13e1282926139b52647af0305d0934f7c96aef7d8e75",
+      "size": 12935,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_07.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_07.ogg",
+      "sha256": "66a659f0082ab3a282804a3ce5c42f096d41706fff1fa24a5328905fe41883fc",
+      "size": 17452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_08.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_08.ogg",
+      "sha256": "bb0f1bc082d00921eb08418eb7db4ce20ecadc4b0e4b58421e51f12b9dcbc2cb",
+      "size": 19708,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_falling_09.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_falling_09.ogg",
+      "sha256": "3a85c1110c4c67837270ad78b8679a8afb48a1bad3ee6351ef4e360f28fa6096",
+      "size": 30700,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_rock_hit_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_rock_hit_01.ogg",
+      "sha256": "a9c0d7e562bdcc7619bb100206305ac2300f9bb7e4533bdfbae46da4289fe994",
+      "size": 7792,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_01.ogg",
+      "sha256": "24e84b95c0fc94a1a5fb9e04edcdabbbfed987e787fcbd9c55c4651ced5c37f8",
+      "size": 13577,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_02.ogg",
+      "sha256": "6ff0b54f0efd9e0c87b6bfb0870b79f2d4328080c70da6824110460fcc1872c2",
+      "size": 13262,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_03.ogg",
+      "sha256": "0d230f703fe558b61e93cbd4d7cc6ebb5b73e752bcdd13f5c4347c013b405ca7",
+      "size": 17119,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_04.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_breaking_04.ogg",
+      "sha256": "11b697d90021f7e1639bb26c61465aa9bc03838a7b605d917a638dd92ee40ce8",
+      "size": 17223,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_falling_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_01.ogg",
+      "sha256": "36e5d8905268c641c3d391c10f0297b9c46ba30d3b551e24d59eafcf33643a10",
+      "size": 33543,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_falling_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_falling_02.ogg",
+      "sha256": "8f72d144e2cd9058ee8e81ff6f27f936e5d33008b3580d6b6c02d58fa4268a59",
+      "size": 19812,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_hit_01.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_01.ogg",
+      "sha256": "841caeb101eeaebcb88afed9cd64db0de1b00c7f3b06835daefaabc95b970337",
+      "size": 11603,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_hit_02.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_02.ogg",
+      "sha256": "16851c45e3d7add9f7ff8fe18d7b43e2d7d368b9bd1260d198127851b17af6d7",
+      "size": 13514,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bfh1_wood_hit_03.ogg",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/sounds/bfh1_wood_hit_03.ogg",
+      "sha256": "3b9f304e4de3a54624cfa9e2b2326cfe4c202d3e368dd899e7dacb0d0be78f57",
+      "size": 14848,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "bfh1_breaking_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_01.png",
+      "sha256": "af50eb9b3d27189255537b2c90f6e32753e0d2f5eb1bee920fe83911ce4bee01",
+      "size": 2864,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Breaking 01"
+    },
+    {
+      "fileName": "bfh1_breaking_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_02.png",
+      "sha256": "b5c1b36839cd18eb0740b63ebcb16a2b9123adc323fc74b7f705a9b1257a2dec",
+      "size": 2337,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Breaking 02"
+    },
+    {
+      "fileName": "bfh1_breaking_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_breaking_03.png",
+      "sha256": "053c1798b9edac5f9d5054dcc2b35fd01e30838bf3eae9e0f020b5a37095540b",
+      "size": 2895,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Breaking 03"
+    },
+    {
+      "fileName": "bfh1_falling_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_01.png",
+      "sha256": "142a5d4d1d528063c226144edaecd35846999507f275488c33e9dbd10af90ea8",
+      "size": 3194,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 01"
+    },
+    {
+      "fileName": "bfh1_falling_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_02.png",
+      "sha256": "6f9346d25bceacb0ca7a246407aa9b94360700bc847eb0c81d6e5a1201cc247f",
+      "size": 2796,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 02"
+    },
+    {
+      "fileName": "bfh1_falling_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_03.png",
+      "sha256": "3e5d960c70d8eb3e5e129b78c7783f124417c31f0ed2d2a8cfb964a3844c58fb",
+      "size": 2551,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 03"
+    },
+    {
+      "fileName": "bfh1_falling_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_04.png",
+      "sha256": "df851078c01c73541b33dfe874f56e3e70ad8af152308d117f697fa7fb13d6b9",
+      "size": 3781,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 04"
+    },
+    {
+      "fileName": "bfh1_falling_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_05.png",
+      "sha256": "da6d7f30451741b9582f6edccfc538fc47c9bd4893358c6d3554649ddfc9317e",
+      "size": 3577,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 05"
+    },
+    {
+      "fileName": "bfh1_falling_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_06.png",
+      "sha256": "b5be4727dfcd83fda77a73b90135a6b28ecb8034664d64117b109fbbbe09f360",
+      "size": 2846,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 06"
+    },
+    {
+      "fileName": "bfh1_falling_07.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_falling_07.png",
+      "sha256": "f505e6274f921ba8db427884491a8e5a351fc541c27fd5627bc69b34c29e17d2",
+      "size": 3330,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Falling 07"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_01.png",
+      "sha256": "49a738d458887594effe6878c1d1fa97f2b0bfb604ef431f5234ca6f400a9e74",
+      "size": 2647,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 01"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_02.png",
+      "sha256": "7a6e09ca6fb16ef3c0d0343c3b337a088855703d79238179d1c3b298cf4ec3f6",
+      "size": 3549,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 02"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_03.png",
+      "sha256": "a218c64f03650c8220a1fa30b01da8eba15d3e4b075c7595db14fa0f7f28afdb",
+      "size": 2632,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 03"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_04.png",
+      "sha256": "bfd50858aaa3d249e3645214ac6c79d9309e4beb2c3fea8c14a12cf8e163a04d",
+      "size": 2776,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 04"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_05.png",
+      "sha256": "70ef1fe047da3f03b0bc3a946e95851b7a3e42a73c88ad7135ea4e3848b04422",
+      "size": 3169,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 05"
+    },
+    {
+      "fileName": "bfh1_glass_breaking_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_breaking_06.png",
+      "sha256": "0800437023d602d7a4f2e16d904d1efcec6bb2708e0a6738d9ada670c2d3b5ca",
+      "size": 3727,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Breaking 06"
+    },
+    {
+      "fileName": "bfh1_glass_falling_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_01.png",
+      "sha256": "574fc45fd6c22f43d5fb7aba8de77971ca2e31e8eb0d19a0675afae791d727f1",
+      "size": 3487,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Falling 01"
+    },
+    {
+      "fileName": "bfh1_glass_falling_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_02.png",
+      "sha256": "4eb48bff492ca8de3543eb80029ed9997e8e5dc778f347236d4dd483a3ab092e",
+      "size": 3244,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Falling 02"
+    },
+    {
+      "fileName": "bfh1_glass_falling_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_03.png",
+      "sha256": "fc4b1ab986970efd0023b62c68791feaec3a87d3f7ee7ffd00587ce349693ee5",
+      "size": 2797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Falling 03"
+    },
+    {
+      "fileName": "bfh1_glass_falling_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_falling_04.png",
+      "sha256": "a585876965d5b76c3caef5b2b2533a3d94577f5678188d44e7777f8df224db85",
+      "size": 3519,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Falling 04"
+    },
+    {
+      "fileName": "bfh1_glass_hit_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_hit_01.png",
+      "sha256": "8f7a90c607ac9f3bf3735c1325939c6bf7602bda2fb51f532fee819a6f74c1e1",
+      "size": 2913,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Hit 01"
+    },
+    {
+      "fileName": "bfh1_glass_hit_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_glass_hit_02.png",
+      "sha256": "1407cd834d8ab437440fceb5db8cf215dfd04fc740e154f60040a3d77be2321c",
+      "size": 3495,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Glass Hit 02"
+    },
+    {
+      "fileName": "bfh1_hit_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_01.png",
+      "sha256": "e947b9e8f7362e20b0d884f4435ab9cf23160ed0d6cc26af463f898bb772add0",
+      "size": 2473,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 01"
+    },
+    {
+      "fileName": "bfh1_hit_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_02.png",
+      "sha256": "cab56512375f99d2345475725aa2191b3bf3dd2beebd6ce562c04d64514f5cf0",
+      "size": 3022,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 02"
+    },
+    {
+      "fileName": "bfh1_hit_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_03.png",
+      "sha256": "cae4bcae704725ff072bc35ced16c2ead06366046aeb5e219e58da9471076b55",
+      "size": 2195,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 03"
+    },
+    {
+      "fileName": "bfh1_hit_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_04.png",
+      "sha256": "b4cea90957f4861fd96b4e0a88997f9e41ed8798b38724baf7fec1a5f0c76589",
+      "size": 1701,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 04"
+    },
+    {
+      "fileName": "bfh1_hit_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_05.png",
+      "sha256": "849514523a5b55d2bce86f4f6ccbd44025079d587f9016499105ab96cfad07b1",
+      "size": 1784,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 05"
+    },
+    {
+      "fileName": "bfh1_hit_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_06.png",
+      "sha256": "91ef376430d6ecdfb7f300e44a0e8b741a6d4566a1495bff80a2d8b813399f89",
+      "size": 2500,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 06"
+    },
+    {
+      "fileName": "bfh1_hit_07.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_07.png",
+      "sha256": "271a042e83867d5e5c9db1688749fe78a7a022966f87caaef5a0be906e5a5769",
+      "size": 3774,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 07"
+    },
+    {
+      "fileName": "bfh1_hit_08.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_08.png",
+      "sha256": "b1492706802e260781f8e7349b8c927e416b81ad73ee820847aef8b97e757431",
+      "size": 2264,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 08"
+    },
+    {
+      "fileName": "bfh1_hit_09.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_09.png",
+      "sha256": "a961146b85cdd7423b847a0573451f2c4be0b10d4ae3c9f6db8c1cce6cd2ba03",
+      "size": 2061,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 09"
+    },
+    {
+      "fileName": "bfh1_hit_10.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_10.png",
+      "sha256": "52eb6a9ee4081858880ac220e01739d86d62472e8f4dd7ca05c82cef46d08888",
+      "size": 3219,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 10"
+    },
+    {
+      "fileName": "bfh1_hit_11.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_11.png",
+      "sha256": "50a9cde86148b4ad42928afd6d80ab62b775fac66a7bd5c939f4749080fde8b6",
+      "size": 2367,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 11"
+    },
+    {
+      "fileName": "bfh1_hit_12.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_12.png",
+      "sha256": "b9390cf4411d846e2d57b25f21745210127021339b9e939827269558056a3829",
+      "size": 2756,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 12"
+    },
+    {
+      "fileName": "bfh1_hit_13.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_hit_13.png",
+      "sha256": "a5e714e3612e6434e9c0c798b2054e9d5904d4f4c3a3edeaf540a028ab8735e8",
+      "size": 2854,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Hit 13"
+    },
+    {
+      "fileName": "bfh1_metal_falling_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_01.png",
+      "sha256": "987cef2b3186c46e9cbed1163dc21565034524d20ee7d30a70de55e798438089",
+      "size": 3109,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Falling 01"
+    },
+    {
+      "fileName": "bfh1_metal_falling_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_02.png",
+      "sha256": "68b9e52f99e7fd49a9d67c2810eca26b58ae225179926b746a5e08bf36aa5e3e",
+      "size": 3724,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Falling 02"
+    },
+    {
+      "fileName": "bfh1_metal_falling_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_03.png",
+      "sha256": "9fcb66a3e8301930fdc4860d8f7bec7fe4d58fc781beddc1a144cccc4a9a9858",
+      "size": 2520,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Falling 03"
+    },
+    {
+      "fileName": "bfh1_metal_falling_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_04.png",
+      "sha256": "0c82276adf264abdfa3ce6a7910f15ff6072e5d0b45ad19774f7740a65221830",
+      "size": 2588,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Falling 04"
+    },
+    {
+      "fileName": "bfh1_metal_falling_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_falling_05.png",
+      "sha256": "98bebfd69443007662447504fee5d8c16ebcde3ebcea3fb935894ab550bb8104",
+      "size": 2839,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Falling 05"
+    },
+    {
+      "fileName": "bfh1_metal_hit_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_01.png",
+      "sha256": "7422d4dc7689a4303b14be2f133b990034ff424a97ec63d25d0a2b423e40d9dd",
+      "size": 2443,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 01"
+    },
+    {
+      "fileName": "bfh1_metal_hit_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_02.png",
+      "sha256": "4852ba50961ee93c493e2651b74bec3c09adf976a2f0e92055e94d143b91672e",
+      "size": 2493,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 02"
+    },
+    {
+      "fileName": "bfh1_metal_hit_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_03.png",
+      "sha256": "fb127754a27ac3c157f9c3f86186bf140f19268277ed7b7237cc4343dec7b62e",
+      "size": 2797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 03"
+    },
+    {
+      "fileName": "bfh1_metal_hit_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_04.png",
+      "sha256": "fb552fafe4d1a30c9e94d81279450b04925ae2c3ae541aaf9f6acef46b81edc1",
+      "size": 2523,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 04"
+    },
+    {
+      "fileName": "bfh1_metal_hit_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_05.png",
+      "sha256": "2898299bd0b47a51a78a8f3cd983fdb0552daa27b04d85189f50e69ce86891da",
+      "size": 3134,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 05"
+    },
+    {
+      "fileName": "bfh1_metal_hit_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_metal_hit_06.png",
+      "sha256": "46e0b2b1d25e3635a0af30efecf5fb981cb1c1347a47b57239228441aa1d2c4e",
+      "size": 2333,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Metal Hit 06"
+    },
+    {
+      "fileName": "bfh1_misc_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_01.png",
+      "sha256": "5a9a77303f1be5085afe9159e9f8d9668b7af159e65afbc46308e242c89ff944",
+      "size": 3072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 01"
+    },
+    {
+      "fileName": "bfh1_misc_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_02.png",
+      "sha256": "ae032d5c1ed07f581792430c22737c2e10c32f80bcd5bf6f3eace518fc37de04",
+      "size": 3006,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 02"
+    },
+    {
+      "fileName": "bfh1_misc_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_03.png",
+      "sha256": "160ab97354f9479687a136bb18e2893f70da338316689c7403a042fd1de76b10",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 03"
+    },
+    {
+      "fileName": "bfh1_misc_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_04.png",
+      "sha256": "5717e560f908ca2171ad0975c4d3d174137a07c16e1a84f4f458458a207eb94e",
+      "size": 4014,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 04"
+    },
+    {
+      "fileName": "bfh1_misc_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_05.png",
+      "sha256": "47feec01a2d8d9b3035feaf4f7fb3ca8ab55840f1c8c80d33fcb8bd0d4e8f2d2",
+      "size": 2146,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 05"
+    },
+    {
+      "fileName": "bfh1_misc_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_06.png",
+      "sha256": "19e7c56fd201fb6b367a0cad2d3ae4cf6d9c7a38518dc412b2608df833ddfe2e",
+      "size": 2169,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 06"
+    },
+    {
+      "fileName": "bfh1_misc_07.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_misc_07.png",
+      "sha256": "b8ead997d531a1aba302dfe83988881cd9272fc919c97472e969e4c6a85ceb58",
+      "size": 2825,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Misc 07"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_01.png",
+      "sha256": "38683b1f03bcd6dfec1d180e9ce3b6af832dae397f55ac12efc2c8ce54cd0f3e",
+      "size": 1881,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Breaking 01"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_02.png",
+      "sha256": "7d81d4eb7cf0d5ce0440e7f9fbb332c1d3cbfb45446e6aeb611819c1281ef8d9",
+      "size": 2516,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Breaking 02"
+    },
+    {
+      "fileName": "bfh1_rock_breaking_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_breaking_03.png",
+      "sha256": "26649db9dad3ea373997d13608981fd9ee7177f6be39cc886bb4b30bb8635ecb",
+      "size": 2338,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Breaking 03"
+    },
+    {
+      "fileName": "bfh1_rock_falling_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_01.png",
+      "sha256": "e86e9c46e41d663bdd5ceefa877420db0c133936b44d765ed3fad6d6727a73e2",
+      "size": 2181,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 01"
+    },
+    {
+      "fileName": "bfh1_rock_falling_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_02.png",
+      "sha256": "e7827a9b94e24754d9ebeba693a8cf559d43ddc7bfb94e425ed3fd6d3a76d72c",
+      "size": 2221,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 02"
+    },
+    {
+      "fileName": "bfh1_rock_falling_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_03.png",
+      "sha256": "05f7043d99879f003b3f763ad6813a5a1a2ca4b61c9630a820393ab45ab68899",
+      "size": 2525,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 03"
+    },
+    {
+      "fileName": "bfh1_rock_falling_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_04.png",
+      "sha256": "47998bbbf1266a72d806a07f272d2bef05bfa063279b25313ba1b7fbadc4eda3",
+      "size": 1914,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 04"
+    },
+    {
+      "fileName": "bfh1_rock_falling_05.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_05.png",
+      "sha256": "42a507b89f6ac6addadcf8264d99960e0e921ff02abc38049c5929158ef289b9",
+      "size": 2018,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 05"
+    },
+    {
+      "fileName": "bfh1_rock_falling_06.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_06.png",
+      "sha256": "57a90285845737c3fae0cec4e73bd4fd97e1c9a302156909ffb2342c12cc5f5b",
+      "size": 1846,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 06"
+    },
+    {
+      "fileName": "bfh1_rock_falling_07.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_07.png",
+      "sha256": "b2b1d1e1c2d33fefa8a492953181f4de5da583b5f5b2671edd34132d3d839bcc",
+      "size": 1908,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 07"
+    },
+    {
+      "fileName": "bfh1_rock_falling_08.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_08.png",
+      "sha256": "547d8f870a49b99f759cb7ca6c66331f2cdd09354f5676028f453aa759df8f7c",
+      "size": 2034,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 08"
+    },
+    {
+      "fileName": "bfh1_rock_falling_09.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_falling_09.png",
+      "sha256": "05cde277b8f7aa425c49501207e30af3925c0a2f710050dc811f555d8542d556",
+      "size": 2242,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Falling 09"
+    },
+    {
+      "fileName": "bfh1_rock_hit_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_rock_hit_01.png",
+      "sha256": "ab4f98283e0ce01bd457919f627823e31a4e7a60c490e8da5c4fef280f1fb44b",
+      "size": 2343,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Rock Hit 01"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_01.png",
+      "sha256": "e4e561387083d23cd9327d5f6baeb9b09d6a4de6e9318ca970ebaceee48b7a22",
+      "size": 1694,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Breaking 01"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_02.png",
+      "sha256": "51e81d892c0a8d378cdefdad21aaf5ec3afc9074dbc8c178bb1a4b41a98e0da3",
+      "size": 2045,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Breaking 02"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_03.png",
+      "sha256": "48dfa5e63186bc81b820ef9c0efc1c3a5226e1150cdcb3cd3dd0a816d0df7b65",
+      "size": 2717,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Breaking 03"
+    },
+    {
+      "fileName": "bfh1_wood_breaking_04.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_breaking_04.png",
+      "sha256": "137ec66f4057e71135b70ed713304a8c7dfbaca0617b960604febe5e0209d291",
+      "size": 2939,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Breaking 04"
+    },
+    {
+      "fileName": "bfh1_wood_falling_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_falling_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_falling_01.png",
+      "sha256": "a1f095d64cc4f70f92f3298643c0c4369b82345638977cc079de2601fbd156c7",
+      "size": 3213,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Falling 01"
+    },
+    {
+      "fileName": "bfh1_wood_falling_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_falling_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_falling_02.png",
+      "sha256": "0e3d5f4a8139868077ba5c8639c3204338394236476b6b7afcbd5e2d16303c0e",
+      "size": 2997,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Falling 02"
+    },
+    {
+      "fileName": "bfh1_wood_hit_01.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_01.png",
+      "sha256": "e6a73addb078e7b266978393d5d64fb32af2c314a13189d8078ad697dd1dfdc1",
+      "size": 2176,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Hit 01"
+    },
+    {
+      "fileName": "bfh1_wood_hit_02.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_02.png",
+      "sha256": "02f4f3628e945495a0f7d1dd4c31089104ded94c32c2278e5fc45ae1b2870acd",
+      "size": 3507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Hit 02"
+    },
+    {
+      "fileName": "bfh1_wood_hit_03.png",
+      "path": "packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/75-cc0-breaking-falling-hit-sfx/thumbnails/bfh1_wood_hit_03.png",
+      "sha256": "2203eb9ff2ea81b18e1c92a8665fddaff54bd5f01518fad51a6b9c13f8e29eff",
+      "size": 2470,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bfh1 Wood Hit 03"
+    }
+  ]
+}

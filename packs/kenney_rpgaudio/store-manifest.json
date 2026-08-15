@@ -1,0 +1,1558 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "RPG Audio",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "description": "RPG interface and foley sounds by Kenney (kenney.nl): doors, footsteps, handles, cloth and metal. CC0 per the included license.",
+  "folder": "packs/kenney_rpgaudio",
+  "itemCount": 51,
+  "items": [
+    {
+      "name": "Belthandle1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/beltHandle1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Belthandle2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/beltHandle2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookclose",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookClose.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookflip1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookflip2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookflip3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookopen",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookOpen.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookplace1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookplace2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bookplace3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Chop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/chop.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cloth1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/cloth1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cloth2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/cloth2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cloth3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/cloth3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cloth4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/cloth4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Clothbelt",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/clothBelt.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Clothbelt2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/clothBelt2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Creak1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/creak1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Creak2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/creak2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Creak3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/creak3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Doorclose 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Doorclose 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Doorclose 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Doorclose 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_4.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dooropen 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorOpen_1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dooropen 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/doorOpen_2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Drawknife1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Drawknife2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Drawknife3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dropleather",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/dropLeather.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Footstep00",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep00.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Footstep09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/footstep09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Footsteps\"}"
+    },
+    {
+      "name": "Handlecoins",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/handleCoins.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Handlecoins2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/handleCoins2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Handlesmallleather",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Handlesmallleather2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Knifeslice",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/knifeSlice.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Knifeslice2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/knifeSlice2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metalclick",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/metalClick.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metallatch",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/metalLatch.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metalpot1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metalpot2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot2.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metalpot3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot3.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "beltHandle1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/beltHandle1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/beltHandle1.ogg",
+      "sha256": "2ef665bd8b65dbe669f4560be38a6d8f04a162e618b15a49e3e71b58e558aab0",
+      "size": 10820,
+      "role": "Audio"
+    },
+    {
+      "fileName": "beltHandle2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/beltHandle2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/beltHandle2.ogg",
+      "sha256": "f3b692d5c83263c25bce779805b212dbab515d18a603c695fc6a1e8650cf5366",
+      "size": 15410,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookClose.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookClose.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookClose.ogg",
+      "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+      "size": 9292,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookFlip1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookFlip1.ogg",
+      "sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "size": 18248,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookFlip2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookFlip2.ogg",
+      "sha256": "3409042acbfaebc24c1a6327dc073e36f9250841712e96c5040da566a97df73c",
+      "size": 12393,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookFlip3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookFlip3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookFlip3.ogg",
+      "sha256": "c85db5dceb3f1df073e960630277eaa88a5afda0477c1ddd68dad707621767be",
+      "size": 9077,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookOpen.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookOpen.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookOpen.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "size": 8273,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookPlace1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookPlace1.ogg",
+      "sha256": "26f3ce60fbde85b678b0ad7f6624d80535fe540d88232ad1e38e47a96662d977",
+      "size": 9901,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookPlace2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookPlace2.ogg",
+      "sha256": "831874e8fd142d4d0a03ff009f1f83966338a7878c0f6f38c613ae5b80dd731e",
+      "size": 11185,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bookPlace3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/bookPlace3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/bookPlace3.ogg",
+      "sha256": "b1afa711e1cabfe5b2c56e20e20e0f9d82142d067727447fa992ddc43dbdb06e",
+      "size": 9570,
+      "role": "Audio"
+    },
+    {
+      "fileName": "chop.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/chop.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/chop.ogg",
+      "sha256": "d00c2b3c9fff07e376145c8c8c45c90e5084ec192f6ce0387db233f7b86f1486",
+      "size": 9370,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cloth1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/cloth1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/cloth1.ogg",
+      "sha256": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d",
+      "size": 16508,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cloth2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/cloth2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/cloth2.ogg",
+      "sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "size": 11787,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cloth3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/cloth3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/cloth3.ogg",
+      "sha256": "a48632d17a4f1416541d261a32a31612e01267144c407fa3ecab3ff410f0085b",
+      "size": 12432,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cloth4.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/cloth4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/cloth4.ogg",
+      "sha256": "e7ab9a6c4466dea874196c61f59bf1da05cfe58748f42fadd695d441a154a99b",
+      "size": 11043,
+      "role": "Audio"
+    },
+    {
+      "fileName": "clothBelt.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/clothBelt.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/clothBelt.ogg",
+      "sha256": "f29560a2aea95bbfeb643e1e8f56ec2b6f7e32f32ce4e140645a36db81de3253",
+      "size": 21491,
+      "role": "Audio"
+    },
+    {
+      "fileName": "clothBelt2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/clothBelt2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/clothBelt2.ogg",
+      "sha256": "d545b1d9f20e6188140aaf551a96f1e82fe0d15f7ca066fac8b065e1231e0038",
+      "size": 20013,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creak1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/creak1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/creak1.ogg",
+      "sha256": "8a346186fd297254248cab8e8117060a52a5cf2a84f603153a762108550ea95e",
+      "size": 15761,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creak2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/creak2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/creak2.ogg",
+      "sha256": "8a990afdc03aebb91d528f5385e2f95582dbfa8e2c12c71098ab01be9142294a",
+      "size": 19012,
+      "role": "Audio"
+    },
+    {
+      "fileName": "creak3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/creak3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/creak3.ogg",
+      "sha256": "f9638787f95004b9d2d06f8eff8e99d4e594c21b51947daf562856fbcec905d1",
+      "size": 10408,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorClose_1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorClose_1.ogg",
+      "sha256": "834d29c60a8a8bfb50b158cdb6b7dfa8f02812a408a1ee9703d038dfab0b1aeb",
+      "size": 18564,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorClose_2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorClose_2.ogg",
+      "sha256": "4aa4fe79836c53cd6d0cb0b22ddc33b9901429463ae1bb75131f072683f63f21",
+      "size": 17598,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorClose_3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorClose_3.ogg",
+      "sha256": "d0a2540e5e1639bc2fbeef34e76f28e9f9cb8a151736a0ac4c13859994328d0e",
+      "size": 20889,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorClose_4.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorClose_4.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorClose_4.ogg",
+      "sha256": "fd21c0e7a9d0317375d2561590f0770dd3380ee35507d064862cb44d6f71595b",
+      "size": 16902,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorOpen_1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorOpen_1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorOpen_1.ogg",
+      "sha256": "4ab93bab96522d8eb109ff96dc57cb6765deb02448fe14c10472084be5bb2a0b",
+      "size": 22848,
+      "role": "Audio"
+    },
+    {
+      "fileName": "doorOpen_2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/doorOpen_2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/doorOpen_2.ogg",
+      "sha256": "68962fb0458c9bac59dec3adefa9849703c7c89d34712de03dd0075d095e79e9",
+      "size": 30280,
+      "role": "Audio"
+    },
+    {
+      "fileName": "drawKnife1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/drawKnife1.ogg",
+      "sha256": "276403e72c3b71c47bc24db3083970c23f8e5551ffa78f436f83483c56f3f0bb",
+      "size": 11134,
+      "role": "Audio"
+    },
+    {
+      "fileName": "drawKnife2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/drawKnife2.ogg",
+      "sha256": "d5df6a4130cbb016f97b4883769a418917b9629cb4c21717030b186e0c73281a",
+      "size": 12395,
+      "role": "Audio"
+    },
+    {
+      "fileName": "drawKnife3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/drawKnife3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/drawKnife3.ogg",
+      "sha256": "a11ae62fb1a628425769d11a9de394980ad8909c31f4c9a4316f226963e21caf",
+      "size": 12726,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dropLeather.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/dropLeather.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/dropLeather.ogg",
+      "sha256": "097e1d3b74949b0145fda0519d40b7e0773ab82ec4858727f95be830927e1a45",
+      "size": 11695,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep00.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep00.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep00.ogg",
+      "sha256": "6fe61ef1fc3bcf0e253bf2eb64759db6cb69e2fe452f4d88cc597ecf78a3d601",
+      "size": 9475,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep01.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep01.ogg",
+      "sha256": "313472dba31fd0c855376069fa368bb5a198c27251cc8398ef464578b7047a4c",
+      "size": 9900,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep02.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep02.ogg",
+      "sha256": "2d9575b7dead6e1217ca113991fc5229e9b6d998ea0726ebbb277e7398ab888f",
+      "size": 9528,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep03.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep03.ogg",
+      "sha256": "a86756b9af9f370455ab47844239bb07fd1bee7a113068c91f0fcd9b72703fae",
+      "size": 10559,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep04.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep04.ogg",
+      "sha256": "fd264d72a7cd622b82abde202f4ed09fa7de95d34c36473ee938ce66cdf39830",
+      "size": 11303,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep05.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep05.ogg",
+      "sha256": "817957e1f95d97fd36870064c41673895575cde17bccb245f50364c86ed10198",
+      "size": 10288,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep06.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep06.ogg",
+      "sha256": "6cabfe7ae95d227a84066c6e17014ac31cc7c89b14ef51d7877e98352d4a64fb",
+      "size": 9885,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep07.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep07.ogg",
+      "sha256": "42924cdbf998d5b3db180a339fd74afc94c570d594a536687e337ef1bdfdb346",
+      "size": 10264,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep08.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep08.ogg",
+      "sha256": "668f14dc1254d0d0f33025e9c7dbcdf2c2f00462ed0e07fb8f099c1d711c1337",
+      "size": 9242,
+      "role": "Audio"
+    },
+    {
+      "fileName": "footstep09.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/footstep09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/footstep09.ogg",
+      "sha256": "9324ebb9b2c5bcd078dcb523c6518d38a9f34081069d511602c2efb14ce06ce2",
+      "size": 9356,
+      "role": "Audio"
+    },
+    {
+      "fileName": "handleCoins.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/handleCoins.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/handleCoins.ogg",
+      "sha256": "8a91f969e932df709df80ee124d86a51389eed9b67f22e5e716bc2bbf60d8dab",
+      "size": 25394,
+      "role": "Audio"
+    },
+    {
+      "fileName": "handleCoins2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/handleCoins2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/handleCoins2.ogg",
+      "sha256": "4b857968d64f9ac9336a10ffac6694d7547e1f01566ad6857b30bc8db3ee6c32",
+      "size": 13094,
+      "role": "Audio"
+    },
+    {
+      "fileName": "handleSmallLeather.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather.ogg",
+      "sha256": "ae3cbf695aa0a8b98b5a80a835be5a3ccbd5446a24db2235cd4c3cd6fc92ed96",
+      "size": 10492,
+      "role": "Audio"
+    },
+    {
+      "fileName": "handleSmallLeather2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/handleSmallLeather2.ogg",
+      "sha256": "a66f6db5918ad016c28a9f2768f127a7f39b5fa04481e5a3b4e78ebe2a1c282d",
+      "size": 10028,
+      "role": "Audio"
+    },
+    {
+      "fileName": "knifeSlice.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/knifeSlice.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/knifeSlice.ogg",
+      "sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+      "size": 15532,
+      "role": "Audio"
+    },
+    {
+      "fileName": "knifeSlice2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/knifeSlice2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/knifeSlice2.ogg",
+      "sha256": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def",
+      "size": 15099,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metalClick.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/metalClick.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/metalClick.ogg",
+      "sha256": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+      "size": 13615,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metalLatch.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/metalLatch.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/metalLatch.ogg",
+      "sha256": "ba9ba60b172b3ebc131a940f25793cd2e207aca7af73dc80d637277f060f1708",
+      "size": 10208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metalPot1.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/metalPot1.ogg",
+      "sha256": "159def979e8e386c2c539f5e99cc30a080eb2dcb6c911fa2e4ccc0785b2522fd",
+      "size": 31619,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metalPot2.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot2.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/metalPot2.ogg",
+      "sha256": "8e1f820d217d380fde10e969d109db34303e3f4d11c3951926eddef813d04ae2",
+      "size": 22471,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metalPot3.ogg",
+      "path": "packs/kenney_rpgaudio/sounds/Audio/metalPot3.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/sounds/Audio/metalPot3.ogg",
+      "sha256": "d306e5b848f6843332d0ca19f8f7dfe5796aeb56d8273902b085df463273f1dc",
+      "size": 23142,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/kenney_rpgaudio/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/cover.png",
+      "sha256": "4e774394b832176386930db767719e7a101a09e8a8c6cc77f79fcf46d7a6a2bc",
+      "size": 14687,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "beltHandle1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/beltHandle1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/beltHandle1.png",
+      "sha256": "0f75be16d0c132be8170328a3f8ff3c1af92086b1c859ebdd266bf56f786c264",
+      "size": 2475,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Belthandle1"
+    },
+    {
+      "fileName": "beltHandle2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/beltHandle2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/beltHandle2.png",
+      "sha256": "ff033fcd6f6c0c52e1569841bee88e42e69d154bcc4f61b0b3104e82d8c25bec",
+      "size": 2231,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Belthandle2"
+    },
+    {
+      "fileName": "bookClose.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookClose.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookClose.png",
+      "sha256": "77a3050d7d448b619ca717e647d8a563c8ebd04ac848f6092443468d33a80069",
+      "size": 3046,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookclose"
+    },
+    {
+      "fileName": "bookFlip1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookFlip1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookFlip1.png",
+      "sha256": "d0785fb85f70d873e3f69afe752a5018fcc0d323f070bcda687c7c377402afc8",
+      "size": 2135,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookflip1"
+    },
+    {
+      "fileName": "bookFlip2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookFlip2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookFlip2.png",
+      "sha256": "169df9dd79abb3172ff518b05389a52ab17a3065d5eecd4326f3eaaf2cb9ef18",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookflip2"
+    },
+    {
+      "fileName": "bookFlip3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookFlip3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookFlip3.png",
+      "sha256": "70969ed27f203def62c313f884addc91a29789a789ef8123b4c1de7c8da28a49",
+      "size": 3185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookflip3"
+    },
+    {
+      "fileName": "bookOpen.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookOpen.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookOpen.png",
+      "sha256": "4045d6bb008f05027a01f1feb5d41aed77c369a0cac3b22a9f92e0604354ac91",
+      "size": 2927,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookopen"
+    },
+    {
+      "fileName": "bookPlace1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookPlace1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookPlace1.png",
+      "sha256": "f0a57cd9a10210d6185f17476cb74d6513a479c109fb4eec5c619f7b2dccc19d",
+      "size": 2675,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookplace1"
+    },
+    {
+      "fileName": "bookPlace2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookPlace2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookPlace2.png",
+      "sha256": "6562fec51f828e93e735c1564956afe47840bef0f9cb7226fc6bef1be5d4deb1",
+      "size": 2676,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookplace2"
+    },
+    {
+      "fileName": "bookPlace3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/bookPlace3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/bookPlace3.png",
+      "sha256": "ba7501359da65b32dc86e24f50045157172218ce7eddc9e1a8166b00769d6bf1",
+      "size": 3223,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bookplace3"
+    },
+    {
+      "fileName": "chop.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/chop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/chop.png",
+      "sha256": "276e0cf3865a7287f743a13cc91d08ab4a971467d26f3bc340e703b4cebcd97e",
+      "size": 3068,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Chop"
+    },
+    {
+      "fileName": "cloth1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/cloth1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/cloth1.png",
+      "sha256": "e4ee50ece50a4833948ce2a256ffa77a5fcc4ec09d6b332f73d19ad5c8023a27",
+      "size": 3385,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cloth1"
+    },
+    {
+      "fileName": "cloth2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/cloth2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/cloth2.png",
+      "sha256": "86e179805ae612a261e2ecd1a10fdf864e2549a61392917d9c3993abfe2d8c5c",
+      "size": 3348,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cloth2"
+    },
+    {
+      "fileName": "cloth3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/cloth3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/cloth3.png",
+      "sha256": "0dc667e98db45403cd219d2a0f27e86f437e661ee9ef40a35191df71869246d3",
+      "size": 3672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cloth3"
+    },
+    {
+      "fileName": "cloth4.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/cloth4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/cloth4.png",
+      "sha256": "268c6cac5660ba8656838fd8d6660d9903c55b1397995226abe69dbc9c256eba",
+      "size": 3944,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cloth4"
+    },
+    {
+      "fileName": "clothBelt.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/clothBelt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/clothBelt.png",
+      "sha256": "c91399132146141f4382476f23566ef7680964dd6bcf06a82687c7ac0ab16ee4",
+      "size": 3144,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Clothbelt"
+    },
+    {
+      "fileName": "clothBelt2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/clothBelt2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/clothBelt2.png",
+      "sha256": "3d131b75e08acb392422343f76f1e20c66dbe7016ceec645f8343aba24abaab7",
+      "size": 3141,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Clothbelt2"
+    },
+    {
+      "fileName": "creak1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/creak1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/creak1.png",
+      "sha256": "b324357e36f2319d44cc20527953fd8581c81417533dc886ea4893490216fc7b",
+      "size": 2904,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creak1"
+    },
+    {
+      "fileName": "creak2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/creak2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/creak2.png",
+      "sha256": "3ae54990fd16ddef82956dc4550839b21c4955ad4154da73d5ca2d3ce4ef36c7",
+      "size": 2859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creak2"
+    },
+    {
+      "fileName": "creak3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/creak3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/creak3.png",
+      "sha256": "8c2ddc6dd0f9d229d502ea8c8efcef7fa59800e5aac31a790a4cbf689e073832",
+      "size": 3029,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Creak3"
+    },
+    {
+      "fileName": "doorClose_1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorClose_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorClose_1.png",
+      "sha256": "277b8df55d1ef36d2177f4abf31c1a923d73191efff64ad848a76f0dd8559336",
+      "size": 3041,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Doorclose 1"
+    },
+    {
+      "fileName": "doorClose_2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorClose_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorClose_2.png",
+      "sha256": "265263432299fb3131c102fc4e569f5c0815dc4dd02b3fb9ffa4e063fb919ed4",
+      "size": 3611,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Doorclose 2"
+    },
+    {
+      "fileName": "doorClose_3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorClose_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorClose_3.png",
+      "sha256": "742eb919b48920622db2ad11423d4fe78bbc31e4ed2bd0ce10cd2bef77658548",
+      "size": 4019,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Doorclose 3"
+    },
+    {
+      "fileName": "doorClose_4.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorClose_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorClose_4.png",
+      "sha256": "40c13b2bbee108b4f12d3d9f102d53c67372507d23821782e51c9d741a598bfb",
+      "size": 3273,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Doorclose 4"
+    },
+    {
+      "fileName": "doorOpen_1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorOpen_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorOpen_1.png",
+      "sha256": "b2e8d78f27cf011c53f6b6b22b315db20620f2e910029e8e7410f293dea9847f",
+      "size": 3353,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dooropen 1"
+    },
+    {
+      "fileName": "doorOpen_2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/doorOpen_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/doorOpen_2.png",
+      "sha256": "0462d5bd49a6c6a64416bad5de503545fbda505edc85d7d6ff455ccaff0c9f7d",
+      "size": 3132,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dooropen 2"
+    },
+    {
+      "fileName": "drawKnife1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/drawKnife1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/drawKnife1.png",
+      "sha256": "c38724e53aad62061e01d62c698a66985bb602947a85bc78ff24d5f6a5d0f686",
+      "size": 3216,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drawknife1"
+    },
+    {
+      "fileName": "drawKnife2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/drawKnife2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/drawKnife2.png",
+      "sha256": "0459211d97d7021109b651f7fa5cb511aca28992655686af0bce7781e9a9eece",
+      "size": 3503,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drawknife2"
+    },
+    {
+      "fileName": "drawKnife3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/drawKnife3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/drawKnife3.png",
+      "sha256": "50dde93e8ec1f63ae35099779c30c2b18ef215310359d9dfcb4759c14f4ec271",
+      "size": 2525,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drawknife3"
+    },
+    {
+      "fileName": "dropLeather.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/dropLeather.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/dropLeather.png",
+      "sha256": "3129bcb5a5c8f8e107fac2d8006d36b5e6cb81f5e6e44906c6e1dac03960757f",
+      "size": 2861,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dropleather"
+    },
+    {
+      "fileName": "footstep00.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep00.png",
+      "sha256": "309120320abc4dd5d0fdeede87f477e3490d1b8f8f15532e7019ff548c486d79",
+      "size": 2689,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep00"
+    },
+    {
+      "fileName": "footstep01.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep01.png",
+      "sha256": "1f834d497e0c973d0a44118d8f2f24fbd1e59a6c622c12e246cf8d440b3f77e0",
+      "size": 2880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep01"
+    },
+    {
+      "fileName": "footstep02.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep02.png",
+      "sha256": "4714531b57f2d74ff1da0f8ea49b45fc37ba6a09e93c039a3978d6cf7d576907",
+      "size": 2968,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep02"
+    },
+    {
+      "fileName": "footstep03.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep03.png",
+      "sha256": "1b3bfa7cd50ec4f6fb7d49804ec2276c0216cfef2af8690dbc0425405da57da7",
+      "size": 2945,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep03"
+    },
+    {
+      "fileName": "footstep04.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep04.png",
+      "sha256": "b3a6d8021c50cc8a551551d03a5bc3de9860a014250eb034dbf61b6bbd4fb5a6",
+      "size": 2675,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep04"
+    },
+    {
+      "fileName": "footstep05.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep05.png",
+      "sha256": "22aa0ea90fd45a8bc512ee21cf0c6d3503f3a476b2bf529d7f81cd6a89188d9c",
+      "size": 2433,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep05"
+    },
+    {
+      "fileName": "footstep06.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep06.png",
+      "sha256": "6b4b57c6b59a4b4108d8d0a2ef11990099923770f6048962d03dd954ee4be32a",
+      "size": 2681,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep06"
+    },
+    {
+      "fileName": "footstep07.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep07.png",
+      "sha256": "c505c190d147ce9d4aaf7bf8d32d0d14ba289ba2a95fccefe9492537b76c9068",
+      "size": 2445,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep07"
+    },
+    {
+      "fileName": "footstep08.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep08.png",
+      "sha256": "8b5f94e71e7733a0af501b3f0bd71766543d2b691b32a0d754dbc3ed9727ff69",
+      "size": 2812,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep08"
+    },
+    {
+      "fileName": "footstep09.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/footstep09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/footstep09.png",
+      "sha256": "257c6a19426ceb0bf8f68f910015f7b5063b9778b7e1125bc2b83ace5458adc8",
+      "size": 3645,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Footstep09"
+    },
+    {
+      "fileName": "handleCoins.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/handleCoins.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/handleCoins.png",
+      "sha256": "24f585f6aa5070a1028d7b458b02da81bd32ae6e3964db8ad5dac39795f1763c",
+      "size": 2426,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Handlecoins"
+    },
+    {
+      "fileName": "handleCoins2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/handleCoins2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/handleCoins2.png",
+      "sha256": "d9935ca1a72262f6ab3ae233cf9f380c9a5774abd7ac156a36929ed939d4b1ac",
+      "size": 3256,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Handlecoins2"
+    },
+    {
+      "fileName": "handleSmallLeather.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/handleSmallLeather.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/handleSmallLeather.png",
+      "sha256": "730a01402489c9cb1d0ad6d8cb8cce0943754be8fcaba5963873e68f2550b6b9",
+      "size": 2534,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Handlesmallleather"
+    },
+    {
+      "fileName": "handleSmallLeather2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/handleSmallLeather2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/handleSmallLeather2.png",
+      "sha256": "e2f698b29668c33692f8fbd6338a9be04cc43e313701972dc6f9854888850a79",
+      "size": 2985,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Handlesmallleather2"
+    },
+    {
+      "fileName": "knifeSlice.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/knifeSlice.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/knifeSlice.png",
+      "sha256": "6f79eaa94509f0202cdef2b986160b827b96d94118ca7794bcb26ff8a2e126b7",
+      "size": 3018,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Knifeslice"
+    },
+    {
+      "fileName": "knifeSlice2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/knifeSlice2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/knifeSlice2.png",
+      "sha256": "da9e1335edecc52f2dcfe59dfeb0f27103e5d5edd041c984329e8a91bbfe6674",
+      "size": 3285,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Knifeslice2"
+    },
+    {
+      "fileName": "metalClick.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/metalClick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/metalClick.png",
+      "sha256": "6e4e9067904a7b2ea212eb83a041ef29427b132027c673846d8abfc1973a0ca7",
+      "size": 2319,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metalclick"
+    },
+    {
+      "fileName": "metalLatch.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/metalLatch.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/metalLatch.png",
+      "sha256": "f35a7e613ddab7e224e95bd8c61feb686a618aedab30a85d8c6a1a5966de75bb",
+      "size": 2469,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metallatch"
+    },
+    {
+      "fileName": "metalPot1.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/metalPot1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/metalPot1.png",
+      "sha256": "e30c7ec492f1c410d2a156bc8fad03d8e31840f821e271506aa4da9c8acf8f18",
+      "size": 3092,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metalpot1"
+    },
+    {
+      "fileName": "metalPot2.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/metalPot2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/metalPot2.png",
+      "sha256": "4cf641ef072ee62903eee1bdd48f2945d81995a74334cd06449f7e05bd018522",
+      "size": 3059,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metalpot2"
+    },
+    {
+      "fileName": "metalPot3.png",
+      "path": "packs/kenney_rpgaudio/thumbnails/Audio/metalPot3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/kenney_rpgaudio/thumbnails/Audio/metalPot3.png",
+      "sha256": "8d851e890c5ec23decf98f4a42c796fd7f6037ec6f46e0f89e9bc713c1e39ea6",
+      "size": 3188,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metalpot3"
+    }
+  ]
+}

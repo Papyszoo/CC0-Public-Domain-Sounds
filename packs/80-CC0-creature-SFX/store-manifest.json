@@ -1,0 +1,2419 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "80 CC0 Creature SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/80-cc0-creature-sfx",
+  "description": "80 creature sounds — aliens, barks, breaths, bugs, grunts, roars, screams and more, mostly voice-acted and filtered. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/80-CC0-creature-SFX",
+  "itemCount": 80,
+  "items": [
+    {
+      "name": "Alien 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Alien 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Alien 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Alien 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Alien 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Alien 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/alien_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Barking 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/barking_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Barking 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/barking_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Breath",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/breath.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Bug 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/bug_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Bug 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/bug_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Bug 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/bug_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Bug 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/bug_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Burble 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/burble_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Burble 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/burble_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Burp 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/burp_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Burp 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/burp_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cough 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cough_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cough 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cough_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cough 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cough_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Cute 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/cute_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Eat 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/eat_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Eat 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/eat_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Eat 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/eat_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Eat 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/eat_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Grunt 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/grunt_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Grunt 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/grunt_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Grunt 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/grunt_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Grunt 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/grunt_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Grunt 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/grunt_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Howl",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/howl.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Hurt 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/hurt_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Hurt 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/hurt_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Hurt 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/hurt_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Hurt 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/hurt_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Hurt 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/hurt_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Monster 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/monster_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Nose",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/nose.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Ooh",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/ooh.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Roar 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/roar_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Roar 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/roar_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Roar 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/roar_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Scream 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/scream_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Scream 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/scream_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Snore",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/snore.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Spit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/spit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Spit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/spit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Spit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/spit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Troll 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/troll_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Troll 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/troll_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Troll 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/troll_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Weird 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/weird_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Weird 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/weird_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Weird 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/weird_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Weird 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/weird_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    },
+    {
+      "name": "Weird 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/80-CC0-creature-SFX/sounds/weird_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Creatures & Animals\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "alien_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_01.ogg",
+      "sha256": "a725a4aef74d75bf8ddc9bc90abd49d1ba8380c62d80ee1318cf97c48c7a4124",
+      "size": 43847,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alien_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_02.ogg",
+      "sha256": "a28c192579824352a0177d71d9f2fe32560d17b00fbc16297488bddd07ddcdc9",
+      "size": 38506,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alien_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_03.ogg",
+      "sha256": "8e417706c6ca3f7eb99d9500d17bf74ef977d16c540dfa9d695db4721cc30003",
+      "size": 53349,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alien_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_04.ogg",
+      "sha256": "0a46b3c9f1028ea251bc0aa82bb9bdaa2e6208ed48d5a4e83811be282bbe32c7",
+      "size": 34957,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alien_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_05.ogg",
+      "sha256": "7f6414bd745b244af6f24f7bd2d58b0d7cd1c670ea389e122a750bc588ce7134",
+      "size": 25080,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alien_06.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/alien_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/alien_06.ogg",
+      "sha256": "795a25119b46ec1b0ce8e059cb75ac48386fb6db581deb9d0bfd06dc27e6e6c9",
+      "size": 25462,
+      "role": "Audio"
+    },
+    {
+      "fileName": "barking_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/barking_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/barking_01.ogg",
+      "sha256": "f9b32cc139f0b8e7ae1f3b2409c08f374faa3d3a0935beb85b13e822d84bbb3d",
+      "size": 17341,
+      "role": "Audio"
+    },
+    {
+      "fileName": "barking_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/barking_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/barking_02.ogg",
+      "sha256": "d0222abeebea1616996b58af320c5b08d48fd68e13d9ba85104fd64d9f8e22ba",
+      "size": 16651,
+      "role": "Audio"
+    },
+    {
+      "fileName": "breath.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/breath.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/breath.ogg",
+      "sha256": "d6ecfd092c261059701fe81581957ce6e67c1737978449bbd98ec6d4f30abb7f",
+      "size": 28273,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bug_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/bug_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/bug_01.ogg",
+      "sha256": "a7afae8bd3b448184e92bbb6162702e86322e5df58045715176c450ba4bbea3a",
+      "size": 26999,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bug_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/bug_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/bug_02.ogg",
+      "sha256": "7993707dcb082c4f9f297bec44f8aa276988d848f4cf10ea6046c1c45daee518",
+      "size": 29638,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bug_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/bug_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/bug_03.ogg",
+      "sha256": "947dad474b93a2786455b1772184f79f4881cf8bf212353638a42f662c808b7b",
+      "size": 22423,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bug_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/bug_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/bug_04.ogg",
+      "sha256": "478418f0d70667109145ca10d82e918c5eeb95c594be40186681179a883d64be",
+      "size": 20036,
+      "role": "Audio"
+    },
+    {
+      "fileName": "burble_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/burble_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/burble_01.ogg",
+      "sha256": "f4c27a1839ef9e82d29e1bb175c0ebf73c65b6839b2914108d0c219fc1f42445",
+      "size": 48655,
+      "role": "Audio"
+    },
+    {
+      "fileName": "burble_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/burble_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/burble_02.ogg",
+      "sha256": "7cc51b6cf28a5d0ac13f34e54cb18ebb8d2b66aa144281d321d0af826f56a85b",
+      "size": 43100,
+      "role": "Audio"
+    },
+    {
+      "fileName": "burp_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/burp_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/burp_01.ogg",
+      "sha256": "cbd6aa84cc088209e42014c563cda13ebcdd051df4e83768a9ae48554a32a163",
+      "size": 25902,
+      "role": "Audio"
+    },
+    {
+      "fileName": "burp_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/burp_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/burp_02.ogg",
+      "sha256": "6742601fee1432cee9ab78ec2f07ed5686c9584759887239dfed6cda028ea4e5",
+      "size": 36360,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cough_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cough_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cough_01.ogg",
+      "sha256": "ab4335a796373e46114e56ea9b8f2d5e3592d7f6e76c22c8b29b3aa985e8831c",
+      "size": 21788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cough_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cough_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cough_02.ogg",
+      "sha256": "df56e706c69183587dbf6750bf4d5df528051456cd4a838bb1171d5dbb29fcc9",
+      "size": 17739,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cough_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cough_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cough_03.ogg",
+      "sha256": "1c307cd83cbda1f6860ed496e41ac27f105be801f168a22e6e359d3f9e563bb5",
+      "size": 36293,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_01.ogg",
+      "sha256": "de478d6aaa052a06ff88351c684a5cd5fbef013248985fbb5ff0cdcddd9904ad",
+      "size": 19125,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_02.ogg",
+      "sha256": "9b3303940f1c789b9f24e87f6f70076224d9f1398caacc7df4c0e7c4a9e60888",
+      "size": 21644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_03.ogg",
+      "sha256": "de5b8609ffcdb6f22865c8dc696dc01bdbc54e78ca54af45cb22116a0641b6c2",
+      "size": 27354,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_04.ogg",
+      "sha256": "e9b717dffd587107f78d82e475da83513bd65dbaac2023a2f3691c34097fcc48",
+      "size": 23303,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_05.ogg",
+      "sha256": "41d1b63ad4f006c09dbc65a686c022633825b01aa20e400b6dce0c6a22970c7c",
+      "size": 22176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_06.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_06.ogg",
+      "sha256": "51810bea0b961af26d3fd81b4bcc9248636e2a8e8ea9e2bc6a3d83b39eacdf71",
+      "size": 20336,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_07.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_07.ogg",
+      "sha256": "b72456b5ee7f39154f7aea86ada23f281a24fe3a4d4d91704a7b7f5464b77a27",
+      "size": 15466,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_08.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_08.ogg",
+      "sha256": "1776b641f37d0de4d51cf067c4a4b2c170ae582fc75a83c7abd42f13acdb1ce3",
+      "size": 18709,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_09.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_09.ogg",
+      "sha256": "2432bc342b5688c390df41fbeb87be6af7fb686d67400d3310dfd1e2922bdbda",
+      "size": 26244,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cute_10.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/cute_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/cute_10.ogg",
+      "sha256": "85a53fc0b5cf400749d6bdf664f2c4e35d7b5c8621fb139640d6a723d5a76924",
+      "size": 21713,
+      "role": "Audio"
+    },
+    {
+      "fileName": "eat_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/eat_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/eat_01.ogg",
+      "sha256": "f17305072d3d0ca5556f72db8701866329d33561ca5df086e501f2a52e2022df",
+      "size": 32639,
+      "role": "Audio"
+    },
+    {
+      "fileName": "eat_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/eat_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/eat_02.ogg",
+      "sha256": "60226fe5e4bf5ced6457f43ef89114a91d8790634a9aebb3c5754768fe04d6ee",
+      "size": 21480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "eat_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/eat_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/eat_03.ogg",
+      "sha256": "3e7425cdf2cba7fe9c42e8306dc303a2c4f9a4f02358ee19329b734bf06591dd",
+      "size": 12484,
+      "role": "Audio"
+    },
+    {
+      "fileName": "eat_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/eat_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/eat_04.ogg",
+      "sha256": "1408d3cac16d7e8c99ce8702a76aa3c3fe18284d5326e88fc9b2c25331926ab8",
+      "size": 24596,
+      "role": "Audio"
+    },
+    {
+      "fileName": "grunt_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/grunt_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/grunt_01.ogg",
+      "sha256": "73ee84f2bb3e1b371a72dd66a09f150c98c9000bcb735c3bdd7f607e59385206",
+      "size": 24912,
+      "role": "Audio"
+    },
+    {
+      "fileName": "grunt_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/grunt_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/grunt_02.ogg",
+      "sha256": "76d78154f2f22b3f373bd3ec4ff0edabb459322f72adabfa285b738f37987cbb",
+      "size": 23322,
+      "role": "Audio"
+    },
+    {
+      "fileName": "grunt_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/grunt_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/grunt_03.ogg",
+      "sha256": "f2a23b32fcf9cbdabf059339d346ce7eead018fda778067827e71b96936989f1",
+      "size": 26099,
+      "role": "Audio"
+    },
+    {
+      "fileName": "grunt_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/grunt_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/grunt_04.ogg",
+      "sha256": "4fbc2b361ce055a3b94d43489108582313dd999e5761d4e69d59c9c7abcec295",
+      "size": 25479,
+      "role": "Audio"
+    },
+    {
+      "fileName": "grunt_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/grunt_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/grunt_05.ogg",
+      "sha256": "164059a171a8a7d8f1a2fcfdb195a9d50da3ab67bed0b52f4c2c3409fe5df049",
+      "size": 24809,
+      "role": "Audio"
+    },
+    {
+      "fileName": "howl.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/howl.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/howl.ogg",
+      "sha256": "e63e29a219dfbe64724525600f36db7aab6017145650ffbc92763f87181c7825",
+      "size": 25641,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hurt_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/hurt_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/hurt_01.ogg",
+      "sha256": "619f9f2b4bc6cb013b4a62d0ef515a11e4be3a73c9d78c7c12ec5669b166d2cd",
+      "size": 24174,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hurt_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/hurt_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/hurt_02.ogg",
+      "sha256": "b90ca3a0f5f48e1141ec6326f08ebf9f597efb6b2ca4ceeccc285b203c1ccbe1",
+      "size": 21608,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hurt_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/hurt_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/hurt_03.ogg",
+      "sha256": "53e0ff510ef43f583befea63af23af1d82ddb993b981f7c3c0e7eb5f0f9d21ab",
+      "size": 24204,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hurt_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/hurt_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/hurt_04.ogg",
+      "sha256": "65a6524d46bbf2acccb09b551fe7e3616dbd19f62266b5ea7e6313df29031df1",
+      "size": 14308,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hurt_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/hurt_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/hurt_05.ogg",
+      "sha256": "4dc63fc62e8604a87baa1f5a74b75d848ccb68ce6e0e34d603dd3cbefc8519ed",
+      "size": 19383,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_01.ogg",
+      "sha256": "95d9a327bfa843416fe2f315a139d380c3558493fa8030b35a56d2b0ad612602",
+      "size": 31780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_02.ogg",
+      "sha256": "bd424eeee4112dd7221eef93ec83fe632c4c5990e8e3a39bb68441354e4e7764",
+      "size": 20457,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_03.ogg",
+      "sha256": "b0b861b01fe160205ed14ebcc6d258fe416bfaede45a2fb2320d242cb09c3f70",
+      "size": 15025,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_04.ogg",
+      "sha256": "9aac0a8a8e887b0d1ea7d18875037fb4a9742d3c00ce5445b1b43cd32b8884cc",
+      "size": 21866,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_05.ogg",
+      "sha256": "13c5b520cb42a33157553ebad237a41c196e6cbe442758089937514bbe9f0d0d",
+      "size": 23752,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_06.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_06.ogg",
+      "sha256": "d98d583a470ec46818e83b4da5a12a552679e09d551990b7699fcbd91d755a02",
+      "size": 25696,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_07.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_07.ogg",
+      "sha256": "9f7f55d1fa7bea62261fd63d02e0eb4bf4b584a7a4147dee569049fa2a1b3f98",
+      "size": 23984,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_08.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_08.ogg",
+      "sha256": "1d9b267f80f51d90b996ea38caf423451e6add588c78844791080601a7833236",
+      "size": 25174,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_09.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/misc_09.ogg",
+      "sha256": "4a4c30321fd1132100da595c01769c4750410fcd4dee1e42e75a34a8484c35e9",
+      "size": 20481,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_01.ogg",
+      "sha256": "e8bb5c9d3d25172666c60ed302d354144b67e66170bdf039ec88f4b6b0cd879f",
+      "size": 50215,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_02.ogg",
+      "sha256": "2f590aec7086b2327a141ec71d5e8b8e83524a30e6b9baf3be2784f4adb153b3",
+      "size": 29602,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_03.ogg",
+      "sha256": "1208729886f3f66e7d8018e8880dff073275fd37b30e1016dd5b164161482df1",
+      "size": 17484,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_04.ogg",
+      "sha256": "04b556b93bf3f99255ac362ebe7f905f750a8bcbb653f78ef7191adb91e71f49",
+      "size": 24985,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_05.ogg",
+      "sha256": "e7e67dd4b5ae627dbdefcb25ee1a0fab2a5f6d0c9879eae87974a422fd83e583",
+      "size": 24208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_06.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_06.ogg",
+      "sha256": "6b8df01eb7821fb0fcf66b4683a8eb997ca728fded26b6937734b84ff05852f9",
+      "size": 31838,
+      "role": "Audio"
+    },
+    {
+      "fileName": "monster_07.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/monster_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/monster_07.ogg",
+      "sha256": "5f7d40c4899f2e2e146fe8a0207597d4daf4d304a644ad2e8629057bc49a87e9",
+      "size": 21987,
+      "role": "Audio"
+    },
+    {
+      "fileName": "nose.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/nose.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/nose.ogg",
+      "sha256": "c54f2937d705bda30a9618531d62752356ba9e1cae258687131e1582b36e53ce",
+      "size": 17972,
+      "role": "Audio"
+    },
+    {
+      "fileName": "ooh.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/ooh.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/ooh.ogg",
+      "sha256": "6e2323960b6eaa931a75e4f75e3f13926cf3b67d4c21767cae88f2b2f7c83613",
+      "size": 16551,
+      "role": "Audio"
+    },
+    {
+      "fileName": "roar_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/roar_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/roar_01.ogg",
+      "sha256": "e9d44326860a1c3aba917684faccfd967a4fefa284d7df773e05ae890ec242e0",
+      "size": 15863,
+      "role": "Audio"
+    },
+    {
+      "fileName": "roar_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/roar_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/roar_02.ogg",
+      "sha256": "ceb532ee0fe775d6f86a821099b75f1790ab8022b963cb837c8c1fa4fffee5c2",
+      "size": 28522,
+      "role": "Audio"
+    },
+    {
+      "fileName": "roar_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/roar_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/roar_03.ogg",
+      "sha256": "983396c808eb658ed3bd223ffaf9ea7f756dba7bc45ecc3fde117083026a4556",
+      "size": 24977,
+      "role": "Audio"
+    },
+    {
+      "fileName": "scream_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/scream_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/scream_01.ogg",
+      "sha256": "54da7bba4c4272b0b77dc3fe26a91d0a26d9280797fecb8197d716b47745eb85",
+      "size": 38406,
+      "role": "Audio"
+    },
+    {
+      "fileName": "scream_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/scream_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/scream_02.ogg",
+      "sha256": "73aedfbcc7e5b3004507d5a79e95ae53954026036bf8d6f65aa0a4ca298dd372",
+      "size": 37049,
+      "role": "Audio"
+    },
+    {
+      "fileName": "snore.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/snore.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/snore.ogg",
+      "sha256": "9edd6540801b7a044c30d89bab70dab20647b2f7a6db3ddb269c6203de8b4fb3",
+      "size": 24740,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spit_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/spit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/spit_01.ogg",
+      "sha256": "11185484afda924711008f5e565d0baa5ebb271457c028b7e19b9ed487f8c6bd",
+      "size": 28176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spit_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/spit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/spit_02.ogg",
+      "sha256": "aa65f01311e914d2861f1992a4e59f431c03edcf020e09961e422728562a2657",
+      "size": 35872,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spit_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/spit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/spit_03.ogg",
+      "sha256": "dcc68b992278e58fc51776b23b4cf04a28f7d660c58fd5514b35cb3f0936277c",
+      "size": 18610,
+      "role": "Audio"
+    },
+    {
+      "fileName": "troll_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/troll_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/troll_01.ogg",
+      "sha256": "d61a6ea6ab0263406de93002ee7378abac7b33486eafc04a91eeb625938e0df1",
+      "size": 25943,
+      "role": "Audio"
+    },
+    {
+      "fileName": "troll_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/troll_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/troll_02.ogg",
+      "sha256": "d63ae3a57294b8370eb6370cc4c75f544f4a8571d893ea3a48a4564d82e078cb",
+      "size": 33825,
+      "role": "Audio"
+    },
+    {
+      "fileName": "troll_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/troll_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/troll_03.ogg",
+      "sha256": "993b97ae0ca7755b6254f02242e6da4fe9895fc06ab2e092771927caab689660",
+      "size": 20952,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_01.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/weird_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/weird_01.ogg",
+      "sha256": "f4a67e07911836cb90479e01c5a32e31627038e3227ecec7c6e029b3aa2d81ad",
+      "size": 20568,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_02.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/weird_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/weird_02.ogg",
+      "sha256": "1d1bc049e70edaeaa31c2d87a65a05daf3f47ac317908368c245814cb649934e",
+      "size": 16721,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_03.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/weird_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/weird_03.ogg",
+      "sha256": "6db7b94df0f11eec671971f0f1ee6815400e29f99cfc42f64480f445d23e9436",
+      "size": 15579,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_04.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/weird_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/weird_04.ogg",
+      "sha256": "b8365f01b7905da42997959241a6c74aa319e08ed5d210a8008b34c6985f6a0a",
+      "size": 11164,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_05.ogg",
+      "path": "packs/80-CC0-creature-SFX/sounds/weird_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/sounds/weird_05.ogg",
+      "sha256": "475f387457f9fc336c60097418dac8b1a4d4ac7c89b0eabad50086238f248e58",
+      "size": 19512,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "alien_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_01.png",
+      "sha256": "d2c395058d493c4576f7fca55c49b9a6a38f3899b32dbfdcc25dc2594198b4c6",
+      "size": 2934,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 01"
+    },
+    {
+      "fileName": "alien_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_02.png",
+      "sha256": "4fc1dc613f264d91a8538b330d5491be8629ab86663bead6b8771537dfaf449c",
+      "size": 3018,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 02"
+    },
+    {
+      "fileName": "alien_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_03.png",
+      "sha256": "b57723697ef3dae72901a7c4b5ca9d822e5d350e2cf8cf22eb81fb93b7b95e95",
+      "size": 3448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 03"
+    },
+    {
+      "fileName": "alien_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_04.png",
+      "sha256": "a7b69f787691877db7649051d3010b5a310cfa6978cf611d2a88afc1524bac89",
+      "size": 3466,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 04"
+    },
+    {
+      "fileName": "alien_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_05.png",
+      "sha256": "04bed48d7b05bf59232338f3b7a9264abf462f3b646b4ffccb9c67848089c059",
+      "size": 2923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 05"
+    },
+    {
+      "fileName": "alien_06.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/alien_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/alien_06.png",
+      "sha256": "eeae422574d7ca36c78840cdacc78f4144bafeb71cbb6d77727bd1988c31b391",
+      "size": 3135,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien 06"
+    },
+    {
+      "fileName": "barking_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/barking_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/barking_01.png",
+      "sha256": "5cd2161d905d727b7607a480ddba40613464b078c19f485eb8d227934d1194ce",
+      "size": 3213,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Barking 01"
+    },
+    {
+      "fileName": "barking_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/barking_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/barking_02.png",
+      "sha256": "3d0efc6779ba38bf9464a04405e79226049ec81ca84a2fae0e472e0e86560b2e",
+      "size": 2692,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Barking 02"
+    },
+    {
+      "fileName": "breath.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/breath.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/breath.png",
+      "sha256": "ee46358198857af4df975c0970d7b3b4851a677df49dbf0e1dcd04351b008b91",
+      "size": 3020,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Breath"
+    },
+    {
+      "fileName": "bug_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/bug_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/bug_01.png",
+      "sha256": "2bed8efeaf9f599819bff123fa808da92d5af5378de631da24a2c03cda2118a5",
+      "size": 1860,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bug 01"
+    },
+    {
+      "fileName": "bug_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/bug_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/bug_02.png",
+      "sha256": "a79e5ed9ee78ae476f46cd1309f2996e3eca90920f6c1144536989422a6898e1",
+      "size": 2236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bug 02"
+    },
+    {
+      "fileName": "bug_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/bug_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/bug_03.png",
+      "sha256": "699722aea99693afab5c169f52ee2c8f06fa4a7a4149b43a95850b500e9e5358",
+      "size": 3448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bug 03"
+    },
+    {
+      "fileName": "bug_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/bug_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/bug_04.png",
+      "sha256": "e9674283a285a5fc7123f30391f302f6346fcf67bd01da50962c8ead20991d09",
+      "size": 3612,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bug 04"
+    },
+    {
+      "fileName": "burble_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/burble_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/burble_01.png",
+      "sha256": "d52b48b78cbd308bd0ad750aca51ab3c1939fb9ff69542bf45c77779786cfb86",
+      "size": 4034,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Burble 01"
+    },
+    {
+      "fileName": "burble_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/burble_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/burble_02.png",
+      "sha256": "3ec72a992f290c05279f374057ef1ded14d4efa9743276171a4f7542e1414b4e",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Burble 02"
+    },
+    {
+      "fileName": "burp_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/burp_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/burp_01.png",
+      "sha256": "7367623908b6c887dfda642083aea48bc3e5c4739341850712d58378ae1cbf99",
+      "size": 3630,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Burp 01"
+    },
+    {
+      "fileName": "burp_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/burp_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/burp_02.png",
+      "sha256": "284755b2a7c99e8644bbb86ecdac9b5bbf6e649942b570c75a91d6497fdac988",
+      "size": 3916,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Burp 02"
+    },
+    {
+      "fileName": "cough_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cough_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cough_01.png",
+      "sha256": "db0f0f61e4757b7ab17aac467b8d2019495c00c1b91f2911820c0800e1926aeb",
+      "size": 4085,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cough 01"
+    },
+    {
+      "fileName": "cough_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cough_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cough_02.png",
+      "sha256": "14db2a207ad3658718603f2f84d546e97abecf36586c55f03458e5e7b4a9c550",
+      "size": 3479,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cough 02"
+    },
+    {
+      "fileName": "cough_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cough_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cough_03.png",
+      "sha256": "c84fdaf35e844bbd9f89505a9d37ebe192dfeac4fe00a6b0d5036b6a1ece1b7d",
+      "size": 3992,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cough 03"
+    },
+    {
+      "fileName": "cute_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_01.png",
+      "sha256": "038bd91bf04286400e4c6a717f4f915b6176adec9f0d0a7e400a08a8b919b5d4",
+      "size": 3721,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 01"
+    },
+    {
+      "fileName": "cute_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_02.png",
+      "sha256": "4c8ddf3de64075eb565cfde19ff136a0c4aaee789d7f8da82810139831c7d4a0",
+      "size": 4693,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 02"
+    },
+    {
+      "fileName": "cute_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_03.png",
+      "sha256": "ae01fc7ad2518fd06275705b3eb0837708e15c26230a8b4d4fd11f1e1ada4e8a",
+      "size": 4325,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 03"
+    },
+    {
+      "fileName": "cute_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_04.png",
+      "sha256": "db1fb421b7458804d57f9e66bf8d46ab07ef94f16a10f7702403f7cf7e08fba7",
+      "size": 4003,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 04"
+    },
+    {
+      "fileName": "cute_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_05.png",
+      "sha256": "e2cec14ea2afa64163c7c4b838a8867db267575397834a2070008ba00937a65b",
+      "size": 3936,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 05"
+    },
+    {
+      "fileName": "cute_06.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_06.png",
+      "sha256": "d94402f83d2c895c221d0536c2682d6510c8267e4e96946afa42741bddb17f5d",
+      "size": 3678,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 06"
+    },
+    {
+      "fileName": "cute_07.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_07.png",
+      "sha256": "73d605f3e4660f1f2faabb83f5b43437e62f014d715e620c7a558a831b02851a",
+      "size": 3473,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 07"
+    },
+    {
+      "fileName": "cute_08.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_08.png",
+      "sha256": "2b0ae3ec0f66fa1182b15274fd3562e4c01107b81b9daa0bcd3ac5370049b527",
+      "size": 3926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 08"
+    },
+    {
+      "fileName": "cute_09.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_09.png",
+      "sha256": "2b232d3daef742accf7b406704c994902898b1fd73ed169758a154e8c0009d63",
+      "size": 4017,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 09"
+    },
+    {
+      "fileName": "cute_10.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/cute_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/cute_10.png",
+      "sha256": "c4cc22c80f071e55d0f86392208aee022828d9114b998d939b8a889c77cec710",
+      "size": 4010,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cute 10"
+    },
+    {
+      "fileName": "eat_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/eat_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/eat_01.png",
+      "sha256": "3efaf7110cf3a917829df121ebc7b0a4fe8dae255441317c4df970d1d6690fea",
+      "size": 3812,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Eat 01"
+    },
+    {
+      "fileName": "eat_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/eat_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/eat_02.png",
+      "sha256": "465caf0ce4a895520d67be144b61de86661660b343e48e0108b5badbfeac5699",
+      "size": 3296,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Eat 02"
+    },
+    {
+      "fileName": "eat_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/eat_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/eat_03.png",
+      "sha256": "fb83daa42f7754d53b8d4255cb7cb1fb2fa0f8a453f0c1c257216cdfa8f62df2",
+      "size": 2638,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Eat 03"
+    },
+    {
+      "fileName": "eat_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/eat_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/eat_04.png",
+      "sha256": "69e399b981a253ea435340fdb0a54586b0ef9558f54913aa404e3f721cb1eefc",
+      "size": 3185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Eat 04"
+    },
+    {
+      "fileName": "grunt_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/grunt_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/grunt_01.png",
+      "sha256": "92796ab175c938baac697e92b22aaafbd81dfb8dc779eefda0e3368cb1a29b17",
+      "size": 3759,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Grunt 01"
+    },
+    {
+      "fileName": "grunt_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/grunt_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/grunt_02.png",
+      "sha256": "0494696d9d449360f77b0ebf344d4016b191a1eaed2b729109ea2e87a279b908",
+      "size": 4153,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Grunt 02"
+    },
+    {
+      "fileName": "grunt_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/grunt_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/grunt_03.png",
+      "sha256": "cff74d061155778549b6ebb2c84a29b2bb827138423691da46cff439e9499f29",
+      "size": 3355,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Grunt 03"
+    },
+    {
+      "fileName": "grunt_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/grunt_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/grunt_04.png",
+      "sha256": "17db8c3bb6767349545b7a85987ffb0c03043e162d595f7b03a8cd2b99302a0b",
+      "size": 3592,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Grunt 04"
+    },
+    {
+      "fileName": "grunt_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/grunt_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/grunt_05.png",
+      "sha256": "7cda281ff9d9afb3a864d0119f6d4648856055d318f6b38a83e0ac2d2862ae11",
+      "size": 3242,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Grunt 05"
+    },
+    {
+      "fileName": "howl.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/howl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/howl.png",
+      "sha256": "895ab2688a0968eee512eb720f0e0f38aac501c2ad851864c31aadcec1082bc3",
+      "size": 2879,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Howl"
+    },
+    {
+      "fileName": "hurt_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/hurt_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/hurt_01.png",
+      "sha256": "12785cc4aa6ac95c95c7be548ba0cd3520f542e9a03a55ea1540a1d5152eccb2",
+      "size": 3524,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hurt 01"
+    },
+    {
+      "fileName": "hurt_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/hurt_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/hurt_02.png",
+      "sha256": "c301c147ad0c56f9e606b6c1ac4f9c20c38ba9072138a780d6e616fe42e0b9ef",
+      "size": 3582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hurt 02"
+    },
+    {
+      "fileName": "hurt_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/hurt_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/hurt_03.png",
+      "sha256": "80ed71ddafbfd7ceec0311034d1a37b6e3683612296e96ea8c9715acf5d08010",
+      "size": 3109,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hurt 03"
+    },
+    {
+      "fileName": "hurt_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/hurt_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/hurt_04.png",
+      "sha256": "9be1980311c81b0c8d53c35da84d1daa5f1b7a7ee265079fa16fe3bb467eb46b",
+      "size": 3804,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hurt 04"
+    },
+    {
+      "fileName": "hurt_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/hurt_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/hurt_05.png",
+      "sha256": "c46338fd116a212da74deb296c6fc01468986d6a31a66aaa72af4e045576a657",
+      "size": 3599,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hurt 05"
+    },
+    {
+      "fileName": "misc_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_01.png",
+      "sha256": "f0cf22fa0108fcec7fa1cb300606e11d290dd602ad8653c5a90214c295b7d612",
+      "size": 3109,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 01"
+    },
+    {
+      "fileName": "misc_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_02.png",
+      "sha256": "88336e7083014707f89f424e81fcda8d08bdfb964752c33d9460fd0e01b6f0ae",
+      "size": 3797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 02"
+    },
+    {
+      "fileName": "misc_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_03.png",
+      "sha256": "81e6608bb8df38b6ee0052a1b7b74379034e87339c1cc2565c7bbf80ca901af5",
+      "size": 3478,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 03"
+    },
+    {
+      "fileName": "misc_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_04.png",
+      "sha256": "fbebae4f38d3ac8d0387e7ee559af067858f0229b572a90b8319c682df8ea28b",
+      "size": 3439,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 04"
+    },
+    {
+      "fileName": "misc_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_05.png",
+      "sha256": "b28f0f40dd418ec75254022d1f8f9945089f73857385edc8a0ba6a9c74f1e834",
+      "size": 3784,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 05"
+    },
+    {
+      "fileName": "misc_06.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_06.png",
+      "sha256": "25e51eeb0ca75b0df57f4f7e877db53457de5cd897216b318fa5c2579f58a389",
+      "size": 3361,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 06"
+    },
+    {
+      "fileName": "misc_07.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_07.png",
+      "sha256": "f962bbd0225829b3929c10a5b721098bfca5651fe0d39fb1717e293731ccc16e",
+      "size": 2247,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 07"
+    },
+    {
+      "fileName": "misc_08.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_08.png",
+      "sha256": "8e48cf56786236a33a403a5dd686bac35aca7cd94d8b5c2f8f3b9723a10bc1db",
+      "size": 3358,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 08"
+    },
+    {
+      "fileName": "misc_09.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/misc_09.png",
+      "sha256": "810a1987dcc8d5e4e176251f0ed64e050900a4cabb6b7fbf91b911cd3b20bb83",
+      "size": 3859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 09"
+    },
+    {
+      "fileName": "monster_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_01.png",
+      "sha256": "eec3e0cde60128c12cae3a34508ccc0d3d50b8f9757c13775d8986a1d5b4dfe8",
+      "size": 3239,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 01"
+    },
+    {
+      "fileName": "monster_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_02.png",
+      "sha256": "4c14dbda7105d18fa7cde33cc32f5314ccb7e2887dbca68f1b382506e0607916",
+      "size": 3354,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 02"
+    },
+    {
+      "fileName": "monster_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_03.png",
+      "sha256": "0e82d6ad15eef9e308d3443f416177c57ace8cfe4705bf5b23267c9b0d1957b4",
+      "size": 2746,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 03"
+    },
+    {
+      "fileName": "monster_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_04.png",
+      "sha256": "b192dcde66b892d9b8ae372f013d7cc6e686cc78c737e60efcadf895133b6c26",
+      "size": 3818,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 04"
+    },
+    {
+      "fileName": "monster_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_05.png",
+      "sha256": "54aff1d2c1849238ecbae206296be94d10b4aacede74b61a8c82f87b51f83338",
+      "size": 3093,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 05"
+    },
+    {
+      "fileName": "monster_06.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_06.png",
+      "sha256": "6cf882aaa1cca749d14244858d5bef6c4bcbd8ed47d098d938b526619ac1b074",
+      "size": 3435,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 06"
+    },
+    {
+      "fileName": "monster_07.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/monster_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/monster_07.png",
+      "sha256": "3109dbf60a677fc1f35c090930cdfd316c3374f8aa864e16c2d9d60d1dffbfb6",
+      "size": 3245,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monster 07"
+    },
+    {
+      "fileName": "nose.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/nose.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/nose.png",
+      "sha256": "28797de8b7963648954dff12ddc2cb1c0cb1d329ba54627e4adb7a98552b2d2f",
+      "size": 3720,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nose"
+    },
+    {
+      "fileName": "ooh.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/ooh.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/ooh.png",
+      "sha256": "5ca5f9262117b1f2750ee4bd12ee0a998f1edaa9dbd37e9f578027247b02fb46",
+      "size": 2198,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ooh"
+    },
+    {
+      "fileName": "roar_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/roar_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/roar_01.png",
+      "sha256": "6353855662bc1bd84d98bb55ce177f1365b3c0f55c725407a27602d9e0fac38a",
+      "size": 3882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Roar 01"
+    },
+    {
+      "fileName": "roar_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/roar_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/roar_02.png",
+      "sha256": "09b9b1b9eda4438ec54e0cf194ca99ad72bff9f931bad314c0fc1c22f0d6daa2",
+      "size": 3515,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Roar 02"
+    },
+    {
+      "fileName": "roar_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/roar_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/roar_03.png",
+      "sha256": "ab5e7f301e7e125a4f0fbdc7e18b0db50bf0d0489ca8690e181205853be00dc2",
+      "size": 3845,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Roar 03"
+    },
+    {
+      "fileName": "scream_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/scream_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/scream_01.png",
+      "sha256": "9d71c66ecfdfec3451c33ad7646b47728991ccb45e9224aabf73f117bed6015a",
+      "size": 4333,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Scream 01"
+    },
+    {
+      "fileName": "scream_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/scream_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/scream_02.png",
+      "sha256": "f70db6107eb5669ffc63ba6baaae9b08c9d043464f1ded5f6444588a0f5b3870",
+      "size": 4344,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Scream 02"
+    },
+    {
+      "fileName": "snore.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/snore.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/snore.png",
+      "sha256": "1ca3246be04b327295cc991a36c89fe13296b97c3aaa7aad34d78888a3467c2a",
+      "size": 3754,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Snore"
+    },
+    {
+      "fileName": "spit_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/spit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/spit_01.png",
+      "sha256": "6011d4b9bbb3da0c8181d62c8967c631a3833a83d354408935662fd9524d77f1",
+      "size": 3159,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spit 01"
+    },
+    {
+      "fileName": "spit_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/spit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/spit_02.png",
+      "sha256": "e5ad6275429da9f53e8c50917f87c6269fed31418f345195fe724fcd93ba9468",
+      "size": 3541,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spit 02"
+    },
+    {
+      "fileName": "spit_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/spit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/spit_03.png",
+      "sha256": "abb06b202f9b49da09495c75c30712a39d43f072453f60a482b164d1de9c5011",
+      "size": 2808,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spit 03"
+    },
+    {
+      "fileName": "troll_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/troll_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/troll_01.png",
+      "sha256": "b9cfdfd1564030ae48e7ea815da35a88fb7903602ebb7c830c454a150625890c",
+      "size": 4103,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Troll 01"
+    },
+    {
+      "fileName": "troll_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/troll_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/troll_02.png",
+      "sha256": "d4e0b70a37655552fdc1ebe69e85b4e1311c7c39325ba171bbdf7b266d3d23b8",
+      "size": 2821,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Troll 02"
+    },
+    {
+      "fileName": "troll_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/troll_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/troll_03.png",
+      "sha256": "db0764ee52f1c62c1b9d7158475312ef6fa6f9e3bc644f8b59ed8e132157ee16",
+      "size": 3670,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Troll 03"
+    },
+    {
+      "fileName": "weird_01.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/weird_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/weird_01.png",
+      "sha256": "777e5b80622e8d1f8fa2291e8b51b082a5e73239d2f9c0cefc7c8dd78fb048af",
+      "size": 2867,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 01"
+    },
+    {
+      "fileName": "weird_02.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/weird_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/weird_02.png",
+      "sha256": "1d7b46c1204cd2292ac8df0ae8e26c157f350aee3eff3cf5a9e002aa1c3cb31f",
+      "size": 3184,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 02"
+    },
+    {
+      "fileName": "weird_03.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/weird_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/weird_03.png",
+      "sha256": "c7d264d417f229bc144b85f0b817ccfb17246150a076599a3b8b079d8c61ab52",
+      "size": 2838,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 03"
+    },
+    {
+      "fileName": "weird_04.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/weird_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/weird_04.png",
+      "sha256": "f46a9344747cb928c05a8a57738653753ee710f3acd838b58d6fbb36b8e937a0",
+      "size": 3038,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 04"
+    },
+    {
+      "fileName": "weird_05.png",
+      "path": "packs/80-CC0-creature-SFX/thumbnails/weird_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/80-CC0-creature-SFX/thumbnails/weird_05.png",
+      "sha256": "a30a5cd6b6b536e9d4aed12be95c43ae31415c24e1e7aeb62cf2d0d272dd0baa",
+      "size": 3152,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 05"
+    }
+  ]
+}

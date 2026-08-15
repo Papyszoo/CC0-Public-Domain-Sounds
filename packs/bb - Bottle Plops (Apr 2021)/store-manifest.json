@@ -1,0 +1,619 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Bottle Plops (Apr 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Bottle plop and cork pop foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Bottle Plops (Apr 2021)",
+  "itemCount": 20,
+  "items": [
+    {
+      "name": "Bottle Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Bottle - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bottle Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Bottle - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Airy 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Airy 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Airy 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Airy 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Sputter 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Sputter 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Sputter 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Sputter 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Viscous 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Viscous 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Viscous 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Viscous 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Viscous 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Wheeze 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Wheeze 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Wheeze 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Wheeze 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop Wheeze 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Bottle - Shake 1.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Bottle - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Bottle%20-%20Shake%201.wav",
+      "sha256": "6518d102b496fd9698d944abfa0292b1162996cd608221c0cc5fd57836da3816",
+      "size": 554804,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Bottle - Shake 2.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Bottle - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Bottle%20-%20Shake%202.wav",
+      "sha256": "f41405ff3612e10b7be1450740f83be6d3ead16ad35e0d992563a0f57fa2e809",
+      "size": 521728,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Airy 1.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Airy%201.wav",
+      "sha256": "e00758f4b25256814b372dd4784efcded9824c8c497b4080439a3797491f03dd",
+      "size": 263232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Airy 2.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Airy%202.wav",
+      "sha256": "823a8b0d04f89e24a1ec4e183e4b8c8e064437687b35a513f6fc630a37f36612",
+      "size": 426116,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Airy 3.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Airy%203.wav",
+      "sha256": "82e444d7bfc254c4459c5f4165c58b69012758ddde6d7335b6017264ba9e92e0",
+      "size": 318604,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Airy 4.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Airy 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Airy%204.wav",
+      "sha256": "306874b96e14ff8b87884988907a9550e8dea167489a809a75aa247080ab9411",
+      "size": 333292,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Sputter 1.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Sputter%201.wav",
+      "sha256": "dd8550e6ce281048ca567a090c88237c06896eff64c3d6d5ed62106dbd5de24e",
+      "size": 393148,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Sputter 2.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Sputter%202.wav",
+      "sha256": "1d8d54109890eb46d7f96e09a74759039592ac7469bf979b1a42e49a672e6fd5",
+      "size": 554076,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Sputter 3.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Sputter%203.wav",
+      "sha256": "ffb48dac5b2b12d4c96621e1fdd6c84b59a673dea116f36afd5837be57b2d113",
+      "size": 507380,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Sputter 4.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Sputter 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Sputter%204.wav",
+      "sha256": "d4e17ba354db2aaee0c204a4ffca6d84894913e2ecccb1c5ea401b27d3a34535",
+      "size": 1040948,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Viscous 1.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Viscous%201.wav",
+      "sha256": "73b73f2317f76af460f46c0f71fffc07d19115a8cb936aa36b63105e93ff2f50",
+      "size": 604324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Viscous 2.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Viscous%202.wav",
+      "sha256": "bcc23d91fe0d858a57126fd2d02e42cc8d07d40f0f5b832c6f641d56c6bfd623",
+      "size": 701132,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Viscous 3.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Viscous%203.wav",
+      "sha256": "697b68f99e157e5af352ecfbe87f1907456ad79737d2e7615208c8abb3c15b73",
+      "size": 603688,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Viscous 4.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Viscous%204.wav",
+      "sha256": "3a181ea9304bd9407a69f3c82a8bc20fc73df534224c0a171f2c411b045e029d",
+      "size": 580412,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Viscous 5.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Viscous 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Viscous%205.wav",
+      "sha256": "b44bcd2a249cc589652b900de52a267249dddf35a8fa157b263acf9616c4e352",
+      "size": 772000,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Wheeze 1.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Wheeze%201.wav",
+      "sha256": "a50d48c5506de07a10f51a9807e04b70c6c50b90157c9a6d76f4659cbe27765a",
+      "size": 500744,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Wheeze 2.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Wheeze%202.wav",
+      "sha256": "6529862021d89d3c2f0f4ed21586fddab1e460ab09a4d396fe08e20636a35112",
+      "size": 310780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Wheeze 3.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Wheeze%203.wav",
+      "sha256": "893fe2743caac3cbfde600160a1abf0f7166eaa5a1d0d54874006c65f80282ab",
+      "size": 318604,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Wheeze 4.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Wheeze%204.wav",
+      "sha256": "18c5313716b55342255976b17e3a4624c4ed1125bd0dbe90ad48ce8955f3ae05",
+      "size": 333292,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Plop - Wheeze 5.wav",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/sounds/Plop - Wheeze 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/sounds/Plop%20-%20Wheeze%205.wav",
+      "sha256": "6d5cc2636b89178d88678324b583c3098c90c9ccf9df8dcf8d9915e97862577a",
+      "size": 621528,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Bottle - Shake 1.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Bottle - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Bottle%20-%20Shake%201.png",
+      "sha256": "4954a2d41682b39a097b0f5d7b0fc5ce12e4d6d7da48af6c4f91ea7f1469c545",
+      "size": 2914,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bottle Shake 1"
+    },
+    {
+      "fileName": "Bottle - Shake 2.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Bottle - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Bottle%20-%20Shake%202.png",
+      "sha256": "40f3cf3493d71ddb244b1f31cfec2ef1b706a294fbbc46ccebd33d575b428587",
+      "size": 1872,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bottle Shake 2"
+    },
+    {
+      "fileName": "Plop - Airy 1.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Airy 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Airy%201.png",
+      "sha256": "47e0ddcd5f2615a0b087c77cba046e5ffdbfad188e05721255d729ad58005ce0",
+      "size": 2888,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Airy 1"
+    },
+    {
+      "fileName": "Plop - Airy 2.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Airy 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Airy%202.png",
+      "sha256": "51f85d16f3c9cdbe21dd08a7c54cdd36f568a80520e6196aaed0690085406ae3",
+      "size": 2981,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Airy 2"
+    },
+    {
+      "fileName": "Plop - Airy 3.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Airy 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Airy%203.png",
+      "sha256": "f61b150c867a0145a3b64ce001482972c78abc585d4d1f433906a9fce89c44c9",
+      "size": 3201,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Airy 3"
+    },
+    {
+      "fileName": "Plop - Airy 4.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Airy 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Airy%204.png",
+      "sha256": "d7b0905421b4cd60118ab6364dff94b83c282f0f0eff3b46d66dce414f8d5142",
+      "size": 3619,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Airy 4"
+    },
+    {
+      "fileName": "Plop - Sputter 1.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Sputter 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Sputter%201.png",
+      "sha256": "5462daf73085d94265417cd67e51b53de2d216e3d63c74cc3a3cad9fb06f27ab",
+      "size": 2420,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Sputter 1"
+    },
+    {
+      "fileName": "Plop - Sputter 2.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Sputter 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Sputter%202.png",
+      "sha256": "8ba0fd586a66da21aab4f09a1b86420f9ff4298ba2ad9dc04a82f28dcc76ab3f",
+      "size": 2637,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Sputter 2"
+    },
+    {
+      "fileName": "Plop - Sputter 3.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Sputter 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Sputter%203.png",
+      "sha256": "5f559ff1eb4f1cf69b346e4fcb1688bf3a019306db39817cc2097234f1dc35a6",
+      "size": 2826,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Sputter 3"
+    },
+    {
+      "fileName": "Plop - Sputter 4.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Sputter 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Sputter%204.png",
+      "sha256": "621891ccc3a9dea0394561c4ce1b04bed4896e05edadb5ff24eaca3c1caee7c2",
+      "size": 2832,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Sputter 4"
+    },
+    {
+      "fileName": "Plop - Viscous 1.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Viscous 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Viscous%201.png",
+      "sha256": "abe9321dfe4dee03da8d94c6a907e024563ea5919c8ff46cc66131d0c831b3d8",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Viscous 1"
+    },
+    {
+      "fileName": "Plop - Viscous 2.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Viscous 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Viscous%202.png",
+      "sha256": "ccadf4d7720f9b9d0979bce14a9d65432c6af0183f1e8e09456b8d3dac1b978e",
+      "size": 3008,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Viscous 2"
+    },
+    {
+      "fileName": "Plop - Viscous 3.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Viscous 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Viscous%203.png",
+      "sha256": "ed0b4229b17016259a2732a667c030c2fa2ee76d15beac6dbd7dac3b7a012b26",
+      "size": 2872,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Viscous 3"
+    },
+    {
+      "fileName": "Plop - Viscous 4.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Viscous 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Viscous%204.png",
+      "sha256": "e10befe780c91e0fbb00ae0e922b2ad74f2526466bd34a34b0ea7485ac68308e",
+      "size": 3016,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Viscous 4"
+    },
+    {
+      "fileName": "Plop - Viscous 5.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Viscous 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Viscous%205.png",
+      "sha256": "8bf12e386052b00184ebbd525962330ab8d93b132ce70337897b2ed8aba6c6e4",
+      "size": 3424,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Viscous 5"
+    },
+    {
+      "fileName": "Plop - Wheeze 1.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Wheeze 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Wheeze%201.png",
+      "sha256": "0b2a4643c656eb5a079c6d6afa30335f84f77eef2bc5e72cc2e093d4c67f9880",
+      "size": 3286,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Wheeze 1"
+    },
+    {
+      "fileName": "Plop - Wheeze 2.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Wheeze 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Wheeze%202.png",
+      "sha256": "994316e7ae023cea3dcfc2c4285ca507a7d8cf3ffce52f584e3cf4329a057454",
+      "size": 3286,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Wheeze 2"
+    },
+    {
+      "fileName": "Plop - Wheeze 3.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Wheeze 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Wheeze%203.png",
+      "sha256": "caa98caa2a741e4a95a305324a20d76e569ec297d3482284f6716e1c568f7613",
+      "size": 3188,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Wheeze 3"
+    },
+    {
+      "fileName": "Plop - Wheeze 4.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Wheeze 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Wheeze%204.png",
+      "sha256": "3053b633909f514d0566e8a66f1d2178eb35a43b7f30aea346321f7156a6d2ae",
+      "size": 3620,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Wheeze 4"
+    },
+    {
+      "fileName": "Plop - Wheeze 5.png",
+      "path": "packs/bb - Bottle Plops (Apr 2021)/thumbnails/Plop - Wheeze 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Bottle%20Plops%20%28Apr%202021%29/thumbnails/Plop%20-%20Wheeze%205.png",
+      "sha256": "6adf7be4ba53dd1550d671bad296565912d91c1281655865852544566fbd287c",
+      "size": 3104,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop Wheeze 5"
+    }
+  ]
+}

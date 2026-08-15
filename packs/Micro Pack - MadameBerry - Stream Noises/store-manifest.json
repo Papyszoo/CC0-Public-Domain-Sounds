@@ -1,0 +1,469 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: MadameBerry - Stream Noises",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Stream and flowing-water ambience, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - MadameBerry - Stream Noises",
+  "itemCount": 15,
+  "items": [
+    {
+      "name": "Madameberry Are We Fucking Good",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Are We Fucking Good.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Gotta Mute My Mic",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Gotta Mute My Mic.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Hello I'm Hands",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Hello I'm Hands.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Help Help Help",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Help Help Help.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Hipberrrrrrh",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - HipBerrrrrrh.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry I Want A Wife",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - I Want a Wife.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Laugh",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Laugh.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Meow Meow",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Meow Meow.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Muffin Mew",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Muffin Mew.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Ommmnomnomnom",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Ommmnomnomnom.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry One Dab",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - One Dab.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Whose The Cutest",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Whose the Cutest.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry Whyyyyy",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Whyyyyy.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry You're Adorable",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - You're Adorable.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Madameberry You're Welcome",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - You're Welcome.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Madameberry - Are We Fucking Good.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Are We Fucking Good.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Are%20We%20Fucking%20Good.wav",
+      "sha256": "b6ce6f0a5bb70b528b21cf7fd7502aeceed638cfe5f0c08cd12939da0bac4a19",
+      "size": 368902,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Gotta Mute My Mic.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Gotta Mute My Mic.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Gotta%20Mute%20My%20Mic.wav",
+      "sha256": "3a7aefcbeb4b061032f69711234b2811ff7618b3f27b3820fc23a6df72c761df",
+      "size": 3775454,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Hello I'm Hands.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Hello I'm Hands.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Hello%20I%27m%20Hands.wav",
+      "sha256": "1f07648ff9a5dc3035caa837a5fc7051bbdfbdeec77630e868d53a6a07757065",
+      "size": 559366,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Help Help Help.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Help Help Help.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Help%20Help%20Help.wav",
+      "sha256": "aa1aaf4331959f02fee8abc2aaf11468af64eff674318b0b102c777df19dba72",
+      "size": 3817734,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - HipBerrrrrrh.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - HipBerrrrrrh.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20HipBerrrrrrh.wav",
+      "sha256": "77ae73ee364f5dc3ad531e615751de8f84ddd2a7424f109d135f7bb94236b92e",
+      "size": 921818,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - I Want a Wife.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - I Want a Wife.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20I%20Want%20a%20Wife.wav",
+      "sha256": "37f18b5219219e7e3c27210c3cc77b40a7496bd76c1933bc969a92ae1af63047",
+      "size": 764166,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Laugh.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Laugh.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Laugh.wav",
+      "sha256": "1e931758efbe59d71c210584fe609b396be703cbea3dddd5da44cef220b57ec0",
+      "size": 174342,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Meow Meow.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Meow Meow.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Meow%20Meow.wav",
+      "sha256": "2a4a3fa0cbabc2427798562958f4a8315110c49c24986bc615e8215427bad180",
+      "size": 801030,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Muffin Mew.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Muffin Mew.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Muffin%20Mew.wav",
+      "sha256": "f2610899cba20005bc2397b91664704bbad8ec2f873f38735c4a033caf331904",
+      "size": 258310,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Ommmnomnomnom.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Ommmnomnomnom.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Ommmnomnomnom.wav",
+      "sha256": "15a5741961e46f6736336ad8931d9372c95ada769559ebe3ea9db666e6d90b80",
+      "size": 270598,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - One Dab.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - One Dab.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20One%20Dab.wav",
+      "sha256": "038ea55b9631cf0d2e40d68f57acac21768760ffcab6d026a9ff1787dc930c42",
+      "size": 1380614,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Whose the Cutest.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Whose the Cutest.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Whose%20the%20Cutest.wav",
+      "sha256": "ee91f45574a87704b27a562e5eb7ebbcc7c0aa937ba6fda1e2d484bdcb80e47b",
+      "size": 731398,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - Whyyyyy.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - Whyyyyy.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20Whyyyyy.wav",
+      "sha256": "91b8b4150926d41d25e49e67c133399d26571ab5ae5dc65bc9ffc662e60bfde7",
+      "size": 225542,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - You're Adorable.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - You're Adorable.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20You%27re%20Adorable.wav",
+      "sha256": "99e360d4fe09168c9aa5b331c20f690194418795158d4a0eca5299a0cf7a9a54",
+      "size": 436486,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Madameberry - You're Welcome.wav",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/sounds/Madameberry - You're Welcome.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/sounds/Madameberry%20-%20You%27re%20Welcome.wav",
+      "sha256": "1b07485a6cbc332a9188fc265c6c95ff80a1ecc3d7eb99028337f3076e99c640",
+      "size": 250118,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Madameberry - Are We Fucking Good.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Are We Fucking Good.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Are%20We%20Fucking%20Good.png",
+      "sha256": "45e27cf00153065fd78df7e9c2c5bd6bfcc52cfea3201c23750dad2666241804",
+      "size": 4631,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Are We Fucking Good"
+    },
+    {
+      "fileName": "Madameberry - Gotta Mute My Mic.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Gotta Mute My Mic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Gotta%20Mute%20My%20Mic.png",
+      "sha256": "761c6d6964f3ef5977ffe22b22e41b81e8fbce3325bd46d516e0679bb11d6026",
+      "size": 4489,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Gotta Mute My Mic"
+    },
+    {
+      "fileName": "Madameberry - Hello I'm Hands.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Hello I'm Hands.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Hello%20I%27m%20Hands.png",
+      "sha256": "8b06b675731acb99cdca5546f22d151724c97984cf5fc8f544b3b5df26c80ea9",
+      "size": 3819,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Hello I'm Hands"
+    },
+    {
+      "fileName": "Madameberry - Help Help Help.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Help Help Help.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Help%20Help%20Help.png",
+      "sha256": "80e703bd9b7ab75a1832ea11e1ba1a54486957390d83e53c73837994860b58bd",
+      "size": 3280,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Help Help Help"
+    },
+    {
+      "fileName": "Madameberry - HipBerrrrrrh.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - HipBerrrrrrh.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20HipBerrrrrrh.png",
+      "sha256": "9f3075e3d9affe57d6abf0ac0e78b5c9044ab9f019d52a6affa83018a435f456",
+      "size": 3819,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Hipberrrrrrh"
+    },
+    {
+      "fileName": "Madameberry - I Want a Wife.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - I Want a Wife.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20I%20Want%20a%20Wife.png",
+      "sha256": "c922f878d1df63f3eff2886418b046aa1eee0439e038516b5e342dd6d0041cdf",
+      "size": 3747,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry I Want A Wife"
+    },
+    {
+      "fileName": "Madameberry - Laugh.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Laugh.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Laugh.png",
+      "sha256": "dde6eee2a6ed39efda51681f0b6acfbcd98c05e1602e07b9581fae26f85cac64",
+      "size": 4343,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Laugh"
+    },
+    {
+      "fileName": "Madameberry - Meow Meow.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Meow Meow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Meow%20Meow.png",
+      "sha256": "b36b71f61d4cd5c807e822a92ecffcf35a7fd9cc5bcf283d2aa10948eac73df3",
+      "size": 4053,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Meow Meow"
+    },
+    {
+      "fileName": "Madameberry - Muffin Mew.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Muffin Mew.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Muffin%20Mew.png",
+      "sha256": "68ac50e35c6178f393ceec6fc124783d7224c21f2f56f9048cad131db5a731f6",
+      "size": 2340,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Muffin Mew"
+    },
+    {
+      "fileName": "Madameberry - Ommmnomnomnom.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Ommmnomnomnom.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Ommmnomnomnom.png",
+      "sha256": "06c151d99a4272d30325dad1f9bbc954f29841db5681d5c1245c38f3be4de80d",
+      "size": 4569,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Ommmnomnomnom"
+    },
+    {
+      "fileName": "Madameberry - One Dab.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - One Dab.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20One%20Dab.png",
+      "sha256": "e1820f049e1b6ec066abd55df984c562f48abd8693aff1c7184c26df2bd8e0f0",
+      "size": 3959,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry One Dab"
+    },
+    {
+      "fileName": "Madameberry - Whose the Cutest.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Whose the Cutest.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Whose%20the%20Cutest.png",
+      "sha256": "9ecde3316f439307e6d653cff8c09a246682354ea5c7ae5176dee8ec89da8d52",
+      "size": 3880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Whose The Cutest"
+    },
+    {
+      "fileName": "Madameberry - Whyyyyy.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - Whyyyyy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20Whyyyyy.png",
+      "sha256": "5b2b74e63efa8a06e9c307586b145bda9d031e81e233c1be49096fc39cc3fcf7",
+      "size": 4428,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry Whyyyyy"
+    },
+    {
+      "fileName": "Madameberry - You're Adorable.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - You're Adorable.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20You%27re%20Adorable.png",
+      "sha256": "04bc1e515ab37458e3edf1c82d6c83ff9be228b6016cce274b150e537c9efcee",
+      "size": 4488,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry You're Adorable"
+    },
+    {
+      "fileName": "Madameberry - You're Welcome.png",
+      "path": "packs/Micro Pack - MadameBerry - Stream Noises/thumbnails/Madameberry - You're Welcome.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20MadameBerry%20-%20Stream%20Noises/thumbnails/Madameberry%20-%20You%27re%20Welcome.png",
+      "sha256": "e82c6a785419bbf1c9b4c75dc501b4e81fa06a3daedc2da5787cbbb90a90407d",
+      "size": 3610,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Madameberry You're Welcome"
+    }
+  ]
+}

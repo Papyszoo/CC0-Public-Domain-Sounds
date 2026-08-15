@@ -1,0 +1,1159 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Rubik's Cube (Feb 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Rubik's Cube turning and clacking foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Rubik's Cube (Feb 2021)",
+  "itemCount": 38,
+  "items": [
+    {
+      "name": "Big Cube Click 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Click 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Click 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Click 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Drop 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Drop 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Drop 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Drop 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 10.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 11.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 12.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 13.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 14.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 8.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Cube Twist 9",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 9.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Drop 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Drop 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Drop 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Squeeze 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Squeeze 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Squeeze 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 10.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 11.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 12.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 13.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 14.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 8",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 8.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Small Cube Twist 9",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 9.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Big Cube - Click 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Click 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Click%201.wav",
+      "sha256": "e0aab827adf85a1a7acdc6d9fc0c4c230f79abb6ca92fa5be4ccb1f3250b4b63",
+      "size": 60452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Click 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Click 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Click%202.wav",
+      "sha256": "a8a59b7f634223515f823ec4c8df71079f8785148f530903e29511a996366980",
+      "size": 55448,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Drop 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Drop 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Drop%201.wav",
+      "sha256": "5c904ce1b86ca5d72872fa01499a2567ab39aa135ce9719a9f1c33afede32fc3",
+      "size": 40544,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Drop 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Drop 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Drop%202.wav",
+      "sha256": "7549fbb7e4e60913c6e0dd0217de3abfd780a2397b28829616ce439c5f5ef1bb",
+      "size": 71532,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%201.wav",
+      "sha256": "c32a5aa103f36e075cfc2515b9528201fb33a02a21c265ae4df35d7920c3f8b1",
+      "size": 92840,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 10.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 10.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%2010.wav",
+      "sha256": "4cd4fe6a676636071546d346df09e2fb0217a60424bbd6e8c4fdffbf7d1d8182",
+      "size": 654848,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 11.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 11.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%2011.wav",
+      "sha256": "a265412646fb2a489843b10744eda8f578b0a8b92dd26f60aea71c7e8779387e",
+      "size": 195792,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 12.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 12.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%2012.wav",
+      "sha256": "dd9e957e3a7eb965da35eccaa0cd79400d616f09ff99fb5789a8ac0ffa82f43e",
+      "size": 184572,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 13.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 13.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%2013.wav",
+      "sha256": "7ddb860ffe3a47599d9e39cdac791cec0bd4cfa97968bcece8c2655591b6a0e8",
+      "size": 130048,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 14.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 14.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%2014.wav",
+      "sha256": "a0d414cc1220091db2b486bd5ec42c918674533ca5131ae0c3db006ca1632cbf",
+      "size": 153212,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%202.wav",
+      "sha256": "e5fe08e3338b2c3e0e20908ca5de7655dc267f97b6ea58234215bb56d6e5f47b",
+      "size": 139752,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 3.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%203.wav",
+      "sha256": "14968932ebb4b5e40f7938e64f8e60264fdf2ed94bb4a01d1a97c1028438e19a",
+      "size": 368780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 4.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%204.wav",
+      "sha256": "8f3519135c292e10ae080734ba09b038862a5e6b65e158f43d359ca740f2b709",
+      "size": 416268,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 5.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%205.wav",
+      "sha256": "71c4bc34402015ebb60a9c998978ad9764e132408fe0ab74117668a3ed822df5",
+      "size": 479712,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 6.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%206.wav",
+      "sha256": "eb3e0aaa298e828f6450a46893e749464344e73ce4e00f5c029a39c1677b14a9",
+      "size": 425608,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 7.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%207.wav",
+      "sha256": "2a08af1a3c3b6733b7ced8f4f05a225d5f5ab4a292fe38e0cd22311e92ebebcd",
+      "size": 544068,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 8.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 8.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%208.wav",
+      "sha256": "131a00a44a23006a4f9cda0e38d481e140938c1c1a30ddc93e2b11224bf0a645",
+      "size": 97852,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Cube - Twist 9.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Big Cube - Twist 9.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Big%20Cube%20-%20Twist%209.wav",
+      "sha256": "eb717a82d4735a28e3635d5fae51647613c6b87d742e5d1b8f6c3c3603eb242c",
+      "size": 98536,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Drop 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Drop%201.wav",
+      "sha256": "4ab055a5f12308dc583e1275b7a8ed8eb93b6dcdb1f2442739f218f47020d515",
+      "size": 43232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Drop 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Drop%202.wav",
+      "sha256": "0545ca9ffea8088d89e833be6cae776d4d0d8b59e630c85510712d75b3cc35bf",
+      "size": 34024,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Drop 3.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Drop 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Drop%203.wav",
+      "sha256": "3e0889a533b2a2d12ac632bb4e7e5eb5476917edb8aa24b57c9bf0493c4c181a",
+      "size": 36524,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Squeeze%201.wav",
+      "sha256": "4edcae46a774e43877912a02b58f47e6015d0be896f7b059b38f15c69271b580",
+      "size": 392240,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Squeeze%202.wav",
+      "sha256": "414582df5df20aafe8ecaba1cc85a5eb2707e01ea2c7a6a4af01703538174f89",
+      "size": 338388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 3.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Squeeze 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Squeeze%203.wav",
+      "sha256": "5c32ab10cfcebf584db8dd22f260a141f4e91e5ed7c5729c39eb81c5cd29e3d8",
+      "size": 407600,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 1.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%201.wav",
+      "sha256": "b8711ba1e9802202854e34e785ae68c958cc5d567d745a87dc7a8535aecb23ae",
+      "size": 143032,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 10.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 10.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%2010.wav",
+      "sha256": "aa15d4b338862854036e8473de0fcefe65f8597d6e301a3c68c8a908ec764b7e",
+      "size": 1098008,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 11.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 11.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%2011.wav",
+      "sha256": "6083d85207ab97f24d6cc142246d6c48955f1c8da5572824f2eba4a7efe9c67c",
+      "size": 592084,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 12.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 12.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%2012.wav",
+      "sha256": "91b422781320c3662dae53b6c1a558e894ace6ac0450e61b73d569e97e3c1fa6",
+      "size": 45480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 13.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 13.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%2013.wav",
+      "sha256": "93e29a0ddf215bc6a69fb4b5a13545a631986be02ef8702c8ebafeb00a4718ce",
+      "size": 121512,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 14.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 14.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%2014.wav",
+      "sha256": "f9d3c41a714901736b22e45aa2d0fb62cfab834eea4a59826f7f753519a3e3a8",
+      "size": 706892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 2.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%202.wav",
+      "sha256": "a0ff7c7c339690e12167401a4dee3c4206f242ac7d037afaee5424fa55062d5c",
+      "size": 76128,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 3.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%203.wav",
+      "sha256": "031a28e99b8f2dbb2d0c139198f4b03dd22e6cad3abe21a31113979378685340",
+      "size": 544144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 4.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%204.wav",
+      "sha256": "c4097230bcb8357b09a37868d26fcf2fb4cfb6e88aad152e03fd5a7c1afbc83e",
+      "size": 423840,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 5.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%205.wav",
+      "sha256": "efbe3a868ec7b535a0b8c4a4ac6484abfa4fe5a8a2247af4e08a836b10e0388c",
+      "size": 395144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 6.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%206.wav",
+      "sha256": "7fa249eefb1e0b27a6fc3d77871d672b73b14174e10643ceee2f2676bad7008a",
+      "size": 241664,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 7.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%207.wav",
+      "sha256": "19424de034c16ab4bf2fda6639e4fcaedaf119416de131e44f3c9f002ce12d2f",
+      "size": 433608,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 8.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 8.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%208.wav",
+      "sha256": "508ead6ab3c48389ea09ee06f0fc65ceb1d137f1bf1639a196bd7cc7db72b202",
+      "size": 418644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Cube - Twist 9.wav",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/sounds/Small Cube - Twist 9.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/sounds/Small%20Cube%20-%20Twist%209.wav",
+      "sha256": "fdef8476e69c1ee349add7be1ec2bf33898599a13fe4b5bcaa86da5449ee50cd",
+      "size": 100540,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Big Cube - Click 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Click 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Click%201.png",
+      "sha256": "92431d9296946718d09240e3ad7a18d7891d6fba46a976d4a487a786885dba59",
+      "size": 1929,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Click 1"
+    },
+    {
+      "fileName": "Big Cube - Click 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Click 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Click%202.png",
+      "sha256": "cb54f818c058c1bb529fbd20c09a2f0320323b49e9ebd3b600ae5ebc29d9749c",
+      "size": 2025,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Click 2"
+    },
+    {
+      "fileName": "Big Cube - Drop 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Drop 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Drop%201.png",
+      "sha256": "3468952ddbf9a2fcfd6f0fd113d4eb5010de7a6918675cc54c25a5f03244b48f",
+      "size": 2230,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Drop 1"
+    },
+    {
+      "fileName": "Big Cube - Drop 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Drop 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Drop%202.png",
+      "sha256": "d6c61cb8f26de7c45cae3c2027a5dacbd22f25e17fa3986484a5c718837bf4ca",
+      "size": 2723,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Drop 2"
+    },
+    {
+      "fileName": "Big Cube - Twist 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%201.png",
+      "sha256": "f13d39d416f9acb5a8c312325d8c741987994b87446ee55329091c0d939f65df",
+      "size": 3640,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 1"
+    },
+    {
+      "fileName": "Big Cube - Twist 10.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%2010.png",
+      "sha256": "ebbe85fa136abdcdc0f24eef93ea0dbb75c3f6ba660e669d0df1112c2d47470d",
+      "size": 3008,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 10"
+    },
+    {
+      "fileName": "Big Cube - Twist 11.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%2011.png",
+      "sha256": "f551b608f38eb0745ff9d0e370d70b13649ebfa82d5e5946dafeeb04cf950af3",
+      "size": 1992,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 11"
+    },
+    {
+      "fileName": "Big Cube - Twist 12.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%2012.png",
+      "sha256": "921a204d2cebda0cc96c50c1aeb6b503882ffce6f544ceac13e23737be250685",
+      "size": 2174,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 12"
+    },
+    {
+      "fileName": "Big Cube - Twist 13.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%2013.png",
+      "sha256": "c15a9a10045f236af080efdc039b4876690badf639ba237f26feb4a513db19bc",
+      "size": 2477,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 13"
+    },
+    {
+      "fileName": "Big Cube - Twist 14.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%2014.png",
+      "sha256": "c042220a85b6089ccd0f7ace1f48da36697d56b288b3bc9657f8fba21bc5ba10",
+      "size": 3319,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 14"
+    },
+    {
+      "fileName": "Big Cube - Twist 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%202.png",
+      "sha256": "e1df6616766af3481ba609867924ce7b270045b00527eb7179f62812c5840fdb",
+      "size": 3062,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 2"
+    },
+    {
+      "fileName": "Big Cube - Twist 3.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%203.png",
+      "sha256": "43f12e328810f934f92ff53e79da5888b924753a912d85b2f46d102a12f6f8db",
+      "size": 3724,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 3"
+    },
+    {
+      "fileName": "Big Cube - Twist 4.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%204.png",
+      "sha256": "22caff4dbba37be5d5a8a09f796ad643633505d19517e479157106eb647fbb93",
+      "size": 3295,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 4"
+    },
+    {
+      "fileName": "Big Cube - Twist 5.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%205.png",
+      "sha256": "964af3a9e3faaa68e86a4defc53a2ebf34f2ee3373ac566a4471f96fdd3c8fb0",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 5"
+    },
+    {
+      "fileName": "Big Cube - Twist 6.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%206.png",
+      "sha256": "ee6cf207cb805c83a655512b86737ab2d593e1ac1e49af2a6151b1a09b55c619",
+      "size": 4024,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 6"
+    },
+    {
+      "fileName": "Big Cube - Twist 7.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%207.png",
+      "sha256": "24a17123d73ddda692eedd99a3f03e1f44431d56dfcf69ee7b172f2cecc328c2",
+      "size": 3409,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 7"
+    },
+    {
+      "fileName": "Big Cube - Twist 8.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%208.png",
+      "sha256": "8bcecf306260ac42303f03be43f990d3be995694e3c33efcff055cf0837b8732",
+      "size": 2316,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 8"
+    },
+    {
+      "fileName": "Big Cube - Twist 9.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Big Cube - Twist 9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Big%20Cube%20-%20Twist%209.png",
+      "sha256": "e653c0c428eb29a096d82d2141bb2a4934fee46b0bc1b17d4289675e395c0a9a",
+      "size": 2101,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Cube Twist 9"
+    },
+    {
+      "fileName": "Small Cube - Drop 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Drop 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Drop%201.png",
+      "sha256": "0de50441a43afdd63228da706620121023c5ce265b3d1c7c17d80897b020f259",
+      "size": 2414,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Drop 1"
+    },
+    {
+      "fileName": "Small Cube - Drop 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Drop 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Drop%202.png",
+      "sha256": "d34b85a809247ca359e047070dbf6896e1e5b92db746a52764cf4c1e2822f6fd",
+      "size": 2945,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Drop 2"
+    },
+    {
+      "fileName": "Small Cube - Drop 3.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Drop 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Drop%203.png",
+      "sha256": "46cf9c36038f4c85351f08818ae1677adbc82ee3a368df8866c13fdfdef58be3",
+      "size": 3050,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Drop 3"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Squeeze 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Squeeze%201.png",
+      "sha256": "8c0ac7124c3fcbd28fe069ab00c8edba2ddc03633305e8358d514c2bc9e46758",
+      "size": 3697,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Squeeze 1"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Squeeze 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Squeeze%202.png",
+      "sha256": "8a391f8769b2e82fc769d3ec6b5fb74339a4b1d0079f7142858313960a21df7c",
+      "size": 3526,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Squeeze 2"
+    },
+    {
+      "fileName": "Small Cube - Squeeze 3.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Squeeze 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Squeeze%203.png",
+      "sha256": "342674389c7d3ebbec81881fa33a3a47c158449435654f4118a5b0a7616b3c74",
+      "size": 3356,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Squeeze 3"
+    },
+    {
+      "fileName": "Small Cube - Twist 1.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%201.png",
+      "sha256": "0590cb19e179efa1b39e9113ca41694c1c036e17053e166b2e5ea6677423e89b",
+      "size": 2656,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 1"
+    },
+    {
+      "fileName": "Small Cube - Twist 10.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%2010.png",
+      "sha256": "0b32769a347e6c3e7b1865447b1f59be149ba6f0399698439a842bc5caf03739",
+      "size": 3452,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 10"
+    },
+    {
+      "fileName": "Small Cube - Twist 11.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%2011.png",
+      "sha256": "4d1de50c77cb7b19db7ab27d151bc7f22f22a044c47be8cc870ccbf19c536c81",
+      "size": 3569,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 11"
+    },
+    {
+      "fileName": "Small Cube - Twist 12.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%2012.png",
+      "sha256": "64c0d2e1283f5a830beff9020a336bdcb40b7fccb26e9a5982ef41f603635672",
+      "size": 2793,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 12"
+    },
+    {
+      "fileName": "Small Cube - Twist 13.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%2013.png",
+      "sha256": "246d2f09acd1b75e715f04210a0ba2feddc825effd442c657da5b809880a7ab0",
+      "size": 2670,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 13"
+    },
+    {
+      "fileName": "Small Cube - Twist 14.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%2014.png",
+      "sha256": "9709b348e90956c11a0ef02c214f5d5755a26ee3babd0eee514d24eec93f2904",
+      "size": 3682,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 14"
+    },
+    {
+      "fileName": "Small Cube - Twist 2.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%202.png",
+      "sha256": "7ba987623092ce1efa07efbad43f661c5197804003e5a7099d1981182ff7877a",
+      "size": 3924,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 2"
+    },
+    {
+      "fileName": "Small Cube - Twist 3.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%203.png",
+      "sha256": "85bbed1e2591afc749a54e857292acbe807f374d6bc4596d24202366d7452054",
+      "size": 3982,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 3"
+    },
+    {
+      "fileName": "Small Cube - Twist 4.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%204.png",
+      "sha256": "af3762be3d27eaf202af878b12ff6c603814fb7aef1f091659e6d247f7b5ab7a",
+      "size": 3752,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 4"
+    },
+    {
+      "fileName": "Small Cube - Twist 5.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%205.png",
+      "sha256": "c428c9ce60c54b590bd95edc3c25378bfb6eb8db50efc7e08dbab82826aa9860",
+      "size": 3525,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 5"
+    },
+    {
+      "fileName": "Small Cube - Twist 6.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%206.png",
+      "sha256": "b352526a82c37c52b1c9a4748af5bdebd75dc0f52e89fd60a1797c8fed7edbac",
+      "size": 3168,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 6"
+    },
+    {
+      "fileName": "Small Cube - Twist 7.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%207.png",
+      "sha256": "c70695da59d15b8603c94e814b226c4fff783938868cf1e918644f06c1f565a8",
+      "size": 3817,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 7"
+    },
+    {
+      "fileName": "Small Cube - Twist 8.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%208.png",
+      "sha256": "9d8fd6d032aedab8fb236696458f391d31f0b16bd0f4e4af662cf6d93fb6078d",
+      "size": 3864,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 8"
+    },
+    {
+      "fileName": "Small Cube - Twist 9.png",
+      "path": "packs/bb - Rubik's Cube (Feb 2021)/thumbnails/Small Cube - Twist 9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Rubik%27s%20Cube%20%28Feb%202021%29/thumbnails/Small%20Cube%20-%20Twist%209.png",
+      "sha256": "2f335acb184932881d0f280930077ca4f823678b1e12c4da387f976c1d184f40",
+      "size": 2949,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Cube Twist 9"
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Slide Whistle (Aug 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Slide whistle rises, falls and warbles, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Slide Whistle (Aug 2021)",
+  "itemCount": 29,
+  "items": [
+    {
+      "name": "Bounce Up And Down",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Bounce Up and Down.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Drunk 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Drunk 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Drunk 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Drop 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Drop 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Drop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Drop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Fall Rise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Fall Rise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Rise Fall 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise Fall 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Rise Fall",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise Fall.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Fast Rise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Flutter Drop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Flutter Drop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Flutter Wander",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Flutter Wander.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Quick High",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick High.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Quick Low Squeak",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Low Squeak.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Quick Low",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Low.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Quick Rise 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Rise 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Quick Rise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Rise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Random Stabs 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Random Stabs Slow 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs Slow 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Random Stabs Slow",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs Slow.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Random Stabs",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Slow Fall Rise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Slow Fall Rise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Sustain High",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Sustain High.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Sustain Low",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Sustain Low.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Tone Drop Fast",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Tone Drop Fast.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Wobble Drop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Drop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Wobble Fall",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Fall.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Wobble Rise 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Rise 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Wobble Rise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Rise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Bounce Up and Down.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Bounce Up and Down.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Bounce%20Up%20and%20Down.wav",
+      "sha256": "99678ec370bff41e321bed1062f8aa0cf89868bce4d1f10ab72064313b0a0ce1",
+      "size": 856656,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Drunk 1.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Drunk%201.wav",
+      "sha256": "c9b40ab4ea24b480fa860e1719e9e56666f77c239bafef2f7abe96b5ad625ad4",
+      "size": 779208,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Drunk 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Drunk%202.wav",
+      "sha256": "3a4ba63e6e36d5582f48aba0d75c2e836380e0fe335cbfc6f0f3d15179cf3762",
+      "size": 785888,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Drunk 3.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Drunk 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Drunk%203.wav",
+      "sha256": "a95870a385a5c97e1e137d1b0116aa35686770d4207c4a3aa574f1e74e26e0a9",
+      "size": 690040,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Drop 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Drop 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Drop%202.wav",
+      "sha256": "e11b66627952e30b40b668c560cf7480051fd9c49ab1dde30b93f2cab2549647",
+      "size": 127056,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Drop.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Drop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Drop.wav",
+      "sha256": "06666eab744757fd92c85b2f33a14b71072c7e323a567de4a1a696ced7c8fa2d",
+      "size": 121644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Fall Rise.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Fall Rise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Fall%20Rise.wav",
+      "sha256": "ac7379c7d05269f77ab0d4ed91f9bef57381cbada4fceba6a486b64c7268066c",
+      "size": 170740,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Rise Fall 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise Fall 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Rise%20Fall%202.wav",
+      "sha256": "0f5e6e0da381b6a285860ab6a80af28d4cf59b2c645584ed7e1ad914d2b1720c",
+      "size": 182540,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Rise Fall.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise Fall.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Rise%20Fall.wav",
+      "sha256": "6a04c434408683bea5b1cd94b3cc43f411564b37991d49e7ccaeedc9d2aec721",
+      "size": 151380,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Fast Rise.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Fast Rise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Fast%20Rise.wav",
+      "sha256": "451ac4156d97aafce4f87babedaae9306bbf20bf755fe45e4424e42cbb179369",
+      "size": 153124,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flutter Drop.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Flutter Drop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Flutter%20Drop.wav",
+      "sha256": "db3d8a09498705528aa6f436777795333e71752de4aed2c76fc0ecb960eda57d",
+      "size": 174552,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flutter Wander.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Flutter Wander.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Flutter%20Wander.wav",
+      "sha256": "3ca435951848e9220e8465f4349730dc96c9001b4cc1d45369e3216acb5b8299",
+      "size": 740008,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Quick High.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick High.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Quick%20High.wav",
+      "sha256": "6a19dec556b448550f1742072ce48351d6092473c370ff88af888379cdd41a13",
+      "size": 164012,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Quick Low Squeak.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Low Squeak.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Quick%20Low%20Squeak.wav",
+      "sha256": "12ec7f4f443055e8a445988495073c8a9c7a39ea4f7213d93e62a690db4e5f10",
+      "size": 189092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Quick Low.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Low.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Quick%20Low.wav",
+      "sha256": "4dd397eef22d75d38c762a07c29613316d0cd2fd0c0e46fd5ca3f298cd770df9",
+      "size": 218580,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Quick Rise 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Rise 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Quick%20Rise%202.wav",
+      "sha256": "9e25d1355f820199cb363abdf003d299e2b9059da59dffdc23e728d37d4263fa",
+      "size": 110320,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Quick Rise.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Quick Rise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Quick%20Rise.wav",
+      "sha256": "992bbf70a857389a81275af80e2455d2ac3451e232d6278fdbff388b983eae57",
+      "size": 113800,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Random Stabs 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Random%20Stabs%202.wav",
+      "sha256": "4a4bb37006ac04e57e28848f49753d56c0a54325b22d7a5a0c705c1ea6c2bd94",
+      "size": 763104,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Random Stabs Slow 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs Slow 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Random%20Stabs%20Slow%202.wav",
+      "sha256": "2b76fdebcbf700a50ec4a0f76606a7444ccf601452080b99185d43e8ca9773f4",
+      "size": 1533016,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Random Stabs Slow.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs Slow.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Random%20Stabs%20Slow.wav",
+      "sha256": "3898fd9124c7eb913a82e6e82b53f1dc8d633d98a9f49f13b46e45088bfcfaba",
+      "size": 1376124,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Random Stabs.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Random Stabs.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Random%20Stabs.wav",
+      "sha256": "073021a48bcc88148db90482aab64fb0fdfe8b74af639f05903cff3d48a5c8cb",
+      "size": 730244,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Slow Fall Rise.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Slow Fall Rise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Slow%20Fall%20Rise.wav",
+      "sha256": "3ea26143145c2b61ac2b2cec8d4db3a775b369032c36ff6352720f2f2ce0b060",
+      "size": 289584,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Sustain High.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Sustain High.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Sustain%20High.wav",
+      "sha256": "6ff387d83232a3a7e280c1794f6e0795e8848be7a88317d5b94ba9dca3922cbd",
+      "size": 396040,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Sustain Low.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Sustain Low.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Sustain%20Low.wav",
+      "sha256": "a2a3719d1df09aeaf5ae91742aaa79b2a6be8d65ffc366be67f13fefaed81759",
+      "size": 415540,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Tone Drop Fast.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Tone Drop Fast.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Tone%20Drop%20Fast.wav",
+      "sha256": "cab4e8928b3184ab1c2597efb3f4c5df638c1ab26cfe5e73941414daeced0f3e",
+      "size": 190884,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble Drop.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Drop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Wobble%20Drop.wav",
+      "sha256": "78f0039e73cdd1365f3697541bb5529127f192a62889fa9d412047c1a968d826",
+      "size": 402588,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble Fall.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Fall.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Wobble%20Fall.wav",
+      "sha256": "0cfce1fa9c574cc3ee9ff8a01f01e172b3d63b8d92dc8bdf1a56bd6996dd88b6",
+      "size": 384396,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble Rise 2.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Rise 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Wobble%20Rise%202.wav",
+      "sha256": "a48570598cee0a3f01dc31f008808250b2d2e8bfcfaaa7beb3a02618001c037a",
+      "size": 300904,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Wobble Rise.wav",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/sounds/Wobble Rise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/sounds/Wobble%20Rise.wav",
+      "sha256": "230a7e2a4317c1b0579b654e5a153df45d0f9d17c89f1aef682992109f86ed7c",
+      "size": 283892,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Bounce Up and Down.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Bounce Up and Down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Bounce%20Up%20and%20Down.png",
+      "sha256": "d3236aa3a4377100eec121069700542454e2e2e8ee139b9863095ac1705ba0a5",
+      "size": 4592,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bounce Up And Down"
+    },
+    {
+      "fileName": "Drunk 1.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Drunk 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Drunk%201.png",
+      "sha256": "56a31939227c07949d117c42726815b174fc7b32d491a78d9a3ec79cef382948",
+      "size": 4632,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drunk 1"
+    },
+    {
+      "fileName": "Drunk 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Drunk 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Drunk%202.png",
+      "sha256": "311eaf785e13725fb617e89c9ea1e1e3a267ca8c4f6be1c270d479da2ff08e0a",
+      "size": 4652,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drunk 2"
+    },
+    {
+      "fileName": "Drunk 3.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Drunk 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Drunk%203.png",
+      "sha256": "cc16cc058af16562193cc93cea51ff353088866b7105e7fb827714986be2a40e",
+      "size": 4533,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drunk 3"
+    },
+    {
+      "fileName": "Fast Drop 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Drop 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Drop%202.png",
+      "sha256": "52dcb3c5d802e745bd11f333ef84270300b42a948ac9bba9c6180cfabe77ec00",
+      "size": 4066,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Drop 2"
+    },
+    {
+      "fileName": "Fast Drop.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Drop.png",
+      "sha256": "4aa4a0c613f368820a964e76e81162c3dcb1e0ce8c8fc861fa00191f2d2e6ee7",
+      "size": 3994,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Drop"
+    },
+    {
+      "fileName": "Fast Fall Rise.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Fall Rise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Fall%20Rise.png",
+      "sha256": "12ddefe8dee54ba3d0c7d788e70ce1b80063588743de02184adcafb19e18d6c7",
+      "size": 4012,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Fall Rise"
+    },
+    {
+      "fileName": "Fast Rise Fall 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Rise Fall 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Rise%20Fall%202.png",
+      "sha256": "751502955acb67f4d5f52cb0e4bd2d312d0861295ea891ed2c00039d122d95e0",
+      "size": 4465,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Rise Fall 2"
+    },
+    {
+      "fileName": "Fast Rise Fall.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Rise Fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Rise%20Fall.png",
+      "sha256": "c90825f02cf6292db65dca494db5ee56079051da434bce4d0245d0665977adb6",
+      "size": 4236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Rise Fall"
+    },
+    {
+      "fileName": "Fast Rise.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Fast Rise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Fast%20Rise.png",
+      "sha256": "d1aafeb1246bf34fafe43d818f819ece625325936de261e25b9f3c7829d2255d",
+      "size": 4027,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fast Rise"
+    },
+    {
+      "fileName": "Flutter Drop.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Flutter Drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Flutter%20Drop.png",
+      "sha256": "06db4aee18e0511a75058fde2a8671550b38d458d971dadb6e895bdfd54ad8ed",
+      "size": 4351,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flutter Drop"
+    },
+    {
+      "fileName": "Flutter Wander.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Flutter Wander.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Flutter%20Wander.png",
+      "sha256": "f577f7749b88ac64138a663b0c0980882f78c253a95fa3450c83dcbb79c0e5d4",
+      "size": 4368,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flutter Wander"
+    },
+    {
+      "fileName": "Quick High.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Quick High.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Quick%20High.png",
+      "sha256": "b509a34a3fe95c45fd1313e65be8e61c51caec2178fdcf9607a432a820be4226",
+      "size": 4245,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Quick High"
+    },
+    {
+      "fileName": "Quick Low Squeak.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Quick Low Squeak.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Quick%20Low%20Squeak.png",
+      "sha256": "ac18061d510315cef9a4a10dc39579cf3aac4030e02e29323bf25f71be9e23ae",
+      "size": 3794,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Quick Low Squeak"
+    },
+    {
+      "fileName": "Quick Low.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Quick Low.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Quick%20Low.png",
+      "sha256": "dc4b49612d2883efb66858d55408be5641e9bdf5e9f2be38d56bd5c655dee069",
+      "size": 3282,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Quick Low"
+    },
+    {
+      "fileName": "Quick Rise 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Quick Rise 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Quick%20Rise%202.png",
+      "sha256": "0f6d244a0e07ca7e0268198b0d3372e1eea8c23d0f579bdf1e982a78a99e60b6",
+      "size": 3727,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Quick Rise 2"
+    },
+    {
+      "fileName": "Quick Rise.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Quick Rise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Quick%20Rise.png",
+      "sha256": "dfca8f4279f4a337c3c06cec05536a5f4dcff0b66cf7e7db2a991495c514b8df",
+      "size": 4308,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Quick Rise"
+    },
+    {
+      "fileName": "Random Stabs 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Random Stabs 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Random%20Stabs%202.png",
+      "sha256": "e3b149eb90e13db366452cc35fa8241b9e5315a07ba8d9f7d1ce85530367932d",
+      "size": 4588,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Random Stabs 2"
+    },
+    {
+      "fileName": "Random Stabs Slow 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Random Stabs Slow 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Random%20Stabs%20Slow%202.png",
+      "sha256": "b9d33c23ad970d70cbb7de9c69f5791e08aeb40907ecdda004e7176b46b78274",
+      "size": 4633,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Random Stabs Slow 2"
+    },
+    {
+      "fileName": "Random Stabs Slow.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Random Stabs Slow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Random%20Stabs%20Slow.png",
+      "sha256": "1ccd9f632b284cb1371dbfa3858d8d9dd62fd6110e347ec831f044468472b96e",
+      "size": 4892,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Random Stabs Slow"
+    },
+    {
+      "fileName": "Random Stabs.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Random Stabs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Random%20Stabs.png",
+      "sha256": "ceb9bc1e7399c89923e44530b30cf723da10fd0fa5be3ef26f7ef584880520b5",
+      "size": 3765,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Random Stabs"
+    },
+    {
+      "fileName": "Slow Fall Rise.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Slow Fall Rise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Slow%20Fall%20Rise.png",
+      "sha256": "631e13a7877a5bce30dc1eec8888f831a2c13ff128aac26386a3261be3e4cdbe",
+      "size": 4249,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slow Fall Rise"
+    },
+    {
+      "fileName": "Sustain High.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Sustain High.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Sustain%20High.png",
+      "sha256": "fe0bb97c43867ae1f037eba90e218c886da644a6448a35ce27c3cb4aba393f08",
+      "size": 4582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sustain High"
+    },
+    {
+      "fileName": "Sustain Low.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Sustain Low.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Sustain%20Low.png",
+      "sha256": "83841cf4794ffe48e7c5e0de41a5017a751f60a160d0fe3c6241eabc3f598e65",
+      "size": 2038,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sustain Low"
+    },
+    {
+      "fileName": "Tone Drop Fast.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Tone Drop Fast.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Tone%20Drop%20Fast.png",
+      "sha256": "6b2e0ad6045b059cb081daa2f684490065b40c7e2e7b9f5101b736ceae6756a1",
+      "size": 4320,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tone Drop Fast"
+    },
+    {
+      "fileName": "Wobble Drop.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Wobble Drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Wobble%20Drop.png",
+      "sha256": "9587dcdbaefc574c77b2704ee7d5c406ca8d5ad8a16c19d5d3eababf2d03bb1b",
+      "size": 4068,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble Drop"
+    },
+    {
+      "fileName": "Wobble Fall.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Wobble Fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Wobble%20Fall.png",
+      "sha256": "ee9cd5279a3ab9c8c566b30202afbff4da2c483eaefe72887c78133c142d1712",
+      "size": 4533,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble Fall"
+    },
+    {
+      "fileName": "Wobble Rise 2.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Wobble Rise 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Wobble%20Rise%202.png",
+      "sha256": "1cae086a9b520d906fb6dedc36492cc72fceef20dc4b3349c5caac34ba1a305d",
+      "size": 3843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble Rise 2"
+    },
+    {
+      "fileName": "Wobble Rise.png",
+      "path": "packs/bb - Slide Whistle (Aug 2021)/thumbnails/Wobble Rise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Slide%20Whistle%20%28Aug%202021%29/thumbnails/Wobble%20Rise.png",
+      "sha256": "4b0a60881dbb33d13418407d106a6b5232f451aa6e9350db5c5948313ce1422d",
+      "size": 4508,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wobble Rise"
+    }
+  ]
+}

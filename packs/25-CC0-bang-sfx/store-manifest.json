@@ -1,0 +1,769 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "25 CC0 Bang / Firework SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/25-cc0-bang-firework-sfx",
+  "description": "25 bang, firework, cannon and explosion sounds recorded from real fireworks, incl. sci-fi variations. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/25-CC0-bang-sfx",
+  "itemCount": 25,
+  "items": [
+    {
+      "name": "Bang 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Bang 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/bang_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Cannon 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/cannon_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Cannon 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/cannon_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Cannon 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/cannon_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Cannon 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/cannon_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Cannon 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/cannon_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Fw Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/fw_loop.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Shot 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/shot_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Shot 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/shot_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Shot 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/25-CC0-bang-sfx/sounds/shot_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "bang_01.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_01.ogg",
+      "sha256": "5f4c32527a74b73c1ba9f5914bb7881f96068f29435be241c4de7c9020e3e638",
+      "size": 37156,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_02.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_02.ogg",
+      "sha256": "0f0c960888e6ebcb1bc68fa77fa0e52a26b8693b7a420a95ed0d669c486bc4f5",
+      "size": 36302,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_03.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_03.ogg",
+      "sha256": "b823f53557ca9702f57b3f9e997fc92d5b87da99d464309d14199aabf2d620c4",
+      "size": 25714,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_04.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_04.ogg",
+      "sha256": "fb3b76187c36e185a331d2250268132dbf2eb490a6c0414d69e3570c72b4f2e6",
+      "size": 43454,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_05.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_05.ogg",
+      "sha256": "6881ae4a9ca936916322162cbc13dfcf180a35b99e9b84048988161234bfa83c",
+      "size": 45926,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_06.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_06.ogg",
+      "sha256": "1209d7d44cd333abe089bb0ed8ac684381abfde8e4baad20bd5a0005168fd9ea",
+      "size": 22734,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_07.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_07.ogg",
+      "sha256": "a16c416e8715aa937d9009c7337a35a21d85bb087ba866e9eed89c1c7862b4f3",
+      "size": 26825,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_08.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_08.ogg",
+      "sha256": "aaaba1cdaeb9e5e61abf3ebdff09c967b5d451c42b45259e3b00f62575baafea",
+      "size": 19546,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_09.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_09.ogg",
+      "sha256": "ca0c121adbcbf3d0af366d03ace49a4e018e7157c7f35348c63918fa34afbc46",
+      "size": 19195,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bang_10.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/bang_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/bang_10.ogg",
+      "sha256": "c012d643e9cac159729a1026f6a8f70a6f84be7bdddc18fc8051243f814a17ec",
+      "size": 37353,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cannon_01.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/cannon_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/cannon_01.ogg",
+      "sha256": "e87ca0ee6b53da1f21cd9086cb75f456495871618fdfed63388bd2208a872596",
+      "size": 54484,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cannon_02.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/cannon_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/cannon_02.ogg",
+      "sha256": "716392af61b29dabe637c2616091207f390d25357aae3d4c625df5dfea7e961d",
+      "size": 69097,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cannon_03.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/cannon_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/cannon_03.ogg",
+      "sha256": "c3690a013befc16be1432e6fe62422db71c7b606980ddfe62429e864c5caf1d2",
+      "size": 38818,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cannon_04.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/cannon_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/cannon_04.ogg",
+      "sha256": "58714ef1d8c73a52cd9358c783de4b961ee96259de112c6493a1028bc60410e8",
+      "size": 39071,
+      "role": "Audio"
+    },
+    {
+      "fileName": "cannon_05.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/cannon_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/cannon_05.ogg",
+      "sha256": "d0ab7de664533fa115a65dcc877c443fe02e8e6cc96e8051c34fe9ec66474c7b",
+      "size": 40160,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_01.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_01.ogg",
+      "sha256": "1c8a6053433cd682a65665780ead9dfadc14c9442337e6d54469100bcb743694",
+      "size": 49313,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_02.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_02.ogg",
+      "sha256": "3f0e772c7608937de3e0d39167e1c7037c047f1891bbcf7f7ab6af21fe87177c",
+      "size": 55648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_03.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_03.ogg",
+      "sha256": "2f2c7e9d44d61a5ddcdf7982383229e9b3fa6e0d37651c07030ab7d21baca49c",
+      "size": 51269,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_04.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_04.ogg",
+      "sha256": "48c5f564ebba962c3f54cd6bc6d4d958c47e9a795aabe8a91643afaa9fdf4c11",
+      "size": 74460,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_05.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_05.ogg",
+      "sha256": "d513015c404049f5332ea4c3b0d19a764e7c26639949c7d18894635b691f4787",
+      "size": 32455,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_06.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_06.ogg",
+      "sha256": "3957eaa6bb83b63ee73de9a5d3a17df201dfddedf705eb29cd25a9548a8f02c2",
+      "size": 39089,
+      "role": "Audio"
+    },
+    {
+      "fileName": "fw_loop.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/fw_loop.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/fw_loop.ogg",
+      "sha256": "f584e533bbbf236efe49506ab1caaad9269375ce260ee773bbd8f1448c05ea34",
+      "size": 600425,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_01.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/shot_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/shot_01.ogg",
+      "sha256": "a846eefebbb08b6f6d31a7728318b8de349ea2971cea148d7afdb41d797fdcfc",
+      "size": 21380,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_02.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/shot_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/shot_02.ogg",
+      "sha256": "4b9b62ff7f430d9d257a07efc54be8192c2e01668fe5e2461f217b2f8fe33a77",
+      "size": 19919,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_03.ogg",
+      "path": "packs/25-CC0-bang-sfx/sounds/shot_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/sounds/shot_03.ogg",
+      "sha256": "f3cfbf0af36a717ff9c8f58640f181db7b73266e8263591014d453c4e77c6418",
+      "size": 17081,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "bang_01.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_01.png",
+      "sha256": "ced05fb79bf5bdb18a06dd8e249e6a2cc7c77e4f5dd0343017a5f2ca1b14bc54",
+      "size": 3178,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 01"
+    },
+    {
+      "fileName": "bang_02.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_02.png",
+      "sha256": "8e9613d5bc2c41495a664717970604f21d54f8b79ef084d95481d1ba90c0949c",
+      "size": 2555,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 02"
+    },
+    {
+      "fileName": "bang_03.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_03.png",
+      "sha256": "118ee45e1ae738c277311901f83b91cc5eb27b3a8b1ce0fa17a7786e1cf4125b",
+      "size": 2871,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 03"
+    },
+    {
+      "fileName": "bang_04.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_04.png",
+      "sha256": "0c03b53c96972fe405c807ef60c9bac9633b9982a830634d487f4881402387ba",
+      "size": 2848,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 04"
+    },
+    {
+      "fileName": "bang_05.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_05.png",
+      "sha256": "3751fa4f618b7ba97e3134cecc706bcda64a135401d1b72361af4fb9ad620495",
+      "size": 2146,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 05"
+    },
+    {
+      "fileName": "bang_06.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_06.png",
+      "sha256": "93189142ebbb5e18de2bd07996e773318264a0f60be2764cdc669697bcbd982a",
+      "size": 2787,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 06"
+    },
+    {
+      "fileName": "bang_07.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_07.png",
+      "sha256": "477e35d915f2aec8bd00dbb5064838ffb02fbcae5cb2a660325e34f02bf1e3e4",
+      "size": 3181,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 07"
+    },
+    {
+      "fileName": "bang_08.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_08.png",
+      "sha256": "7bcacc781621d14e222fa86832ea36e880a0f5997dd00df9d7b55566c7e78504",
+      "size": 2418,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 08"
+    },
+    {
+      "fileName": "bang_09.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_09.png",
+      "sha256": "20502cc48b2a038bab6327faddd088ea33d22e9b6d1788b8a42233b16d277c7f",
+      "size": 3175,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 09"
+    },
+    {
+      "fileName": "bang_10.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/bang_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/bang_10.png",
+      "sha256": "78ac370929bfa02f062ea1e20b6445508451f8cde3d372df15683080bb0aef69",
+      "size": 2195,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bang 10"
+    },
+    {
+      "fileName": "cannon_01.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/cannon_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/cannon_01.png",
+      "sha256": "5b1155d84ef7a06da55645880d6cd763bae1ea2edde3efa9dd2257551bbfdec2",
+      "size": 2912,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cannon 01"
+    },
+    {
+      "fileName": "cannon_02.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/cannon_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/cannon_02.png",
+      "sha256": "ef4cc12a77436a75687bba70a4d916c7ff69998a971477760e364d4c157fc7fc",
+      "size": 2529,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cannon 02"
+    },
+    {
+      "fileName": "cannon_03.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/cannon_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/cannon_03.png",
+      "sha256": "a4e35f3312dfed1447c447947af3f1c45ddd31f0d879b343576a88bb1a9ad395",
+      "size": 2738,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cannon 03"
+    },
+    {
+      "fileName": "cannon_04.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/cannon_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/cannon_04.png",
+      "sha256": "152b8937c65c6e66fdad3218ef6975f8273440b3aac03526c02d9d36816a147a",
+      "size": 3012,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cannon 04"
+    },
+    {
+      "fileName": "cannon_05.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/cannon_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/cannon_05.png",
+      "sha256": "29d94414dc52d4d9348e577204072df85ead84e5829f07cabe435260d63ee73f",
+      "size": 2516,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cannon 05"
+    },
+    {
+      "fileName": "fw_01.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_01.png",
+      "sha256": "9eb40939563e0e6f7cf8a5ee8f0c34c3cdca36245d0c195d77a81eb81850d43e",
+      "size": 2516,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 01"
+    },
+    {
+      "fileName": "fw_02.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_02.png",
+      "sha256": "01119d48d87cb95f27dce2949e645d6612174b6d9ad19fade00e07dd3ad42af9",
+      "size": 3702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 02"
+    },
+    {
+      "fileName": "fw_03.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_03.png",
+      "sha256": "94790628d44e8841436487d680a5f415ce60141adda661a1c165a7dffcf95b1d",
+      "size": 3446,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 03"
+    },
+    {
+      "fileName": "fw_04.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_04.png",
+      "sha256": "46830995956fbec4b3d1a7d7046fa18ee6707513445200d4ae8790f077dbf9a3",
+      "size": 3213,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 04"
+    },
+    {
+      "fileName": "fw_05.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_05.png",
+      "sha256": "0bb60cedae3e3e5cfbdcbd0974d8cfaadbbce3cb1c19b64781eed2d14813dd9f",
+      "size": 2147,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 05"
+    },
+    {
+      "fileName": "fw_06.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_06.png",
+      "sha256": "18d62f368b91befeee4ddb0bf44e4654eeaf8dc37adda85d3207cacea7c5392c",
+      "size": 2797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw 06"
+    },
+    {
+      "fileName": "fw_loop.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/fw_loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/fw_loop.png",
+      "sha256": "86bf52f9dd6104bfbb1ffa806b1301c11b4283d4c8fb3164fbbbdea7562a88b0",
+      "size": 3538,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fw Loop"
+    },
+    {
+      "fileName": "shot_01.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/shot_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/shot_01.png",
+      "sha256": "7f8fa110e7a5262897768de288fdee75bda1783e77b8a9f7266641058d819370",
+      "size": 2678,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 01"
+    },
+    {
+      "fileName": "shot_02.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/shot_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/shot_02.png",
+      "sha256": "f928f3d9e21d7f642dc6ad76a94a2d4f23da2880ab7dba50001cc743c95844ff",
+      "size": 2365,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 02"
+    },
+    {
+      "fileName": "shot_03.png",
+      "path": "packs/25-CC0-bang-sfx/thumbnails/shot_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/25-CC0-bang-sfx/thumbnails/shot_03.png",
+      "sha256": "9aaa25a1a488897902172f9ba2036d5dfce57944766411bfce8bbf041ccfe39c",
+      "size": 3414,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 03"
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: Record Fuzzies",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Vinyl record fuzz, crackle and noise, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - Record Fuzzies",
+  "itemCount": 19,
+  "items": [
+    {
+      "name": "Ambient Noise 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ambient Noise 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ambient Noise 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ambient Noise 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Crackle",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Big Crackle.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Classic Record Fuzz",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Classic Record Fuzz.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dirty Intro",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Dirty Intro.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Filthy Record",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Filthy Record.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Good Clean Noise",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Good Clean Noise.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "How Do You Put Needle On Record",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/How Do You Put Needle On Record.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "I Should Clean My Records More Often",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/I Should Clean My Records More Often.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Needle Breaker",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Needle Breaker.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Needle Drop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Needle Drop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Noise Blaster",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Blaster.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Noise Erosion 2 Bar Loop",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Erosion 2 Bar Loop.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Noise Erosion",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Erosion.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Record Loop 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Loop 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Record Skipping 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Skipping 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Record Skipping 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Skipping 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Ambient Noise 1.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Ambient%20Noise%201.wav",
+      "sha256": "276a55a13a02fa8c7f0d2ba02086f360cf3ddd27af6db1f1087e3a2aa2c2d3e6",
+      "size": 4212036,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ambient Noise 2.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Ambient%20Noise%202.wav",
+      "sha256": "b96f3768d0a1926e9361280d5ed5f3831183f8f54e5522cbc835d49223fbf796",
+      "size": 2005756,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ambient Noise 3.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Ambient%20Noise%203.wav",
+      "sha256": "3f7682f1d511b84f2c8930fae4dceff2be077dfb6fad21f73e19b3feb0d711f0",
+      "size": 2602892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ambient Noise 4.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Ambient Noise 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Ambient%20Noise%204.wav",
+      "sha256": "02e029dc0a6562ac529e133b0629e7390c65e9f368097febc5395bb8d38ad7b6",
+      "size": 4757128,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Crackle.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Big Crackle.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Big%20Crackle.wav",
+      "sha256": "56d8c94f7457d76e2cf6f6ede8ee1d87b80e11579a15e966198bd39425e9aa22",
+      "size": 1170044,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Classic Record Fuzz.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Classic Record Fuzz.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Classic%20Record%20Fuzz.wav",
+      "sha256": "821070e06bf8865a49815d8e28af9c8ccd89b8ba50ef9ee51b7e17ab6456a70e",
+      "size": 4513280,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Dirty Intro.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Dirty Intro.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Dirty%20Intro.wav",
+      "sha256": "da5ca5a86f3c1731bcf542fa9ff55bee52adea130a179b3058b70248bda38991",
+      "size": 2652040,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Filthy Record.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Filthy Record.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Filthy%20Record.wav",
+      "sha256": "a70a10ee445dd36a6388791401e24211e2411603ed040607e089e5784595e25b",
+      "size": 1233560,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Good Clean Noise.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Good Clean Noise.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Good%20Clean%20Noise.wav",
+      "sha256": "3147f7a36058b7a04d23d98068d53428beabd4844488fc474d01ad4f87d3f31b",
+      "size": 3353896,
+      "role": "Audio"
+    },
+    {
+      "fileName": "How Do You Put Needle On Record.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/How Do You Put Needle On Record.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/How%20Do%20You%20Put%20Needle%20On%20Record.wav",
+      "sha256": "62e18e993533fcf8fbab8ac2047e3d8c2761652cc60d21f9a9851cc0a1abd563",
+      "size": 3905480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "I Should Clean My Records More Often.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/I Should Clean My Records More Often.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/I%20Should%20Clean%20My%20Records%20More%20Often.wav",
+      "sha256": "6bd1525b325832aab79f01f1ce2a4aa025e94be57125c62e309828a40d354eb8",
+      "size": 2501528,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Needle Breaker.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Needle Breaker.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Needle%20Breaker.wav",
+      "sha256": "b967804816049865095ce15ff1fdfe978aadecb67a6cf913bc27e1eb62745efc",
+      "size": 2908324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Needle Drop.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Needle Drop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Needle%20Drop.wav",
+      "sha256": "906650a054726997f8a066ddc8cd3068b313430525650696a837a32832e15f80",
+      "size": 3316172,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Noise Blaster.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Blaster.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Noise%20Blaster.wav",
+      "sha256": "afa904e8f9f66acb4469c7480eab6ef0a56d40191228966887175f022e315a5f",
+      "size": 1144660,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Noise Erosion 2 Bar Loop.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Erosion 2 Bar Loop.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Noise%20Erosion%202%20Bar%20Loop.wav",
+      "sha256": "9feed41a249171b14b454103427ceadc6c6101c11415b93335f3087cf59d1d48",
+      "size": 2556368,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Noise Erosion.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Noise Erosion.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Noise%20Erosion.wav",
+      "sha256": "047b31371762c254f50732129648ed2684b0f35f7222a50a7be2b501b3d229d5",
+      "size": 2786788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Record Loop 1.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Loop 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Record%20Loop%201.wav",
+      "sha256": "501808aa54770947223d6867491fd4c2ec1fdae42de17033477f035b0bac4070",
+      "size": 2870012,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Record Skipping 1.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Skipping 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Record%20Skipping%201.wav",
+      "sha256": "2d5eb0c1a304c8c97013ee695761564366fcf20c1078c343f7170454e123fc04",
+      "size": 3345876,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Record Skipping 2.wav",
+      "path": "packs/Micro Pack - Record Fuzzies/sounds/Record Skipping 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/sounds/Record%20Skipping%202.wav",
+      "sha256": "047864344131ab85dcf1157d0a34baf5b6acbbdb85de201365d85966d106af2d",
+      "size": 2786788,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Ambient Noise 1.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Ambient Noise 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Ambient%20Noise%201.png",
+      "sha256": "c772000cfa182c682916396c487711bc7dca910f558de70fb8db80cda1360ced",
+      "size": 2221,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient Noise 1"
+    },
+    {
+      "fileName": "Ambient Noise 2.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Ambient Noise 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Ambient%20Noise%202.png",
+      "sha256": "7e68bfbce3fb1d7749b0fc1ee024df697bbdfb3f4f5728ecbbbaa1d8f62f1692",
+      "size": 2311,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient Noise 2"
+    },
+    {
+      "fileName": "Ambient Noise 3.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Ambient Noise 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Ambient%20Noise%203.png",
+      "sha256": "fdcc5fe570c191cfb15dba68a0c4f7c3578f991566fd99474888c1d80004f378",
+      "size": 3150,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient Noise 3"
+    },
+    {
+      "fileName": "Ambient Noise 4.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Ambient Noise 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Ambient%20Noise%204.png",
+      "sha256": "69bb6dca7fc91160f3694bb2629854dd0953d2aab1f05f48ab89e6b12dcbe464",
+      "size": 2677,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient Noise 4"
+    },
+    {
+      "fileName": "Big Crackle.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Big Crackle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Big%20Crackle.png",
+      "sha256": "7531272616205c93b357a035c2500c4ff711f7c7bb201ecbb7032e52cf241b5f",
+      "size": 2928,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Crackle"
+    },
+    {
+      "fileName": "Classic Record Fuzz.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Classic Record Fuzz.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Classic%20Record%20Fuzz.png",
+      "sha256": "02f56cfd0bd3ab9c08f0d753ad814ab779e4ff11d0fad17eac3cd31e84f7d8a5",
+      "size": 3479,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Classic Record Fuzz"
+    },
+    {
+      "fileName": "Dirty Intro.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Dirty Intro.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Dirty%20Intro.png",
+      "sha256": "27b81eba480c96faedfebba58bf858c9e05c442844d8bb2852b83cc3f8f924dc",
+      "size": 2839,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dirty Intro"
+    },
+    {
+      "fileName": "Filthy Record.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Filthy Record.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Filthy%20Record.png",
+      "sha256": "93f525eda88afa9d7f0c8b66200519177eed2223aabb69a96d80c4532c41a335",
+      "size": 3874,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Filthy Record"
+    },
+    {
+      "fileName": "Good Clean Noise.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Good Clean Noise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Good%20Clean%20Noise.png",
+      "sha256": "9bd3af509f3631b53e5007ae9e3fb4c3265b51bdbd50a238e4493698515da29b",
+      "size": 2819,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Good Clean Noise"
+    },
+    {
+      "fileName": "How Do You Put Needle On Record.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/How Do You Put Needle On Record.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/How%20Do%20You%20Put%20Needle%20On%20Record.png",
+      "sha256": "28279b0b590781f9336cabaf0676ff2c596f96ea205412f8df43dfda1875cb42",
+      "size": 2968,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "How Do You Put Needle On Record"
+    },
+    {
+      "fileName": "I Should Clean My Records More Often.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/I Should Clean My Records More Often.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/I%20Should%20Clean%20My%20Records%20More%20Often.png",
+      "sha256": "3f6b881d3bfef7ad0a2879ed41f1d037b90b879542a2ba29758b23fd48f204fb",
+      "size": 3319,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "I Should Clean My Records More Often"
+    },
+    {
+      "fileName": "Needle Breaker.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Needle Breaker.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Needle%20Breaker.png",
+      "sha256": "aee4bff67fe189e5fef0d9c652cb7f530251ca97e74ec5c450f5bf0402062fca",
+      "size": 2537,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Needle Breaker"
+    },
+    {
+      "fileName": "Needle Drop.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Needle Drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Needle%20Drop.png",
+      "sha256": "125b84cf6e78c31b8970df0ebd943aad9d3819a103c0593c70cf37f2f1b50afb",
+      "size": 3300,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Needle Drop"
+    },
+    {
+      "fileName": "Noise Blaster.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Noise Blaster.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Noise%20Blaster.png",
+      "sha256": "0cd1b99c8491f73aacff515d586e3431fc1a771c4c97c1cf5dfee9bfbbe50602",
+      "size": 3278,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise Blaster"
+    },
+    {
+      "fileName": "Noise Erosion 2 Bar Loop.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Noise Erosion 2 Bar Loop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Noise%20Erosion%202%20Bar%20Loop.png",
+      "sha256": "a3c5ecd8c0a9a212b83ab4be215c11b806094526a3396474bc495059a31114da",
+      "size": 3000,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise Erosion 2 Bar Loop"
+    },
+    {
+      "fileName": "Noise Erosion.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Noise Erosion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Noise%20Erosion.png",
+      "sha256": "2c332260ed9d808152fdee5b9d4d27e926dc14bc25e824b0d4252be122369f66",
+      "size": 3092,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise Erosion"
+    },
+    {
+      "fileName": "Record Loop 1.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Record Loop 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Record%20Loop%201.png",
+      "sha256": "1b9093cf70fc5f46f22a3314787e485314e5acce4962d7d6e3220c3eb6d65220",
+      "size": 3425,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Record Loop 1"
+    },
+    {
+      "fileName": "Record Skipping 1.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Record Skipping 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Record%20Skipping%201.png",
+      "sha256": "b1ee60bd65fcd68574e2a0aec818c679bf0f595cc09a7b82a617e35fdf3727ed",
+      "size": 3550,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Record Skipping 1"
+    },
+    {
+      "fileName": "Record Skipping 2.png",
+      "path": "packs/Micro Pack - Record Fuzzies/thumbnails/Record Skipping 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20Record%20Fuzzies/thumbnails/Record%20Skipping%202.png",
+      "sha256": "3b375dff74ced6429180daa6b30be260044e50bce5673f17c3c8ffcc6492b565",
+      "size": 3088,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Record Skipping 2"
+    }
+  ]
+}

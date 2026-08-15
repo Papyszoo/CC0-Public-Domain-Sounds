@@ -1,0 +1,919 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "30 Weird CC0 SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/30-weird-cc0-sfx",
+  "description": "30 weird sound effects — part recorded and filtered, part synthesized. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/30-cc0-weird-sfx",
+  "itemCount": 30,
+  "items": [
+    {
+      "name": "Weird 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 17",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_17.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 18",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_18.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 19",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_19.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 20",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_20.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 21",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_21.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 22",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_22.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 23",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_23.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 24",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_24.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 25",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_25.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 26",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_26.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 27",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_27.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 28",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_28.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 29",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_29.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 30",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-weird-sfx/sounds/weird_30.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "weird_01.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_01.ogg",
+      "sha256": "77ac7fe0df4d098426e25ba35c4c9149de636f07b712c72935735cfb00bf9969",
+      "size": 27536,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_02.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_02.ogg",
+      "sha256": "28d9d2b0f7353aa06078824c10f726022bc8147696cec6e378b19e00a686a63f",
+      "size": 17272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_03.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_03.ogg",
+      "sha256": "c854e523e7dced97f956a6feb71ed09def1326d8cb74fe532e42c2f8c48e0c42",
+      "size": 38499,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_04.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_04.ogg",
+      "sha256": "fd183e6fb888d2ae1660af09acd031afe3c33f67c0645cba11b3e885c8a45e25",
+      "size": 20795,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_05.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_05.ogg",
+      "sha256": "ba3b3632b3e7887e4ee07d9f7eca3f5c20b2ac062f28edcaffa4935658b66aea",
+      "size": 30552,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_06.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_06.ogg",
+      "sha256": "35e9fe2bb1b7af94947c5b0f4d3bf9404ca513a5803828f3eec5bb00f6a046c2",
+      "size": 25352,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_07.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_07.ogg",
+      "sha256": "9e2f9624da10675cf48e566a08161354b70cbb26fd743dfbd240714f587b3edb",
+      "size": 35876,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_08.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_08.ogg",
+      "sha256": "ea5308eb48232d322d22a9d2be6111966054a4ec22431cd20e438780e7922912",
+      "size": 18824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_09.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_09.ogg",
+      "sha256": "b3cb321f4f5cd41c1037a98f78079f408b65b286633174baf6341ff8fab50ea5",
+      "size": 28243,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_10.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_10.ogg",
+      "sha256": "6dfbdece0c0437429c808cbab284dbf1efcaa3cf3f568c3b103bc00833d8d38d",
+      "size": 36522,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_11.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_11.ogg",
+      "sha256": "c9bcf9503f02651c1efcfc0e10b9405107c54b5bb327b4f18508124174cba71a",
+      "size": 36192,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_12.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_12.ogg",
+      "sha256": "1a05879ea2563c27a5852b2d7f7a5f2b519941d468ad010b1cc5891bfa4ff678",
+      "size": 56105,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_13.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_13.ogg",
+      "sha256": "fe5b6668d074584a9933a49b366cb1f6a232fe25aa2c17ff5bc9108c732f584e",
+      "size": 21896,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_14.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_14.ogg",
+      "sha256": "2ff18db9f2afba2483247bd0375acbbb8d4e1585474a1e6638761f89549c4b4e",
+      "size": 26535,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_15.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_15.ogg",
+      "sha256": "82ea37613f7b6eb1088531f4b9df414ba870cfab6a922feaf3ee2892a5841a5f",
+      "size": 40911,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_16.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_16.ogg",
+      "sha256": "1064c06fcbe811c76db69bbb423b25024b224a08c593a726111a07c3974546fa",
+      "size": 18430,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_17.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_17.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_17.ogg",
+      "sha256": "3e6e2b620f881adfbfa0af4e594c69cf26fca6ea17b94157a2a0b12312e08ebf",
+      "size": 24745,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_18.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_18.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_18.ogg",
+      "sha256": "a91beff9f062345e0165a6eb78d2eef0257abfa9996b87c7ed489959f69eb87e",
+      "size": 40783,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_19.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_19.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_19.ogg",
+      "sha256": "35ee21139556de8b79c5fd2dc6e23c9ecd41efdd2789b3a1953bfd109bb8b081",
+      "size": 26100,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_20.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_20.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_20.ogg",
+      "sha256": "aa9d81783567343c38831776154f74eec5e2f3deedda407b8210443bbbd33ec3",
+      "size": 36674,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_21.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_21.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_21.ogg",
+      "sha256": "ffc7e40ef9fd3889065c2f2126138868257d9cba85c1193e0f86f99060309568",
+      "size": 31110,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_22.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_22.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_22.ogg",
+      "sha256": "6a87c1ecc3f392f5f38e9c3a7bc88c7b076f583586b3940c10160266cb6ba171",
+      "size": 47685,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_23.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_23.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_23.ogg",
+      "sha256": "862edce088592fc47409bfc594028f0cfb804b66abcfcde133f0c775b2cece1a",
+      "size": 14513,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_24.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_24.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_24.ogg",
+      "sha256": "701abb5d8b5711fbc9460ef4ea31ee0df32d6839837eff56be909aaa719f686e",
+      "size": 24045,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_25.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_25.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_25.ogg",
+      "sha256": "4523b6d72e133ef5f36574e7a5e3e5cb4b2aac99fca36a40aa5e0af7794a5edf",
+      "size": 27012,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_26.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_26.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_26.ogg",
+      "sha256": "a5a18415ad40253821a711c8b6c4170f7ef5ad0e01a3dfba75a92a6dff88acc5",
+      "size": 20768,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_27.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_27.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_27.ogg",
+      "sha256": "a327408b8cc6f59985a9de509e4a2e8b008bebb2095bf2e726ceeeca89978412",
+      "size": 24230,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_28.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_28.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_28.ogg",
+      "sha256": "405f891d2fd1e31eb4f2a96955692b30b1b149254fd973cf10f3bd9dc9cba5b4",
+      "size": 53499,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_29.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_29.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_29.ogg",
+      "sha256": "12410a7f3a5fbd1f153012e55bd5ae83c594411c7eeffc9b8ea9463ecb5b4da4",
+      "size": 33444,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_30.ogg",
+      "path": "packs/30-cc0-weird-sfx/sounds/weird_30.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/sounds/weird_30.ogg",
+      "sha256": "7f5ec31dd31a05182be5a975e19cf77a0f1503a9d02faab8678321ad371ca3b6",
+      "size": 56178,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "weird_01.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_01.png",
+      "sha256": "476d9c4b2f73624138c1bc3bab963a77511ced95ec61764614957541688225e8",
+      "size": 2690,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 01"
+    },
+    {
+      "fileName": "weird_02.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_02.png",
+      "sha256": "8d7bf3bfa8bb8917428f23b0c714254849bf1fd29c14c088f7d6ea8ca604a44f",
+      "size": 2042,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 02"
+    },
+    {
+      "fileName": "weird_03.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_03.png",
+      "sha256": "b18bdc68bb8e703199f01cafcfa472a230882625b7dac22c1f06a02fc73c6415",
+      "size": 2111,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 03"
+    },
+    {
+      "fileName": "weird_04.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_04.png",
+      "sha256": "75ea90846cff43144f1ba932399b367679e666b477881264cde8f547283789a0",
+      "size": 2056,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 04"
+    },
+    {
+      "fileName": "weird_05.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_05.png",
+      "sha256": "1171aa24f0519132a9e1c62e6610aa1f60894e4513a433fdd4137dacda3a3cb0",
+      "size": 2755,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 05"
+    },
+    {
+      "fileName": "weird_06.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_06.png",
+      "sha256": "a14735cca46c259f01a68b0babea481639c886bf53913fa276e235a67aa7d6a9",
+      "size": 3195,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 06"
+    },
+    {
+      "fileName": "weird_07.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_07.png",
+      "sha256": "d1aca31354c93edd67313dc004c1e18208260dac83a76e13b9a9d9f37f6cb34a",
+      "size": 3467,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 07"
+    },
+    {
+      "fileName": "weird_08.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_08.png",
+      "sha256": "78b5990e627c0115c4d3032ca71826a77b8934646e432b8a9862814bc29cb6b2",
+      "size": 3240,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 08"
+    },
+    {
+      "fileName": "weird_09.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_09.png",
+      "sha256": "aab287b592adcd4a751cda17b052efa80aed4afec765287ed453946275c05204",
+      "size": 3109,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 09"
+    },
+    {
+      "fileName": "weird_10.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_10.png",
+      "sha256": "ea198de37cf56f159eba94c99c75f860c309fc7f1f047964b39cc56511dfd80e",
+      "size": 2564,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 10"
+    },
+    {
+      "fileName": "weird_11.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_11.png",
+      "sha256": "1f8f3b8d4e79a8e73e70e868079a70885cd5e9c814d6f2e82c6c6d4c11ae28d3",
+      "size": 2356,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 11"
+    },
+    {
+      "fileName": "weird_12.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_12.png",
+      "sha256": "6dbcf2c460a8f14e2ba359a877da09cdd4356b53ee34076f64cc99d35ef5a3df",
+      "size": 3360,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 12"
+    },
+    {
+      "fileName": "weird_13.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_13.png",
+      "sha256": "21d6dd25beb5edf87c8eea97d3252733d12d1b1d2b28f642fc0935dbbe4c24bb",
+      "size": 2416,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 13"
+    },
+    {
+      "fileName": "weird_14.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_14.png",
+      "sha256": "5f450475fa7b66ec1745dd21c76546e309fe7c35a8a9a94e5c9b4bc3159d8ea4",
+      "size": 3325,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 14"
+    },
+    {
+      "fileName": "weird_15.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_15.png",
+      "sha256": "a1b5075ea8678fc69e930e67667f4811ebc845afc098471db430ed7d74ce1548",
+      "size": 3675,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 15"
+    },
+    {
+      "fileName": "weird_16.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_16.png",
+      "sha256": "5aa3b0b5ddaba856e12a72714a55257eb79aeb3cf00ce7ca7c77cecbaea3fe61",
+      "size": 2403,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 16"
+    },
+    {
+      "fileName": "weird_17.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_17.png",
+      "sha256": "8333db773f714aefe602fcc847c168661ef09782940aba7fbb61a53b4dbcdd66",
+      "size": 2443,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 17"
+    },
+    {
+      "fileName": "weird_18.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_18.png",
+      "sha256": "7b3253192c9a797c9a1b0c316b28923c8365326215b51f9b1e085229a60bd7fa",
+      "size": 2521,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 18"
+    },
+    {
+      "fileName": "weird_19.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_19.png",
+      "sha256": "dd6cdaf41fed550f4498ac6d5c8ce1548ea810f68d839ef1ee03a38d1491d16c",
+      "size": 3548,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 19"
+    },
+    {
+      "fileName": "weird_20.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_20.png",
+      "sha256": "4918433619e656b3426458ee1705f5718e6939c6748770ec1d87cdc35349cb6a",
+      "size": 3197,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 20"
+    },
+    {
+      "fileName": "weird_21.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_21.png",
+      "sha256": "fc2272420cbdc65d2a62dc8b78199204c74618262560a54efe3648b610af9c1b",
+      "size": 3308,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 21"
+    },
+    {
+      "fileName": "weird_22.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_22.png",
+      "sha256": "4836c7b03339c5ea28a169168f62fea2221b179d319967cb959d27ba02e2ede4",
+      "size": 3448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 22"
+    },
+    {
+      "fileName": "weird_23.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_23.png",
+      "sha256": "af5f90d6ab081e30905bedddd17ccf6ad2fe3382d60d1ff7b069a9464124ae2a",
+      "size": 3473,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 23"
+    },
+    {
+      "fileName": "weird_24.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_24.png",
+      "sha256": "5f585a1cc5e42d951108d0b41c25528e5421c36555c031dc502eca4e2237315b",
+      "size": 3767,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 24"
+    },
+    {
+      "fileName": "weird_25.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_25.png",
+      "sha256": "6fbca7d20fd88b87919f27a5c9411d6a1978ba2cd4220a68ca9a46eabe928ec7",
+      "size": 2573,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 25"
+    },
+    {
+      "fileName": "weird_26.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_26.png",
+      "sha256": "5a4a91dc4238852a274ba865a08e378ff030abf449df55b8addeb939caba41f5",
+      "size": 3243,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 26"
+    },
+    {
+      "fileName": "weird_27.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_27.png",
+      "sha256": "52f028edc2c6f0c85aba72a6eaff4c6adfd0da2fc9934333031a21b2de0b254d",
+      "size": 3520,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 27"
+    },
+    {
+      "fileName": "weird_28.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_28.png",
+      "sha256": "1b7250ce6cdd66d96203d3cbe2304a407a8cbd17924fd8cc7f23d8af6f8749b4",
+      "size": 3750,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 28"
+    },
+    {
+      "fileName": "weird_29.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_29.png",
+      "sha256": "eedc6672675067fd1ee580af858f7ae14d55e785342dc57dc35285990971cef5",
+      "size": 2870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 29"
+    },
+    {
+      "fileName": "weird_30.png",
+      "path": "packs/30-cc0-weird-sfx/thumbnails/weird_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-weird-sfx/thumbnails/weird_30.png",
+      "sha256": "4cb9427af297ec565d4f141071f25f9853f2b4dc8ec90835cfd080a8e917d4ae",
+      "size": 3323,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 30"
+    }
+  ]
+}

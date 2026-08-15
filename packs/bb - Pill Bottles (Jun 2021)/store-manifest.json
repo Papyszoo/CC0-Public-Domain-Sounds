@@ -1,0 +1,919 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Pill Bottles (Jun 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Pill-bottle rattle and cap foley, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Pill Bottles (Jun 2021)",
+  "itemCount": 30,
+  "items": [
+    {
+      "name": "Allergies Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Allergies Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Allergies Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Allergies Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bottle Pop 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Bottle Pop 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bottle Pop 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Bottle Pop 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cap Click 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Cap Click 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cap Click 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Cap Click 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glucosamine Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glucosamine Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glucosamine Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glucosamine Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multivitamin Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multivitamin Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multivitamin Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Multivitamin Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Prescription Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Prescription Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Prescription Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Prescription Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Twist Cap 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Twist Cap 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Twist Cap 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Twist Cap 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin B Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin B Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin B Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin B Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin D Roll 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Roll 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin D Roll 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Roll 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin D Shake 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Shake 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Vitamin D Shake 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Shake 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Allergies - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Allergies%20-%20Roll%201.wav",
+      "sha256": "8f71bbe5e324d666224aa47b84d223b440db20d6556ee67d4b17a5aef26c378a",
+      "size": 103492,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Allergies - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Allergies%20-%20Roll%202.wav",
+      "sha256": "b4b61c2c20ea3ccb8d2e23d8dd72de23d06c24627ea96cb22af5a51c3f2823b6",
+      "size": 95684,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Allergies - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Allergies%20-%20Shake%201.wav",
+      "sha256": "9f6efb476878f283a2cc0bd6b1a64d4591755c88f5c5b744b07380da50e8deae",
+      "size": 50072,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Allergies - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Allergies - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Allergies%20-%20Shake%202.wav",
+      "sha256": "d1dbd5838152a0c35121ff92c615a7a93bd131b30b37e430555d0f6ff8eed6e0",
+      "size": 47784,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Bottle Pop 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Bottle Pop 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Bottle%20Pop%201.wav",
+      "sha256": "d2194bc0241928ce590f9ccf71acb92392d8914131971650a75d928ac97ebf74",
+      "size": 85680,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Bottle Pop 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Bottle Pop 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Bottle%20Pop%202.wav",
+      "sha256": "d60755b978c0ea377ba8f008acf099c3eb9afc949d5adb759e96c3a415e73829",
+      "size": 95012,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cap Click 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Cap Click 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Cap%20Click%201.wav",
+      "sha256": "a6043d92640756e1443fbaa546b896a27df7a699529824c9a81d09ef16d1ff82",
+      "size": 60680,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cap Click 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Cap Click 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Cap%20Click%202.wav",
+      "sha256": "97225153bdc96415155058253f2723982ccb8622ded136adc7442aa5163f9840",
+      "size": 42528,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Glucosamine - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Glucosamine%20-%20Roll%201.wav",
+      "sha256": "28520a9c7c8326a623ffb4f3a8a08706ea663e12cf67ace6a02baa934010fa07",
+      "size": 152796,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Glucosamine - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Glucosamine%20-%20Roll%202.wav",
+      "sha256": "d9f7bafb0159daadf5e9ebda07fafc61ed79f92f25058eb394983b43b71484c0",
+      "size": 118056,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Glucosamine - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Glucosamine%20-%20Shake%201.wav",
+      "sha256": "6a1e6bd1381dc6dba97bcc5042c25814b6d6f927161c6b98189833e8f559b331",
+      "size": 46440,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Glucosamine - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Glucosamine - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Glucosamine%20-%20Shake%202.wav",
+      "sha256": "41cf8d93411123fc90b4be3b60cd574bb17e440eaf7cf79b7ca511e2dba4f161",
+      "size": 49168,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multivitamin - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Multivitamin%20-%20Roll%201.wav",
+      "sha256": "6d15bca6c6701d69e3472efb929ee6ad4e7f592022e4822abe42f1d135f5c68e",
+      "size": 102412,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multivitamin - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Multivitamin%20-%20Roll%202.wav",
+      "sha256": "2027d024c410615914027d711314c31eda961a018df2f215157f5f201ed32b91",
+      "size": 104920,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multivitamin - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Multivitamin%20-%20Shake%201.wav",
+      "sha256": "2c883a58a4c06d1c262bec9412bc1d66e234d9c936efe1094c925f3b2437fe39",
+      "size": 77260,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Multivitamin - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Multivitamin - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Multivitamin%20-%20Shake%202.wav",
+      "sha256": "f3b23d3cb4866539e37f9caaf726230e649c1385af8266dca22e647875b68e68",
+      "size": 82048,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Prescription - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Prescription%20-%20Roll%201.wav",
+      "sha256": "442760ff82f517471212c38cc8a02281e5fce039447bcb3bcfcb7fb50ab87f05",
+      "size": 107496,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Prescription - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Prescription%20-%20Roll%202.wav",
+      "sha256": "cef7c3190b6f8dce34e201a630b3eeee861a3c1a1d33b6b8b16fc055898cb097",
+      "size": 153072,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Prescription - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Prescription%20-%20Shake%201.wav",
+      "sha256": "09f8ce4533add6b2cbcf020bc7de9328efa55c5afb76a9d88f73185e4fcaa8c5",
+      "size": 72844,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Prescription - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Prescription - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Prescription%20-%20Shake%202.wav",
+      "sha256": "b50fb7e3976d9c8a154067175fa013c8c48ac680dabe12ed94dc003d61eeceef",
+      "size": 182228,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Twist Cap 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Twist Cap 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Twist%20Cap%201.wav",
+      "sha256": "b86411999a8bc9be760e6609f7c75864426f02661c2796686d7278ca8a28f92b",
+      "size": 566400,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Twist Cap 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Twist Cap 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Twist%20Cap%202.wav",
+      "sha256": "67d9d8cda198cb01fdfb7465d9706b69439b14200d2faf8d71e0afee1d51730d",
+      "size": 117284,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin B - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20B%20-%20Roll%201.wav",
+      "sha256": "c041b80210a082c2197fe50e35c857fefbfdafe41dd1d6117920c9ab4f0737ad",
+      "size": 114236,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin B - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20B%20-%20Roll%202.wav",
+      "sha256": "baad8c29c5a4eedc13b060d16a825d1e3f7a7a52db2f7c0d1ac26bfa292360e6",
+      "size": 67612,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin B - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20B%20-%20Shake%201.wav",
+      "sha256": "a71e9897a2abfce5020c254c6016387c8f2bad32022135cf1c39683ebfa804e4",
+      "size": 65144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin B - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin B - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20B%20-%20Shake%202.wav",
+      "sha256": "c691246acfcc6f00f96fbb6e0c491385429359ccbad46c0603630610aa101f40",
+      "size": 91780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin D - Roll 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Roll 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20D%20-%20Roll%201.wav",
+      "sha256": "c706591dcd023d3d4b3da82f55a8da0509a0abf54f0ca1c801e2778c3bf215c4",
+      "size": 98872,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin D - Roll 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Roll 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20D%20-%20Roll%202.wav",
+      "sha256": "1a72285b18fe50308bb30497de2b94fcaef682d58288e5a11ff5201a7a8b5f5d",
+      "size": 91628,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin D - Shake 1.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Shake 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20D%20-%20Shake%201.wav",
+      "sha256": "31b23900a66ae7a2417ede30c985fdaadff1ecc8f8e0028287011a3d706e6ba6",
+      "size": 66232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Vitamin D - Shake 2.wav",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/sounds/Vitamin D - Shake 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/sounds/Vitamin%20D%20-%20Shake%202.wav",
+      "sha256": "d3a54f33a3a99af256402857fcb935e9e9b9daba206a35ac77fd515dad49dfd7",
+      "size": 87316,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Allergies - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Allergies - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Allergies%20-%20Roll%201.png",
+      "sha256": "f179c5766fc8e1dcbdbddd9818bec39966d7e2582b061b482ec042fcfff11d39",
+      "size": 2746,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Allergies Roll 1"
+    },
+    {
+      "fileName": "Allergies - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Allergies - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Allergies%20-%20Roll%202.png",
+      "sha256": "7ac470b6f151e17ca58c18218d9a64025edde51beb925c5ab92557471433590a",
+      "size": 2974,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Allergies Roll 2"
+    },
+    {
+      "fileName": "Allergies - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Allergies - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Allergies%20-%20Shake%201.png",
+      "sha256": "8e681687f36f95555fc814d55adbc28eecc51a0f9434d01909f5758b18fe043a",
+      "size": 3009,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Allergies Shake 1"
+    },
+    {
+      "fileName": "Allergies - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Allergies - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Allergies%20-%20Shake%202.png",
+      "sha256": "5d7b47d78e86a0874e398c74a84b4020a247aca1d3cbb1136c29dfa146e5e993",
+      "size": 2984,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Allergies Shake 2"
+    },
+    {
+      "fileName": "Bottle Pop 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Bottle Pop 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Bottle%20Pop%201.png",
+      "sha256": "955977acf38e558cf8a12831272d45bf010eeccda4175f27d493eb50d3978a78",
+      "size": 2211,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bottle Pop 1"
+    },
+    {
+      "fileName": "Bottle Pop 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Bottle Pop 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Bottle%20Pop%202.png",
+      "sha256": "96718c21d5739ce368e8f62f004040cb81d57cec42658e2b1953e66f62954ba0",
+      "size": 1998,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bottle Pop 2"
+    },
+    {
+      "fileName": "Cap Click 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Cap Click 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Cap%20Click%201.png",
+      "sha256": "098989ab13aac620d9e5f3f13cb272f2d9a87a8a1d610ea53a395dcabc2aaaec",
+      "size": 1801,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cap Click 1"
+    },
+    {
+      "fileName": "Cap Click 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Cap Click 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Cap%20Click%202.png",
+      "sha256": "a287cd9e1aa79d548081d7190e671954d443cedea9b0da4be3a084b2fc0b2e1d",
+      "size": 1983,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cap Click 2"
+    },
+    {
+      "fileName": "Glucosamine - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Glucosamine - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Glucosamine%20-%20Roll%201.png",
+      "sha256": "d464ac6215b6b854ee22cf9dabf15f80e0e70819d427367d9c7b687062a71979",
+      "size": 3638,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glucosamine Roll 1"
+    },
+    {
+      "fileName": "Glucosamine - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Glucosamine - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Glucosamine%20-%20Roll%202.png",
+      "sha256": "9fa40d685e35fa3e407a4e52f97b58e15c9fd8f4e3d4c115c617dd7ac56e79ef",
+      "size": 3426,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glucosamine Roll 2"
+    },
+    {
+      "fileName": "Glucosamine - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Glucosamine - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Glucosamine%20-%20Shake%201.png",
+      "sha256": "d1f014130d7c101bf2275a6b79f65bea63f9bf38c9fdfe59bb7b23f418b0e758",
+      "size": 3078,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glucosamine Shake 1"
+    },
+    {
+      "fileName": "Glucosamine - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Glucosamine - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Glucosamine%20-%20Shake%202.png",
+      "sha256": "ce855c3cbecb976bd84ca542344b772bad1e658e5720aadf620c939ee772769c",
+      "size": 3094,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glucosamine Shake 2"
+    },
+    {
+      "fileName": "Multivitamin - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Multivitamin - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Multivitamin%20-%20Roll%201.png",
+      "sha256": "3dc6698ffdea9632e965e6d4ae91f337586eebc6be03de6aceb6ee77ade337c9",
+      "size": 3085,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multivitamin Roll 1"
+    },
+    {
+      "fileName": "Multivitamin - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Multivitamin - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Multivitamin%20-%20Roll%202.png",
+      "sha256": "26cddaad24e1d2b93a70660f47f431b388e3c853a3fa0ae3fa8b6e6ccc5d8869",
+      "size": 3488,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multivitamin Roll 2"
+    },
+    {
+      "fileName": "Multivitamin - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Multivitamin - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Multivitamin%20-%20Shake%201.png",
+      "sha256": "471bd323693f31822d2881001f738e1828394bcd40a4e2c6aaa31296af310bcc",
+      "size": 2793,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multivitamin Shake 1"
+    },
+    {
+      "fileName": "Multivitamin - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Multivitamin - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Multivitamin%20-%20Shake%202.png",
+      "sha256": "0bfc237b8341222bb266859a6c1a0eaf00e99666d56abdda6a7a5fca5def3788",
+      "size": 2672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Multivitamin Shake 2"
+    },
+    {
+      "fileName": "Prescription - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Prescription - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Prescription%20-%20Roll%201.png",
+      "sha256": "fa52daab3f09448fec31488736e27551a8e9d0e157f1611afc5a701f6e98eac8",
+      "size": 3132,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Prescription Roll 1"
+    },
+    {
+      "fileName": "Prescription - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Prescription - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Prescription%20-%20Roll%202.png",
+      "sha256": "dbd50eadbef68a8d7fc1e171867044a899777baf9f3200a68a913a734820c00d",
+      "size": 2638,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Prescription Roll 2"
+    },
+    {
+      "fileName": "Prescription - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Prescription - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Prescription%20-%20Shake%201.png",
+      "sha256": "61ddb584684d8d9fa1c06be55edbd9a46500bd3b5a0c30f0dbfa99f01e2a1fb8",
+      "size": 2895,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Prescription Shake 1"
+    },
+    {
+      "fileName": "Prescription - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Prescription - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Prescription%20-%20Shake%202.png",
+      "sha256": "ed17431baa2449a844b5474c8c0a7ff5557f9ff7f42ebbd6a36174e3ef447c5d",
+      "size": 3407,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Prescription Shake 2"
+    },
+    {
+      "fileName": "Twist Cap 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Twist Cap 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Twist%20Cap%201.png",
+      "sha256": "f2343b56e41180fa4d0182b5e8d7a22afb4f7d064e7d997ea6e5a49ce5690c3d",
+      "size": 3023,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Twist Cap 1"
+    },
+    {
+      "fileName": "Twist Cap 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Twist Cap 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Twist%20Cap%202.png",
+      "sha256": "7b8af38b7a2ca0c301f970028b4751fbcca4e9ce82e509bfac42006a37b3936d",
+      "size": 2588,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Twist Cap 2"
+    },
+    {
+      "fileName": "Vitamin B - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin B - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20B%20-%20Roll%201.png",
+      "sha256": "46fa17f46384608000c4a75b1acc506ea454ca94aecfb454baa9d90c27e6b55d",
+      "size": 3154,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin B Roll 1"
+    },
+    {
+      "fileName": "Vitamin B - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin B - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20B%20-%20Roll%202.png",
+      "sha256": "f2779483d61e647c4e6d66d51432e5c30860770d4d2eed19b4edad716378f84b",
+      "size": 3435,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin B Roll 2"
+    },
+    {
+      "fileName": "Vitamin B - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin B - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20B%20-%20Shake%201.png",
+      "sha256": "51ea3a868117a7b669a3362b8937a22f56d45c79284f0a73a742139bb85b758f",
+      "size": 2715,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin B Shake 1"
+    },
+    {
+      "fileName": "Vitamin B - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin B - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20B%20-%20Shake%202.png",
+      "sha256": "3f5a505e8805135fdf8817afd55d95c3605ee29b0d09de5bb8df82121524fac3",
+      "size": 2580,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin B Shake 2"
+    },
+    {
+      "fileName": "Vitamin D - Roll 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin D - Roll 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20D%20-%20Roll%201.png",
+      "sha256": "a380b5d32d7a7c86a311e6f662ceefddc5dd7bd9f12cdc4675da1d876a1d96a9",
+      "size": 3008,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin D Roll 1"
+    },
+    {
+      "fileName": "Vitamin D - Roll 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin D - Roll 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20D%20-%20Roll%202.png",
+      "sha256": "ac4dc98e7c7c8eef2d2126a1e88ad468dd934fc1a1e5774be3c86d1f71db699f",
+      "size": 3865,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin D Roll 2"
+    },
+    {
+      "fileName": "Vitamin D - Shake 1.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin D - Shake 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20D%20-%20Shake%201.png",
+      "sha256": "a55a63287dce8562dfbdc31fc63f48cb2ccd06dba77eab971c64396046636de0",
+      "size": 2515,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin D Shake 1"
+    },
+    {
+      "fileName": "Vitamin D - Shake 2.png",
+      "path": "packs/bb - Pill Bottles (Jun 2021)/thumbnails/Vitamin D - Shake 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Pill%20Bottles%20%28Jun%202021%29/thumbnails/Vitamin%20D%20-%20Shake%202.png",
+      "sha256": "fe41eff7ac7ac47ff6d34b1f687e0db814c15d6cbaf1c945078053beaea8a023",
+      "size": 2882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Vitamin D Shake 2"
+    }
+  ]
+}

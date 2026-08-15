@@ -1,0 +1,529 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: NazdyNate - Electromagnetic Sounds",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Electromagnetic hums and buzzes, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds",
+  "itemCount": 17,
+  "items": [
+    {
+      "name": "Nazdynate Cell Phone 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Phone 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Phone 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Monitor 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Monitor 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Monitor 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate EM Room Noise 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate EM Room Noise 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate EM Room Noise 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Microphone 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Microphone 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Microphone 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Microphone 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Reception 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Reception 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Cell Reception 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Reception 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Tower 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Tower 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Tower 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Nazdynate Computer Tower 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "NazdyNate - Cell Phone 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Cell%20Phone%201.wav",
+      "sha256": "affa2f05225a844666e160b0f9a5985178669e88bdf640239eade4ac420d0d58",
+      "size": 1822476,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - Cell Phone 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Cell%20Phone%202.wav",
+      "sha256": "ad85650ac7a57660159a58399aa419eb5f2fe986cbafb877658bd8b08833c70f",
+      "size": 1511760,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - Cell Phone 3.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Cell Phone 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Cell%20Phone%203.wav",
+      "sha256": "3dd1acfe397b2032f9abe633a6fef02b217331246e6ac5e0a983ccba81d3c162",
+      "size": 1432196,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Computer%20Monitor%201.wav",
+      "sha256": "c52002ff874c93d1786405703b506da377a44de88e4ea5908a11fb8b1ce9e569",
+      "size": 1697656,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Computer%20Monitor%202.wav",
+      "sha256": "cf5b880af9edbd8f5b759689d1e6ce61a78187d8783ce456d340aaba728e324b",
+      "size": 1727792,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 3.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - Computer Monitor 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20Computer%20Monitor%203.wav",
+      "sha256": "419ac2da3e017315326f65c5f803a5550a56ed624854913251d7770e386217e3",
+      "size": 1632604,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20EM%20Room%20Noise%201.wav",
+      "sha256": "7f007313e0e20d5ffcca9e3046bf879884ede6f074bdfae9e9387d81ad6353a5",
+      "size": 2466048,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20EM%20Room%20Noise%202.wav",
+      "sha256": "8e5507590eced6e72e7e446fe59d6e8c16b2cccce18ff2795428a7f009ae0436",
+      "size": 2967788,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 3.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate - EM Room Noise 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-%20EM%20Room%20Noise%203.wav",
+      "sha256": "b42ed69988ed6cc798e93389c8114badee0055d549525c3b1d00f39a9904b997",
+      "size": 3021168,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Cell Microphone 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Microphone 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Cell%20Microphone%201.wav",
+      "sha256": "a2efa86784b8699a8a47c0e8b89b8c6ed91444065b0a5c14d7e3bc341dbdbc12",
+      "size": 881892,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Cell Microphone 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Microphone 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Cell%20Microphone%202.wav",
+      "sha256": "b79a6561a9f2f3fd5d72d7f4f5f157b51207c01562a9db3860f870af41d30617",
+      "size": 1230272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Cell Reception 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Reception 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Cell%20Reception%201.wav",
+      "sha256": "7353e1ff571b58342284ad67896ab0c675aad9ed17f372637a01c62ece37d278",
+      "size": 2810648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Cell Reception 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Cell Reception 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Cell%20Reception%202.wav",
+      "sha256": "6a09eb70cad8e4f7cfcca0a56fa9eaf9544669e7a67c773464446d4adffb0f8b",
+      "size": 1513336,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 1.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Computer%20Tower%201.wav",
+      "sha256": "2d5231bd14af085a89037c0946947097023be300e29061a0eb9986b95845661e",
+      "size": 1442220,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 2.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Computer%20Tower%202.wav",
+      "sha256": "9836fae9c922976a6a973d17e52a4be011a65957179df7c16fde20a91500b12c",
+      "size": 1378628,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 3.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Computer%20Tower%203.wav",
+      "sha256": "3b213bb74711bf92a93c09f5733c9261df2eefb8610eb935c13b09583ad424ff",
+      "size": 1829484,
+      "role": "Audio"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 4.wav",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/sounds/NazdyNate -Computer Tower 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/sounds/NazdyNate%20-Computer%20Tower%204.wav",
+      "sha256": "c6e12612bbe4edaa1c619d12c93c095c6d44f85a2f5a4b7b069b49a0c3e6c79f",
+      "size": 2748392,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "NazdyNate - Cell Phone 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Cell Phone 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Cell%20Phone%201.png",
+      "sha256": "39f539112ecc30893224805d7eb029353e472c0ce24dc9f7583133883e1f92bf",
+      "size": 4067,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Phone 1"
+    },
+    {
+      "fileName": "NazdyNate - Cell Phone 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Cell Phone 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Cell%20Phone%202.png",
+      "sha256": "928fa5ef4718d2a6dd988601a9c918154341e02181e04678eef139afb6f2b4a3",
+      "size": 4447,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Phone 2"
+    },
+    {
+      "fileName": "NazdyNate - Cell Phone 3.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Cell Phone 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Cell%20Phone%203.png",
+      "sha256": "f7466cbc009065d32bffd20bb236a6cf1ed45eb5dcdb75c014450ef4e1c43795",
+      "size": 4150,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Phone 3"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Computer Monitor 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Computer%20Monitor%201.png",
+      "sha256": "4c4573f3dbc5329cf4b915255578afed2009d2ba55b8200094dfccf94e5845e2",
+      "size": 4191,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Monitor 1"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Computer Monitor 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Computer%20Monitor%202.png",
+      "sha256": "46f82140cc6be060305f1fb2513da5d20d0b882e7305e988307e39d9aa23c1a5",
+      "size": 4301,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Monitor 2"
+    },
+    {
+      "fileName": "NazdyNate - Computer Monitor 3.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - Computer Monitor 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20Computer%20Monitor%203.png",
+      "sha256": "4c952323a042791ad9eddee6eeea1225f5c309a8fc62ac726e71eea4d6875794",
+      "size": 4328,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Monitor 3"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - EM Room Noise 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20EM%20Room%20Noise%201.png",
+      "sha256": "220bf3c1cb4f610ba601ca0ce459f7b7eec0d760d4f32c134d2405ebcf27bfbb",
+      "size": 3640,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate EM Room Noise 1"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - EM Room Noise 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20EM%20Room%20Noise%202.png",
+      "sha256": "95ab8e64716afb772b56cb1553d0bdea05026dfdd5b99a67343007b73d6979b5",
+      "size": 3830,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate EM Room Noise 2"
+    },
+    {
+      "fileName": "NazdyNate - EM Room Noise 3.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate - EM Room Noise 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-%20EM%20Room%20Noise%203.png",
+      "sha256": "245234f1d0534fcfaeb18e4dcfe0c824af7de82da2c3ecc44c59e536e1d08982",
+      "size": 4284,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate EM Room Noise 3"
+    },
+    {
+      "fileName": "NazdyNate -Cell Microphone 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Cell Microphone 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Cell%20Microphone%201.png",
+      "sha256": "877e56e78bd9c1b986e0ceaa46e4cc5ab8e59bfbb7db0d6cbc04e3b0b05c87e0",
+      "size": 4271,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Microphone 1"
+    },
+    {
+      "fileName": "NazdyNate -Cell Microphone 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Cell Microphone 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Cell%20Microphone%202.png",
+      "sha256": "cb73c51e668264fa8a092e35eb7d323a1a8ad13e48447c1025d01c1eab31dc19",
+      "size": 4437,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Microphone 2"
+    },
+    {
+      "fileName": "NazdyNate -Cell Reception 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Cell Reception 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Cell%20Reception%201.png",
+      "sha256": "7f9de9b9c9ebd62b10008f822bdd8d04e4445d78d5e83288edc771cadc129762",
+      "size": 4392,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Reception 1"
+    },
+    {
+      "fileName": "NazdyNate -Cell Reception 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Cell Reception 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Cell%20Reception%202.png",
+      "sha256": "281ae6cb4c1422c36cad1c61956e2c81f80ac48440542a0f72cb80dede2602a6",
+      "size": 3809,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Cell Reception 2"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 1.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Computer Tower 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Computer%20Tower%201.png",
+      "sha256": "8ee904e318c66e777dce3b5746047c3a5eb5640ad401902033c812e363192d0e",
+      "size": 3863,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Tower 1"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 2.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Computer Tower 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Computer%20Tower%202.png",
+      "sha256": "203462883527d0470bc80321a24e75aeb76f77f933c64edfb944c8a0d566e484",
+      "size": 4081,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Tower 2"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 3.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Computer Tower 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Computer%20Tower%203.png",
+      "sha256": "cb9924facb856a27bdaa1e8fdf19b8a548db9ae71b07613bd96da7bb3a911ddc",
+      "size": 3816,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Tower 3"
+    },
+    {
+      "fileName": "NazdyNate -Computer Tower 4.png",
+      "path": "packs/Micro Pack - NazdyNate - Electromagnetic Sounds/thumbnails/NazdyNate -Computer Tower 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20NazdyNate%20-%20Electromagnetic%20Sounds/thumbnails/NazdyNate%20-Computer%20Tower%204.png",
+      "sha256": "f10b1fdfb0387ee4e8130656599f07b5f372113c584d61003e437e1d27175112",
+      "size": 4236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Nazdynate Computer Tower 4"
+    }
+  ]
+}

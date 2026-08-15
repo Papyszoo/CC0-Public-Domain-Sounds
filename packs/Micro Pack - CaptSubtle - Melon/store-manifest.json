@@ -1,0 +1,829 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Micro Pack: CaptSubtle - Melon",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Melon knocks, cuts and squishes, from Abstraction's Micro Pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/Micro Pack - CaptSubtle - Melon",
+  "itemCount": 27,
+  "items": [
+    {
+      "name": "Caress The Melon",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Caress the Melon.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hammer Strike",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Hammer Strike.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Juggle The Melon",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Juggle the Melon.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Knock The Melon 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Knock The Melon 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Knock The Melon 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Peel Sticker 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Peel Sticker 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Peel Sticker 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Peel Sticker 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rip And Tear 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rip and Tear 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rip And Tear 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rip and Tear 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rough Up The Melon",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rough Up the Melon.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slap The Melon 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slap The Melon 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slap The Melon 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tap The Melon 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Tap the Melon 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tap The Melon 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Tap the Melon 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Uncomfortable Gooshy Sounds 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Uncomfortable Gooshy Sounds 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Uncomfortable Gooshy Sounds 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unimaginably Uncomfortable Gooshy Sounds 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unimaginably Uncomfortable Gooshy Sounds 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unimaginably Uncomfortable Gooshy Sounds 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Unimaginably Uncomfortable Gooshy Sounds 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Voice Ben Loses It",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Ben Loses It.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Voice OMG These Sounds",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - OMG These Sounds.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Voice Slap A Melon",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Slap a Melon.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Voice Then The Hammer",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Then the Hammer.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Caress the Melon.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Caress the Melon.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Caress%20the%20Melon.wav",
+      "sha256": "db97617f54119571eb61ab0344abe8871ee344106d3828e89be098f84c198ee5",
+      "size": 475976,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Hammer Strike.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Hammer Strike.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Hammer%20Strike.wav",
+      "sha256": "884caefec2ee0218d97a5d13ff8e6235400abd57cb4d39a66bcc9eb98d2491de",
+      "size": 148720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Juggle the Melon.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Juggle the Melon.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Juggle%20the%20Melon.wav",
+      "sha256": "d59ff49de4c72b99c134c1ee706c98a03ba0bde206f703c9db9f4f7eb69c986a",
+      "size": 824660,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Knock the Melon 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Knock%20the%20Melon%201.wav",
+      "sha256": "d09bccdc785b0e60ece0ee751588ef60486e22d171893d25ca1057500996178b",
+      "size": 497092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Knock the Melon 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Knock%20the%20Melon%202.wav",
+      "sha256": "dc94782b820efc1fd8ef88890e3bc77b9f24b9957e7159f785cd781f23f5d973",
+      "size": 398768,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Knock the Melon 3.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Knock the Melon 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Knock%20the%20Melon%203.wav",
+      "sha256": "d168a037f594d57e220a881517aad8a3937252350ff5220a09f9652b4818867f",
+      "size": 241672,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Peel Sticker 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Peel Sticker 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Peel%20Sticker%201.wav",
+      "sha256": "120fdf9646354190399b7dce259281b186046e959bb90ecf256bcc2af488c2f1",
+      "size": 512944,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Peel Sticker 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Peel Sticker 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Peel%20Sticker%202.wav",
+      "sha256": "43f6cda2dc8e0dd475afbca0846c6a06fccd78c90fb184aa0ae21cf2c5e2f694",
+      "size": 634276,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rip and Tear 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rip and Tear 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Rip%20and%20Tear%201.wav",
+      "sha256": "5fe1481e02bf1a7c4f0954a2c80740e368e5663937c046149cef878cf53778c4",
+      "size": 350760,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rip and Tear 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rip and Tear 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Rip%20and%20Tear%202.wav",
+      "sha256": "3fa598de950d6b72b98bfeefb99379f15dfabafe6d835588c14a265251475da7",
+      "size": 223884,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rough Up the Melon.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Rough Up the Melon.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Rough%20Up%20the%20Melon.wav",
+      "sha256": "8606691e9daeae37a7d6bc582cb99b2eb7af505e7e0f2903e1f8c77beee88d99",
+      "size": 909200,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Slap the Melon 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Slap%20the%20Melon%201.wav",
+      "sha256": "49f1dd2ec3098714b1b9a281c4cc5b9ce9d4b80c4d3d9213159d1492eee11867",
+      "size": 47452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Slap the Melon 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Slap%20the%20Melon%202.wav",
+      "sha256": "cb81037daad6e065b64e232f2089cba6ee6015d7ed8107cdeafc487457e23102",
+      "size": 101112,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Slap the Melon 3.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Slap the Melon 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Slap%20the%20Melon%203.wav",
+      "sha256": "efb89ee06b4235cd729535c3f872a45005b0279ae7061b0515da516458ba2665",
+      "size": 69044,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Tap the Melon 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Tap the Melon 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Tap%20the%20Melon%201.wav",
+      "sha256": "379ecea8f3e0184b012082e2da7eada9de1d0840dd103f5e2e05dccc84b59aaa",
+      "size": 243452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Tap the Melon 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Tap the Melon 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Tap%20the%20Melon%202.wav",
+      "sha256": "9b985c19b98139ad2dc19af688662dba98743a77276efea8ece02da50b4df4da",
+      "size": 253052,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Uncomfortable%20Gooshy%20Sounds%201.wav",
+      "sha256": "987633dc09154291a9f03912a17b6c2faa9c881a422abd0755a5d56982281fd4",
+      "size": 1635332,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Uncomfortable%20Gooshy%20Sounds%202.wav",
+      "sha256": "8c48ceda0aef28bc97053777a823b86d9c5a754c0ec841a3adc604d74ed43738",
+      "size": 946136,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 3.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Uncomfortable Gooshy Sounds 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Uncomfortable%20Gooshy%20Sounds%203.wav",
+      "sha256": "4a81520fba1a7154386555e1354917f13deb692c881c46fce161b73e45cdf28a",
+      "size": 1337676,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 1.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%201.wav",
+      "sha256": "bc06c27506cec79a415a6f4a6e643c306451d1ef2fc1997a439f549f09c7fa34",
+      "size": 1804304,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 2.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%202.wav",
+      "sha256": "b65eb51a35662d6880de5a23ab41be2af843715be76ae6c9fb482b361d076f23",
+      "size": 780920,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 3.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%203.wav",
+      "sha256": "9066ab3495162706f8da9c09cc65fb031697820c71e1335c2d1e13935ba936f0",
+      "size": 1455096,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 4.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Unimaginably Uncomfortable Gooshy Sounds 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%204.wav",
+      "sha256": "07bf368fe6f61c25d8bb4bd70e963febd72794bdf03411afab1fa1551af9671a",
+      "size": 710772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice - Ben Loses It.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Ben Loses It.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Voice%20-%20Ben%20Loses%20It.wav",
+      "sha256": "bb1ef1e2ab5d7f0b3bcd10613f6c0e1408c643a9a0f2897f68916d1f684fea96",
+      "size": 653144,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice - OMG These Sounds.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - OMG These Sounds.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Voice%20-%20OMG%20These%20Sounds.wav",
+      "sha256": "cb742837f03d01ad6b88a6718aee7a349dda92baf99f3cb9049f8d00c70b230d",
+      "size": 383264,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice - Slap a Melon.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Slap a Melon.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Voice%20-%20Slap%20a%20Melon.wav",
+      "sha256": "943438ebe2a953e6f433a98a07552b129b64773cfacad9e6dd6348b77863f823",
+      "size": 478156,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Voice - Then the Hammer.wav",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/sounds/Voice - Then the Hammer.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/sounds/Voice%20-%20Then%20the%20Hammer.wav",
+      "sha256": "93de9db343cf52a4b340a707b3f9a74554246c789167ad7e2e686c2a3dbc6f1f",
+      "size": 145188,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Caress the Melon.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Caress the Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Caress%20the%20Melon.png",
+      "sha256": "f9e2e06ca6397d242f3e205bb8bf6972b749d81975d2cfa9ec29032adfcb98ad",
+      "size": 4082,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Caress The Melon"
+    },
+    {
+      "fileName": "Hammer Strike.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Hammer Strike.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Hammer%20Strike.png",
+      "sha256": "d3808fc16c3314de4491836d6c1983faad41b4ce61ba1259fdd916d58630325d",
+      "size": 1672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hammer Strike"
+    },
+    {
+      "fileName": "Juggle the Melon.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Juggle the Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Juggle%20the%20Melon.png",
+      "sha256": "9fdee3c11af9f54390cdb64732d716c7556c0121dcebde5e91e07c002227d704",
+      "size": 2864,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Juggle The Melon"
+    },
+    {
+      "fileName": "Knock the Melon 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Knock the Melon 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Knock%20the%20Melon%201.png",
+      "sha256": "b87f1f1f9c068a91b0cc64777d09b62925fd6fdf0d6b786d649403289057da48",
+      "size": 1915,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Knock The Melon 1"
+    },
+    {
+      "fileName": "Knock the Melon 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Knock the Melon 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Knock%20the%20Melon%202.png",
+      "sha256": "12d42be9ea73d666b356be58ba62f19c6706a0fb250b50242a53cabb8c9eeabf",
+      "size": 2170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Knock The Melon 2"
+    },
+    {
+      "fileName": "Knock the Melon 3.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Knock the Melon 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Knock%20the%20Melon%203.png",
+      "sha256": "d2d26a5cf7cb449c7004d36712c1a45e76491f224ab92cb9afe51bcb679ad3e1",
+      "size": 2188,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Knock The Melon 3"
+    },
+    {
+      "fileName": "Peel Sticker 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Peel Sticker 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Peel%20Sticker%201.png",
+      "sha256": "c7311f840f51536d0333ffd2e43c2c87c462f64b454f267cb4475d9e5edd5a2e",
+      "size": 2824,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Peel Sticker 1"
+    },
+    {
+      "fileName": "Peel Sticker 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Peel Sticker 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Peel%20Sticker%202.png",
+      "sha256": "8300185c1e693b707ae885efc1558c7c45c4bd89398f53bff7c4adfec99c6f3b",
+      "size": 2859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Peel Sticker 2"
+    },
+    {
+      "fileName": "Rip and Tear 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Rip and Tear 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Rip%20and%20Tear%201.png",
+      "sha256": "41d73086f8f32680d8e9fc03576de0c85cf6ff9a9704656e56faee32f43d8a5c",
+      "size": 2200,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rip And Tear 1"
+    },
+    {
+      "fileName": "Rip and Tear 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Rip and Tear 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Rip%20and%20Tear%202.png",
+      "sha256": "9699ff3287717375c7414a9b5dcd85c523810c1128af6745a0066834e55f0529",
+      "size": 2409,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rip And Tear 2"
+    },
+    {
+      "fileName": "Rough Up the Melon.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Rough Up the Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Rough%20Up%20the%20Melon.png",
+      "sha256": "40e62a287a7a2843aa19fa13e33bfd9890d9e382c0f2b095d14b7aec34bcef73",
+      "size": 2445,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rough Up The Melon"
+    },
+    {
+      "fileName": "Slap the Melon 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Slap the Melon 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Slap%20the%20Melon%201.png",
+      "sha256": "09de02d6279e8c73490d6d28604886b15ea22fa7b5b3b0a2e7a9142565cd8d77",
+      "size": 2556,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slap The Melon 1"
+    },
+    {
+      "fileName": "Slap the Melon 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Slap the Melon 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Slap%20the%20Melon%202.png",
+      "sha256": "43867f72fd6f903c3496f481f966e3954ef264e9b2383a1761bd0a1346cf0ca3",
+      "size": 1884,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slap The Melon 2"
+    },
+    {
+      "fileName": "Slap the Melon 3.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Slap the Melon 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Slap%20the%20Melon%203.png",
+      "sha256": "05b4a143aae8a3884a931ca3b32db4e65ad36e7e375e404704a3ff73d2e40c56",
+      "size": 2193,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slap The Melon 3"
+    },
+    {
+      "fileName": "Tap the Melon 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Tap the Melon 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Tap%20the%20Melon%201.png",
+      "sha256": "d2492fb159c3ff1fe868a159d936ef3d39bce665c386289384ab971c6f1a6563",
+      "size": 3064,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tap The Melon 1"
+    },
+    {
+      "fileName": "Tap the Melon 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Tap the Melon 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Tap%20the%20Melon%202.png",
+      "sha256": "52ba654acae231728bd69ef977e75612c8d9657d22c9721cb9b99168ad252448",
+      "size": 2889,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tap The Melon 2"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Uncomfortable Gooshy Sounds 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Uncomfortable%20Gooshy%20Sounds%201.png",
+      "sha256": "fa252ae836e4ef15b558dec9f8b9d3d79eb65e0f06d69a3e3df319fb90c00e83",
+      "size": 2740,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Uncomfortable Gooshy Sounds 1"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Uncomfortable Gooshy Sounds 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Uncomfortable%20Gooshy%20Sounds%202.png",
+      "sha256": "13b49d3693fc472a69adf173856479a799bcf2248e0327d60f25c033d4a3cd3b",
+      "size": 3225,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Uncomfortable Gooshy Sounds 2"
+    },
+    {
+      "fileName": "Uncomfortable Gooshy Sounds 3.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Uncomfortable Gooshy Sounds 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Uncomfortable%20Gooshy%20Sounds%203.png",
+      "sha256": "eb99793a64d2fd17e90aeb19fed798b3b87cb8c299fc92bdcec002d8b35a3bd2",
+      "size": 3924,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Uncomfortable Gooshy Sounds 3"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 1.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Unimaginably Uncomfortable Gooshy Sounds 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%201.png",
+      "sha256": "b75ccffcf22d73ca1fdb30aef13821db7323d0e08a16054939ad614c87214911",
+      "size": 4469,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unimaginably Uncomfortable Gooshy Sounds 1"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 2.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Unimaginably Uncomfortable Gooshy Sounds 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%202.png",
+      "sha256": "e25790ce38eb86fcf1df6cb1a7d52f7b104ed598fb460d3cae5eeaf71c4d5153",
+      "size": 4214,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unimaginably Uncomfortable Gooshy Sounds 2"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 3.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Unimaginably Uncomfortable Gooshy Sounds 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%203.png",
+      "sha256": "b907eb2ad056de42754fec8423a148c4fed5080ab636ca33e36d7eb9675d8ce8",
+      "size": 4541,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unimaginably Uncomfortable Gooshy Sounds 3"
+    },
+    {
+      "fileName": "Unimaginably Uncomfortable Gooshy Sounds 4.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Unimaginably Uncomfortable Gooshy Sounds 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Unimaginably%20Uncomfortable%20Gooshy%20Sounds%204.png",
+      "sha256": "ca192749ae2407fde533f0ebf6e2d696068efac5cf2f32578d67daefd261b2b6",
+      "size": 4398,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Unimaginably Uncomfortable Gooshy Sounds 4"
+    },
+    {
+      "fileName": "Voice - Ben Loses It.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Voice - Ben Loses It.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Voice%20-%20Ben%20Loses%20It.png",
+      "sha256": "d79f6b34064fd83b57ac95370318ca88173ba7926ee7b78ae5270457ff9feeba",
+      "size": 4643,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice Ben Loses It"
+    },
+    {
+      "fileName": "Voice - OMG These Sounds.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Voice - OMG These Sounds.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Voice%20-%20OMG%20These%20Sounds.png",
+      "sha256": "26c6de3d0a8a16e54db94b8faca23fc0d940d07596b140dd5c4e73191b47ac53",
+      "size": 4153,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice OMG These Sounds"
+    },
+    {
+      "fileName": "Voice - Slap a Melon.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Voice - Slap a Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Voice%20-%20Slap%20a%20Melon.png",
+      "sha256": "281d2319196f97919762e4888142b38a844fc23d5294a82257f92c73559b1e18",
+      "size": 4391,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice Slap A Melon"
+    },
+    {
+      "fileName": "Voice - Then the Hammer.png",
+      "path": "packs/Micro Pack - CaptSubtle - Melon/thumbnails/Voice - Then the Hammer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Micro%20Pack%20-%20CaptSubtle%20-%20Melon/thumbnails/Voice%20-%20Then%20the%20Hammer.png",
+      "sha256": "e2e26b4f20108389a300cacecf33da85bf4dba22c9d60403b603045e885eee0b",
+      "size": 4605,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voice Then The Hammer"
+    }
+  ]
+}

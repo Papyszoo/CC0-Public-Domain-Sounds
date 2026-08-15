@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the ModelibrStore external-pack manifest from packs/*/pack.json."""
+"""Generate ModelibrStore external-pack store-manifest.json per pack."""
 
 from __future__ import annotations
 
@@ -40,30 +40,17 @@ def git(*args: str) -> str:
     ).strip()
 
 
-def pinned_commit() -> str:
-    dirty = git("status", "--porcelain", "--", "packs")
-    if dirty and not os.environ.get("ALLOW_DIRTY"):
-        sys.exit(
-            "packs/ has uncommitted changes — commit and push them first, "
-            "or set ALLOW_DIRTY=1 for a preview."
-        )
-
-    commit = os.environ.get("PINNED_SHA")
-    if not commit:
-        commit = git("log", "-1", "--format=%H", "--", "packs")
-    if not commit:
-        if os.environ.get("ALLOW_DIRTY"):
-            commit = git("rev-parse", "HEAD")
-        else:
-            sys.exit("packs/ has no committed content to pin")
-
-    on_remote = git("branch", "-r", "--contains", commit)
-    if not on_remote and not os.environ.get("ALLOW_UNPUSHED"):
-        sys.exit(
-            f"Commit {commit} is not on a remote branch — push it first, "
-            "or set ALLOW_UNPUSHED=1 for a preview."
-        )
-    return commit
+def pinned_commit_for(slug: str) -> str:
+    try:
+        commit = git("log", "-1", "--format=%H", "--", f"packs/{slug}")
+        if commit:
+            return commit
+    except Exception:
+        pass
+    try:
+        return git("log", "-1", "--format=%H")
+    except Exception:
+        return "main"
 
 
 def sha256(path: Path) -> str:
@@ -89,7 +76,7 @@ def category_for(relative: str, options: dict) -> str | None:
     return options.get("category")
 
 
-def load_packs() -> list[tuple[str, Path, dict]]:
+def load_packs(target_slug: str | None = None) -> list[tuple[str, Path, dict]]:
     if not PACKS_ROOT.is_dir():
         sys.exit("missing packs/ directory")
 
@@ -97,6 +84,8 @@ def load_packs() -> list[tuple[str, Path, dict]]:
     for root in sorted(PACKS_ROOT.iterdir(), key=lambda path: path.name.casefold()):
         metadata_path = root / "pack.json"
         if not root.is_dir() or not metadata_path.is_file():
+            continue
+        if target_slug and root.name != target_slug:
             continue
         metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
         missing = [key for key in REQUIRED_METADATA if not metadata.get(key)]
@@ -112,12 +101,16 @@ def load_packs() -> list[tuple[str, Path, dict]]:
 
 
 def main() -> None:
-    commit = pinned_commit()
-    packs_out = []
+    target_slug = None
+    if len(sys.argv) > 2 and sys.argv[1] == "--pack":
+        target_slug = sys.argv[2]
+
+    packs_to_process = load_packs(target_slug)
     total_files = 0
     total_bytes = 0
 
-    for slug, pack_root, metadata in load_packs():
+    for slug, pack_root, metadata in packs_to_process:
+        commit = pinned_commit_for(slug)
         sounds_root = pack_root / "sounds"
         if not sounds_root.is_dir():
             sys.exit(f"packs/{slug} has no sounds/ directory")
@@ -213,35 +206,30 @@ def main() -> None:
             sys.exit(f"pack produced no files: {slug}")
         total_files += len(files_out)
         total_bytes += sum(file["size"] for file in files_out)
-        packs_out.append(
-            {
-                "name": metadata["name"],
-                "creator": metadata["creator"],
-                "website": metadata["website"],
-                "description": metadata["description"],
-                "license": metadata["license"],
-                "folder": f"packs/{slug}",
-                "itemCount": len(items_out),
-                "items": items_out,
-                "files": files_out,
-                "previews": previews_out,
-            }
-        )
 
-    manifest = {
-        "source": {
-            "repository": f"https://github.com/{OWNER_REPO}",
-            "commit": commit,
-        },
-        "license": "CC0-1.0",
-        "packs": packs_out,
-    }
-    output = Path(os.environ.get("MANIFEST_OUTPUT", REPO / "store-manifest.json"))
-    output.write_text(json.dumps(manifest, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        pack_manifest = {
+            "source": {
+                "repository": f"https://github.com/{OWNER_REPO}",
+                "commit": commit,
+            },
+            "license": "CC0-1.0",
+            "name": metadata["name"],
+            "creator": metadata["creator"],
+            "website": metadata["website"],
+            "description": metadata["description"],
+            "folder": f"packs/{slug}",
+            "itemCount": len(items_out),
+            "items": items_out,
+            "files": files_out,
+            "previews": previews_out,
+        }
 
-    print(f"packs: {len(packs_out)}")
-    print(f"files: {total_files} ({total_bytes / 1e6:.1f} MB)")
-    print(f"wrote {output}")
+        # Write per-pack manifest
+        pack_manifest_path = pack_root / "store-manifest.json"
+        pack_manifest_path.write_text(json.dumps(pack_manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        print(f"[{slug}] {metadata['name']}: {len(items_out)} sounds, {len(files_out)} files, {len(previews_out)} previews (pinned: {commit[:8]})")
+
+    print(f"\nGenerated manifests for {len(packs_to_process)} sound pack(s)")
 
 
 if __name__ == "__main__":

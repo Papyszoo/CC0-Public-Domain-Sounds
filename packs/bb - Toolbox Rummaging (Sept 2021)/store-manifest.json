@@ -1,0 +1,859 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Toolbox Rummaging (Sept 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Toolbox rummaging and tool clatter, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Toolbox Rummaging (Sept 2021)",
+  "itemCount": 28,
+  "items": [
+    {
+      "name": "Big Metal Brush 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Metal Brush 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Metal Brush 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Big Thump",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Thump.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Click 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Click 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Close Drawer 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Close Drawer 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Close Drawer 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Close Drawer 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Crinkly Plastic",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Crinkly Plastic.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Drawer Move",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Drawer Move.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flashlight Clicky 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Flashlight Clicky 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Flashlight Clicky 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Flashlight Clicky 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Good Thunk",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Good Thunk.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Hinge 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Metal Hinge 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal Hinge 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Metal Hinge 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pull Tape 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pull Tape 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pull Tape 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rummage 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rummage 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rummage 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Rummage 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "SNAP",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/SNAP.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shake Nail Box 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shake Nail Box 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shake Nail Box 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shake Nail Box 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shake Nail Box 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Big Metal Brush 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Big%20Metal%20Brush%201.wav",
+      "sha256": "77e7eca3fa265583d4ede4a168ec43e082fbd47979e2fbe3bc4416113dc2f4ea",
+      "size": 602800,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Metal Brush 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Big%20Metal%20Brush%202.wav",
+      "sha256": "588d9a563ff6279b90788e1e1a6144499c47c088b541dccc32e2d022b55b0785",
+      "size": 428392,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Metal Brush 3.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Metal Brush 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Big%20Metal%20Brush%203.wav",
+      "sha256": "6b654e1f913019c5ab640460b6d4a5c64f89f48c63834a1992ac045650222224",
+      "size": 422452,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Big Thump.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Big Thump.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Big%20Thump.wav",
+      "sha256": "c7c7b5fd18d3026df0686e41b39ec4affbf0da900c433b5a871a799c2187a059",
+      "size": 227292,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Click 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Click%201.wav",
+      "sha256": "49aaff3d2d70aac989ad3e2d44b908df95f9e6069117595519036e52de04f671",
+      "size": 207448,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Click 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Click%202.wav",
+      "sha256": "fc375c958133d96f1abd55179450f4087d93414b55afbe81ff7337903a387ec4",
+      "size": 301236,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Close Drawer 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Close Drawer 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Close%20Drawer%201.wav",
+      "sha256": "2dd6a82185d66fe02e033c4eabcc83d9e908bc975df68ca5ed5960359bed8363",
+      "size": 405080,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Close Drawer 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Close Drawer 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Close%20Drawer%202.wav",
+      "sha256": "fd5b2db0488af7f85412224e9cef7cd9d318545acde9e7470bbc0c6cd7a306f3",
+      "size": 170824,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Crinkly Plastic.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Crinkly Plastic.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Crinkly%20Plastic.wav",
+      "sha256": "8e76dcc37efb978dafc876bd6363ebb8b2af28d54708130b4ab194e5d0f0d7e0",
+      "size": 1115264,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Drawer Move.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Drawer Move.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Drawer%20Move.wav",
+      "sha256": "8e238b89d9fc7195ced43b25e460cc7f5f5d5b43dd6d202a44cb761891766403",
+      "size": 371004,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flashlight Clicky 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Flashlight Clicky 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Flashlight%20Clicky%201.wav",
+      "sha256": "99224869c97ecee7a941e676fd33e3b096e4af28e232eb613caef52d1162e5b5",
+      "size": 225688,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Flashlight Clicky 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Flashlight Clicky 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Flashlight%20Clicky%202.wav",
+      "sha256": "c688c3568a87bbf59e8c87bbbabafa471c3a1cb82afb6fd44e87535c0b03ea18",
+      "size": 241720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Good Thunk.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Good Thunk.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Good%20Thunk.wav",
+      "sha256": "e27fff05c0270496999dcb43f11cfcf4f3fd71d5c5d538c88f1ac11694b3e604",
+      "size": 117076,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Metal Hinge 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Metal Hinge 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Metal%20Hinge%201.wav",
+      "sha256": "c1fcb7d7234a74435e71650e529d5c5b1c5d54a297105ca418f7b68a26f9b522",
+      "size": 856132,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Metal Hinge 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Metal Hinge 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Metal%20Hinge%202.wav",
+      "sha256": "1ce36197df1d9d8825d0570a4af0bee2fce0a90146faf8643e217525b5cea78f",
+      "size": 427396,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pull Tape 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Pull%20Tape%201.wav",
+      "sha256": "25ab448f3aae938fca662ae423f118b7d7132031595e3804f9402b1147662f80",
+      "size": 348220,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pull Tape 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Pull%20Tape%202.wav",
+      "sha256": "b270cce2711ee0c8a237724e454221c272f698d9e2ed9b56bb4385078a09f5e9",
+      "size": 241588,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pull Tape 3.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Pull Tape 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Pull%20Tape%203.wav",
+      "sha256": "64451c3e4cddc9efd29fa81007a9267ed903b2e36e0d848b0264698c54353f47",
+      "size": 438272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rummage 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Rummage%201.wav",
+      "sha256": "3e8c758fee36f15c28499b410e2fd421318f69d829426df8cc99ab05e5b26693",
+      "size": 1112416,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rummage 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Rummage%202.wav",
+      "sha256": "a0ac05301f9e50716078f6bd347cb4c401d3934124b3fb2258a60cae1454a5c4",
+      "size": 1165536,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rummage 3.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Rummage%203.wav",
+      "sha256": "23bb1a170f9f0e10c1dac2125be28cde78d0e5cc3cd9cf152cd205c959df14de",
+      "size": 1883560,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Rummage 4.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Rummage 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Rummage%204.wav",
+      "sha256": "821ab1c885abe255d8aea6f4142f9f414ead1b41f2048f47f1e0ca42fba19635",
+      "size": 1130896,
+      "role": "Audio"
+    },
+    {
+      "fileName": "SNAP.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/SNAP.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/SNAP.wav",
+      "sha256": "aa4d2eebf43c755f4cd7e07fd7705fe04afc79c21748b1361b12048c207aba85",
+      "size": 104364,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shake Nail Box 1.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Shake%20Nail%20Box%201.wav",
+      "sha256": "ce1208668681f9a2332e1a904193dbd6387f600dba98b947824a8c7457b211ee",
+      "size": 292480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shake Nail Box 2.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Shake%20Nail%20Box%202.wav",
+      "sha256": "c488a2cdf6e90d958a4970a43a59837a08b77b3be9501f9387cd1ca289f903a1",
+      "size": 278540,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shake Nail Box 3.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Shake%20Nail%20Box%203.wav",
+      "sha256": "cda7acefbfc36c4c10c16a311fdfefb298c79a5c7deac2655f3c5edb7cf317ad",
+      "size": 72500,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shake Nail Box 4.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Shake%20Nail%20Box%204.wav",
+      "sha256": "d265ba332ebb2ac1a671b4d99d61d3c7a272723ce7f34174abd256b0c1b05df3",
+      "size": 914440,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Shake Nail Box 5.wav",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/sounds/Shake Nail Box 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/sounds/Shake%20Nail%20Box%205.wav",
+      "sha256": "097083821c277ca306fd4abb4b03fed64dd719be85a54f216987eb1137ed65fd",
+      "size": 1421244,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Big Metal Brush 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Big Metal Brush 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Big%20Metal%20Brush%201.png",
+      "sha256": "a69b5e8ba1404fc4d4d73d4be4f12cb6094f07e00b079f2332b5c787bb39e865",
+      "size": 4489,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Metal Brush 1"
+    },
+    {
+      "fileName": "Big Metal Brush 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Big Metal Brush 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Big%20Metal%20Brush%202.png",
+      "sha256": "159b77e91648ae1e558ebb29b056f552341e64e181f3bbfa1a70f52aea420e5b",
+      "size": 3666,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Metal Brush 2"
+    },
+    {
+      "fileName": "Big Metal Brush 3.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Big Metal Brush 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Big%20Metal%20Brush%203.png",
+      "sha256": "04c4f093d9d1e8b0b559df99401d38ecd60686df9ae62c005b80f22459bc024e",
+      "size": 4358,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Metal Brush 3"
+    },
+    {
+      "fileName": "Big Thump.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Big Thump.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Big%20Thump.png",
+      "sha256": "8cfb599c04d8dc89a099ba6d573dc59c684a0c317a94dfc2b370fec1a945f471",
+      "size": 2700,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Big Thump"
+    },
+    {
+      "fileName": "Click 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Click 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Click%201.png",
+      "sha256": "3e92eca0fb65cc2c38ff93116c29a2fc87869354c6f1333a3f783abc514f7422",
+      "size": 1779,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click 1"
+    },
+    {
+      "fileName": "Click 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Click 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Click%202.png",
+      "sha256": "b1c2dc8a2768a80658b822e22452974d2a64fcab7eebecfc5e2cbe7427640bd9",
+      "size": 1744,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click 2"
+    },
+    {
+      "fileName": "Close Drawer 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Close Drawer 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Close%20Drawer%201.png",
+      "sha256": "9fa89ce7fffdabf0060e540fa7abc36d48be5a1fac3f59074919d6a50136c084",
+      "size": 3036,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Close Drawer 1"
+    },
+    {
+      "fileName": "Close Drawer 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Close Drawer 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Close%20Drawer%202.png",
+      "sha256": "1d5d74718d101abfcd27cfe31a04f2ba8a46a25ed78ea60d7f2268a051e4d4b8",
+      "size": 3705,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Close Drawer 2"
+    },
+    {
+      "fileName": "Crinkly Plastic.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Crinkly Plastic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Crinkly%20Plastic.png",
+      "sha256": "23b64cf562c33abac9588ea6920e7c7cb06be3dd4b4eab60b9407b9b95724efb",
+      "size": 4687,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Crinkly Plastic"
+    },
+    {
+      "fileName": "Drawer Move.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Drawer Move.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Drawer%20Move.png",
+      "sha256": "66d5ec4ab194d2d1b21e44349ebe99dbf50ab528ee0cdc71b4bdc5c5d8af0e31",
+      "size": 2773,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Drawer Move"
+    },
+    {
+      "fileName": "Flashlight Clicky 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Flashlight Clicky 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Flashlight%20Clicky%201.png",
+      "sha256": "8c84eaa9f60e0d18e12cf5f7614469b81c9b8133d306d86a64e7a1065149f0d0",
+      "size": 1927,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flashlight Clicky 1"
+    },
+    {
+      "fileName": "Flashlight Clicky 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Flashlight Clicky 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Flashlight%20Clicky%202.png",
+      "sha256": "54fb3d059dd541adeb67ae82dce3770070e28036298fdb150a89dea63548d03a",
+      "size": 1969,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Flashlight Clicky 2"
+    },
+    {
+      "fileName": "Good Thunk.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Good Thunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Good%20Thunk.png",
+      "sha256": "fd7b3ba8358a46ef946d738e6ef4e4f0285d5cebab812fcf3c3cd92706b6d630",
+      "size": 1836,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Good Thunk"
+    },
+    {
+      "fileName": "Metal Hinge 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Metal Hinge 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Metal%20Hinge%201.png",
+      "sha256": "390c6f79865c23b643b8881d68d2a82ff54c5c6607a2313d038c9cdcf4a916ec",
+      "size": 2923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hinge 1"
+    },
+    {
+      "fileName": "Metal Hinge 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Metal Hinge 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Metal%20Hinge%202.png",
+      "sha256": "16c151f84aab24303a931d353367618c00db548c9fa758ee8ef7631e95b0c1d6",
+      "size": 2056,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Hinge 2"
+    },
+    {
+      "fileName": "Pull Tape 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Pull Tape 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Pull%20Tape%201.png",
+      "sha256": "e9bc04bf8a4977c536bbbf864ef4690107d2530192e0fa0c0843ba31c992aaca",
+      "size": 3725,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pull Tape 1"
+    },
+    {
+      "fileName": "Pull Tape 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Pull Tape 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Pull%20Tape%202.png",
+      "sha256": "b8d7235725ef7ae573bb080d21064692ad25a1c5c46fd63d9076cf89c83c6d3d",
+      "size": 3910,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pull Tape 2"
+    },
+    {
+      "fileName": "Pull Tape 3.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Pull Tape 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Pull%20Tape%203.png",
+      "sha256": "f6affe69cabaebf68754262eade9fed0d8b4bd839e75c34d776086d0c15db69d",
+      "size": 2797,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pull Tape 3"
+    },
+    {
+      "fileName": "Rummage 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Rummage 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Rummage%201.png",
+      "sha256": "19bb0a98cad23f954e85436b4ccd5bcfe282f160cc61dbd39ec2c2fcd6ec29ee",
+      "size": 3244,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rummage 1"
+    },
+    {
+      "fileName": "Rummage 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Rummage 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Rummage%202.png",
+      "sha256": "c69b279b688e03ddb6d7d4cc12b5a06feaa108e074a20b6a1de59f0d2c1e75cb",
+      "size": 2963,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rummage 2"
+    },
+    {
+      "fileName": "Rummage 3.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Rummage 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Rummage%203.png",
+      "sha256": "a3ffeb785df2fee8c20248b861123d1567abb2a9943b13f1dd8d356428733ce7",
+      "size": 3565,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rummage 3"
+    },
+    {
+      "fileName": "Rummage 4.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Rummage 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Rummage%204.png",
+      "sha256": "2d0dc31930edb84d78657d37cfcdbfb4edc7d28ab52250e2405dbb40b6ee0219",
+      "size": 3601,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rummage 4"
+    },
+    {
+      "fileName": "SNAP.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/SNAP.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/SNAP.png",
+      "sha256": "34a93175c9c7376906de6bd5770f6b9b40fe77436796a18e0e67f07d23f44b96",
+      "size": 1923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "SNAP"
+    },
+    {
+      "fileName": "Shake Nail Box 1.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Shake Nail Box 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Shake%20Nail%20Box%201.png",
+      "sha256": "c8364377d5c27e94c27a00d5d2880e19982062b3843ce35a51280c2a641db389",
+      "size": 3941,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shake Nail Box 1"
+    },
+    {
+      "fileName": "Shake Nail Box 2.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Shake Nail Box 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Shake%20Nail%20Box%202.png",
+      "sha256": "8654a590d02ad92f3fcba57680c8d71302754c1c456a099d0a1fa762b9005109",
+      "size": 4160,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shake Nail Box 2"
+    },
+    {
+      "fileName": "Shake Nail Box 3.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Shake Nail Box 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Shake%20Nail%20Box%203.png",
+      "sha256": "f3c94b083b2b2dd092c8bb140157d0bf81a7d34c9f1f51478415623a3f9a271c",
+      "size": 2454,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shake Nail Box 3"
+    },
+    {
+      "fileName": "Shake Nail Box 4.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Shake Nail Box 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Shake%20Nail%20Box%204.png",
+      "sha256": "9b55715f5e7ac70d2cdd64c96f1d01742958610f62583bc3ef9b20b913262b08",
+      "size": 3639,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shake Nail Box 4"
+    },
+    {
+      "fileName": "Shake Nail Box 5.png",
+      "path": "packs/bb - Toolbox Rummaging (Sept 2021)/thumbnails/Shake Nail Box 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Toolbox%20Rummaging%20%28Sept%202021%29/thumbnails/Shake%20Nail%20Box%205.png",
+      "sha256": "85f511f8d2f6ef5e1cca0b67fb36694dd8931b331d9f072fcbe2a5b4df36bb02",
+      "size": 3598,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shake Nail Box 5"
+    }
+  ]
+}

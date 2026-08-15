@@ -1,0 +1,1219 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "40 CC0 Water / Splash / Slime SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+  "description": "40 water, splash and slime sounds incl. bubble and rain loops, partly recorded from real slime. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/40-cc0-water-splash-slime-sfx",
+  "itemCount": 40,
+  "items": [
+    {
+      "name": "Bubble 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bubble 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bubble 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Loop Bubbles 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Bubbles 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_1.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Rain",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_rain.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Water 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Slime 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slime 16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "bubble_01.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/bubble_01.ogg",
+      "sha256": "1d03d72347019be889280efc6de5ca5ea439d0b24b235e6db87e5bf7583ecb2b",
+      "size": 30671,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bubble_02.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/bubble_02.ogg",
+      "sha256": "7992a1a4637ea727b177b3edbc086ec280167d67a8fad010bb8fb58893b2e2f2",
+      "size": 16017,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bubble_03.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/bubble_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/bubble_03.ogg",
+      "sha256": "6189106305ab917f1a260b66a74380ed7d6e5be0fb4f5eba3ac93aeb89d9b7ca",
+      "size": 34871,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_bubbles_02.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_02.ogg",
+      "sha256": "e1b572a7a0ed264313b1ed3e66c3ee9839bcc04fd0bea913ff68158208623166",
+      "size": 316960,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_bubbles_1.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_1.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_bubbles_1.ogg",
+      "sha256": "5ae25a9734a05f60e57a1b1db2fa9afaddf972c1a2927c1e743e720fcdaaccfe",
+      "size": 187538,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_rain.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_rain.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_rain.ogg",
+      "sha256": "4e836ff06b7d88b97c17ec08f43c3678201bee1ec414bcb456252f784a7be4a4",
+      "size": 290435,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_water_01.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_01.ogg",
+      "sha256": "11ebdc63e0178f4de48167570e51a60a9ce968451ce60ff49a3c1faceabf1e0b",
+      "size": 176039,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_water_02.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_02.ogg",
+      "sha256": "2a39d9c6d3069e94f15b092f15bcfac7de54ca1bdc7c0b9a02b151bda6f3a29d",
+      "size": 269372,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_water_03.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/loop_water_03.ogg",
+      "sha256": "39b165ed0b2eda87e8db6176d8c3f4c7eb791e009d83481a2b4d7483c725d818",
+      "size": 172397,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_01.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_01.ogg",
+      "sha256": "4273c9510b03c3cc6b2d901fbd20de62ff4f537e4077a368355039c3081099a1",
+      "size": 18630,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_02.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_02.ogg",
+      "sha256": "a4ba1530c081706cb7ce8a08702c3552437561c33b851fe46e97d3232574320c",
+      "size": 21187,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_03.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_03.ogg",
+      "sha256": "e78e0702ac671ae098537266cb6f9106d2402ed99b6554b1429327ec603c3dae",
+      "size": 32308,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_04.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_04.ogg",
+      "sha256": "56f914928bf8f81662a1c4f354ef690600abd5172bb1cf259f55cb38ed7e4a1d",
+      "size": 19374,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_05.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_05.ogg",
+      "sha256": "6127939fac0319d821e13c54c14b6ccb16544f5ac1c5e4057ea6e75fc308f70f",
+      "size": 21790,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_06.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_06.ogg",
+      "sha256": "4b01dbfa60ed6d134680023fe61911f91a04e0739c991d45338b004c4f230b6d",
+      "size": 24107,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_07.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_07.ogg",
+      "sha256": "c9b1cfeaed0b9d65a04a67cac302861bd6ee750a054b55f0a6b9ac4ddb0ada36",
+      "size": 22392,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_08.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_08.ogg",
+      "sha256": "d658b872438737d4bfd0b3b7c1b325f94a4467796266e02ff6f79cf8f3001666",
+      "size": 29924,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_09.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_09.ogg",
+      "sha256": "a3e04bf955878cc5316e9c480739504ee6fb2f7a3a94aba8ca4efa1c4b74fb3c",
+      "size": 32747,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_10.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_10.ogg",
+      "sha256": "162ef7a48c3088c117bdd5c07d7eac76b790bd06412d85c1d5907ece86dafec1",
+      "size": 27324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_11.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_11.ogg",
+      "sha256": "949f2d48602ac23a2697626b574a5bc782cb2e4f0e03931d0ae57455c73eaabe",
+      "size": 21546,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_12.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_12.ogg",
+      "sha256": "de5437b5ad2af49f6914679011bb212934986c1e13e9a4c9cf45537490f66f6e",
+      "size": 13644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_13.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_13.ogg",
+      "sha256": "d6e64612d1b539971ef9ea0ba8c803841b71a144d5e04491d7019be10087a931",
+      "size": 28613,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_14.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_14.ogg",
+      "sha256": "37215c6a71c3f97c87c6e687346dd4c1542276c9d22eb1c0488ba1e15ea93b79",
+      "size": 20054,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_15.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_15.ogg",
+      "sha256": "5e1581251516ed8e0e86f013cac317cfd574ffd5740e82798f5c4561915e8294",
+      "size": 23204,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slime_16.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/slime_16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/slime_16.ogg",
+      "sha256": "9f50f3732420288170866ad29afb46bccfc1eae5f7474937f02d4ed6ada69725",
+      "size": 19115,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_01.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_01.ogg",
+      "sha256": "156f4df0fa1a552d1c4e451284a55000417ea871954dc4b5e0d4302a49e228a8",
+      "size": 64822,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_02.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_02.ogg",
+      "sha256": "eab0bb4bc01386528ba1e6244c6fd8940ee8d3c91ddb9e9cfea186e8560e04de",
+      "size": 37895,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_03.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_03.ogg",
+      "sha256": "ae2cff9a47934ece590dda45ff18acf89c5c98cb5497ce71c50b3a315b225a94",
+      "size": 32013,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_04.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_04.ogg",
+      "sha256": "58dddea3843b89e9504e6f174ea49cd061b1002bb6ae8a94f358409fabb8340a",
+      "size": 46571,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_05.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_05.ogg",
+      "sha256": "7aeaf4ac236629cf71042f56592ffc50e36f552df12c8442600839ce10156ca3",
+      "size": 49582,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_06.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_06.ogg",
+      "sha256": "3581e5bee7307cbe6be17715714029259685ba283cb3423938378506b386afb4",
+      "size": 25975,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_07.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_07.ogg",
+      "sha256": "307e6ea8d4ed122d1f54377437194daf4c2d6103d3a04dd9128c3d7a342d46b8",
+      "size": 62804,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_08.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_08.ogg",
+      "sha256": "fd4c9c8fbfe4ac7348644918a73b1d004b037bac3ef24a1303549b705624828a",
+      "size": 36747,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_09.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_09.ogg",
+      "sha256": "123f78e6bef82b5dfb24f0a93f759b309bd12b21d05905ab401756fc588a31dc",
+      "size": 14795,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_10.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_10.ogg",
+      "sha256": "69ec352dc6c0ea4691435e692063f903c98e5292579ba71297d4fbdb51c33649",
+      "size": 18959,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_11.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_11.ogg",
+      "sha256": "408bd00463f8aba63b470c424b90672c71e8b8596d2cbc23b0d467752b18199a",
+      "size": 56216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_12.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_12.ogg",
+      "sha256": "59d425f60046afd9c4ea15e85037bcc4e4a0172b5d267852ab1b0571d06d5604",
+      "size": 36732,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_13.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_13.ogg",
+      "sha256": "10bf42f906ea0366c2091405b7d355e74a496b1fe1c4bd40d8965d703c0db2d7",
+      "size": 38631,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_14.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_14.ogg",
+      "sha256": "018984c8e03488b65d4c2dd6e08a9c2115b395ded80cf7209f893e7e664c5d0e",
+      "size": 27752,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_15.ogg",
+      "path": "packs/40-cc0-water-splash-slime-sfx/sounds/splash_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/sounds/splash_15.ogg",
+      "sha256": "9b0ef483f0d8939199c10ecf26d952fda92637cb7e1f323decb9388a07a79b03",
+      "size": 25671,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "bubble_01.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_01.png",
+      "sha256": "18aadb5b243b837d42d163c9f9225108c094191b29f8826d5eaf505a31a5fb96",
+      "size": 3567,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bubble 01"
+    },
+    {
+      "fileName": "bubble_02.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_02.png",
+      "sha256": "8b9ad817ff61a72e5d47d98eb535636805a6f77397854a83165060fb28bb6b8d",
+      "size": 3381,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bubble 02"
+    },
+    {
+      "fileName": "bubble_03.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/bubble_03.png",
+      "sha256": "39a0c30face2daedb412edc4f1195f7545c8de56223aeee48e69df91dcd24230",
+      "size": 3448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bubble 03"
+    },
+    {
+      "fileName": "loop_bubbles_02.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_bubbles_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_bubbles_02.png",
+      "sha256": "39984309a9d59c7e03da9407ec5ed9d693e87b2319e78638d39137f98232f328",
+      "size": 4636,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Bubbles 02"
+    },
+    {
+      "fileName": "loop_bubbles_1.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_bubbles_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_bubbles_1.png",
+      "sha256": "4832d1e71f9f4ffbdf40088e5690b4adf91c971b04f816fd0780fa6ee4fc8f18",
+      "size": 4065,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Bubbles 1"
+    },
+    {
+      "fileName": "loop_rain.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_rain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_rain.png",
+      "sha256": "5c5a441fb289a9ba7a9cb4b46c14842569337d1f25b38e7e6dd4d0f24319a2a5",
+      "size": 4840,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Rain"
+    },
+    {
+      "fileName": "loop_water_01.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_01.png",
+      "sha256": "957fd72770482e34d2173623b3c45c08273b7da7abf56913b4c0f9c35280096f",
+      "size": 4942,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 01"
+    },
+    {
+      "fileName": "loop_water_02.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_02.png",
+      "sha256": "dda7eae664a5347aa34c9fd88bb7b115e46187d3a220a262ca0fb3050e5c32e9",
+      "size": 4957,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 02"
+    },
+    {
+      "fileName": "loop_water_03.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/loop_water_03.png",
+      "sha256": "93093dd09f7eb938458843029f59308d50999b5dce5dd9ed444cd54d8065c2dc",
+      "size": 4433,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Water 03"
+    },
+    {
+      "fileName": "slime_01.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_01.png",
+      "sha256": "a4ab0efa72c6b26b4fca4f3abda0e41ae56a0ecc7754ee4696e2dbac8d63b936",
+      "size": 2172,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 01"
+    },
+    {
+      "fileName": "slime_02.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_02.png",
+      "sha256": "6f3a4c1eb3819e2335111e103e92bdc9b3d3e58de89f4bc0cff04fc3a46a8e96",
+      "size": 2358,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 02"
+    },
+    {
+      "fileName": "slime_03.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_03.png",
+      "sha256": "da0df7103ca16ed3e59ffaf482ef082c0dd6ab40468343c4262ff764eb2a1a7a",
+      "size": 3476,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 03"
+    },
+    {
+      "fileName": "slime_04.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_04.png",
+      "sha256": "9377b42c5143566329261de6cd843884f86d01eb16b2a9278d0b40e8d0e13433",
+      "size": 2720,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 04"
+    },
+    {
+      "fileName": "slime_05.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_05.png",
+      "sha256": "897e9ce7d521455ff25f5ca7837ae9bee16e2daf770e04a18832522eafdca62c",
+      "size": 3305,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 05"
+    },
+    {
+      "fileName": "slime_06.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_06.png",
+      "sha256": "6b8b842c1d630d92f49e9c1e5bd52134d247ec5931389e53e4b4aff23d8bd25f",
+      "size": 3287,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 06"
+    },
+    {
+      "fileName": "slime_07.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_07.png",
+      "sha256": "3b0a00c1aa2d5969cf807b5387333f02cd1effd520b6440fc1a7bccc8a88c01d",
+      "size": 2229,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 07"
+    },
+    {
+      "fileName": "slime_08.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_08.png",
+      "sha256": "7f23afe0b78087d7de67fdf52e6a273ad2d1f5543677578c8caa5052339dd4c1",
+      "size": 2627,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 08"
+    },
+    {
+      "fileName": "slime_09.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_09.png",
+      "sha256": "b410def269c2993cd969f18fd763a4460a18c564c446baad3240161a66c6b298",
+      "size": 3314,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 09"
+    },
+    {
+      "fileName": "slime_10.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_10.png",
+      "sha256": "1fe0fa118bda192a55453cd9c590802b15f4360951331541d9c977c5ae572db4",
+      "size": 2742,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 10"
+    },
+    {
+      "fileName": "slime_11.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_11.png",
+      "sha256": "8c0430a285756be942d1ef635220d4a962ef0dab19041f713a4d1bd3540c69df",
+      "size": 2446,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 11"
+    },
+    {
+      "fileName": "slime_12.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_12.png",
+      "sha256": "03745dfd75cf00cd69bd87510ec28b2298fbfcc865c43fcf94158fcdd89828b0",
+      "size": 2899,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 12"
+    },
+    {
+      "fileName": "slime_13.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_13.png",
+      "sha256": "e8a2e16d86f801087f8cbe339a26551261930dc74ca01a7abc74acd5a906571e",
+      "size": 2291,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 13"
+    },
+    {
+      "fileName": "slime_14.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_14.png",
+      "sha256": "32ba655b1299bb2889cda1d7f21b73479d163c1824c1312b064e0fdba7f0bbec",
+      "size": 3166,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 14"
+    },
+    {
+      "fileName": "slime_15.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_15.png",
+      "sha256": "9a6436710603a2ca27a1f0729dfe4ad9a3c9be2d8a959b556941b75cb167834a",
+      "size": 3450,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 15"
+    },
+    {
+      "fileName": "slime_16.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/slime_16.png",
+      "sha256": "c21a563862a690289abc3c91d1d5d798e646aff0cbf0dbdea6f70a620c35f68c",
+      "size": 2663,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slime 16"
+    },
+    {
+      "fileName": "splash_01.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_01.png",
+      "sha256": "cd71d63a123feee624452a4b1b41667246bceac5f0a4ad9bab95f97d05176686",
+      "size": 2397,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 01"
+    },
+    {
+      "fileName": "splash_02.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_02.png",
+      "sha256": "fdb3049736cdb3be2d76247ae8cfd225e28737081ab336433cbf340cbaac5018",
+      "size": 3147,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 02"
+    },
+    {
+      "fileName": "splash_03.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_03.png",
+      "sha256": "ff37bbc6d5c2fb3393859184eace227c221ed3a251cbea1be8496a4fdd2a3b70",
+      "size": 2021,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 03"
+    },
+    {
+      "fileName": "splash_04.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_04.png",
+      "sha256": "97b2f4ee9eec44b8a62289dfc444968f9e59f7ddcb007fc37433cb4f01b66ed2",
+      "size": 3016,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 04"
+    },
+    {
+      "fileName": "splash_05.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_05.png",
+      "sha256": "3cd3b43c4647b6a60d111e3387c88a385b0fdce01af1877fdf3db1274e5c50b3",
+      "size": 2377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 05"
+    },
+    {
+      "fileName": "splash_06.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_06.png",
+      "sha256": "b8ae4972b2c40087fb2b12edc66dff5a2390e9c557587984672e3b81c576fcd1",
+      "size": 3699,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 06"
+    },
+    {
+      "fileName": "splash_07.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_07.png",
+      "sha256": "31a27f209dea7975320c7b22ba36886cbda047c64f3cda59e1045beb914e32a9",
+      "size": 3417,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 07"
+    },
+    {
+      "fileName": "splash_08.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_08.png",
+      "sha256": "9b204210d9131a1c1236859fec0945540e6dfa06b95d10bb5fc14a2f79c3ce11",
+      "size": 3348,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 08"
+    },
+    {
+      "fileName": "splash_09.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_09.png",
+      "sha256": "e18511e565b1acc4f3827eaf3321baea3b0f41f78baff6685865da802afd9a52",
+      "size": 2072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 09"
+    },
+    {
+      "fileName": "splash_10.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_10.png",
+      "sha256": "061cfad053bfe37c47d09fa3c292130bdc790f297f94ac237885f4834f9ce80b",
+      "size": 2217,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 10"
+    },
+    {
+      "fileName": "splash_11.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_11.png",
+      "sha256": "524ad7159b3c233841dad8e8e07685ac0bdce2ae5576ec2426436b5d35a26ed1",
+      "size": 3311,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 11"
+    },
+    {
+      "fileName": "splash_12.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_12.png",
+      "sha256": "03a8f4488b95aa09a3780ec8ac4b70505d0668fa8f9b1b85ec304e6b97dd789e",
+      "size": 2167,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 12"
+    },
+    {
+      "fileName": "splash_13.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_13.png",
+      "sha256": "11b87aa04dfac6b2e223f7fb02724d9ee8e5cafda09730e2cfedadc531ad64a7",
+      "size": 3137,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 13"
+    },
+    {
+      "fileName": "splash_14.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_14.png",
+      "sha256": "db6eaca0dc4316c87ae020cae039bdfa74f03f45b2917085b5ac44d6f53ce644",
+      "size": 2892,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 14"
+    },
+    {
+      "fileName": "splash_15.png",
+      "path": "packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/40-cc0-water-splash-slime-sfx/thumbnails/splash_15.png",
+      "sha256": "0696fd8329003955d8af30f91ec16fcd29054557972543ed7266df77f21a5432",
+      "size": 3203,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 15"
+    }
+  ]
+}

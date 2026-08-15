@@ -1,0 +1,1519 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "50 CC0 Retro / Synth SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "description": "50 retro/synth effects made in LMMS with ZynAddSubFX: power-ups, coins, explosions, shots, beeps and lasers. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/50-CC0-retro-synth-SFX",
+  "itemCount": 50,
+  "items": [
+    {
+      "name": "Power Up 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Power Up 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Power Up 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Power Up 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Power Up 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Power Up 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Coin 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_coin_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Coin 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_coin_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Die 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Die 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Die 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Explosion 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Explosion 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Explosion 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Explosion 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Explosion 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Shot 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/shot_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Shot 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/shot_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Beep 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Beep 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Beep 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Laser 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Laser 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Synth Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 13",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_13.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 14",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_14.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 15",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_15.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Synth Misc 16",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_16.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "power_up_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_01.ogg",
+      "sha256": "b1645b0dfe0adbefc4002cd6cd2ab919e484424cfb46ebf2f5e72f95c9fe15bd",
+      "size": 19368,
+      "role": "Audio"
+    },
+    {
+      "fileName": "power_up_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_02.ogg",
+      "sha256": "8de66bdcc34c2df2e892153013962c2d8bb7e385c2d67c2b8b5e33f7a9be7c40",
+      "size": 19450,
+      "role": "Audio"
+    },
+    {
+      "fileName": "power_up_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_03.ogg",
+      "sha256": "8172936c484f44363c173e3d1208cb24accfd8691018185dc2c00235911eecb4",
+      "size": 33802,
+      "role": "Audio"
+    },
+    {
+      "fileName": "power_up_04.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_04.ogg",
+      "sha256": "65c8fed03e10090e5a6f030b0ea0101a7560d7a7d9f4e47e05803c755c58e21b",
+      "size": 23830,
+      "role": "Audio"
+    },
+    {
+      "fileName": "power_up_05.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_05.ogg",
+      "sha256": "4383207e829c29d055d6684eebd63d223a187000b5034fa65c2e6c4878711519",
+      "size": 26058,
+      "role": "Audio"
+    },
+    {
+      "fileName": "power_up_06.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/power_up_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/power_up_06.ogg",
+      "sha256": "2e7ccca1d85245dfb55e090830a5a7200777fb0f64d9031015bb35f642135b99",
+      "size": 19088,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_coin_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_coin_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_coin_01.ogg",
+      "sha256": "690bf9c8c30ac4d30046df9b5587dd21c44f0785922f439bf5c460f40226d115",
+      "size": 14492,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_coin_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_coin_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_coin_02.ogg",
+      "sha256": "7dcacaf398772c7a81b89f591442ae5aed6a9fbb975b923ecfaa6822fa9e93ce",
+      "size": 14722,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_die_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_die_01.ogg",
+      "sha256": "b068b77b357758de36fb0a39171a4c9ae891abf60bf03ba54609c22e7c5bdd91",
+      "size": 20991,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_die_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_die_02.ogg",
+      "sha256": "5b5833a148ed8262b3a6f0c6a701c9955d7d3c558b4c398994b6f7d846d59c9d",
+      "size": 20863,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_die_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_die_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_die_03.ogg",
+      "sha256": "e451cea5c1fda08182789000b74ad8bb417d3f8e62bfdad88b67bbb748a8b169",
+      "size": 29671,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_01.ogg",
+      "sha256": "629f8bd6174591cd9f0c5e7af8dc65a5738e6a08bb241126289e69e126fefb70",
+      "size": 57192,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_02.ogg",
+      "sha256": "2bc8528fc02f8f5d255260371d4e23bc11858ca05e22596f56cde6407d491cc1",
+      "size": 50313,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_03.ogg",
+      "sha256": "630242b328a0e8a2cc405c4a6698c488ccc6e81bc4000c688a028399802a0367",
+      "size": 50553,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion_04.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_04.ogg",
+      "sha256": "38e1bd919f78c6e82f0dd6a8e077acc72f0987e1514f18eeb7009d89f9d00c54",
+      "size": 49875,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion_05.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_explosion_05.ogg",
+      "sha256": "274f80dcc29c0517f02dfbefde6335e5fea2b4a928cbaddd47886623af240fda",
+      "size": 69497,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_misc_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_misc_01.ogg",
+      "sha256": "9b276db24f1a38e0d7100fe7fa8063db8199f106f9fd152247ac155ab2fb74d8",
+      "size": 20717,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_misc_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_misc_02.ogg",
+      "sha256": "174fd5a82d541cf201e08233f436c521a984fed6f650fd88e3837d281d57c492",
+      "size": 12023,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_misc_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_misc_03.ogg",
+      "sha256": "0c916dd9f253a8c0a0aca0bf77ced5756ae2e7a3253feeef5574b0310dee82ea",
+      "size": 12376,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_misc_04.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_misc_04.ogg",
+      "sha256": "893b0646f070366096a220f7190e4f10a277224590f7a2cec31f9cdcb956780e",
+      "size": 20523,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_misc_05.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/retro_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/retro_misc_05.ogg",
+      "sha256": "4a6c8c67fe3d02486f48b4af67512f18620f894a380ff32c371e7697ba8d6385",
+      "size": 20735,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/shot_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/shot_01.ogg",
+      "sha256": "96a28730061b18633adefc5f8b18cb8221b07587bc06bcaefbf96de41663fcff",
+      "size": 14293,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/shot_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/shot_02.ogg",
+      "sha256": "1d829f0317e5b306b43969342d5a6a4e97b9bca74f6654e77728b2c99ef3b1ac",
+      "size": 18943,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_beep_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_beep_01.ogg",
+      "sha256": "68e61bfff60332e4c8d3d7c87e5403293fac97a36e7cf3668810fcd45f5cbe6b",
+      "size": 17165,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_beep_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_beep_02.ogg",
+      "sha256": "f06ba01a7f5adc0223cb020297d6d8e230f7cfb6a6e329c1066c93748632e250",
+      "size": 11878,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_beep_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_beep_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_beep_03.ogg",
+      "sha256": "e4a0dd2d8c3f4b8d02dd43774e1621ec4282398c7f14dabc2759e98e3390ce86",
+      "size": 14381,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_01.ogg",
+      "sha256": "5828a850e542a0f87eac0285824ee6bb37915e1f2547ecbb36822751168fd9b5",
+      "size": 29036,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_02.ogg",
+      "sha256": "8346e5f82f3c95d3c1668ac3ae0a1d84b48d6b1fc2bb59fc830ab190618a1eb2",
+      "size": 29633,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_03.ogg",
+      "sha256": "e5310022e44ba83a4830d17aa5d1eceedbb1bcbf45477b42bd05a376686fbae1",
+      "size": 17194,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_04.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_04.ogg",
+      "sha256": "317afbaa43e1c406f8335be6ea4e96c276b4abe594d4997b588251dac5a49de6",
+      "size": 41257,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_05.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_05.ogg",
+      "sha256": "cc2ac8dbe7971c1a0319cd66b64c409b5f339b03693a40d9c35f050df819cbac",
+      "size": 40371,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_06.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_06.ogg",
+      "sha256": "ffa76cb1c5457fbd86728cba242e65928db3240d34d24f279980a4e1f4a9a837",
+      "size": 21693,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_07.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_07.ogg",
+      "sha256": "66a6128e77defdb3b071e44e2a681f48c525054b5a634303dd753a9d4fe89cf0",
+      "size": 55289,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_laser_08.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_laser_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_laser_08.ogg",
+      "sha256": "572b8555d8cd7fcd2dd5bf9deb06e9a7a2a6d856b9bba400f2ebc199999f648f",
+      "size": 23090,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_01.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_01.ogg",
+      "sha256": "144a708560c4e8c5a004a183d7aab562d51ef7f0512b174459eea418a197ae90",
+      "size": 69483,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_02.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_02.ogg",
+      "sha256": "5615abbbba924f857718613142f5122bb339894e94bd4ec3333fa42462b30d3d",
+      "size": 28357,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_03.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_03.ogg",
+      "sha256": "2611d9e11264aa32419b8b873848ab7490a71ef9ac6e5918150118d2c080ff6f",
+      "size": 188238,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_04.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_04.ogg",
+      "sha256": "9b2f3a4312d2ac4135a1897fc161785800f3b6cfa78cde9df24d941347434a6e",
+      "size": 34067,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_05.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_05.ogg",
+      "sha256": "8468feecbc5bf01d1629ae6b16396f9044bf8d0178ea71b07eb2a9ab17ec0aba",
+      "size": 33770,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_06.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_06.ogg",
+      "sha256": "29f4019599985eb8f44725c399588a22e7da7866206f5cc1e4206a4cda0ecfbd",
+      "size": 116487,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_07.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_07.ogg",
+      "sha256": "68b4e059721ac97ff76449670cce5dc74c21185263e16d43198cfbd48f957452",
+      "size": 47846,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_08.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_08.ogg",
+      "sha256": "3c05f384f8db9d7888ee8a38bead1ea680eae89a8936f386bea3826aaa8afe13",
+      "size": 46638,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_09.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_09.ogg",
+      "sha256": "d6802136e969ddf293149a34e2b6f1966860fd762687997de5305aa1fc937c76",
+      "size": 52613,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_10.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_10.ogg",
+      "sha256": "c62145c09b488701d148be3ed2372435d7d4f08ad694a97095aa4df8ce6207af",
+      "size": 30470,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_11.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_11.ogg",
+      "sha256": "c15993a244e26f700892b577906604785719f249bc56310caf73f631fa5c916c",
+      "size": 30904,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_12.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_12.ogg",
+      "sha256": "f18bd813417b9a541e1ec8996f52a91e834983599b0d23b200e61269bd8a3773",
+      "size": 23324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_13.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_13.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_13.ogg",
+      "sha256": "a912ab8c3b1c4b655d597a22f3124d174b5300ceb8b38e2e7e7c2fba024a1aa7",
+      "size": 28591,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_14.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_14.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_14.ogg",
+      "sha256": "a384bc9feedd251087fe09fca704862d5a73a455f83f9a97320540b74bf4198d",
+      "size": 21915,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_15.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_15.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_15.ogg",
+      "sha256": "9e0b5b8b42b43810bac1449f9bd8912a63570b74895b94b576878d26d3590788",
+      "size": 20779,
+      "role": "Audio"
+    },
+    {
+      "fileName": "synth_misc_16.ogg",
+      "path": "packs/50-CC0-retro-synth-SFX/sounds/synth_misc_16.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/sounds/synth_misc_16.ogg",
+      "sha256": "234960e297eb97f590193674e05ff544dace01592e4fe373249bd4dd9c153837",
+      "size": 116154,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "power_up_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_01.png",
+      "sha256": "fcdc366a641d61b8e66f7672135294f2fb3bbafec6c19ed5dbdedc28ca8791fb",
+      "size": 2535,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 01"
+    },
+    {
+      "fileName": "power_up_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_02.png",
+      "sha256": "1844a96028c3d381fd2d3654590369c0a7c7baba640f687e61c95cb9e1df2dba",
+      "size": 4001,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 02"
+    },
+    {
+      "fileName": "power_up_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_03.png",
+      "sha256": "e5777aac886c6704a6e4a33ceb93913099fa8e8c9deb3b49a724cce57bb4bd32",
+      "size": 3440,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 03"
+    },
+    {
+      "fileName": "power_up_04.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_04.png",
+      "sha256": "f75c400026e9d6f89f9580fa931f26cb9615f7767d5db0ee57375c51ff83dce6",
+      "size": 2753,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 04"
+    },
+    {
+      "fileName": "power_up_05.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_05.png",
+      "sha256": "a7d235508e93fadc01aff1b7b75e1fdce32e0eb9379dd03dc4d59d081439ddd5",
+      "size": 3810,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 05"
+    },
+    {
+      "fileName": "power_up_06.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/power_up_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/power_up_06.png",
+      "sha256": "47089852181c3e30dd4061c633138740c24ef15a71048dcf9ce8f3c86e44c16d",
+      "size": 4084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Power Up 06"
+    },
+    {
+      "fileName": "retro_coin_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_coin_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_coin_01.png",
+      "sha256": "5a079f2440e244b4edf57617d9570240fd66e88524027d1d035e66019bc7fdcf",
+      "size": 3129,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Coin 01"
+    },
+    {
+      "fileName": "retro_coin_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_coin_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_coin_02.png",
+      "sha256": "c7026ee8d825f291dca98f67aacf60b55bf2c5319b2ea78820db7334f364f0af",
+      "size": 3076,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Coin 02"
+    },
+    {
+      "fileName": "retro_die_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_01.png",
+      "sha256": "f03e0b9d87575c37de92e6c077a65b44d8064b4af0e1967a7a90fd1cd4767dae",
+      "size": 3212,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Die 01"
+    },
+    {
+      "fileName": "retro_die_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_02.png",
+      "sha256": "f21a49adf5247101bbe60dc67b989a10691b31a0718ccd02b3510fa37b2d8bc9",
+      "size": 3514,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Die 02"
+    },
+    {
+      "fileName": "retro_die_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_die_03.png",
+      "sha256": "c1e3654e74df67168a7e564511108a93400c0febadedf529206186a4f865e676",
+      "size": 2910,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Die 03"
+    },
+    {
+      "fileName": "retro_explosion_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_01.png",
+      "sha256": "a8ff7268825fe10c3d654bd9fd50ac5f208cd659cb50d5bcf290b2d0ad8c6ef6",
+      "size": 2612,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion 01"
+    },
+    {
+      "fileName": "retro_explosion_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_02.png",
+      "sha256": "96af6edc05d277ad08b6c2a29eab9a1fe263089e46cb1fe5e394ffac38861713",
+      "size": 2671,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion 02"
+    },
+    {
+      "fileName": "retro_explosion_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_03.png",
+      "sha256": "6f0ae722df2dc99e91e81c8c7000fabba19712804887eef5aad0e35c1823c5fb",
+      "size": 2715,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion 03"
+    },
+    {
+      "fileName": "retro_explosion_04.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_04.png",
+      "sha256": "56f3eeb57a4c35f5603a53eeeb81ae2701a141767f01c7bff244f973937f6a80",
+      "size": 2509,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion 04"
+    },
+    {
+      "fileName": "retro_explosion_05.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_explosion_05.png",
+      "sha256": "d0510aa8764ff06c3dbcd0f59c2bbb702761a8cb450867d51ea3180e4e07a16f",
+      "size": 3065,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion 05"
+    },
+    {
+      "fileName": "retro_misc_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_01.png",
+      "sha256": "7e72d6ef6ad39137a597eefdd64c1736cb50d52902d7115580f953d09d92e853",
+      "size": 4351,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Misc 01"
+    },
+    {
+      "fileName": "retro_misc_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_02.png",
+      "sha256": "bc72592ac6cf1736f5ad68cf4886d6a5a399f08f1dd52fa421790d7a2ec295ff",
+      "size": 3258,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Misc 02"
+    },
+    {
+      "fileName": "retro_misc_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_03.png",
+      "sha256": "fb765ffd7d290a164f14a475941a5d7c1f64947d0d91a8771a60fc07cea4f7a7",
+      "size": 2935,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Misc 03"
+    },
+    {
+      "fileName": "retro_misc_04.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_04.png",
+      "sha256": "d5dddb4e1ae5e2d7f1660960cdcc758eee930f1cd2974302ca5488dcf1f428f4",
+      "size": 2399,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Misc 04"
+    },
+    {
+      "fileName": "retro_misc_05.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/retro_misc_05.png",
+      "sha256": "7ec113d591588fa071ee9716d478572486522133abc124e48c7672eae4ba4e87",
+      "size": 3060,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Misc 05"
+    },
+    {
+      "fileName": "shot_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/shot_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/shot_01.png",
+      "sha256": "2fcdd97d2e558e906ec34c9eda0381d3674e2b43da6402e5665d57a45f6d76a0",
+      "size": 2286,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 01"
+    },
+    {
+      "fileName": "shot_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/shot_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/shot_02.png",
+      "sha256": "dc96c4baefb706dc8fd545a6113ff0547803e4632c18291c5fb660ecfbe54ee9",
+      "size": 2401,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 02"
+    },
+    {
+      "fileName": "synth_beep_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_01.png",
+      "sha256": "2e9a2118edef70b5f94e4578e43f6637a052d5909437d3375bc3147913cf43d5",
+      "size": 4089,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Beep 01"
+    },
+    {
+      "fileName": "synth_beep_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_02.png",
+      "sha256": "a1d89e1330e5bea593ee6cb6165934a3670609627e27f08cfc7034b9e5fb30cd",
+      "size": 3618,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Beep 02"
+    },
+    {
+      "fileName": "synth_beep_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_beep_03.png",
+      "sha256": "2d7adf99e3162c1779e7d25dadeb11781f88227d3cff4294fda3507e1a16f680",
+      "size": 3709,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Beep 03"
+    },
+    {
+      "fileName": "synth_laser_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_01.png",
+      "sha256": "0efc794914d5db97b32cc95de7390cb5d854a8ce56aa185ddb1d4eec130c15c4",
+      "size": 3228,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 01"
+    },
+    {
+      "fileName": "synth_laser_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_02.png",
+      "sha256": "ba64830bc97c26e754277de0224520de2b7771a34fdee9ea6e8f785d288f6b91",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 02"
+    },
+    {
+      "fileName": "synth_laser_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_03.png",
+      "sha256": "4adde1936c2fb20a07db4c8677ae09bc993d6c7dbdea0d85ca457732628e6171",
+      "size": 3273,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 03"
+    },
+    {
+      "fileName": "synth_laser_04.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_04.png",
+      "sha256": "426daa44f8f2d9e8e3235eb985a1a850abc44dfaf1fe3936f1b26592f9172276",
+      "size": 3197,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 04"
+    },
+    {
+      "fileName": "synth_laser_05.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_05.png",
+      "sha256": "ec3bf633c5af2d2226c32f6d27eb4f08fb483f8214476d329e9960a2aabd1de9",
+      "size": 2932,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 05"
+    },
+    {
+      "fileName": "synth_laser_06.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_06.png",
+      "sha256": "a2f6bf90fc92bb9c52966b3d87efe307a3301cdd05989c89d49a66de539bccfa",
+      "size": 3772,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 06"
+    },
+    {
+      "fileName": "synth_laser_07.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_07.png",
+      "sha256": "f4138c98d69a2ea69d3d5b3c89897e1593cb79e9761e3d2e74b4aa30318fda16",
+      "size": 2851,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 07"
+    },
+    {
+      "fileName": "synth_laser_08.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_laser_08.png",
+      "sha256": "79b87269a87ce85211d1a240eac12878e966f8240b435a93b423ee0d19685e17",
+      "size": 3493,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Laser 08"
+    },
+    {
+      "fileName": "synth_misc_01.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_01.png",
+      "sha256": "917d0deb4c6c8168520c8a329d7fc2279a06fac5532d90df56c686582baef0b8",
+      "size": 2507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 01"
+    },
+    {
+      "fileName": "synth_misc_02.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_02.png",
+      "sha256": "ad61bd88261b30d9151a4662a825866fbd9867156e18e6ef25b13bb3be7eb7e5",
+      "size": 3195,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 02"
+    },
+    {
+      "fileName": "synth_misc_03.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_03.png",
+      "sha256": "404a508407c3d64be078fddb2a0838e34d302ce84d6acb2918e9096b34e0a8e1",
+      "size": 3852,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 03"
+    },
+    {
+      "fileName": "synth_misc_04.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_04.png",
+      "sha256": "7ee677e1cfe344fbba763f90717d4c6a6c87208c815e762373dbb4cb80dbf2cd",
+      "size": 3518,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 04"
+    },
+    {
+      "fileName": "synth_misc_05.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_05.png",
+      "sha256": "6fe13f48c757bad53496c773dc302b41409498c531828d71be22255d5c45daa1",
+      "size": 3334,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 05"
+    },
+    {
+      "fileName": "synth_misc_06.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_06.png",
+      "sha256": "d06e655ecafbcf5be457fe79491ad5dfb1466a4ec09a9c0fdc1611b8ac5019a3",
+      "size": 3369,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 06"
+    },
+    {
+      "fileName": "synth_misc_07.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_07.png",
+      "sha256": "d9ec3fbb2f38b35557ecb05ccdcb057388f1d157abb54e656dbf2cf8e705cf52",
+      "size": 3157,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 07"
+    },
+    {
+      "fileName": "synth_misc_08.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_08.png",
+      "sha256": "9c5d1ef60ad0a45fe39c63ba275b82f311fe0bdb424745626586dc2963dd006d",
+      "size": 3633,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 08"
+    },
+    {
+      "fileName": "synth_misc_09.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_09.png",
+      "sha256": "80497660eb7af464b0fe0b6f362389d324aee75891cd9454d3335d271d38ecf4",
+      "size": 3341,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 09"
+    },
+    {
+      "fileName": "synth_misc_10.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_10.png",
+      "sha256": "2db45737b5ba93c0f4f2e59261c2545e78760a2e00dede9a61466bda01bc86af",
+      "size": 3646,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 10"
+    },
+    {
+      "fileName": "synth_misc_11.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_11.png",
+      "sha256": "91ab0cbb3fe6a2ab2ac009ad9bc9044f22b924d33612e39a7a915b4c1096c4f9",
+      "size": 3806,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 11"
+    },
+    {
+      "fileName": "synth_misc_12.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_12.png",
+      "sha256": "68762f06e9267dff85472eb49c0231ba656e24070ea20eabe86cedc9e6943d0d",
+      "size": 2992,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 12"
+    },
+    {
+      "fileName": "synth_misc_13.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_13.png",
+      "sha256": "95ad89cff8840205aa268aaa4e9834cdef367ad23e51389951008eedd7eb91ed",
+      "size": 3998,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 13"
+    },
+    {
+      "fileName": "synth_misc_14.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_14.png",
+      "sha256": "2c2a8b875fe48b1020e7166988b7b7a6463da89c8eedf87d7d99df46ebf39ee3",
+      "size": 4332,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 14"
+    },
+    {
+      "fileName": "synth_misc_15.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_15.png",
+      "sha256": "f17d615b7e70523d8d716f1479540da8fced046b5313ce15ba1455a0e91a81ee",
+      "size": 2914,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 15"
+    },
+    {
+      "fileName": "synth_misc_16.png",
+      "path": "packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-CC0-retro-synth-SFX/thumbnails/synth_misc_16.png",
+      "sha256": "e0613be7d25fdd1f29c258e88392881aea5e2abe6c6cdf13d2580c5b896a59eb",
+      "size": 4770,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Synth Misc 16"
+    }
+  ]
+}

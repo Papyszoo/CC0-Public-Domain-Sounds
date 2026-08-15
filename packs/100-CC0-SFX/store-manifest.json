@@ -1,0 +1,3019 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "100 CC0 SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/100-cc0-sfx",
+  "description": "100 household and foley sound effects — bells, dishes, doors, glass, metal, springs, slams, tools and more. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/100-CC0-SFX",
+  "itemCount": 100,
+  "items": [
+    {
+      "name": "Bell 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/bell_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bell 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/bell_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Bell 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/bell_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dishes 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/dishes_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dishes 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/dishes_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dishes 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/dishes_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Dishes 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/dishes_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door Close 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_close_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door Close 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_close_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door Close 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_close_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door Close 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_close_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Door Open",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/door_open.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Explosion",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/explosion.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/glass_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/glass_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/glass_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/glass_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Glass 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/glass_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Gong 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/gong_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Gong 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/gong_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hit 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/hit_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hit 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/hit_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hit 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/hit_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Hit 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/hit_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Key Open 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/key_open_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Key Open 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/key_open_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Machine 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/machine_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/machine_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/machine_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Metal 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Metal 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/metal_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Microwave Door Close",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/microwave_door_close.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Microwave Door Open",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/microwave_door_open.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Noise 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/noise_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Noise 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/noise_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Other 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/other_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/paper_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/paper_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/paper_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Paper 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/paper_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/plop_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Plop 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/plop_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pot 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/pot_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pot 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/pot_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Shot 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/shot_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Shot 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/shot_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Slam 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Slam 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/slam_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/splash_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Splash 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/splash_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/spring_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Switch 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/switch_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Switch 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/switch_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Toilet 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/toilet_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Toilet 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/toilet_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/tools_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/tools_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/tools_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/tools_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Tools 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/tools_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/weird_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/weird_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/weird_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/weird_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Weird 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/weird_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wooded Box Open",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/wooded_box_open.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wooden 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/wooden_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wooden 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/wooden_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Wooden 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/100-CC0-SFX/sounds/wooden_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "bell_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/bell_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/bell_01.ogg",
+      "sha256": "b29cf8f3885eb2a266a16455227288dd3e004ea0414d2823b1a8677915f862d1",
+      "size": 38999,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bell_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/bell_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/bell_02.ogg",
+      "sha256": "ea47ae29d3fe87c82414881084cf5dfa4a0a43c6def7437fcafbc21ffbf3ec72",
+      "size": 18962,
+      "role": "Audio"
+    },
+    {
+      "fileName": "bell_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/bell_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/bell_03.ogg",
+      "sha256": "9440896c5ffbc85d045b88953057d12019ddbf052f3694615216d83161a9e2d9",
+      "size": 47656,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dishes_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/dishes_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/dishes_01.ogg",
+      "sha256": "9c37a0fd53d0e0c6349df181973a4c7deab40fc37c27e291dfc54830faa1e42c",
+      "size": 35324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dishes_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/dishes_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/dishes_02.ogg",
+      "sha256": "e78a817166e589e437b4a0e43d1fe382f290e1dafe8893921192bb8423f58346",
+      "size": 28322,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dishes_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/dishes_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/dishes_03.ogg",
+      "sha256": "f81cb8ecac99890d166f5700d4bd447539c9988f96c481f4dd1cd651f55017e9",
+      "size": 33915,
+      "role": "Audio"
+    },
+    {
+      "fileName": "dishes_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/dishes_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/dishes_04.ogg",
+      "sha256": "d8513896043521f0cecdc624028de7bb56205390cd2e003a2814b01f4dea53fe",
+      "size": 27675,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_01.ogg",
+      "sha256": "a1a7fd61ccd03dd58151f5429d6447ad80c2f31c3e357c4756609a0c6c945391",
+      "size": 110059,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_02.ogg",
+      "sha256": "89c12f714e596cd14498896f3afc02f14dea5707ded94472d98b4e71a041b9d3",
+      "size": 93578,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_close_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_close_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_close_01.ogg",
+      "sha256": "9c779ae637542e5b9cdfdd62a93e611e116e60205ef68b5b244aaf69fbfaeba8",
+      "size": 24225,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_close_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_close_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_close_02.ogg",
+      "sha256": "3f4ce43f7a676d8907258908c90e88caecffd4526fce43e40df6726bf67ed91b",
+      "size": 38319,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_close_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_close_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_close_03.ogg",
+      "sha256": "36f3e2337d7e606c431049f12704f42b9f2582a5b9149b7f682fcd2ee42fe4b4",
+      "size": 20918,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_close_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_close_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_close_04.ogg",
+      "sha256": "db9247416558f6758aef358342ae5f96eb2be6ad3b9e39a230e7c46174ed733a",
+      "size": 24912,
+      "role": "Audio"
+    },
+    {
+      "fileName": "door_open.ogg",
+      "path": "packs/100-CC0-SFX/sounds/door_open.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/door_open.ogg",
+      "sha256": "62b42cdf0d8b25ef80c0f3bc815aa65977b78b20225481461ea134798172f59d",
+      "size": 18227,
+      "role": "Audio"
+    },
+    {
+      "fileName": "explosion.ogg",
+      "path": "packs/100-CC0-SFX/sounds/explosion.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/explosion.ogg",
+      "sha256": "f31e12359b96b5e4d43edbcd533630b32421e55bc0b08aec4520d2ed45cd1a93",
+      "size": 25549,
+      "role": "Audio"
+    },
+    {
+      "fileName": "glass_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/glass_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/glass_01.ogg",
+      "sha256": "1a767c588055d9db08b548fbe32e0fb5ef9d998318fda269973e31f2d459c431",
+      "size": 18701,
+      "role": "Audio"
+    },
+    {
+      "fileName": "glass_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/glass_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/glass_02.ogg",
+      "sha256": "f93e91479793e618fabd6a1607e3ce6a382a0ccdba09d82cd5e209980feed4d5",
+      "size": 17502,
+      "role": "Audio"
+    },
+    {
+      "fileName": "glass_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/glass_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/glass_03.ogg",
+      "sha256": "b35c3ac4cc7d665bed2a37f54fce4528c7a048daf46c1e4db0a371092bf333e8",
+      "size": 20324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "glass_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/glass_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/glass_04.ogg",
+      "sha256": "4bd640a2bd50919f78076b4f204a63dabf76915e74e9e6e8457444a40fee737f",
+      "size": 37277,
+      "role": "Audio"
+    },
+    {
+      "fileName": "glass_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/glass_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/glass_05.ogg",
+      "sha256": "6eebcedf7d0a084e9c40c3420591acef9c75a678cd03266e2c51e94707c694d9",
+      "size": 39108,
+      "role": "Audio"
+    },
+    {
+      "fileName": "gong_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/gong_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/gong_01.ogg",
+      "sha256": "4780a38e91688b59899b3679cf3534b4b75654b45a177af9d9fb681c447f7f9a",
+      "size": 55320,
+      "role": "Audio"
+    },
+    {
+      "fileName": "gong_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/gong_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/gong_02.ogg",
+      "sha256": "eb53bd74d92ed2422568ed5770615b177b0a4d281f55959e6aa263d756412524",
+      "size": 46301,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hit_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/hit_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/hit_01.ogg",
+      "sha256": "fee785537678a33d150310e8ae75eeaa439b0e1e9aa55aef19651d12013a067f",
+      "size": 14762,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hit_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/hit_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/hit_02.ogg",
+      "sha256": "22f2bfcfb8e211ea19b0af0adc1ae7df7bce137a7a159303840f9b95992d5d61",
+      "size": 17176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hit_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/hit_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/hit_03.ogg",
+      "sha256": "c8948294e7885ada74bcab6efb6c60613b74241cc58eacd18e81aa6bd33449b8",
+      "size": 20643,
+      "role": "Audio"
+    },
+    {
+      "fileName": "hit_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/hit_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/hit_04.ogg",
+      "sha256": "8b3001d958d87d386b70288075b4025c751798ab0a4b12de7675da79096c51ea",
+      "size": 22089,
+      "role": "Audio"
+    },
+    {
+      "fileName": "key_open_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/key_open_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/key_open_01.ogg",
+      "sha256": "47f5317c0e76cb7e5873e24e9a4a6596e06454b7a278c103b3e07ab902001497",
+      "size": 22976,
+      "role": "Audio"
+    },
+    {
+      "fileName": "key_open_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/key_open_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/key_open_02.ogg",
+      "sha256": "d1bdc1f001837e370902bf332bf3c08eef16bb9356d0c41e8ea1670fca76fa72",
+      "size": 18092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/machine_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/machine_01.ogg",
+      "sha256": "9b4ee1e0737a99c63b1ada16766f22231484de244a5deb53986e93957634eff6",
+      "size": 25914,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/machine_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/machine_02.ogg",
+      "sha256": "247891c065b1c487571d7edc9759c4c2394649c8a919a4e525346bc9f376603b",
+      "size": 24450,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/machine_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/machine_03.ogg",
+      "sha256": "41534a39fc6187eb696a851ad0cac5495cafc964eb5195050102fe55b02cf377",
+      "size": 22359,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_01.ogg",
+      "sha256": "f638423b1c67c9aeb0db9410b968ca1a89de728f3117f1bdd35a4fc7be4130ed",
+      "size": 27067,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_02.ogg",
+      "sha256": "545c2d698e72e1a3f0f22407fc0567a1f1041d9dbeff528bef0947284b45fdf2",
+      "size": 15991,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_03.ogg",
+      "sha256": "35ec56e5136e7091f36470c3e502e714819c9ff843baff0910b095571459f274",
+      "size": 17804,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_04.ogg",
+      "sha256": "e5ac67a63335d849ffbc4a02fa60ceede0747e7854ebc3554c745b2d52f652cd",
+      "size": 33808,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_05.ogg",
+      "sha256": "b00d199e024b2d5f336bb3fee7ed2f890770caca739a497cb1bdc517119ea380",
+      "size": 34713,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_06.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_06.ogg",
+      "sha256": "5409b5a3a21e800b9dbfafe1ab0dfb219a53eca2a0654fa932ff04b4b5d4371b",
+      "size": 29683,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_07.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_07.ogg",
+      "sha256": "16b6d8272f13ee84b40cb9e0863d412fcbf88e1ce46a5c59691eb53e18ed7d17",
+      "size": 30116,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_08.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_08.ogg",
+      "sha256": "e563b1e5b137484250d70b800d2dab329dab601532f5aab9eef6db659d128a84",
+      "size": 34506,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_09.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_09.ogg",
+      "sha256": "0ac29c1f345c41ee6880876ccf4f69c66d1043b11d6c2f20cff49e78ae5d583b",
+      "size": 29385,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_10.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_10.ogg",
+      "sha256": "b11b6242c609bd61f3286c76ef9e2045f7323fa8d0c771309dd9409a6be59de5",
+      "size": 31011,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_11.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_11.ogg",
+      "sha256": "8f52c3a878e87ea2abb8f7a9fba90d0ec32034393661ddf87ba2b2b086024195",
+      "size": 18922,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_12.ogg",
+      "path": "packs/100-CC0-SFX/sounds/metal_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/metal_12.ogg",
+      "sha256": "ec09cebdd44a49ab1b744e86b7f881bbfb16a0ebb79e36b9a1ae3bf9a1612366",
+      "size": 50650,
+      "role": "Audio"
+    },
+    {
+      "fileName": "microwave_door_close.ogg",
+      "path": "packs/100-CC0-SFX/sounds/microwave_door_close.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/microwave_door_close.ogg",
+      "sha256": "5bd10f6deec1cdf6eff3531370b611454a0c9bba266d9531cbbf7c5fa4970ac0",
+      "size": 13194,
+      "role": "Audio"
+    },
+    {
+      "fileName": "microwave_door_open.ogg",
+      "path": "packs/100-CC0-SFX/sounds/microwave_door_open.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/microwave_door_open.ogg",
+      "sha256": "30dab76dc8bbbd770840594ecc826e0e1cc8574ea84c2e3cb2891bf48c54a0b6",
+      "size": 14881,
+      "role": "Audio"
+    },
+    {
+      "fileName": "noise_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/noise_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/noise_01.ogg",
+      "sha256": "dd65899a487e2d307f86e7e5602f63b4cc2e2f77e6414b11ca84fca27ffdf10d",
+      "size": 20473,
+      "role": "Audio"
+    },
+    {
+      "fileName": "noise_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/noise_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/noise_02.ogg",
+      "sha256": "65c3fc73139f56af481a54082fefb10b671b1881dd5e1ea1ecfdc20b84f7f795",
+      "size": 29861,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_01.ogg",
+      "sha256": "1b44e4787941ce231234b2dc4f04f42ddd6801f2113bd9f20cdae8cdfdaa48a9",
+      "size": 38052,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_02.ogg",
+      "sha256": "2b27f4431ab43b131c6a4edb5249c5052e0aeeeec1a9adf465ffa82354992217",
+      "size": 19097,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_03.ogg",
+      "sha256": "23f9a010799bf9ae34669cb6b3869220dfe935e04922b4a58c1ccf3ded9da2fe",
+      "size": 22779,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_04.ogg",
+      "sha256": "00590fb76ac21cd50bd7ce6f744713d52bbd3f3ed808b205220ad90ea3d8fe73",
+      "size": 15800,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_05.ogg",
+      "sha256": "5b5d4b95fb720ee9e10666067299f5ea83e895995b0f2e694b7d3ebfa4ff1f8f",
+      "size": 22177,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_06.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_06.ogg",
+      "sha256": "2468a1635460a2da0ed7b0d91417f787f925b26d900042ce289ebcebad7ec652",
+      "size": 13086,
+      "role": "Audio"
+    },
+    {
+      "fileName": "other_07.ogg",
+      "path": "packs/100-CC0-SFX/sounds/other_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/other_07.ogg",
+      "sha256": "223c0bdc95b3c0317633ce3e924b168c5ceed233e2310b523b0f2f22c6ea8022",
+      "size": 23925,
+      "role": "Audio"
+    },
+    {
+      "fileName": "paper_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/paper_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/paper_01.ogg",
+      "sha256": "b2b2b55e44761c7a45283bce0196f41f72207180fb08c970d7dcf93b705d280c",
+      "size": 25529,
+      "role": "Audio"
+    },
+    {
+      "fileName": "paper_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/paper_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/paper_02.ogg",
+      "sha256": "4d0c68b367bd3fbdf9817e764908e5524b2cad6536eb0911fc74f6ab4f60c50a",
+      "size": 27205,
+      "role": "Audio"
+    },
+    {
+      "fileName": "paper_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/paper_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/paper_03.ogg",
+      "sha256": "90147dde68b9e2082404f439165bbcb6f7c2364e88e9373d1cd1f7446a37f7b2",
+      "size": 29838,
+      "role": "Audio"
+    },
+    {
+      "fileName": "paper_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/paper_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/paper_04.ogg",
+      "sha256": "afae7236bce275fad555922cc8578882eb0c0b5d822be0a9180c9efdadf4a770",
+      "size": 32322,
+      "role": "Audio"
+    },
+    {
+      "fileName": "plop_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/plop_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/plop_01.ogg",
+      "sha256": "bd996051cd5de630329ba4b026d52e9452e34a54c40e87e3fbdede68c88ec185",
+      "size": 14327,
+      "role": "Audio"
+    },
+    {
+      "fileName": "plop_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/plop_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/plop_02.ogg",
+      "sha256": "b4cbe7e0c49ad1caf2dc02dc218897bdf9b5bce2e5d11b3b87861dd5269c1749",
+      "size": 17177,
+      "role": "Audio"
+    },
+    {
+      "fileName": "pot_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/pot_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/pot_01.ogg",
+      "sha256": "5ceca8a2a860e8c8c0e96f74714b4b4f66a562e76353fdbf62bc94868e797778",
+      "size": 16370,
+      "role": "Audio"
+    },
+    {
+      "fileName": "pot_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/pot_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/pot_02.ogg",
+      "sha256": "d91aaf0c5f98e8c5380a8c28085d1f77ecdfba0a7307879abd72faaebefa3e94",
+      "size": 27874,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/shot_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/shot_01.ogg",
+      "sha256": "f293bc079a1859ba3d7e7f200c6d4a555543010eb7f5a33f561b064621819014",
+      "size": 27125,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shot_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/shot_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/shot_02.ogg",
+      "sha256": "4ff784ce514c3067542316c0071acd7d7cbce305f32525ea9a4e43cb72df3eaf",
+      "size": 16520,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_01.ogg",
+      "sha256": "30aad7b563efd45dbd652247c1c45a809a4f0cac3f7ea13e68893104431c5dca",
+      "size": 24469,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_02.ogg",
+      "sha256": "a81f7be947b01821b9170df068f0dd4af63fb8ee695b4043cfaf1a31fcf5c929",
+      "size": 28190,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_03.ogg",
+      "sha256": "55ffcee85bae3555425a51b828891b6621fe1cbe792bf41e61f66a39b97345f0",
+      "size": 27735,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_04.ogg",
+      "sha256": "2bb8a5ddbe612ca930f449c05c60c0f80af023f497e9aef4af1ba5303fca30fd",
+      "size": 16551,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_05.ogg",
+      "sha256": "3b796f84c86ee1c2607841831345804f27f1af2537cd1fbefa37d568208e1a1d",
+      "size": 18245,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_06.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_06.ogg",
+      "sha256": "46852b9233249ea9c146f8f49780ab0cb585d6d509f56f4ab3ca46fd6f8648ed",
+      "size": 23331,
+      "role": "Audio"
+    },
+    {
+      "fileName": "slam_07.ogg",
+      "path": "packs/100-CC0-SFX/sounds/slam_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/slam_07.ogg",
+      "sha256": "8e263749ef16492768db136acf87ee533d2472a85dda5f8898316d48b6785a94",
+      "size": 30270,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/splash_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/splash_01.ogg",
+      "sha256": "8d48e8da680fbdfd3c885aa2f69d8e83ad16717bae43d178861d7af08d142849",
+      "size": 27767,
+      "role": "Audio"
+    },
+    {
+      "fileName": "splash_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/splash_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/splash_02.ogg",
+      "sha256": "e515b7da00b2a268263824dbea9b7bc0c2e972fbd189fe3c02576d2e29af3aa5",
+      "size": 29916,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_01.ogg",
+      "sha256": "d672b3d444685f29dab4229c2d09bb5f59e0f31e92ceac8773e24beddf506155",
+      "size": 51221,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_02.ogg",
+      "sha256": "024b00be17500bc7d272089f95e4ce615c1bde6c6680926f61ea44a1e425fe58",
+      "size": 68466,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_03.ogg",
+      "sha256": "f05277b7af3301cc9eb4d76ab3751235cd60b42205f0763f06036cd90bdbaadf",
+      "size": 26826,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_04.ogg",
+      "sha256": "48f679060be3538232d2d18d45c0b38285fffd07b8e21ebc6896d42aa9b53327",
+      "size": 26848,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_05.ogg",
+      "sha256": "9fd8a51395a7d95cb1f945318efc60ecf5f331448e931d8837b8ab661274da9a",
+      "size": 26386,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_06.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_06.ogg",
+      "sha256": "a881b4d439c591a9b7478ce0929325ac93add608f75e11ec9f1aa5934469ee01",
+      "size": 49467,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_07.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_07.ogg",
+      "sha256": "a53ae8b8aea0d6a08a04633b5c4cdb4d5dbde4933e42cc81e3408aa6db271ef3",
+      "size": 30243,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_08.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_08.ogg",
+      "sha256": "55d3a9b9de5921f8c541bd2825c37b29d964ebdef9b5bb56e8629278e8145041",
+      "size": 39074,
+      "role": "Audio"
+    },
+    {
+      "fileName": "spring_09.ogg",
+      "path": "packs/100-CC0-SFX/sounds/spring_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/spring_09.ogg",
+      "sha256": "495efc81b551f214acb47eaa7d6415e2ecc54287f46b1ab7c1015e8465fc9a5b",
+      "size": 30182,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/switch_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/switch_01.ogg",
+      "sha256": "a24004ad0adbc08571324456963533c496bd27cf4808b40cb90833dc06b95792",
+      "size": 12076,
+      "role": "Audio"
+    },
+    {
+      "fileName": "switch_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/switch_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/switch_02.ogg",
+      "sha256": "769dca6ccbea5c33cef602cdaa6ab0350b0dc2b093f02eae36f33e2552036f67",
+      "size": 22050,
+      "role": "Audio"
+    },
+    {
+      "fileName": "toilet_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/toilet_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/toilet_01.ogg",
+      "sha256": "502393b0cf4ef7be08eee5955d0c451e42f9b192b181fecd1f28ada0329c2257",
+      "size": 291328,
+      "role": "Audio"
+    },
+    {
+      "fileName": "toilet_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/toilet_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/toilet_02.ogg",
+      "sha256": "9e4a1824ac584bb65ba32406155d37861df7e11b95ef62493246dd2da17f8dbc",
+      "size": 168727,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/tools_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/tools_01.ogg",
+      "sha256": "99cdef7f37b80cdea78681f24fee792a95fad1bb0f2c2b88dc3ae8baf539b0da",
+      "size": 11411,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/tools_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/tools_02.ogg",
+      "sha256": "b8439c5881ea9a6d4f2d373a75d9e95b40b0b8c158a98f6c0fe69f5f3d0932c4",
+      "size": 11987,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/tools_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/tools_03.ogg",
+      "sha256": "dafbd9b2eab999f124fef4e7949cbab1e45660692798c6e5b451ea95f6b9a66d",
+      "size": 13617,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/tools_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/tools_04.ogg",
+      "sha256": "687bc635188854cdf0f82b73c611470992838fbd18ad238c8abdd742906b9a57",
+      "size": 12072,
+      "role": "Audio"
+    },
+    {
+      "fileName": "tools_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/tools_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/tools_05.ogg",
+      "sha256": "73d2db751d60c6dad1d4370a99075a9a614d2e1f0bf18279d9de54fd13c6e645",
+      "size": 23180,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/weird_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/weird_01.ogg",
+      "sha256": "30247e4ed2337e087dac92ee59fe39cb5a0f02dd882dd842f7540124f3836f4a",
+      "size": 13364,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/weird_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/weird_02.ogg",
+      "sha256": "4364f075610a6a71fbf2a2f44021b1f1fae8c01bd0e77a3a86ef58eb5211b32a",
+      "size": 39027,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/weird_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/weird_03.ogg",
+      "sha256": "c662c83ae3a61621517f4f300bbf3e992a8343019aa6168c5bda338c8fa341d9",
+      "size": 29079,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_04.ogg",
+      "path": "packs/100-CC0-SFX/sounds/weird_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/weird_04.ogg",
+      "sha256": "b9d68681fbf0a401c28ebe0c959ac778240643a9304349ad514d8df30f60ad95",
+      "size": 45215,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_05.ogg",
+      "path": "packs/100-CC0-SFX/sounds/weird_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/weird_05.ogg",
+      "sha256": "a807134034f960ff929203f2648508c66631410b9a44d6dbee2ae5e41403d0ec",
+      "size": 28702,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wooded_box_open.ogg",
+      "path": "packs/100-CC0-SFX/sounds/wooded_box_open.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/wooded_box_open.ogg",
+      "sha256": "f564d93620fa150f6a85f86f26c3dc61ca42b62c887bc833b3af3a564897796f",
+      "size": 20092,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wooden_01.ogg",
+      "path": "packs/100-CC0-SFX/sounds/wooden_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/wooden_01.ogg",
+      "sha256": "e7f7b1243ecd6ff3487eee1540de56f38fac606fe6218bdd49a91efc29ae1b9a",
+      "size": 9357,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wooden_02.ogg",
+      "path": "packs/100-CC0-SFX/sounds/wooden_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/wooden_02.ogg",
+      "sha256": "a6f6edf91a63c5af9059f70df0ac4e3fcee2c57342dc41dd3a166810365392fd",
+      "size": 19447,
+      "role": "Audio"
+    },
+    {
+      "fileName": "wooden_03.ogg",
+      "path": "packs/100-CC0-SFX/sounds/wooden_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/sounds/wooden_03.ogg",
+      "sha256": "864c68b8622eaf900f2b9932d2998cc9840dc95b61a148e37550ddb382c92777",
+      "size": 20716,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "bell_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/bell_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/bell_01.png",
+      "sha256": "f24f091851f8405d99a51323da356b20cf48b2ca2304798863fa2c20af8533a9",
+      "size": 2592,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bell 01"
+    },
+    {
+      "fileName": "bell_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/bell_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/bell_02.png",
+      "sha256": "f37c1df99dc87897dacc9fdd7f6b962095274bf58e73199b7c7115d53756f581",
+      "size": 1986,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bell 02"
+    },
+    {
+      "fileName": "bell_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/bell_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/bell_03.png",
+      "sha256": "7d0ddacdf3b1dac709ed4b5ad97498f8c41b9c73cafbca39356538507ccc8fcd",
+      "size": 2574,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bell 03"
+    },
+    {
+      "fileName": "dishes_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/dishes_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/dishes_01.png",
+      "sha256": "d862050fd43bfdbebf8d658fe9f16ee17b2684db14d5f671d1a1f7e55c1b9a1a",
+      "size": 3105,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dishes 01"
+    },
+    {
+      "fileName": "dishes_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/dishes_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/dishes_02.png",
+      "sha256": "c8adc32420404b02d02094b57935b41eb47fe0b522be83c6ef53aedae2db7141",
+      "size": 2860,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dishes 02"
+    },
+    {
+      "fileName": "dishes_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/dishes_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/dishes_03.png",
+      "sha256": "b6b76194f07019a4150b20dc915d6a9a4d7363d0a395af65cfc01e297247594f",
+      "size": 3567,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dishes 03"
+    },
+    {
+      "fileName": "dishes_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/dishes_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/dishes_04.png",
+      "sha256": "3075134c6c4dbe1fce38b6aa7686c17e5778d265b37dd26e576fbed9f35237a2",
+      "size": 2911,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dishes 04"
+    },
+    {
+      "fileName": "door_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_01.png",
+      "sha256": "d26c59c8c0faecca101a73f8591ab6e05d0fe14609b3cbc73a9391a988941318",
+      "size": 4475,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 01"
+    },
+    {
+      "fileName": "door_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_02.png",
+      "sha256": "e163adfffec9c6cc23b3c7235b90915b41cc183d97d0c807852d82500918fe1f",
+      "size": 4205,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door 02"
+    },
+    {
+      "fileName": "door_close_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_close_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_close_01.png",
+      "sha256": "472a58ee1beecd9de553bd3fc74c1f534b88b97d0441b793e027282ace23e0a5",
+      "size": 3065,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Close 01"
+    },
+    {
+      "fileName": "door_close_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_close_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_close_02.png",
+      "sha256": "42f466bcc20d753fb27a18f68145cbf07404766662506fd8fdc4ac0bddea0917",
+      "size": 2875,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Close 02"
+    },
+    {
+      "fileName": "door_close_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_close_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_close_03.png",
+      "sha256": "4a2844d077729f7fbc26bf3afc1cc78310ce56c8a6c769af1217d7fd3b0e6f4e",
+      "size": 3458,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Close 03"
+    },
+    {
+      "fileName": "door_close_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_close_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_close_04.png",
+      "sha256": "f1e5bce0964c98c7200192f29c713bf060af19927e9b0c214444d20d74dd1652",
+      "size": 2519,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Close 04"
+    },
+    {
+      "fileName": "door_open.png",
+      "path": "packs/100-CC0-SFX/thumbnails/door_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/door_open.png",
+      "sha256": "6db9c37af7e6ee1616e8ea1591314a83963ad43ef85b80ad8125f353d4cf69e1",
+      "size": 2835,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Door Open"
+    },
+    {
+      "fileName": "explosion.png",
+      "path": "packs/100-CC0-SFX/thumbnails/explosion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/explosion.png",
+      "sha256": "cf6c65c834488b8c51ef489cf1075d3f00c924cd26e721b1cbf533e53ef37002",
+      "size": 2234,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Explosion"
+    },
+    {
+      "fileName": "glass_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/glass_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/glass_01.png",
+      "sha256": "10ef8327aef16bcc8fe3f8e435a291955f5d7aa4a33634cb3c974f6e3284b534",
+      "size": 3162,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 01"
+    },
+    {
+      "fileName": "glass_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/glass_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/glass_02.png",
+      "sha256": "fa1c36bb8564171933175f7ec9438c0d49dd8ddc8451b6e9be61b4cc57ea8a2f",
+      "size": 3102,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 02"
+    },
+    {
+      "fileName": "glass_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/glass_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/glass_03.png",
+      "sha256": "f863135f5e746100ee048be01e2b7520d17bb152589bb7aca1ebb80fdbdf5755",
+      "size": 2814,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 03"
+    },
+    {
+      "fileName": "glass_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/glass_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/glass_04.png",
+      "sha256": "b0f4d7cdce4a988fa3596ecef8bc75b88e96f91516ab41b37a3683a992974c8b",
+      "size": 2060,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 04"
+    },
+    {
+      "fileName": "glass_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/glass_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/glass_05.png",
+      "sha256": "f0b93507bd910af066954563ec8ebb2ab7ecf67738e39b2b5d3b6277c587e5b1",
+      "size": 1735,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Glass 05"
+    },
+    {
+      "fileName": "gong_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/gong_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/gong_01.png",
+      "sha256": "2b610dd8c769c8c80ca5792885b84641166b199016a3dfb4d97f66338974b128",
+      "size": 3466,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Gong 01"
+    },
+    {
+      "fileName": "gong_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/gong_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/gong_02.png",
+      "sha256": "6d46f4bae160241efc002375aa38de4e06e975789315fe69f94237cb09314495",
+      "size": 3027,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Gong 02"
+    },
+    {
+      "fileName": "hit_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/hit_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/hit_01.png",
+      "sha256": "2ecff7995ccde3a46f38deec437578925321b7d4c547d2528ccdea8561243f4b",
+      "size": 2890,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 01"
+    },
+    {
+      "fileName": "hit_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/hit_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/hit_02.png",
+      "sha256": "aad327404f66d6c73f692c9d3bdb3bea489f3ba9aac6f6551e9106fa9e6a84f9",
+      "size": 2172,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 02"
+    },
+    {
+      "fileName": "hit_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/hit_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/hit_03.png",
+      "sha256": "c731438a07aaddcfbaa9f26be30e09fb5b70b3c5956424c9aa53de2e8ee72f20",
+      "size": 2772,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 03"
+    },
+    {
+      "fileName": "hit_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/hit_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/hit_04.png",
+      "sha256": "bd0036d61b5cc2214713d8338de28cd083031cdfdc41fa5d5d919eddf1c78963",
+      "size": 2860,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hit 04"
+    },
+    {
+      "fileName": "key_open_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/key_open_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/key_open_01.png",
+      "sha256": "6c191d599f883b79816a47b889b185e284a8ac523611af02d21d6ba6dc412fef",
+      "size": 3112,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Key Open 01"
+    },
+    {
+      "fileName": "key_open_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/key_open_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/key_open_02.png",
+      "sha256": "8f558ae2d6c36bef8007f436f401d83bd3c0e4be85ce373ec501f605e078883c",
+      "size": 2490,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Key Open 02"
+    },
+    {
+      "fileName": "machine_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/machine_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/machine_01.png",
+      "sha256": "15fab5e1e5b7068b0ce988b3614a6d7546187699fbc95e1105f6d90a8ddc2495",
+      "size": 4972,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 01"
+    },
+    {
+      "fileName": "machine_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/machine_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/machine_02.png",
+      "sha256": "f094855c3998781cb4cf3d2f8fcddd7f6ff0cb600b044e32522b719e92163cd4",
+      "size": 5044,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 02"
+    },
+    {
+      "fileName": "machine_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/machine_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/machine_03.png",
+      "sha256": "cdd9b854560db045e7500d5c7b3ddff9de94df6f3149395b2ccda6fbbaf60fbe",
+      "size": 5071,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 03"
+    },
+    {
+      "fileName": "metal_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_01.png",
+      "sha256": "32e4f88779b06e0159926f7b3e9a2ef0fb689ca304ec6e545851c9a46aee1003",
+      "size": 2573,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 01"
+    },
+    {
+      "fileName": "metal_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_02.png",
+      "sha256": "d744c61104f28306bc5f76bdfe35f8ad003f1df7d3eee7f171ae2a8a50dc236c",
+      "size": 3151,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 02"
+    },
+    {
+      "fileName": "metal_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_03.png",
+      "sha256": "d5673586cb4629cd2263b996ae69e642a8bade2cd89b11a95ada5256d9e88b93",
+      "size": 3008,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 03"
+    },
+    {
+      "fileName": "metal_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_04.png",
+      "sha256": "73924eb4f5e0b5d2efe7f1d3fa6552d7328b2887b58ec37f7d2d889c9450a574",
+      "size": 2244,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 04"
+    },
+    {
+      "fileName": "metal_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_05.png",
+      "sha256": "7d86d49403a172dc90e91456091e5b3e4585ce26762bb6d226861808b098b3a5",
+      "size": 2886,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 05"
+    },
+    {
+      "fileName": "metal_06.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_06.png",
+      "sha256": "add956e249cdfb0ec3347d3048f1b2857a96de12da8a5bc31059ccc648e872cf",
+      "size": 2467,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 06"
+    },
+    {
+      "fileName": "metal_07.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_07.png",
+      "sha256": "f69de2d4bc5001ac5257dcffa557344f997e814167fd5d1fe200469d4e3fb016",
+      "size": 2792,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 07"
+    },
+    {
+      "fileName": "metal_08.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_08.png",
+      "sha256": "9294df4df7623fec65a3d7b3cf030a59b9db38e94148a701a8a2c0fbdd50390d",
+      "size": 3375,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 08"
+    },
+    {
+      "fileName": "metal_09.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_09.png",
+      "sha256": "3b0d1acc1fc3dee5c31fc46b374b1c59ca8388ed6ea5503e24e00588212a6176",
+      "size": 2995,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 09"
+    },
+    {
+      "fileName": "metal_10.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_10.png",
+      "sha256": "8ebce2d8996eabfd4def1f1346489a2ce27903257274a4f35e730f2b51991605",
+      "size": 2793,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 10"
+    },
+    {
+      "fileName": "metal_11.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_11.png",
+      "sha256": "b7fdd058e97e4959e029e8f897cf657e2de89d9b9d2105baa76941df5c07b2b8",
+      "size": 2237,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 11"
+    },
+    {
+      "fileName": "metal_12.png",
+      "path": "packs/100-CC0-SFX/thumbnails/metal_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/metal_12.png",
+      "sha256": "b48d83dfb9f8d4afaf7ead22e459f2f3640f757139f438727f2e725debc3811a",
+      "size": 3084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal 12"
+    },
+    {
+      "fileName": "microwave_door_close.png",
+      "path": "packs/100-CC0-SFX/thumbnails/microwave_door_close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/microwave_door_close.png",
+      "sha256": "3dc6fe421fc70faeaf15339dda498ab20575441e4fe8359805faa9d0cd157c8d",
+      "size": 2648,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Microwave Door Close"
+    },
+    {
+      "fileName": "microwave_door_open.png",
+      "path": "packs/100-CC0-SFX/thumbnails/microwave_door_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/microwave_door_open.png",
+      "sha256": "9a64ff77b727edadf44c14f20345280fc4efa3d2cd99b6688c4343d5065a6324",
+      "size": 3370,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Microwave Door Open"
+    },
+    {
+      "fileName": "noise_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/noise_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/noise_01.png",
+      "sha256": "5dfa425bc1a621cd15875f912e52d7dc40ee37c641e4552d2e95b661379feb98",
+      "size": 3459,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise 01"
+    },
+    {
+      "fileName": "noise_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/noise_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/noise_02.png",
+      "sha256": "3e13b23058acfe52e9d6c0b433fc3fc2dff4f1a7da71bcb0a76c9cb9e6c5ef3d",
+      "size": 3996,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise 02"
+    },
+    {
+      "fileName": "other_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_01.png",
+      "sha256": "0d21d1aeed6a88448df771a586dd500c7eb1061c884dbc9149d6084cc949df3b",
+      "size": 2625,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 01"
+    },
+    {
+      "fileName": "other_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_02.png",
+      "sha256": "64ba19edcd1f3140b61aa87e00f6e601e904df5a2123c23a498782b68513d89d",
+      "size": 3439,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 02"
+    },
+    {
+      "fileName": "other_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_03.png",
+      "sha256": "2f0e9b784851f3b91142c39c4fe2e33c45d5c45bda2081e4b41b52ed8d679284",
+      "size": 2449,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 03"
+    },
+    {
+      "fileName": "other_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_04.png",
+      "sha256": "d56d29e425bd45cd271f977f0a19f3bd00cdbf61e79b8c58e99c7531ac701b09",
+      "size": 3932,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 04"
+    },
+    {
+      "fileName": "other_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_05.png",
+      "sha256": "eff77bb54e783b145b4a50bb0d4b954b3c936d73ee0dad1a4431c19aac61a7ec",
+      "size": 2728,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 05"
+    },
+    {
+      "fileName": "other_06.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_06.png",
+      "sha256": "308a72d2abb82df5dcfcf24b959eb49c59a7c0541a0c1cf1b1688427471aca58",
+      "size": 2938,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 06"
+    },
+    {
+      "fileName": "other_07.png",
+      "path": "packs/100-CC0-SFX/thumbnails/other_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/other_07.png",
+      "sha256": "14ebd4379f3d5f2cfd38d62b41a400b45ba081a530fcb04a65d6503b86842552",
+      "size": 3111,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Other 07"
+    },
+    {
+      "fileName": "paper_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/paper_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/paper_01.png",
+      "sha256": "58fee6105cb286f0e2ae235a3018326485aad3cbd2d7f429c4b40022ff20624d",
+      "size": 3974,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper 01"
+    },
+    {
+      "fileName": "paper_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/paper_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/paper_02.png",
+      "sha256": "a12271ad6aa4c6fe05503aefbf4e11ae994aa1dfb598e6334ddabef7a2bdf0aa",
+      "size": 4268,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper 02"
+    },
+    {
+      "fileName": "paper_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/paper_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/paper_03.png",
+      "sha256": "76d081c042964b3f35866ca1f78af7fb11e75b42d15f5711dc6bfc4cdd1826bc",
+      "size": 4365,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper 03"
+    },
+    {
+      "fileName": "paper_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/paper_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/paper_04.png",
+      "sha256": "f5c142e428e5a2ed05a43b6abca5a9b0d0ba984fb09530b037be1d21fe34ef7b",
+      "size": 3878,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Paper 04"
+    },
+    {
+      "fileName": "plop_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/plop_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/plop_01.png",
+      "sha256": "d9810687e5b501f23d247ceda74871e73f97e3652ef0ed018d19ebefdde9a435",
+      "size": 1599,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop 01"
+    },
+    {
+      "fileName": "plop_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/plop_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/plop_02.png",
+      "sha256": "a58a0a7a0c191e65c31b6e22b8cbf58bc2a7a9d6aafdda0330cd0c5579192b60",
+      "size": 2112,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plop 02"
+    },
+    {
+      "fileName": "pot_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/pot_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/pot_01.png",
+      "sha256": "632dc411c1e26e8e6bfbe1b91d4a7da041bb992869f761f6a6e4263ff4544cc8",
+      "size": 2704,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pot 01"
+    },
+    {
+      "fileName": "pot_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/pot_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/pot_02.png",
+      "sha256": "8b1eaceb974ff71ce7baf9d7ac78fc7fc19a71cabfd0a2a7007087b15f71b96d",
+      "size": 3136,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pot 02"
+    },
+    {
+      "fileName": "shot_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/shot_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/shot_01.png",
+      "sha256": "381db70cc028dce8628ae811187df493082bdf1ff16b414e26fff910a2858e0f",
+      "size": 1944,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 01"
+    },
+    {
+      "fileName": "shot_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/shot_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/shot_02.png",
+      "sha256": "bb5e43d9dde305b6f52c1cd76d7ca229e947add395be38bc34a1aea5d082cc8f",
+      "size": 2330,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shot 02"
+    },
+    {
+      "fileName": "slam_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_01.png",
+      "sha256": "96a2608d5ac5e1f0aeb913e716b47b1c7b85d1f476fb9863e0d2a74429c6d302",
+      "size": 3376,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 01"
+    },
+    {
+      "fileName": "slam_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_02.png",
+      "sha256": "576146caa27771fff4a28b1202474cebdb32565f66ae62b831e1e909b4b7dcaa",
+      "size": 2905,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 02"
+    },
+    {
+      "fileName": "slam_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_03.png",
+      "sha256": "6d4af0595b210985d4c733dad565429416a1ccc9c990f4221c26f8a9a56d7437",
+      "size": 3858,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 03"
+    },
+    {
+      "fileName": "slam_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_04.png",
+      "sha256": "3d811db9d59a675eb1d1f2ca8357ea0185e2129301d2cb1224d9a2fdb2cc9b3c",
+      "size": 3381,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 04"
+    },
+    {
+      "fileName": "slam_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_05.png",
+      "sha256": "0fd36445c405c047786f56f2589c246d8c800b9e27ce5ae4f3688f62af2e0e8a",
+      "size": 3209,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 05"
+    },
+    {
+      "fileName": "slam_06.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_06.png",
+      "sha256": "0d9a936cdcfbf353a5224ed57df829eb144374af60b79fab3610b85c91424b51",
+      "size": 4017,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 06"
+    },
+    {
+      "fileName": "slam_07.png",
+      "path": "packs/100-CC0-SFX/thumbnails/slam_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/slam_07.png",
+      "sha256": "8ea3a8ca3cc1c656b93d76db79cbad5272bdacc85ca5874eb9fd4f9343f1291f",
+      "size": 2904,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Slam 07"
+    },
+    {
+      "fileName": "splash_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/splash_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/splash_01.png",
+      "sha256": "5345a46116337ca0133fbb750a2332380bca7f77ddfe14454ca59203de279c25",
+      "size": 3420,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 01"
+    },
+    {
+      "fileName": "splash_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/splash_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/splash_02.png",
+      "sha256": "6eb6c30f214ffd9c8c2646d911e58fb2a26c61c27e1bff32862d419538e4cab2",
+      "size": 3671,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Splash 02"
+    },
+    {
+      "fileName": "spring_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_01.png",
+      "sha256": "0448c1d708dc6a545dfcf74aad27d5ad45aa7d621e4411c6d505e1c45612aeee",
+      "size": 2713,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 01"
+    },
+    {
+      "fileName": "spring_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_02.png",
+      "sha256": "98a7fb5fd2d98833065c571e9dd1246630e4a3851ec0ccddf38cbe041cc9fa47",
+      "size": 2926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 02"
+    },
+    {
+      "fileName": "spring_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_03.png",
+      "sha256": "34be35a90df5d859e3e2eb5fd202148fdc9b12aef833d8db8f4fc1615e977e40",
+      "size": 3519,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 03"
+    },
+    {
+      "fileName": "spring_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_04.png",
+      "sha256": "b0cd781c67fcd1eb790f3cc00564fb85d4a5e2f68328c69494faa47cab29d50e",
+      "size": 2672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 04"
+    },
+    {
+      "fileName": "spring_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_05.png",
+      "sha256": "ac2a8e121a823c1057bec0e6733bdd80aceb85ffe4bf2028d171f4c230298e35",
+      "size": 3738,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 05"
+    },
+    {
+      "fileName": "spring_06.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_06.png",
+      "sha256": "0808b83b94a597413713182183cbac0e57bceb6763ebfa3f22fe3b93d20ea752",
+      "size": 2609,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 06"
+    },
+    {
+      "fileName": "spring_07.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_07.png",
+      "sha256": "71bb9352ec2e115700dce2c38d6b0738a1a3620befcb553789e597b70e4b8931",
+      "size": 3787,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 07"
+    },
+    {
+      "fileName": "spring_08.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_08.png",
+      "sha256": "c35bb0c9afef7412c1674862ac618e68eb052654f840cb6cb86d2276f2521b52",
+      "size": 2899,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 08"
+    },
+    {
+      "fileName": "spring_09.png",
+      "path": "packs/100-CC0-SFX/thumbnails/spring_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/spring_09.png",
+      "sha256": "b60fafe0ab2214920ec8d575413f0956b62aca350b14ee95a88c542875424950",
+      "size": 3445,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring 09"
+    },
+    {
+      "fileName": "switch_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/switch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/switch_01.png",
+      "sha256": "ec55c90a78b68fac047da69866f72e4765dc5c05c0a398c5de8b32383550c94f",
+      "size": 1898,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch 01"
+    },
+    {
+      "fileName": "switch_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/switch_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/switch_02.png",
+      "sha256": "088312e2b738e77eaca80606fc7f0d7f0c83bcd41bdb82f3e5c1bd0a51caade5",
+      "size": 1788,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Switch 02"
+    },
+    {
+      "fileName": "toilet_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/toilet_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/toilet_01.png",
+      "sha256": "34ca4f70b66dc2c91e53b83f7d81e73b38ad1bdf799805235c2c155f3fde75ca",
+      "size": 3620,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Toilet 01"
+    },
+    {
+      "fileName": "toilet_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/toilet_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/toilet_02.png",
+      "sha256": "b8352f2bda7801a149b826f8708e09a4646dd9af3ab1600da090f5d9d2ee96f9",
+      "size": 3812,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Toilet 02"
+    },
+    {
+      "fileName": "tools_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/tools_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/tools_01.png",
+      "sha256": "cbf51e57329f46bc5a4000e1a08f8b68e0989bc8cd06b4e86b15b719707c1b52",
+      "size": 3976,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 01"
+    },
+    {
+      "fileName": "tools_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/tools_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/tools_02.png",
+      "sha256": "79322c9964479bb14161d8fe9cac007506c6331bece067cb58ddf6307289c218",
+      "size": 3144,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 02"
+    },
+    {
+      "fileName": "tools_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/tools_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/tools_03.png",
+      "sha256": "d3271c325d03f122d9f513d01d3b8f59482761d89ab21c16fce21be6c81cccb2",
+      "size": 3302,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 03"
+    },
+    {
+      "fileName": "tools_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/tools_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/tools_04.png",
+      "sha256": "f33021183d98a29035a21ee1693491891f38a6f7a5eb90a984fed1f90e258838",
+      "size": 3774,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 04"
+    },
+    {
+      "fileName": "tools_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/tools_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/tools_05.png",
+      "sha256": "19dc5ad8c4b6feaa601545dcc7a04c097c2bd2a54a722fb8cc520201324d9b98",
+      "size": 3801,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Tools 05"
+    },
+    {
+      "fileName": "weird_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/weird_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/weird_01.png",
+      "sha256": "bf69cae79aaa7704ce5a9fbb9291b1afc5c2acb82a70213c3e3ce454dd015d0e",
+      "size": 3016,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 01"
+    },
+    {
+      "fileName": "weird_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/weird_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/weird_02.png",
+      "sha256": "980f934899e822c1e6804bec64170fd13e69ca92f19adf3ff91f880b1a3fd4c6",
+      "size": 4659,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 02"
+    },
+    {
+      "fileName": "weird_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/weird_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/weird_03.png",
+      "sha256": "42aa2c3a0f330fccf72ab2673e4f985686127f9921db23fa810fcb756c983b98",
+      "size": 3481,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 03"
+    },
+    {
+      "fileName": "weird_04.png",
+      "path": "packs/100-CC0-SFX/thumbnails/weird_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/weird_04.png",
+      "sha256": "7885cbd0b65cab45cc62097a853355d06e477525abcb2442e75f027ca4a3e2a8",
+      "size": 1948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 04"
+    },
+    {
+      "fileName": "weird_05.png",
+      "path": "packs/100-CC0-SFX/thumbnails/weird_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/weird_05.png",
+      "sha256": "fb3e3493c77364db145036e7ab43bad973733808e1692165c3f71aac0ecdd455",
+      "size": 2757,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 05"
+    },
+    {
+      "fileName": "wooded_box_open.png",
+      "path": "packs/100-CC0-SFX/thumbnails/wooded_box_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/wooded_box_open.png",
+      "sha256": "d5e2c41477745223166484bda26388771eb6998d2b74a9ea698c93064580d9c3",
+      "size": 3221,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wooded Box Open"
+    },
+    {
+      "fileName": "wooden_01.png",
+      "path": "packs/100-CC0-SFX/thumbnails/wooden_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/wooden_01.png",
+      "sha256": "7007aeaa264c3c867e59c69e51c4245a90302c7cb6c702ccbe84911807baf00a",
+      "size": 3334,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wooden 01"
+    },
+    {
+      "fileName": "wooden_02.png",
+      "path": "packs/100-CC0-SFX/thumbnails/wooden_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/wooden_02.png",
+      "sha256": "47321ce7191193b209fd5de41d47da9f32a3cb79f963e7795f99a132ade10ae0",
+      "size": 3204,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wooden 02"
+    },
+    {
+      "fileName": "wooden_03.png",
+      "path": "packs/100-CC0-SFX/thumbnails/wooden_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/100-CC0-SFX/thumbnails/wooden_03.png",
+      "sha256": "faa7c4002c27f861179f2569ad5dfa7d329bdb6ca280c85736eb3a871f620576",
+      "size": 2780,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Wooden 03"
+    }
+  ]
+}

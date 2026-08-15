@@ -1,0 +1,118 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "H.A.S.T.E. Ambient Tracks",
+  "creator": "Maximiliano Ruben Viamonte (Stradex)",
+  "website": "https://stradex.itch.io/haste-cc0-asets",
+  "description": "Two ambient tracks and a theme from the discontinued game H.A.S.T.E., released CC0 by its author.",
+  "folder": "packs/Maximiliano-Stradex-Ambient",
+  "itemCount": 3,
+  "items": [
+    {
+      "name": "Ambient 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Maximiliano-Stradex-Ambient/sounds/Ambient_1.mp3",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Ambient 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Maximiliano-Stradex-Ambient/sounds/Ambient_2.mp3",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "Theme 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/Maximiliano-Stradex-Ambient/sounds/Theme_1.mp3",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Ambient_1.mp3",
+      "path": "packs/Maximiliano-Stradex-Ambient/sounds/Ambient_1.mp3",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/sounds/Ambient_1.mp3",
+      "sha256": "1eec8b80bcf87b905f7afcca031330161bfc7e59ea2e1d8bc58aef1b185f5ded",
+      "size": 4751296,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ambient_2.mp3",
+      "path": "packs/Maximiliano-Stradex-Ambient/sounds/Ambient_2.mp3",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/sounds/Ambient_2.mp3",
+      "sha256": "105c97933d69b6ab80f9a80a66c8ab96b925e08de8950fbde9bd6a9481fc46be",
+      "size": 3875395,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Theme_1.mp3",
+      "path": "packs/Maximiliano-Stradex-Ambient/sounds/Theme_1.mp3",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/sounds/Theme_1.mp3",
+      "sha256": "e5240267578737d6629ec2a313c721d43039e9ee2c4d1c843134eabeee1dba05",
+      "size": 3754848,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/Maximiliano-Stradex-Ambient/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/cover.png",
+      "sha256": "4447355f60ac14a938a71edceea317a2f5dab5ecd6b9cd07e37ce7b24145d8b5",
+      "size": 214505,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "Ambient_1.png",
+      "path": "packs/Maximiliano-Stradex-Ambient/thumbnails/Ambient_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/thumbnails/Ambient_1.png",
+      "sha256": "a1f26bd89873e5c6f20342c74f04f75068074217d8158572bd97acd49cd2cf10",
+      "size": 5015,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient 1"
+    },
+    {
+      "fileName": "Ambient_2.png",
+      "path": "packs/Maximiliano-Stradex-Ambient/thumbnails/Ambient_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/thumbnails/Ambient_2.png",
+      "sha256": "6ad316f225dfba1e8899320bd43aa8a842c2f0e10fcccb7de4540ac404a2be2f",
+      "size": 4527,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient 2"
+    },
+    {
+      "fileName": "Theme_1.png",
+      "path": "packs/Maximiliano-Stradex-Ambient/thumbnails/Theme_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/Maximiliano-Stradex-Ambient/thumbnails/Theme_1.png",
+      "sha256": "d1043d8454318e313d14eb7492f5e7c3cfde5d292085422a6edc73acfcceba53",
+      "size": 4826,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Theme 1"
+    }
+  ]
+}

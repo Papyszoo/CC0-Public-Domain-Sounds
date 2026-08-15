@@ -1,0 +1,739 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Novice Cello (Nov 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Novice cello notes, bows and scrapes, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Novice Cello (Nov 2021)",
+  "itemCount": 24,
+  "items": [
+    {
+      "name": "A3 Pluck 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Pluck 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "A3 Pluck 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Pluck 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "A3 Sforzando 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sforzando 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "A3 Sforzando 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sforzando 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "A3 Sustain 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sustain 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "A3 Sustain 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sustain 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Pluck 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Pluck 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Pluck 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Pluck 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Sforzando 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sforzando 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Sforzando 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sforzando 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Sustain 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sustain 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "C2 Sustain 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sustain 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Pluck 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Pluck 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Pluck 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Pluck 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Sforzando 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sforzando 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Sforzando 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sforzando 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Sustain 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sustain 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "D3 Sustain 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sustain 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Pluck 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Pluck 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Pluck 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Pluck 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Sforzando 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sforzando 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Sforzando 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sforzando 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Sustain 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sustain 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    },
+    {
+      "name": "G2 Sustain 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sustain 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Music\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "A3 - Pluck 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Pluck 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Pluck%201.wav",
+      "sha256": "3894d5db80d0a6bb3ccffaef31d3f010740aabcb07dd2ff773b7c07878e843ce",
+      "size": 1054052,
+      "role": "Audio"
+    },
+    {
+      "fileName": "A3 - Pluck 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Pluck 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Pluck%202.wav",
+      "sha256": "7c7625ec6e982c454c3288f56522d97c99b9168475d5b4766d70b782d33e17a5",
+      "size": 1172780,
+      "role": "Audio"
+    },
+    {
+      "fileName": "A3 - Sforzando 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sforzando 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Sforzando%201.wav",
+      "sha256": "bb4047d4d29f1f9051859eac1c49365c982c671a4786605b249bd94c5f3e1deb",
+      "size": 394624,
+      "role": "Audio"
+    },
+    {
+      "fileName": "A3 - Sforzando 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sforzando 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Sforzando%202.wav",
+      "sha256": "10ea8a830effae497ae53d54b9eb7d9bf76a930955d7dd9909023fb80821b93d",
+      "size": 457344,
+      "role": "Audio"
+    },
+    {
+      "fileName": "A3 - Sustain 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sustain 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Sustain%201.wav",
+      "sha256": "daf59221c4e0315df77524b1c0d7ca4b74c3104019d86416c2a0625fa746bef0",
+      "size": 2968296,
+      "role": "Audio"
+    },
+    {
+      "fileName": "A3 - Sustain 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/A3 - Sustain 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/A3%20-%20Sustain%202.wav",
+      "sha256": "b38b4a918e26ec3f4f2cf1f5269422e4e3b36c285af355023d33de1c7ecab3c4",
+      "size": 2271404,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Pluck 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Pluck 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Pluck%201.wav",
+      "sha256": "751f837480c8da1ec52730d20c75f9ebf58afdae3ba6634e8a7368ad271247ac",
+      "size": 569868,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Pluck 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Pluck 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Pluck%202.wav",
+      "sha256": "d440188bc5d21bc71d533df5e2e4a948678926a8dac7bfc60085ae6491b995d4",
+      "size": 500800,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Sforzando 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sforzando 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Sforzando%201.wav",
+      "sha256": "9262b69c9412c7e2c0d25a90680d83d59740fb1797a9cdadc43b66f65975116e",
+      "size": 921216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Sforzando 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sforzando 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Sforzando%202.wav",
+      "sha256": "e02c3bb714bfe860b0a0079bf547b1e1ce56645199ca1248959dc68652ca1786",
+      "size": 953724,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Sustain 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sustain 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Sustain%201.wav",
+      "sha256": "d87101e8c01dc277877a764b7d4630fb8d84c288a8c9bbae57d47302cca8ce76",
+      "size": 4205328,
+      "role": "Audio"
+    },
+    {
+      "fileName": "C2 - Sustain 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/C2 - Sustain 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/C2%20-%20Sustain%202.wav",
+      "sha256": "2d06892434bbe43a45f135cee30f4e7bb02e3ac26088241013d4dc3f73680ce9",
+      "size": 3963216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Pluck 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Pluck 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Pluck%201.wav",
+      "sha256": "86c901147954315072a2defe18ebed9eda508280793383748a60519958b89a38",
+      "size": 856512,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Pluck 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Pluck 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Pluck%202.wav",
+      "sha256": "2611c28ff875368e1d755957e285df8bf98500616af50e075dbfda98f0edf4e0",
+      "size": 754636,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Sforzando 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sforzando 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Sforzando%201.wav",
+      "sha256": "99bf87d1e3ade514defb26034b9b1fa6990fd9e4e5767ab253f19ef1370c3622",
+      "size": 521708,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Sforzando 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sforzando 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Sforzando%202.wav",
+      "sha256": "a65096220a973bbf9476805653c212ea0f8d4b87ab150b08bc57bdb50ed38649",
+      "size": 721152,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Sustain 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sustain 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Sustain%201.wav",
+      "sha256": "eb690dcd159b2476c6bb3ffd68c578e04af710ed7ea79dacc71643a06f3fbae3",
+      "size": 2935624,
+      "role": "Audio"
+    },
+    {
+      "fileName": "D3 - Sustain 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/D3 - Sustain 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/D3%20-%20Sustain%202.wav",
+      "sha256": "89c7c3dfc70fd48e51d10f4a899e9a7fd1ee9ea258dd0118108c0ee42dfce908",
+      "size": 2617100,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Pluck 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Pluck 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Pluck%201.wav",
+      "sha256": "5508ce9ee6e21e63d9c377eae90a6402afbb2af9e30130d9ea09a80fa21058fe",
+      "size": 1092856,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Pluck 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Pluck 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Pluck%202.wav",
+      "sha256": "f558276cc8e5ceee0069c20d76d77292468cc34750f695b18a0fc7034c1b988d",
+      "size": 1237804,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Sforzando 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sforzando 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Sforzando%201.wav",
+      "sha256": "5eee07e573e154844892eccdcd3ea13a041d0b2be6c22f1f5629398e41eb2517",
+      "size": 761216,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Sforzando 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sforzando 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Sforzando%202.wav",
+      "sha256": "aa318c4e03755990cd2a9338ca4687ba3bb0bb4d8747b3ea2b1abeca9e7ee166",
+      "size": 945728,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Sustain 1.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sustain 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Sustain%201.wav",
+      "sha256": "375f8e63342d0ac19c1694df44a73f1fd9203605d1848c296cba71b29d7289fb",
+      "size": 3583944,
+      "role": "Audio"
+    },
+    {
+      "fileName": "G2 - Sustain 2.wav",
+      "path": "packs/bb - Novice Cello (Nov 2021)/sounds/G2 - Sustain 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/sounds/G2%20-%20Sustain%202.wav",
+      "sha256": "2c7a088fcf11adc7e632e963155c12c3c55d6d5ffd1d34a8077350f0aee96a1f",
+      "size": 2966748,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "A3 - Pluck 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Pluck 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Pluck%201.png",
+      "sha256": "b89c6ba54e8b26873661a0548dd7e38557698b75593d9c6ce332f9076856270a",
+      "size": 3334,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Pluck 1"
+    },
+    {
+      "fileName": "A3 - Pluck 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Pluck 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Pluck%202.png",
+      "sha256": "262c49004b22b47dcb6e17f334e412e239b47be94810875521bd9e6f9d0de07a",
+      "size": 3634,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Pluck 2"
+    },
+    {
+      "fileName": "A3 - Sforzando 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Sforzando 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Sforzando%201.png",
+      "sha256": "071c581a113fe5afb9c183fa4d41ee7594fa151ef2264ec1d9c35127b4649a6b",
+      "size": 2587,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Sforzando 1"
+    },
+    {
+      "fileName": "A3 - Sforzando 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Sforzando 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Sforzando%202.png",
+      "sha256": "323c5b53071dd6657f7e674493d448705ab948cac3b637d56dbc6ec7f3ab5503",
+      "size": 2844,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Sforzando 2"
+    },
+    {
+      "fileName": "A3 - Sustain 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Sustain 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Sustain%201.png",
+      "sha256": "8fcbfd7758afce17064b978033e5202b267ec188d76ac65f66f510d1b919a218",
+      "size": 3814,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Sustain 1"
+    },
+    {
+      "fileName": "A3 - Sustain 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/A3 - Sustain 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/A3%20-%20Sustain%202.png",
+      "sha256": "2b9da196665bc75a6e2d51c3803b9e70ec5d08b1c0ee3bba7edcedf6c30a41ed",
+      "size": 4048,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "A3 Sustain 2"
+    },
+    {
+      "fileName": "C2 - Pluck 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Pluck 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Pluck%201.png",
+      "sha256": "174d077e0e4266f245e4dbaed1d870e681e467e121634f53ad6ba00c6f9b17b5",
+      "size": 3335,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Pluck 1"
+    },
+    {
+      "fileName": "C2 - Pluck 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Pluck 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Pluck%202.png",
+      "sha256": "3fd46b851004dcf47429818dacaa3fe5491b8b001774aa768a344405086778a7",
+      "size": 3439,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Pluck 2"
+    },
+    {
+      "fileName": "C2 - Sforzando 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Sforzando 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Sforzando%201.png",
+      "sha256": "4b30195143fbf74f26abb5c53c697f009825ba33f5961a1a1222ad6c06a7141f",
+      "size": 2636,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Sforzando 1"
+    },
+    {
+      "fileName": "C2 - Sforzando 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Sforzando 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Sforzando%202.png",
+      "sha256": "0575f5e88eb4d4116000f2fe39ad5318cfa8dd768aaee27526ef9aed2cb5dd35",
+      "size": 2846,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Sforzando 2"
+    },
+    {
+      "fileName": "C2 - Sustain 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Sustain 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Sustain%201.png",
+      "sha256": "d2cb6469ac82321f44217cad722d4d6059d3497ecacb1ed7c5eb231a6f794415",
+      "size": 3970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Sustain 1"
+    },
+    {
+      "fileName": "C2 - Sustain 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/C2 - Sustain 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/C2%20-%20Sustain%202.png",
+      "sha256": "f8d4f79b6f3b8d6bee677f904a2ba1e0ca5468fb8da660a6f13c0cca85d7fa87",
+      "size": 4229,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "C2 Sustain 2"
+    },
+    {
+      "fileName": "D3 - Pluck 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Pluck 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Pluck%201.png",
+      "sha256": "180ad6cd3832062f4628b966e7ffbdd09c22fcc0f72c4fff2277b46d87de5aeb",
+      "size": 3582,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Pluck 1"
+    },
+    {
+      "fileName": "D3 - Pluck 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Pluck 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Pluck%202.png",
+      "sha256": "2981642c8332303205d2ff6f3f6cd09ede28bbb01d8b639175438d41f59fa810",
+      "size": 2972,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Pluck 2"
+    },
+    {
+      "fileName": "D3 - Sforzando 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Sforzando 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Sforzando%201.png",
+      "sha256": "4b90ed7bdbbe39a70066d7c6050630a52ae4eeb42ddc9996a1ce6a3dd2db9ffd",
+      "size": 3027,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Sforzando 1"
+    },
+    {
+      "fileName": "D3 - Sforzando 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Sforzando 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Sforzando%202.png",
+      "sha256": "31555c38663414a0d0117a218c2b2d57cdd8eb79e2be28de5386aa20bf86b3c5",
+      "size": 2776,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Sforzando 2"
+    },
+    {
+      "fileName": "D3 - Sustain 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Sustain 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Sustain%201.png",
+      "sha256": "a96e544ba581d03b90d65544560438e9254ad811024e3b360b13419c5b2d732e",
+      "size": 4049,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Sustain 1"
+    },
+    {
+      "fileName": "D3 - Sustain 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/D3 - Sustain 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/D3%20-%20Sustain%202.png",
+      "sha256": "65bd56d43541c628b0a88b8dc54e66635b4b6e09b9402c7f89bfb88fbd602f9a",
+      "size": 4207,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "D3 Sustain 2"
+    },
+    {
+      "fileName": "G2 - Pluck 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Pluck 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Pluck%201.png",
+      "sha256": "99c5a18abb8d2008d0ae7afdb2ba6e7bc8feec2bb234d865b36ebdfd21e4a8d9",
+      "size": 3162,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Pluck 1"
+    },
+    {
+      "fileName": "G2 - Pluck 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Pluck 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Pluck%202.png",
+      "sha256": "dde1a7dd540cc3501b3696521c4778fa894679a2c2bb791230ebf838508caa7c",
+      "size": 3064,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Pluck 2"
+    },
+    {
+      "fileName": "G2 - Sforzando 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Sforzando 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Sforzando%201.png",
+      "sha256": "222cd9a9d81937c8805d24da5111f2e6e5d32d3a519f6a9c73e202b25bb25971",
+      "size": 3038,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Sforzando 1"
+    },
+    {
+      "fileName": "G2 - Sforzando 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Sforzando 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Sforzando%202.png",
+      "sha256": "7c46202704a98b99208154a3fad64ee092753c7f130d46efbf94b5668598ee8f",
+      "size": 2979,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Sforzando 2"
+    },
+    {
+      "fileName": "G2 - Sustain 1.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Sustain 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Sustain%201.png",
+      "sha256": "9bd86c32262f4c79dabf85041ec0d14e8b646435aefd851e08ebf296ac51579d",
+      "size": 4074,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Sustain 1"
+    },
+    {
+      "fileName": "G2 - Sustain 2.png",
+      "path": "packs/bb - Novice Cello (Nov 2021)/thumbnails/G2 - Sustain 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Novice%20Cello%20%28Nov%202021%29/thumbnails/G2%20-%20Sustain%202.png",
+      "sha256": "5d4318bb64b2723d03c7ffeb76c8ab8f7a2754a907d36e09e45e157a350cbc95",
+      "size": 3869,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "G2 Sustain 2"
+    }
+  ]
+}

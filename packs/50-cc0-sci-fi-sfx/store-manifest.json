@@ -1,0 +1,1519 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "50 CC0 Sci-Fi SFX",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/50-cc0-sci-fi-sfx",
+  "description": "50 sci-fi effects: beeps, explosions, loops, lasers, rockets, shooting, teleport and terminal sounds. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/50-cc0-sci-fi-sfx",
+  "itemCount": 50,
+  "items": [
+    {
+      "name": "Beep 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Beep 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Beep 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Explosion 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/explosion_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Explosion 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/explosion_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Loop Ambient 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Ambient Weird",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_weird.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Loop Machine 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Misc 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Misc 12",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_12.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Beep 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Retro Explosion",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_explosion.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Laser 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_laser_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Retro Laser 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_laser_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Rocket 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/rocket_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Shoot 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/shoot_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Shoot 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/shoot_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Weapons & Combat\"}"
+    },
+    {
+      "name": "Teleport 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/teleport_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Teleport 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/teleport_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Magic\"}"
+    },
+    {
+      "name": "Terminal 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Terminal 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Weird 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Weird 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Weird 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Weird 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Weird 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "beep_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/beep_01.ogg",
+      "sha256": "6d82719549fc522a25d572a14bc4f204e39b78f28a6ca8cfc3e0fc95c4a1b738",
+      "size": 9764,
+      "role": "Audio"
+    },
+    {
+      "fileName": "beep_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/beep_02.ogg",
+      "sha256": "fa895f4e6569d7bc30c78b54d7f366395b031b7affc012daa7962737f4c4ec37",
+      "size": 14033,
+      "role": "Audio"
+    },
+    {
+      "fileName": "beep_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/beep_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/beep_03.ogg",
+      "sha256": "61f8eca45a0ea759a89798e8551b31cf33f101e84907095748ab42501295e94b",
+      "size": 13460,
+      "role": "Audio"
+    },
+    {
+      "fileName": "explosion_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/explosion_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/explosion_01.ogg",
+      "sha256": "2ba5012301d0086d61aed17b6e71debea075fd79040b93947e37e3a93689a093",
+      "size": 71619,
+      "role": "Audio"
+    },
+    {
+      "fileName": "explosion_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/explosion_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/explosion_02.ogg",
+      "sha256": "1a696afbab70b8c54f3d9d31c52a4d7f600557fb5b616771f3ebc871eacd1319",
+      "size": 62212,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_ambient_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_01.ogg",
+      "sha256": "eb9a8f8bc77975b19345e027881e5d05897132ff3d7b055bab3c7e2ce71951fe",
+      "size": 306143,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_ambient_weird.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_weird.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/loop_ambient_weird.ogg",
+      "sha256": "f26b9615f16de697203b5a518d84829cdbb4344281b78d8e5459775eb1ff9a4d",
+      "size": 159685,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_machine_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/loop_machine_01.ogg",
+      "sha256": "a3b1024dff22a85deae07df9dad3691f10f430a646e8569c6da6840e1a380acf",
+      "size": 145313,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_machine_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/loop_machine_02.ogg",
+      "sha256": "22807185e74eaf3c443b8ea57b9b26ae3f58d685958d2c5c384f44648da7a989",
+      "size": 156224,
+      "role": "Audio"
+    },
+    {
+      "fileName": "loop_machine_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/loop_machine_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/loop_machine_03.ogg",
+      "sha256": "3cb1e22d488c7bc8293db49e42f43f01c984c651b87702d36f4443fa7027fce1",
+      "size": 260214,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_01.ogg",
+      "sha256": "4785313be39755cc5e1feb095b2852bc35ae8add161ed2ada145451765a31572",
+      "size": 15782,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_02.ogg",
+      "sha256": "0cf108b910a2007af552af578ab3ec992dafa11cfaabf8ce7852cb3e5997cea4",
+      "size": 20718,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_03.ogg",
+      "sha256": "25dab78168e29561ee48839a414336a5741eccc13af0c2fb351691ec1411e798",
+      "size": 81069,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_04.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_04.ogg",
+      "sha256": "1f5a7b50d52afe4c9cc9ced881504b5b4a6017887aad079ab6b9a461553432ce",
+      "size": 40483,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_05.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_05.ogg",
+      "sha256": "446d45b68483e9e1ce0bcc695b21f715ea93208b51fefc2a4b3ddbf4c724a44f",
+      "size": 16585,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_06.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_06.ogg",
+      "sha256": "f8cf3dae594bded6be24000f769e6a1a0d9f43e93c158c44cc612e4b335e862f",
+      "size": 28739,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_07.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_07.ogg",
+      "sha256": "ea583b85948f451c5e0677d252016fbfd80a8a3f48421ff217c406792a76bf44",
+      "size": 15826,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_08.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_08.ogg",
+      "sha256": "ead905d88263a0a5ee2d452aa753d1e011b1588790dbb12c79b1e2bac8a8900e",
+      "size": 32544,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_09.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_09.ogg",
+      "sha256": "887b01a49c6c0dc3f082db6ea59ea53720016aafc2d131a5bcc09bbdea07c31c",
+      "size": 77574,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_10.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_10.ogg",
+      "sha256": "f0ecef24399c5ec765b38ced00b7386d833355f79189772f179154094137bb6e",
+      "size": 49145,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_11.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_11.ogg",
+      "sha256": "aad38eca6c66264157272f6d6fdb32688fa3f8e756e6a8d2904aaaefa10f09aa",
+      "size": 35637,
+      "role": "Audio"
+    },
+    {
+      "fileName": "misc_12.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/misc_12.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/misc_12.ogg",
+      "sha256": "a79fc5b9545d2d993b39f1c5c1cb8bbd4294ea5fe2206a117ba302aa70ea4f93",
+      "size": 45111,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_01.ogg",
+      "sha256": "0360f15b6f9bbb63978bfd6fffccc809eae61e5553e553f6df8be42828a71cec",
+      "size": 16643,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_02.ogg",
+      "sha256": "4dfd093ae7130893d797f108a149c887b0664d86cd2f40829308d1a09578ff97",
+      "size": 16729,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_03.ogg",
+      "sha256": "e21bf1bb18b4170d5ffa7c8bf1357f5bda393d081591f2af55b0de4b0cc51d92",
+      "size": 16160,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_04.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_04.ogg",
+      "sha256": "b0cd6dded53d54e3dd80c73410dbdc7ffb022f98adeee75a6cd1eedac180df08",
+      "size": 33745,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_05.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_05.ogg",
+      "sha256": "9ef50fa2ccf413d332517774e8614cffe04aec21dcac7381664ecc707abf4712",
+      "size": 31135,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_beep_06.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_beep_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_beep_06.ogg",
+      "sha256": "f103c1d10f669ad4722ff648bb64197dd519b03b99972c7f475c7b7d28cd9e30",
+      "size": 31842,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_explosion.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_explosion.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_explosion.ogg",
+      "sha256": "2217da9c65702fb71b96113ed0c658ad388c32534c9756f403012f79126fa9c4",
+      "size": 38106,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_laser_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_laser_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_laser_01.ogg",
+      "sha256": "c52da63f1049bfc101e6ad167787c36c9d8a2767c38ff4f0269a083bf6526b59",
+      "size": 21630,
+      "role": "Audio"
+    },
+    {
+      "fileName": "retro_laser_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/retro_laser_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/retro_laser_02.ogg",
+      "sha256": "064fd0c9b05a766f22e06e2a1479622166aad492e4f52c0b712a1d99c4e9fabc",
+      "size": 62269,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rocket_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/rocket_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/rocket_01.ogg",
+      "sha256": "9b1935d00fdbb7b1797b1d10347d26830d5707fef705c84d9cf919628e06f5a9",
+      "size": 48206,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shoot_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/shoot_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/shoot_01.ogg",
+      "sha256": "f876dbfad8eabafd913e4cd9c174a2deff342f383a772ee34140b9a1994d26f4",
+      "size": 13204,
+      "role": "Audio"
+    },
+    {
+      "fileName": "shoot_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/shoot_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/shoot_02.ogg",
+      "sha256": "8062c456a8319620918847c16703d8ddd882f688a646ff1a35db48bd172c847e",
+      "size": 12085,
+      "role": "Audio"
+    },
+    {
+      "fileName": "teleport_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/teleport_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/teleport_01.ogg",
+      "sha256": "88d1d00c7d9180c6afd273cf19ee047ad072c112a5e4df17e2b55c0e5c767706",
+      "size": 14670,
+      "role": "Audio"
+    },
+    {
+      "fileName": "teleport_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/teleport_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/teleport_02.ogg",
+      "sha256": "1776e7df75bad4b5eacae95b9f7075a0a789fbd08f1954e7651c90ac17203e4b",
+      "size": 86348,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_01.ogg",
+      "sha256": "cde6464d6dc78ea0a96cd06e2d2777e98f202b30a82c3f5295dfee11a284446e",
+      "size": 12708,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_02.ogg",
+      "sha256": "a670c982772dc3bbd8b0c3c1a876713fb488e412b556e571852c3f741e37bc92",
+      "size": 20380,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_03.ogg",
+      "sha256": "1cea881d608ba4068ec85bd492be54bab1d181070449a75f21a58b43eb01fb38",
+      "size": 20652,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_04.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_04.ogg",
+      "sha256": "194e720a4e7004c5acbd0915b00ff9b1965e215eef40984a6fbb1d7d3735131e",
+      "size": 13201,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_05.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_05.ogg",
+      "sha256": "624ff1f7d3a0bac1338ce13249506decf9e6c35aa0a3d73ca01d5494fd0823a5",
+      "size": 18937,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_06.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_06.ogg",
+      "sha256": "702180244bb8fd6500c39d1b5b38c574ba23f8a62b98287dcacc627bf5567bc5",
+      "size": 14775,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_07.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_07.ogg",
+      "sha256": "6b4a6f4d9de0c74f7671cf0ec2c54bf138385db3aacb3062a34f4901779feb3e",
+      "size": 15119,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_08.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_08.ogg",
+      "sha256": "536a347174f538fc6d79013c0905963aca0fdb1f35d6609a7e2a432b4b9a57f5",
+      "size": 14694,
+      "role": "Audio"
+    },
+    {
+      "fileName": "terminal_09.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/terminal_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/terminal_09.ogg",
+      "sha256": "b5080d8ce8399d83391a9129e4e593e38abcdd7522008f776c4a94bd39006270",
+      "size": 14731,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_01.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/weird_01.ogg",
+      "sha256": "2c02bf4863f70d071987df76c9d18ac1f579316cdceb584d8685da2d03e177ba",
+      "size": 29502,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_02.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/weird_02.ogg",
+      "sha256": "0cf476f79bd84a76b2285061b99ca079294d5fb37ab32499f94d090898155ba7",
+      "size": 54646,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_03.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/weird_03.ogg",
+      "sha256": "8cc68d308425f29e5ac3f540965ce8afbf6878faedb801f6195675c196379845",
+      "size": 52365,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_04.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/weird_04.ogg",
+      "sha256": "316222472bd3e10bd52bdb3766f5e8cc3195b1f11624bef8342013e7d3ed2b46",
+      "size": 100469,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_05.ogg",
+      "path": "packs/50-cc0-sci-fi-sfx/sounds/weird_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/sounds/weird_05.ogg",
+      "sha256": "9fd87683fc694a1ce9c8bd043b08237fcecc838c62c457f6aa1368daafe2fb37",
+      "size": 25858,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "beep_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/beep_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/beep_01.png",
+      "sha256": "2cf7775b64e68eb5727a54189346f0b3a32585ec1fe018ca53ad61c0b78bbae5",
+      "size": 2578,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Beep 01"
+    },
+    {
+      "fileName": "beep_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/beep_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/beep_02.png",
+      "sha256": "7bec1837ae9a7222f3fa37d4ccd81a47763cb3fe6541e3fb3916e08f2adee50a",
+      "size": 2842,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Beep 02"
+    },
+    {
+      "fileName": "beep_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/beep_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/beep_03.png",
+      "sha256": "a4e8c313223d9c22abf1ef04a4bebd33e34b884fc2fe88d11fb4a5faa2bd38a5",
+      "size": 3133,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Beep 03"
+    },
+    {
+      "fileName": "explosion_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/explosion_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/explosion_01.png",
+      "sha256": "56c75dcb49717fea7de61c7cbac432d9feb0d55c58d20070b11ce770e92c348b",
+      "size": 2329,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Explosion 01"
+    },
+    {
+      "fileName": "explosion_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/explosion_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/explosion_02.png",
+      "sha256": "19338179f82fb7d9e7f6b6faa7eba91c6e3b117f07b6ab607ec9a0f9c6b4069f",
+      "size": 2647,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Explosion 02"
+    },
+    {
+      "fileName": "loop_ambient_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/loop_ambient_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/loop_ambient_01.png",
+      "sha256": "789c19c6b6d8ea5f231d171e2f43c552f612c7a9b64d4608b88b3848201251ea",
+      "size": 4717,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient 01"
+    },
+    {
+      "fileName": "loop_ambient_weird.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/loop_ambient_weird.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/loop_ambient_weird.png",
+      "sha256": "4ac3beed3c12bbc0c022b08fa1e7aaea7e436e3dd4ddb4762bf09e51dc278058",
+      "size": 4881,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Ambient Weird"
+    },
+    {
+      "fileName": "loop_machine_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_01.png",
+      "sha256": "fc265e3c5857d65681c95b82657a05d462f2e0410e6d6f517b47e0005cba5adf",
+      "size": 4818,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 01"
+    },
+    {
+      "fileName": "loop_machine_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_02.png",
+      "sha256": "c525343ef4c368e920b70ede11f00d80f2a0b07bce78a56ce4c11c71784d3598",
+      "size": 5095,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 02"
+    },
+    {
+      "fileName": "loop_machine_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/loop_machine_03.png",
+      "sha256": "0e90ea73c475105ef9e80e0981dddeb2dbad24740a3c5fee97b32c50a36b29f7",
+      "size": 4603,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Loop Machine 03"
+    },
+    {
+      "fileName": "misc_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_01.png",
+      "sha256": "ed4c8cff322619a5344bb56ca5f50db18ef43cb77b8f8c5532511e74583433f7",
+      "size": 3337,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 01"
+    },
+    {
+      "fileName": "misc_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_02.png",
+      "sha256": "f4a3298adcc9daf59ea49cd52ccbbc82b7af8922bb9282fbdfb648c62df0fd41",
+      "size": 3236,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 02"
+    },
+    {
+      "fileName": "misc_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_03.png",
+      "sha256": "a0600da700c51978873d3d2529d4a2ac7663c2122dcb1a3920e77887d4a9c47a",
+      "size": 2978,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 03"
+    },
+    {
+      "fileName": "misc_04.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_04.png",
+      "sha256": "c049aae2d775eb6dbf46685e9843873f7651c886ee04f5e73c10cb607357b7c9",
+      "size": 3190,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 04"
+    },
+    {
+      "fileName": "misc_05.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_05.png",
+      "sha256": "44485eae9cd68ee8aeff0a9d94519d38d897da6c427a1d63675d05fdc0f54c26",
+      "size": 1840,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 05"
+    },
+    {
+      "fileName": "misc_06.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_06.png",
+      "sha256": "e3f2830272f039a08f0f0e9293369f20e23671ff6c45601b1acf0f8480d776f4",
+      "size": 3292,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 06"
+    },
+    {
+      "fileName": "misc_07.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_07.png",
+      "sha256": "004f9852b5a171ff0b7f5b0404e3bb43cc83d0af022313893910e22432edb1bf",
+      "size": 1680,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 07"
+    },
+    {
+      "fileName": "misc_08.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_08.png",
+      "sha256": "f8587b68e7c3c3fdc0ad74ce72f151029e243800dea8e8f18aa50062ab51e72a",
+      "size": 3470,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 08"
+    },
+    {
+      "fileName": "misc_09.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_09.png",
+      "sha256": "6ad37b090b317ab7fc57dcea9543a6787a12b4b3f87d568cfbc5ce1088386cd1",
+      "size": 3108,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 09"
+    },
+    {
+      "fileName": "misc_10.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_10.png",
+      "sha256": "af5467cf43ba71d1a26c0993193ab7a97e8b1c47580a1ddd2057e15c5286eb6d",
+      "size": 3729,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 10"
+    },
+    {
+      "fileName": "misc_11.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_11.png",
+      "sha256": "d9fffcf6899dc4b05450f4b1bdfcd0c3073797462c3fa4347f459374de391a3e",
+      "size": 3926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 11"
+    },
+    {
+      "fileName": "misc_12.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/misc_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/misc_12.png",
+      "sha256": "5e7fddca1beb7fed4fe249d2dc919ce777c4f8c7b400277ee5d33f3cf6f1c3de",
+      "size": 4335,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Misc 12"
+    },
+    {
+      "fileName": "retro_beep_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_01.png",
+      "sha256": "f8f1e0d4c3dc1cfff376fa7384de367a676af4d1a53fa8707491bca7462c2f32",
+      "size": 2338,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 01"
+    },
+    {
+      "fileName": "retro_beep_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_02.png",
+      "sha256": "a22e405a6aa0d64d4adc62f45426a8e80002e60488276fdc33c7f8bbdd053974",
+      "size": 3026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 02"
+    },
+    {
+      "fileName": "retro_beep_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_03.png",
+      "sha256": "e5d65ac211d5796198adbf1cb98537a791734553b86a41a76bcb59083cffc624",
+      "size": 2763,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 03"
+    },
+    {
+      "fileName": "retro_beep_04.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_04.png",
+      "sha256": "3eaffd1f4710d4f572081c9e0986e391c8e9f118eee88cd189d7cf68b1657fb1",
+      "size": 3613,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 04"
+    },
+    {
+      "fileName": "retro_beep_05.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_05.png",
+      "sha256": "5f109f4f83d12769dd17807fb542ea8af8ec65b6314b4cfd38eccd316297d1ca",
+      "size": 3529,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 05"
+    },
+    {
+      "fileName": "retro_beep_06.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_beep_06.png",
+      "sha256": "c55c5fdfb3da7ab0be742c71edbfc576d640b6fb99a1da973734525d0a0cef47",
+      "size": 3501,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Beep 06"
+    },
+    {
+      "fileName": "retro_explosion.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_explosion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_explosion.png",
+      "sha256": "a485d73a3b67092f1bf0db658c62165a8fdd1e8b28a105f2beef8ad84cd1f05e",
+      "size": 3681,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Explosion"
+    },
+    {
+      "fileName": "retro_laser_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_laser_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_laser_01.png",
+      "sha256": "561d39d823b7ecfb4cd84286ecbd0ffe09c25efa73f223cf8d22fd93715cbd7b",
+      "size": 2338,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Laser 01"
+    },
+    {
+      "fileName": "retro_laser_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/retro_laser_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/retro_laser_02.png",
+      "sha256": "9b51ef1cf73eb577043fbb8fc6ae45457b7d70df90a8e061250e8a3de2223f88",
+      "size": 3710,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Retro Laser 02"
+    },
+    {
+      "fileName": "rocket_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/rocket_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/rocket_01.png",
+      "sha256": "a37afe3c8b0d6f0f4be4cbef004c4335795d52cf1a759d9d8b41d5e168251f12",
+      "size": 3948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rocket 01"
+    },
+    {
+      "fileName": "shoot_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/shoot_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/shoot_01.png",
+      "sha256": "dd191dcc8c5238c026ef847c447cb416e46db1e56c36a1736f15c669e489c8b3",
+      "size": 2254,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shoot 01"
+    },
+    {
+      "fileName": "shoot_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/shoot_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/shoot_02.png",
+      "sha256": "d91c04c956cceaae33c0fecd704e756b78763cab034d67b27bac1e76754e11df",
+      "size": 4519,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Shoot 02"
+    },
+    {
+      "fileName": "teleport_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/teleport_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/teleport_01.png",
+      "sha256": "4c4bd9de1202f1e17a2e524dd03de2478f5f2f2d288a6433bf803e89b95e01bf",
+      "size": 2748,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Teleport 01"
+    },
+    {
+      "fileName": "teleport_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/teleport_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/teleport_02.png",
+      "sha256": "50bd4de45421420c543734446b489d5db5fbe4b2c365b8e7cd5f513b0e19bbe0",
+      "size": 3174,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Teleport 02"
+    },
+    {
+      "fileName": "terminal_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_01.png",
+      "sha256": "be2a00993647ab98e80797d4b3cefc5a2058c2d4f7c83f3ce204aeb5ebf5a662",
+      "size": 2143,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 01"
+    },
+    {
+      "fileName": "terminal_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_02.png",
+      "sha256": "8e1ef6985bca3548565bb6e585fa91f62d4803abf47db26d7707e981f42002b1",
+      "size": 3026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 02"
+    },
+    {
+      "fileName": "terminal_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_03.png",
+      "sha256": "301329199ec5da71fd688969588597ad9e21cdd4cde92b7413cae18377c83e07",
+      "size": 3811,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 03"
+    },
+    {
+      "fileName": "terminal_04.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_04.png",
+      "sha256": "1ef26c8fb3640503732994f9fb3186fff804906b9db34091089a5505d03cb48e",
+      "size": 3170,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 04"
+    },
+    {
+      "fileName": "terminal_05.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_05.png",
+      "sha256": "6adb324052235cf79a6bc30a563f2ec32a0cae5facac9ff2ed7fb30766bca7a1",
+      "size": 2568,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 05"
+    },
+    {
+      "fileName": "terminal_06.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_06.png",
+      "sha256": "aa772a89a4d083495820e5aafc3130c4ee7f0832cad42aedb26f7bf80bb399d2",
+      "size": 2507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 06"
+    },
+    {
+      "fileName": "terminal_07.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_07.png",
+      "sha256": "c7bb49e8570fe7ced8d0e41eb0fca65512286da53b306685209018f639218370",
+      "size": 3546,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 07"
+    },
+    {
+      "fileName": "terminal_08.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_08.png",
+      "sha256": "3b86a36e3743abac89bd90142ea34294de0ce5907232834f3a5d002125a900e5",
+      "size": 3408,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 08"
+    },
+    {
+      "fileName": "terminal_09.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/terminal_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/terminal_09.png",
+      "sha256": "7c2cb7016a0b42bcee9dd4366432afb6fb948fb270b7f95a2db0077827f3d565",
+      "size": 3175,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Terminal 09"
+    },
+    {
+      "fileName": "weird_01.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/weird_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/weird_01.png",
+      "sha256": "bd9d79844d1f260efb07dc405f3a6f66b53c96c5c5f1e0e0717316f27ae3e2cc",
+      "size": 3024,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 01"
+    },
+    {
+      "fileName": "weird_02.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/weird_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/weird_02.png",
+      "sha256": "b710372fb35e7161713b7b0d415ddb132868e89577323d0a912f09cf5c4f8999",
+      "size": 2851,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 02"
+    },
+    {
+      "fileName": "weird_03.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/weird_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/weird_03.png",
+      "sha256": "cf75aae3f6380219209896cd1404901ab939d7d6a308e8c0ad4b565a495cd127",
+      "size": 3447,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 03"
+    },
+    {
+      "fileName": "weird_04.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/weird_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/weird_04.png",
+      "sha256": "2b84d45d710282dc906528e9a3b663093fe5c4d99eae3b868f74740e5c26ed91",
+      "size": 3657,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 04"
+    },
+    {
+      "fileName": "weird_05.png",
+      "path": "packs/50-cc0-sci-fi-sfx/thumbnails/weird_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/50-cc0-sci-fi-sfx/thumbnails/weird_05.png",
+      "sha256": "fcbc788c819bf4ede9ccab7d15a4e6029f8d7b14cf67d677941949256d1b1cfa",
+      "size": 3009,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 05"
+    }
+  ]
+}

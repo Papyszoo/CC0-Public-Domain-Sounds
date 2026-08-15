@@ -1,0 +1,379 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Fans and Drones (Jul 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Fan hum and drone ambience, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Fans and Drones (Jul 2021)",
+  "itemCount": 12,
+  "items": [
+    {
+      "name": "Air Vent",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Air Vent.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Bathroom Fan",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Bathroom Fan.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Computer Fan",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Computer Fan.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Dehumidifier",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Dehumidifier.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Furnace Fan",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Furnace Fan.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Large Fan",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Large Fan.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Microwave",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Microwave.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Outdoor AC Unit",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Outdoor AC Unit.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Outside",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Outside.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Refridgerator",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Refridgerator.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Sink And Faucet",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Sink and Faucet.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Small Fan",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Small Fan.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Air Vent.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Air Vent.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Air%20Vent.wav",
+      "sha256": "4a0bf4324f9b86d54167c1d2f644f8f1644b89fd5a06b8f4c34320e338fe668d",
+      "size": 9885316,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Bathroom Fan.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Bathroom Fan.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Bathroom%20Fan.wav",
+      "sha256": "6779e68603dcba64bd2083a021e172f9d563ac28d5b6a3b24762a3eef2233d87",
+      "size": 11450860,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Computer Fan.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Computer Fan.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Computer%20Fan.wav",
+      "sha256": "daaac7239a75f029e8b3a9c880762e5ce8ef81e2fb03df48435e8593da6e98ae",
+      "size": 10253772,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Dehumidifier.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Dehumidifier.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Dehumidifier.wav",
+      "sha256": "4e01a05f5e867e8570c91ea27c66a19a07ddd2d0ed22392a7973bbc30c6de03a",
+      "size": 11898156,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Furnace Fan.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Furnace Fan.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Furnace%20Fan.wav",
+      "sha256": "59267a7b0f3b4763838d9e4891932639c550d85ad39faaecacebba4cad134386",
+      "size": 10423248,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Large Fan.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Large Fan.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Large%20Fan.wav",
+      "sha256": "b1554aecf0cd5ac2eb78fb28a989f4b26ed35162cb247e660903797671c8ab32",
+      "size": 11854124,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Microwave.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Microwave.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Microwave.wav",
+      "sha256": "7167e375f46fc7b6e00e40c4595cbaa045ec190fae9d3728c44fba00d6e9d475",
+      "size": 9480076,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Outdoor AC Unit.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Outdoor AC Unit.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Outdoor%20AC%20Unit.wav",
+      "sha256": "55113a3743baa74636e5ae4c3f364d283ab47bb12b492c096c1b133e1d576468",
+      "size": 9941200,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Outside.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Outside.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Outside.wav",
+      "sha256": "8e4d825bd5d3b4f516ed9aa37063f332318b6bd795cf3b0db771b7d8bce2f483",
+      "size": 9371108,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Refridgerator.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Refridgerator.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Refridgerator.wav",
+      "sha256": "5b94a45694c90c16086b750e8255e521edbf279c658d5a03afca2b1cb5a17db3",
+      "size": 11543356,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Sink and Faucet.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Sink and Faucet.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Sink%20and%20Faucet.wav",
+      "sha256": "665483007a59336e747db1e39b3b5e92399789a990b6222511a0391beff08ccd",
+      "size": 10762232,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Small Fan.wav",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/sounds/Small Fan.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/sounds/Small%20Fan.wav",
+      "sha256": "e20bff88c8948ca13784af53e6128af51e906eb06485fce5c8bae22b58fe3cc9",
+      "size": 7617100,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Air Vent.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Air Vent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Air%20Vent.png",
+      "sha256": "1f43fccba4c77bd9f430f5a1c5ef5de6782b5322e52abf2ce38a37acde8bf483",
+      "size": 4742,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air Vent"
+    },
+    {
+      "fileName": "Bathroom Fan.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Bathroom Fan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Bathroom%20Fan.png",
+      "sha256": "ee0948e05da63abab5d1931b15efc780aa7fc6cca00a7c926730cef62be4a8b0",
+      "size": 4401,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Bathroom Fan"
+    },
+    {
+      "fileName": "Computer Fan.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Computer Fan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Computer%20Fan.png",
+      "sha256": "810bec6abac344e3e18e356a1a42e3b11f566e3bf348db05a2db324367f3215d",
+      "size": 4051,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Computer Fan"
+    },
+    {
+      "fileName": "Dehumidifier.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Dehumidifier.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Dehumidifier.png",
+      "sha256": "4685698718a0ca4faec313fa773c6701df70e0654d2831602fd655cf9a2e3205",
+      "size": 4114,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Dehumidifier"
+    },
+    {
+      "fileName": "Furnace Fan.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Furnace Fan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Furnace%20Fan.png",
+      "sha256": "8817cd684aeee88a4dfcc0e5b8dc2c3d9df5f989f348a815b601cc1fd1ab64c6",
+      "size": 4618,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Furnace Fan"
+    },
+    {
+      "fileName": "Large Fan.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Large Fan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Large%20Fan.png",
+      "sha256": "e369edf06e57d8e9e4613e8614b760e93cbe8102dd66b6e6b02203fde4cdff9d",
+      "size": 4578,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Large Fan"
+    },
+    {
+      "fileName": "Microwave.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Microwave.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Microwave.png",
+      "sha256": "7ffaa89adc9971623f62f5f500778a235330ab166d907c61a975fef6c20bfda2",
+      "size": 4295,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Microwave"
+    },
+    {
+      "fileName": "Outdoor AC Unit.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Outdoor AC Unit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Outdoor%20AC%20Unit.png",
+      "sha256": "432b6c98ae22dad1008daa85a0701a07d7ca0d34ca13cabb918fa7b57d955981",
+      "size": 3840,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Outdoor AC Unit"
+    },
+    {
+      "fileName": "Outside.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Outside.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Outside.png",
+      "sha256": "a3032de781b19119268f781ebf7024e929bc99e92af93318002832be37c39e48",
+      "size": 3952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Outside"
+    },
+    {
+      "fileName": "Refridgerator.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Refridgerator.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Refridgerator.png",
+      "sha256": "ae7282ab262221a81ce65b201176670fe1399753d32d13e0083f9f833cfca071",
+      "size": 4370,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Refridgerator"
+    },
+    {
+      "fileName": "Sink and Faucet.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Sink and Faucet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Sink%20and%20Faucet.png",
+      "sha256": "fcf9cb5f8c6db2c478936a5ea049f75f6565e0c3ddbd5a8f7ebc45f0e3fe9114",
+      "size": 4331,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sink And Faucet"
+    },
+    {
+      "fileName": "Small Fan.png",
+      "path": "packs/bb - Fans and Drones (Jul 2021)/thumbnails/Small Fan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Fans%20and%20Drones%20%28Jul%202021%29/thumbnails/Small%20Fan.png",
+      "sha256": "fb030d2d426fee9bea9f754299118a84705cb1dc3098214a843876cdc51e3938",
+      "size": 4276,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Small Fan"
+    }
+  ]
+}

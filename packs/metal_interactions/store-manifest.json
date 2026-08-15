@@ -1,0 +1,169 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Metal Interactions",
+  "creator": "qubodup",
+  "website": "https://opengameart.org/content/metal-interactions",
+  "description": "Heavy metal interaction sounds — swings, button presses and clanks. CC0, by qubodup (OpenGameArt).",
+  "folder": "packs/metal_interactions",
+  "itemCount": 5,
+  "items": [
+    {
+      "name": "Metal Button Press1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/metal_interactions/sounds/metal_button_press1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Button Press2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/metal_interactions/sounds/metal_button_press2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Interaction1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/metal_interactions/sounds/metal_interaction1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Interaction2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/metal_interactions/sounds/metal_interaction2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    },
+    {
+      "name": "Metal Swing1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/metal_interactions/sounds/metal_swing1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Impacts & Hits\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "metal_button_press1.wav",
+      "path": "packs/metal_interactions/sounds/metal_button_press1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/sounds/metal_button_press1.wav",
+      "sha256": "9cea1c55978a30a2c676a216c1715646c775b869c4677288fecb5d0f1c2b1cc5",
+      "size": 62154,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_button_press2.wav",
+      "path": "packs/metal_interactions/sounds/metal_button_press2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/sounds/metal_button_press2.wav",
+      "sha256": "7f38488f0cbdf022627b2b57fd05aeb99d68eecf64e2af749ba9257b67ec3a81",
+      "size": 69684,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_interaction1.wav",
+      "path": "packs/metal_interactions/sounds/metal_interaction1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/sounds/metal_interaction1.wav",
+      "sha256": "3a377d30dc270d63e4663261e86ab24fcd178138f561455fae026ab2314fa46f",
+      "size": 51018,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_interaction2.wav",
+      "path": "packs/metal_interactions/sounds/metal_interaction2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/sounds/metal_interaction2.wav",
+      "sha256": "f133cafa39a058f8741b53c66b15af505c0c67344e05af4ef9ed4a28f0b9688f",
+      "size": 44128,
+      "role": "Audio"
+    },
+    {
+      "fileName": "metal_swing1.wav",
+      "path": "packs/metal_interactions/sounds/metal_swing1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/sounds/metal_swing1.wav",
+      "sha256": "abc0c5545d8a65d14b47a9a51d313957d7fcd684fa49a3192aa64b43b2d9914d",
+      "size": 77248,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "metal_button_press1.png",
+      "path": "packs/metal_interactions/thumbnails/metal_button_press1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/thumbnails/metal_button_press1.png",
+      "sha256": "1016ba1ee17c75bf9650e1696fec39188dc2855a2f34a124ee02d5fc70b5a74d",
+      "size": 2352,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Button Press1"
+    },
+    {
+      "fileName": "metal_button_press2.png",
+      "path": "packs/metal_interactions/thumbnails/metal_button_press2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/thumbnails/metal_button_press2.png",
+      "sha256": "18831256d0d6d70c98933080c16acd6eea8a0c2340edf8a8093bc611cb6a47e5",
+      "size": 2449,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Button Press2"
+    },
+    {
+      "fileName": "metal_interaction1.png",
+      "path": "packs/metal_interactions/thumbnails/metal_interaction1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/thumbnails/metal_interaction1.png",
+      "sha256": "2c1eaac429e78b70bf69af4715df29a490a95a9e6cbe882312e92f7f1926d900",
+      "size": 3543,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Interaction1"
+    },
+    {
+      "fileName": "metal_interaction2.png",
+      "path": "packs/metal_interactions/thumbnails/metal_interaction2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/thumbnails/metal_interaction2.png",
+      "sha256": "7c01a5449fa244954ffa9f1895eac81912e48842fdac8218a6017c69e7ae2b82",
+      "size": 3515,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Interaction2"
+    },
+    {
+      "fileName": "metal_swing1.png",
+      "path": "packs/metal_interactions/thumbnails/metal_swing1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/metal_interactions/thumbnails/metal_swing1.png",
+      "sha256": "d97e473a77265dd057cbfa9005511a8478e6f5b80b043ea24fa08d30908db28e",
+      "size": 2460,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Metal Swing1"
+    }
+  ]
+}

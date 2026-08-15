@@ -1,0 +1,1129 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "Smol Mechanisms (May 2021)",
+  "creator": "Benjamin Burnes (Abstraction)",
+  "website": "https://abstractionmusic.com",
+  "description": "Small mechanism clicks, winds and gears, from Abstraction's monthly sample-pack series. Public-domain (CC0) sample pack by Benjamin Burnes of Abstraction (abstractionmusic.com); license stated in the pack's readme.",
+  "folder": "packs/bb - Smol Mechanisms (May 2021)",
+  "itemCount": 37,
+  "items": [
+    {
+      "name": "Cable Coiler 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cable Coiler 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cable Coiler 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cable Coiler 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Cable Coiler 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click Button 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click Button 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click Button 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Click Button 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Jagged Scissors 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Jagged Scissors 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Jagged Scissors 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 6",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 6.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Pipe Wrench 7",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 7.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Harsh 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Harsh 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Harsh 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Muted 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Muted 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Muted 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Muted 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Ratchet Muted 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Blade 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Blade 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Blade 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Blade 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Blade 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Plastic 1",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 1.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Plastic 2",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 2.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Plastic 3",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 3.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Plastic 4",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 4.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    },
+    {
+      "name": "Spring Loaded Plastic 5",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 5.wav",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Foley & Objects\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Cable Coiler 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Cable%20Coiler%201.wav",
+      "sha256": "372a8ada833a2be64f9b6cd6b027e7ab6d806985fc42f074db2e85ca1a86de1a",
+      "size": 146956,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cable Coiler 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Cable%20Coiler%202.wav",
+      "sha256": "1bb7a8ca458b4eb4362b54407ae9fca501efa036cbc3b6b1e798c8a4784e07e0",
+      "size": 186096,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cable Coiler 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Cable%20Coiler%203.wav",
+      "sha256": "9a76dd89fea343bb5796cc5b736b876b6aff8a425200b26d4566ecb600f10f3a",
+      "size": 225628,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cable Coiler 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Cable%20Coiler%204.wav",
+      "sha256": "f8ff4851175fe8bbe08aef528e25836086e9a9d9ae790a49b3788444411cb344",
+      "size": 270344,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Cable Coiler 5.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Cable Coiler 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Cable%20Coiler%205.wav",
+      "sha256": "bc41e75f586b5364111711e96e1f7f8cbe2faeb3a3d7af99111cb96ec5aac147",
+      "size": 162644,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click Button 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Click%20Button%201.wav",
+      "sha256": "f59a08dda64cfaf7ee45cae7405b3b764cb5879a66fce66ca70a5fc2a10777f7",
+      "size": 62272,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click Button 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Click%20Button%202.wav",
+      "sha256": "c48c2618f89aa9359437c91446b6abd2289537f06df84df9c2e138f5df689a40",
+      "size": 89808,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click Button 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Click%20Button%203.wav",
+      "sha256": "9a46e03777d033d333c39bcf03abdd68795848e5200d2526ce552786114e2736",
+      "size": 61776,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Click Button 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Click Button 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Click%20Button%204.wav",
+      "sha256": "e14bc74d0fe963e8f4919f349645eeb352793585bff706b1bd257a7de3a09d46",
+      "size": 63832,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Jagged Scissors 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Jagged%20Scissors%201.wav",
+      "sha256": "9b586fc27209aa583ff7897bef47fa1e04fc2de65f1da41ac25bb59311a35ba7",
+      "size": 186540,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Jagged Scissors 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Jagged%20Scissors%202.wav",
+      "sha256": "d7341f4c1b27ea7088761912c9eeace23f5e21b7b02713023f86087ce4ea131b",
+      "size": 168324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Jagged Scissors 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Jagged Scissors 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Jagged%20Scissors%203.wav",
+      "sha256": "0784b22990c017025661582701c049c73cc9b5dcdb2ca39fe665781e05d9351b",
+      "size": 225388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%201.wav",
+      "sha256": "457298a16594d97f7874e0ebcb7fb1458a46116baa5c396108255790f19589c0",
+      "size": 101432,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%202.wav",
+      "sha256": "ee15ac1f6aa3a0b714f275254e09c49402235883fb42796330292caa38380683",
+      "size": 123264,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%203.wav",
+      "sha256": "a38ad844c9f59fd5569880a19fa6932a866579f183405adbc77535b9185f19f7",
+      "size": 533408,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%204.wav",
+      "sha256": "f095ced90420b666f1c0a12d3dcf6efbce40d06133863626567acafa17dd99d4",
+      "size": 618388,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 5.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%205.wav",
+      "sha256": "ebdfd1185737c786a2f916f8672a246b06c935bbed4da2c5bc0af38f7777c7ab",
+      "size": 331228,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 6.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 6.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%206.wav",
+      "sha256": "cf195bd545c31f6cd17f7da6152a25118504a241ca5ded401ec1f561b71a48a8",
+      "size": 268820,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Pipe Wrench 7.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Pipe Wrench 7.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Pipe%20Wrench%207.wav",
+      "sha256": "eae2a8d99a604597ce149a649dca9fb2fbf6004340d55168b5ef7beaf1c16b18",
+      "size": 148304,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Harsh 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Harsh%201.wav",
+      "sha256": "4e8362fc83baa6e11b6129e495575b5fc844ebead2960623a81ae7d730a45e9f",
+      "size": 345340,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Harsh 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Harsh%202.wav",
+      "sha256": "766d560e214c5cfe64892617dfb280d7ea7f3d61bf75b1e0a412534d7ebd5da4",
+      "size": 612648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Harsh 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Harsh 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Harsh%203.wav",
+      "sha256": "7f6d2c1e699dc1ef523930e7bb227ba853dc48ae5e893dcc2c466cb16c5cd0ea",
+      "size": 608720,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Muted 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Muted%201.wav",
+      "sha256": "7a4d8bb5b1714918f0e585864bed32a8545ddc858e4118d85e1eb21569140e2e",
+      "size": 59988,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Muted 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Muted%202.wav",
+      "sha256": "35f13f75a53c817e3a5b052b7ec34adf681fca76584713ca2e9908f0c50dfd8a",
+      "size": 96888,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Muted 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Muted%203.wav",
+      "sha256": "9bfc93178e23261eaacea8c32061997218ea4ad0f97ce13d5cec6dd9696c5697",
+      "size": 253064,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Muted 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Muted%204.wav",
+      "sha256": "7a46c6f3954a63afabc19622680dc9ebed70bc383f3941a4a069a274d8123a77",
+      "size": 248072,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Ratchet Muted 5.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Ratchet Muted 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Ratchet%20Muted%205.wav",
+      "sha256": "80ac579b155774aa1ac381c0351ec23cb12915b04fee09d8cee607616a905d36",
+      "size": 237844,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Blade 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Blade%201.wav",
+      "sha256": "f748a1d0915b2e84267d9c73d791b5725d133f5bc7a2c92f8e18de9e64ad6ddc",
+      "size": 141868,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Blade 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Blade%202.wav",
+      "sha256": "2ac0aab9e02fe84f91c6cb7757139c7bbe3a3cc5827f611dca6241135a71f700",
+      "size": 113836,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Blade 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Blade%203.wav",
+      "sha256": "c59bbd4e776460727bcdfc7270ce4cb275e1a87f1ca2ed8987f4cf038576605c",
+      "size": 132984,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Blade 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Blade%204.wav",
+      "sha256": "52c18e797e8088caf9dd6d608dd41a3cec2fa7e005a1d971b57c1aafd60cdc10",
+      "size": 144616,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Blade 5.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Blade 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Blade%205.wav",
+      "sha256": "7063ca1dc4e8f0e9bc482b9c2ee7e40b2a987714fd5998af98f9ff875593da88",
+      "size": 140324,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 1.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 1.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Plastic%201.wav",
+      "sha256": "f00a73a826a45aea305734e4003b0de6ee9afb27276ac615cb227a6bc207e46a",
+      "size": 156480,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 2.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 2.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Plastic%202.wav",
+      "sha256": "c727866e7340464992b1d5e32824581efcfcf1cf54ec5a5909155a798a708276",
+      "size": 130648,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 3.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 3.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Plastic%203.wav",
+      "sha256": "5d7afccac06a1d370a3b5d160efc5155ee7ed0e5a68263dc62f4be2b3b514ff0",
+      "size": 138708,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 4.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 4.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Plastic%204.wav",
+      "sha256": "52b123c58eed70a36bbd676ed8c81161e69cb3094e5e16ff0a98d7d9e6d15abd",
+      "size": 41048,
+      "role": "Audio"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 5.wav",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/sounds/Spring Loaded Plastic 5.wav",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/sounds/Spring%20Loaded%20Plastic%205.wav",
+      "sha256": "45fd838b4ef19e25ab877fae9fdbb48234c116f941f4d1f53a2d0853dccb3596",
+      "size": 123564,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "Cable Coiler 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Cable Coiler 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Cable%20Coiler%201.png",
+      "sha256": "6fd1a57dfd8c134dec2a176cf3bc89d358681938f24ae3551adbc393bb39cead",
+      "size": 3042,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cable Coiler 1"
+    },
+    {
+      "fileName": "Cable Coiler 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Cable Coiler 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Cable%20Coiler%202.png",
+      "sha256": "5f852ed9ff879a18509640d0f0344f3cbed96156b65809ad2f7d06c124e17426",
+      "size": 2612,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cable Coiler 2"
+    },
+    {
+      "fileName": "Cable Coiler 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Cable Coiler 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Cable%20Coiler%203.png",
+      "sha256": "4d50dd8c6796b2d5701aa7d980febb383af60d3a8fd7078780d55f57e9995c7e",
+      "size": 2470,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cable Coiler 3"
+    },
+    {
+      "fileName": "Cable Coiler 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Cable Coiler 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Cable%20Coiler%204.png",
+      "sha256": "63168a84ee39729beb22ab86578f2c6ab5f6024bd3f97f2c876374ba72b50b89",
+      "size": 2258,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cable Coiler 4"
+    },
+    {
+      "fileName": "Cable Coiler 5.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Cable Coiler 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Cable%20Coiler%205.png",
+      "sha256": "c1078b0da9b991f11f84f343cdea7310aff96c7fb9264dcb237f3e842ea6b409",
+      "size": 2696,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Cable Coiler 5"
+    },
+    {
+      "fileName": "Click Button 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Click Button 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Click%20Button%201.png",
+      "sha256": "c04e928b1026c35134ef7ea89f3b7cb33d7e22ca299f0837f2e008d6c953ee10",
+      "size": 1879,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click Button 1"
+    },
+    {
+      "fileName": "Click Button 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Click Button 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Click%20Button%202.png",
+      "sha256": "31126b3be996284fdf31b7d1b7bd4d5b3e2b859532f3683bef4293c9c82238c4",
+      "size": 1695,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click Button 2"
+    },
+    {
+      "fileName": "Click Button 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Click Button 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Click%20Button%203.png",
+      "sha256": "ccde6d27d2634eceb307ef777d257d7bbe18ff6d941bb3dd1ac1ba044f32c774",
+      "size": 1815,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click Button 3"
+    },
+    {
+      "fileName": "Click Button 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Click Button 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Click%20Button%204.png",
+      "sha256": "a121228231aefefd8f27ab0c344c80c2c2afd7b777709a727f114c6c5789565e",
+      "size": 1902,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Click Button 4"
+    },
+    {
+      "fileName": "Jagged Scissors 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Jagged Scissors 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Jagged%20Scissors%201.png",
+      "sha256": "4341177e1949c192f1b20a6829530ddf1fbb00627931c502f30478fb5ab12c91",
+      "size": 2220,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Jagged Scissors 1"
+    },
+    {
+      "fileName": "Jagged Scissors 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Jagged Scissors 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Jagged%20Scissors%202.png",
+      "sha256": "6f3d0e491c5f89ec9800237a1296b51096780f2bea2573640ae4eedf63a155bb",
+      "size": 2296,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Jagged Scissors 2"
+    },
+    {
+      "fileName": "Jagged Scissors 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Jagged Scissors 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Jagged%20Scissors%203.png",
+      "sha256": "02210a9900f544f0417f5f7a7230b10a6da6f9bb2a808235a1ad1fa483322745",
+      "size": 2167,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Jagged Scissors 3"
+    },
+    {
+      "fileName": "Pipe Wrench 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%201.png",
+      "sha256": "380c34376a31c155c17b02271a5f8a2b86ad8c678d4155f8bd4f37e5665243c9",
+      "size": 2356,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 1"
+    },
+    {
+      "fileName": "Pipe Wrench 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%202.png",
+      "sha256": "564e9405c38538c3492ac212c42aec63d0f362eb89898d79063da0a1f96e4d65",
+      "size": 2752,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 2"
+    },
+    {
+      "fileName": "Pipe Wrench 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%203.png",
+      "sha256": "78744422fc598af5e84890d6ddf9b51f281e4309ba0daaa1e821bf21227a3e87",
+      "size": 2948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 3"
+    },
+    {
+      "fileName": "Pipe Wrench 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%204.png",
+      "sha256": "28b3818c08b6ff547d47bf6e3a8deee15515d977dcc290abb9bacf48b6c50d6e",
+      "size": 2917,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 4"
+    },
+    {
+      "fileName": "Pipe Wrench 5.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%205.png",
+      "sha256": "737c891ee153b891afa76b53624d63731062c8b233177ac0ec1ef78ffc0d31ce",
+      "size": 2615,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 5"
+    },
+    {
+      "fileName": "Pipe Wrench 6.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%206.png",
+      "sha256": "6da8b3eaf96597a9720896762af195496b14e299c6b7dbdd2769f21b610ed114",
+      "size": 2851,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 6"
+    },
+    {
+      "fileName": "Pipe Wrench 7.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Pipe Wrench 7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Pipe%20Wrench%207.png",
+      "sha256": "9cbf6851888c09b630be9c0a04161a743a8817a5cd38f7b44b20929e4c090342",
+      "size": 3248,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pipe Wrench 7"
+    },
+    {
+      "fileName": "Ratchet Harsh 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Harsh 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Harsh%201.png",
+      "sha256": "0c6feef42506d864ed1e140fee42c0335897caf2632a9fe870178e5b788eca7a",
+      "size": 3183,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Harsh 1"
+    },
+    {
+      "fileName": "Ratchet Harsh 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Harsh 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Harsh%202.png",
+      "sha256": "84dd0679d00b5a0fb3499bcb538ee4db652c255206998052414ed3a482db276a",
+      "size": 3197,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Harsh 2"
+    },
+    {
+      "fileName": "Ratchet Harsh 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Harsh 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Harsh%203.png",
+      "sha256": "ad164f1ea489139b9790997314d3e1aed1a2ccad024884eade5e66f2915a2603",
+      "size": 3220,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Harsh 3"
+    },
+    {
+      "fileName": "Ratchet Muted 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Muted 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Muted%201.png",
+      "sha256": "cbdb3719ea13178a11c77e94af2fc1285f76439fec2a7dae42c64aa1ae056884",
+      "size": 2843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Muted 1"
+    },
+    {
+      "fileName": "Ratchet Muted 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Muted 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Muted%202.png",
+      "sha256": "d0b9fcf2d99daab4273510b8074e97b84510a586edf98ed57cefca4d5d567847",
+      "size": 2830,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Muted 2"
+    },
+    {
+      "fileName": "Ratchet Muted 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Muted 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Muted%203.png",
+      "sha256": "0837f9fc9d88487dd9560652bda4b99fb57c503482cd0a6ac4605ca0f224e2a4",
+      "size": 2442,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Muted 3"
+    },
+    {
+      "fileName": "Ratchet Muted 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Muted 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Muted%204.png",
+      "sha256": "3fb715fe04f86ca40d8b20c4071bc26f035919f17c2377487957824fb3d268ce",
+      "size": 2575,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Muted 4"
+    },
+    {
+      "fileName": "Ratchet Muted 5.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Ratchet Muted 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Ratchet%20Muted%205.png",
+      "sha256": "d3ca848242daf5f27b633fb80ab987a41d8c1cdf134f72f6e11fe3e5d4bdaa0f",
+      "size": 2569,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ratchet Muted 5"
+    },
+    {
+      "fileName": "Spring Loaded Blade 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Blade 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Blade%201.png",
+      "sha256": "49ae3c549dd08d32d8ec1a16d99b42ef9271f8a02847eda94c59b06f32abd47f",
+      "size": 1942,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Blade 1"
+    },
+    {
+      "fileName": "Spring Loaded Blade 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Blade 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Blade%202.png",
+      "sha256": "d698da13715bf4a92aa3cab1c5fb1676657c23417c23b947cf62bba26d735517",
+      "size": 2067,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Blade 2"
+    },
+    {
+      "fileName": "Spring Loaded Blade 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Blade 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Blade%203.png",
+      "sha256": "77a2f75c287b7a7ef9ae5141e31849ad571ba26b85f5e4b53a828ab13c47dceb",
+      "size": 2128,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Blade 3"
+    },
+    {
+      "fileName": "Spring Loaded Blade 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Blade 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Blade%204.png",
+      "sha256": "76c23ef2f0631ce796f513a72074731857208fb321072f1d848dd5e259af9b0b",
+      "size": 1965,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Blade 4"
+    },
+    {
+      "fileName": "Spring Loaded Blade 5.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Blade 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Blade%205.png",
+      "sha256": "d8011d875f92308cbedf4df846f61c7d7849896ccd005e44346206c5e6380285",
+      "size": 2086,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Blade 5"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 1.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Plastic 1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Plastic%201.png",
+      "sha256": "f3dd1d0645c9318a2bec95968947b9027730c3d6ad8ed4553287a3c1f5378414",
+      "size": 2053,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Plastic 1"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 2.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Plastic 2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Plastic%202.png",
+      "sha256": "d07adf53a7b6a40bcf2a9b9feb2c1d31d0f7d078bc4b47818645eff3ae42e219",
+      "size": 2967,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Plastic 2"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 3.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Plastic 3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Plastic%203.png",
+      "sha256": "8d896779c44e68005c3ba73227190e0980c6b68610c2dff4bd4c559e07fbe1ff",
+      "size": 2602,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Plastic 3"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 4.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Plastic 4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Plastic%204.png",
+      "sha256": "b0b4f00a810bcf78869e01936a44b79cd39cfb142007eab07b461f6d14ae9960",
+      "size": 2665,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Plastic 4"
+    },
+    {
+      "fileName": "Spring Loaded Plastic 5.png",
+      "path": "packs/bb - Smol Mechanisms (May 2021)/thumbnails/Spring Loaded Plastic 5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/bb%20-%20Smol%20Mechanisms%20%28May%202021%29/thumbnails/Spring%20Loaded%20Plastic%205.png",
+      "sha256": "10d11ad51b9eb1198cb61761c7ff23ac40a4f7ab46784c201628b8e6adbdfb93",
+      "size": 3070,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Spring Loaded Plastic 5"
+    }
+  ]
+}

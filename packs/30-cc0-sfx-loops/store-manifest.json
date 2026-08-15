@@ -1,0 +1,919 @@
+{
+  "source": {
+    "repository": "https://github.com/Papyszoo/CC0-Public-Domain-Sounds",
+    "commit": "546be3e926505d2accb085016de5fcf775d07d8e"
+  },
+  "license": "CC0-1.0",
+  "name": "30 CC0 SFX Loops",
+  "creator": "rubberduck",
+  "website": "https://opengameart.org/content/30-cc0-sfx-loops",
+  "description": "30 loopable effects: machines, alarms, ambient, noise, rain and water. CC0, by rubberduck (OpenGameArt).",
+  "folder": "packs/30-cc0-sfx-loops",
+  "itemCount": 30,
+  "items": [
+    {
+      "name": "Alarm 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/alarm_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Alarm 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/alarm_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Alarm 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/alarm_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"UI\"}"
+    },
+    {
+      "name": "Ambient 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/ambient_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Ambient 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/ambient_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Ambient 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/ambient_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Machine 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 04",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_04.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 05",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_05.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 06",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_06.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 07",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_07.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 08",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_08.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 09",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_09.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 10",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_10.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Machine 11",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/machine_11.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Noise 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/noise_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Noise 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/noise_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Noise 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/noise_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Pump 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/pump_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Pump 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/pump_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Rain",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/rain.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Rolling",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/rolling.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Saw",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/saw.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Water Boiling",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/water_boiling.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Machines & Vehicles\"}"
+    },
+    {
+      "name": "Water Flowing",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/water_flowing.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Weird 01",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/weird_01.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Weird 02",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/weird_02.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    },
+    {
+      "name": "Weird 03",
+      "itemType": "Sound",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/30-cc0-sfx-loops/sounds/weird_03.ogg",
+          "role": "Audio"
+        }
+      ],
+      "metadataJson": "{\"category\": \"Ambience\"}"
+    }
+  ],
+  "files": [
+    {
+      "fileName": "alarm_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/alarm_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/alarm_01.ogg",
+      "sha256": "c610a2e85119e9637680a2a48cc0d74e330c52cf7dee9a88362fbb53df11598f",
+      "size": 115981,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alarm_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/alarm_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/alarm_02.ogg",
+      "sha256": "26f1a445657e35c2639a0fecb2535c19a890cf3d70f65606d5729429efa95c1f",
+      "size": 22650,
+      "role": "Audio"
+    },
+    {
+      "fileName": "alarm_03.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/alarm_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/alarm_03.ogg",
+      "sha256": "eb34cc19e782d6cefa033878e06819743a16d8d8b8e05b1cd19555d820c8017b",
+      "size": 67749,
+      "role": "Audio"
+    },
+    {
+      "fileName": "ambient_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/ambient_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/ambient_01.ogg",
+      "sha256": "4dca0e4890c0f7658b3e67c624416cdb8379f195ee68915cc076a0ed329b6c8f",
+      "size": 258149,
+      "role": "Audio"
+    },
+    {
+      "fileName": "ambient_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/ambient_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/ambient_02.ogg",
+      "sha256": "a04dc87827cc9b02d072ee1ebb8511a466564e643a30ec01d9ac977ac129f4af",
+      "size": 165771,
+      "role": "Audio"
+    },
+    {
+      "fileName": "ambient_03.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/ambient_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/ambient_03.ogg",
+      "sha256": "f92568d52d3462454379fe8584155e816d3d44dc797ca055c97c6ee12f3abe8a",
+      "size": 344716,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_01.ogg",
+      "sha256": "06bef91dcdb0a7e034f29196d36ba4d5a55e51038df4b299178d457fb978e6fb",
+      "size": 56095,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_02.ogg",
+      "sha256": "8cade134b4dc17b2037933f74a85c4e1fe25b56465dd472fece68ecb2509a78d",
+      "size": 28176,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_03.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_03.ogg",
+      "sha256": "761022102cd41c7dded743f1ee144024fd4e0591dbb6cf994cf41e8d35782843",
+      "size": 31880,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_04.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_04.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_04.ogg",
+      "sha256": "8fe4917b24ea85ee54273fcef2c024057214db7b8468eface5ea8a602f292bb9",
+      "size": 28418,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_05.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_05.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_05.ogg",
+      "sha256": "a894d8986bd38e9b708deeee3f659f0f75018c74de3646fb6bdecda09ca11295",
+      "size": 52518,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_06.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_06.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_06.ogg",
+      "sha256": "ed60a902c2bb889d9a34c85651a6967e0a27d09c100b58ffacc9406f76ab92f2",
+      "size": 141035,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_07.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_07.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_07.ogg",
+      "sha256": "b06cc36d9be4398e99a203b085a75ba779ecadbf981ab65d3ea5ec45d77842c3",
+      "size": 53482,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_08.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_08.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_08.ogg",
+      "sha256": "b663b3bf386f36317deb3a4ba03aa2b154cf4e594b772ee9e59021958299e429",
+      "size": 165814,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_09.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_09.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_09.ogg",
+      "sha256": "d19a9b0c9683ba862df54ee5a8bfe1abf4db48c084c47a4d96b18112624c249f",
+      "size": 106129,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_10.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_10.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_10.ogg",
+      "sha256": "a9aa0a0de4665619274d3d6020100cf97d9948fcc033ec49f59bae52a8fef802",
+      "size": 67988,
+      "role": "Audio"
+    },
+    {
+      "fileName": "machine_11.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/machine_11.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/machine_11.ogg",
+      "sha256": "ca9c20c27e8d5c47911e02992662b8ad44afd54fecee20bb523e25fdb2b8080a",
+      "size": 283898,
+      "role": "Audio"
+    },
+    {
+      "fileName": "noise_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/noise_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/noise_01.ogg",
+      "sha256": "1daaaaa63889d840e810ccb10bd32d0288e1b071a89878da97daf0ec97ffeccf",
+      "size": 274225,
+      "role": "Audio"
+    },
+    {
+      "fileName": "noise_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/noise_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/noise_02.ogg",
+      "sha256": "b1cb867f85c2735023943686e8d4976f1c29c094c5951cf1f6ce91ce70cac5ba",
+      "size": 146990,
+      "role": "Audio"
+    },
+    {
+      "fileName": "noise_03.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/noise_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/noise_03.ogg",
+      "sha256": "b8c173748a2e07634c549127fbad757d85c83ee4430a58c981c99a8b84518d6d",
+      "size": 110117,
+      "role": "Audio"
+    },
+    {
+      "fileName": "pump_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/pump_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/pump_01.ogg",
+      "sha256": "e2bd71e64889b7471154538b5401692e81dde4df398b72db9ed1dd7496583913",
+      "size": 119419,
+      "role": "Audio"
+    },
+    {
+      "fileName": "pump_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/pump_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/pump_02.ogg",
+      "sha256": "4942a848792a20f10e69a82b68bb4fadbab4d4c1e65c3df2055fb9a780f6009e",
+      "size": 81808,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rain.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/rain.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/rain.ogg",
+      "sha256": "8d153f3f6ee266484f679d7149c80a1afcf4dcfeb9f2c1b6206ed780a12273fb",
+      "size": 189015,
+      "role": "Audio"
+    },
+    {
+      "fileName": "rolling.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/rolling.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/rolling.ogg",
+      "sha256": "24b5fd290b2008de9b087687ae41db833068a86ef7c0f1b230ce8bf0859b7291",
+      "size": 51513,
+      "role": "Audio"
+    },
+    {
+      "fileName": "saw.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/saw.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/saw.ogg",
+      "sha256": "395788a09e2916c25caa1e45a06e955ff4429d811a3d63d3bed2a7b3764bf261",
+      "size": 95942,
+      "role": "Audio"
+    },
+    {
+      "fileName": "water_boiling.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/water_boiling.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/water_boiling.ogg",
+      "sha256": "e75fb982ec50cca628ba18845e81211e12ed4cdc5080609d55ee2d60873320af",
+      "size": 208960,
+      "role": "Audio"
+    },
+    {
+      "fileName": "water_flowing.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/water_flowing.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/water_flowing.ogg",
+      "sha256": "1a431f77d61661becdc87a5b1832d47f83a12a5c0b001077e41a202e739797a7",
+      "size": 74344,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_01.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/weird_01.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/weird_01.ogg",
+      "sha256": "b2032cce5242b2c451c9404701fa62ec56c25ec707dea115343666be75914c99",
+      "size": 63734,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_02.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/weird_02.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/weird_02.ogg",
+      "sha256": "d9c741e3ef3a5bfe1418d6e59916c4a02af72b52874db72497255fe4905bcddb",
+      "size": 126267,
+      "role": "Audio"
+    },
+    {
+      "fileName": "weird_03.ogg",
+      "path": "packs/30-cc0-sfx-loops/sounds/weird_03.ogg",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/sounds/weird_03.ogg",
+      "sha256": "c03c74bc98dff8c93618b686896ff11f3d7f7feead0bf98bba023bcfa9d47e17",
+      "size": 197132,
+      "role": "Audio"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "alarm_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/alarm_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/alarm_01.png",
+      "sha256": "1f94422a21d00c5cc1010a11fcd8f57714576d3296a4e6614283733be51e5e18",
+      "size": 5002,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alarm 01"
+    },
+    {
+      "fileName": "alarm_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/alarm_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/alarm_02.png",
+      "sha256": "3041b166a99b6f8ee8b6e74179ae77a4d9d7be6f366dfb724ef3a4cc27c4b301",
+      "size": 3204,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alarm 02"
+    },
+    {
+      "fileName": "alarm_03.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/alarm_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/alarm_03.png",
+      "sha256": "b7b94d4eec80bae8c2d6ac996f95657caa9c065c81087f39293f5fb6ed2e799c",
+      "size": 4067,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alarm 03"
+    },
+    {
+      "fileName": "ambient_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/ambient_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/ambient_01.png",
+      "sha256": "d26552a60f3ee960592c533c30f2b8a40942bb085b157a0f63ddb647bcb57ea0",
+      "size": 4903,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient 01"
+    },
+    {
+      "fileName": "ambient_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/ambient_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/ambient_02.png",
+      "sha256": "8e334f39cee09ae3ded50a3cebcaa4fd8a6fd38c2e09b3f1a06156abd83d9418",
+      "size": 4784,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient 02"
+    },
+    {
+      "fileName": "ambient_03.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/ambient_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/ambient_03.png",
+      "sha256": "e20485b3082b44233473819d7c61e38ddf89738570731e7bdce5090c6b742fc2",
+      "size": 4767,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ambient 03"
+    },
+    {
+      "fileName": "machine_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_01.png",
+      "sha256": "386d35cd6f636114a0ee5b886044ad388aaabcd3935e862af4e8ac74a6304731",
+      "size": 4759,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 01"
+    },
+    {
+      "fileName": "machine_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_02.png",
+      "sha256": "fb5c80272ae1a10c352cece251be5bf6c8290c58620ba020d1a7c512c90fb8b3",
+      "size": 4949,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 02"
+    },
+    {
+      "fileName": "machine_03.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_03.png",
+      "sha256": "2b2eb36146d4811e50e1af1c7006d27bc03383314531f188dc67bb2d5bb5f6ea",
+      "size": 4496,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 03"
+    },
+    {
+      "fileName": "machine_04.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_04.png",
+      "sha256": "c765474a390a68f7e66e289838624641bf511d44b7f99d47478533b2351e7d12",
+      "size": 4823,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 04"
+    },
+    {
+      "fileName": "machine_05.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_05.png",
+      "sha256": "1cf5c49619489f559bdb2bc5a1edd783394c698b734c974dc092dd971a6ef834",
+      "size": 4414,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 05"
+    },
+    {
+      "fileName": "machine_06.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_06.png",
+      "sha256": "cc826fab0ef01eb67808a9560ebf652e205a8412b6f74da013525ffe25b26b13",
+      "size": 5091,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 06"
+    },
+    {
+      "fileName": "machine_07.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_07.png",
+      "sha256": "fc3064d34fa8f0d1cd9726a5104116c1ed5b4027dbb65494582fe56be91bad42",
+      "size": 5028,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 07"
+    },
+    {
+      "fileName": "machine_08.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_08.png",
+      "sha256": "12753b2979997c7ebab74111b142ec9646708fe6268bfa96017edac5ede9b54e",
+      "size": 4953,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 08"
+    },
+    {
+      "fileName": "machine_09.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_09.png",
+      "sha256": "ad393419a644bb1d36b4dc5ce44f7804317dd2d747e27f5aa85c02d13060bb3d",
+      "size": 4682,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 09"
+    },
+    {
+      "fileName": "machine_10.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_10.png",
+      "sha256": "e69be5ff3410561d3b01af6026ade97a0dabfa01bbc4958c901df01aee3623b1",
+      "size": 4995,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 10"
+    },
+    {
+      "fileName": "machine_11.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/machine_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/machine_11.png",
+      "sha256": "6a38cd787415722fbf4e9647dc2e607ea46b25a03f4c08d91473f3b941cd3095",
+      "size": 4777,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Machine 11"
+    },
+    {
+      "fileName": "noise_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/noise_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/noise_01.png",
+      "sha256": "741bbd77e859a7b352ff27b77c23c33cf91802d070149bb557d70d04b2288ea4",
+      "size": 4671,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise 01"
+    },
+    {
+      "fileName": "noise_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/noise_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/noise_02.png",
+      "sha256": "91f982f0e33ce18a2b9535fc115eeeabefc275e5fa2ef9c0dc9ef46b3720717b",
+      "size": 4864,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise 02"
+    },
+    {
+      "fileName": "noise_03.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/noise_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/noise_03.png",
+      "sha256": "f5d8e36bae7970dc7d9c4e710e648770ef9d6ed39078f4f988cc1d6172fbef9c",
+      "size": 4601,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise 03"
+    },
+    {
+      "fileName": "pump_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/pump_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/pump_01.png",
+      "sha256": "6328d5b98bbf362c2933eefc43b6f7715e4a6c2733bb4fe37f8013c8d48ec2a3",
+      "size": 4813,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pump 01"
+    },
+    {
+      "fileName": "pump_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/pump_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/pump_02.png",
+      "sha256": "5dd5845287ffc4c06fb9a792a08470e696e5341d27b113bae11d800b988fa062",
+      "size": 5032,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pump 02"
+    },
+    {
+      "fileName": "rain.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/rain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/rain.png",
+      "sha256": "604b091e17db4c6a5961af55a69763a609457c2cf5384637c76c6bb5b66b9ed6",
+      "size": 3599,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rain"
+    },
+    {
+      "fileName": "rolling.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/rolling.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/rolling.png",
+      "sha256": "8918d8a339f88575219d68c32ba109c5e93cd30855ee4784cb46890ebb12c3a8",
+      "size": 5051,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Rolling"
+    },
+    {
+      "fileName": "saw.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/saw.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/saw.png",
+      "sha256": "66c582a888454d0289f46101a5a17fa23f8a8f177dd8bf9748a7565ae28bda4d",
+      "size": 4605,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Saw"
+    },
+    {
+      "fileName": "water_boiling.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/water_boiling.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/water_boiling.png",
+      "sha256": "e5e0b8eb6a41b8eed2487d41adb0232864441df3f4ae7b6cbaae8a41aac73363",
+      "size": 4795,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Water Boiling"
+    },
+    {
+      "fileName": "water_flowing.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/water_flowing.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/water_flowing.png",
+      "sha256": "410e44d63a306caecf0b9cef051c528d6fc7e730f7c56262c1d67abdb3e70257",
+      "size": 4671,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Water Flowing"
+    },
+    {
+      "fileName": "weird_01.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/weird_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/weird_01.png",
+      "sha256": "547f078ae99fe565d0b3c13defc70c108cdb4702ec5ffd6872663ddc5350c6dd",
+      "size": 3283,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 01"
+    },
+    {
+      "fileName": "weird_02.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/weird_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/weird_02.png",
+      "sha256": "76f395b85fb3314c6c1f8899397202bdf339240a5ee6681ac8dbf39c8bf205a8",
+      "size": 4710,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 02"
+    },
+    {
+      "fileName": "weird_03.png",
+      "path": "packs/30-cc0-sfx-loops/thumbnails/weird_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sounds/546be3e926505d2accb085016de5fcf775d07d8e/packs/30-cc0-sfx-loops/thumbnails/weird_03.png",
+      "sha256": "63f51fd008f3152b8d0291d807041b8defde1d7d9550261ac2a223e9699ce837",
+      "size": 4941,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Weird 03"
+    }
+  ]
+}
